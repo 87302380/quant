@@ -1,0 +1,58 @@
+{
+  "15m_risk0.0025": {
+    "trades": 166,
+    "win_rate": 0.3614457831325301,
+    "net_pnl": 826.4210781708937,
+    "mean_net_pnl": 4.978440229945143,
+    "profit_factor": 1.5700141896938833,
+    "max_consecutive_losses": 10,
+    "return_pct": 8.264210781708826,
+    "max_drawdown_pct": 1.8600393948099647,
+    "fees": 106.78412342311096,
+    "sharpe_daily": 1.1576794370575354,
+    "exposure_pct": 68.33073953554177,
+    "end_equity": 10826.421078170883
+  },
+  "5m_risk0.0025": {
+    "trades": 166,
+    "win_rate": 0.3614457831325301,
+    "net_pnl": 826.3699081538189,
+    "mean_net_pnl": 4.978131976830234,
+    "profit_factor": 1.5712183266778232,
+    "max_consecutive_losses": 10,
+    "return_pct": 8.263699081538078,
+    "max_drawdown_pct": 1.8558337526984325,
+    "fees": 106.86299486218597,
+    "sharpe_daily": 1.158975162218867,
+    "exposure_pct": 68.15153168812445,
+    "end_equity": 10826.369908153807
+  },
+  "15m_risk0.01": {
+    "trades": 166,
+    "win_rate": 0.3614457831325301,
+    "net_pnl": 3561.964159681968,
+    "mean_net_pnl": 21.457615419770892,
+    "profit_factor": 1.5465196123683225,
+    "max_consecutive_losses": 10,
+    "return_pct": 35.619641596819626,
+    "max_drawdown_pct": 7.290712041497449,
+    "fees": 483.28938626805297,
+    "sharpe_daily": 1.1580007962557743,
+    "exposure_pct": 68.33073953554177,
+    "end_equity": 13561.964159681964
+  },
+  "5m_risk0.01": {
+    "trades": 166,
+    "win_rate": 0.3614457831325301,
+    "net_pnl": 3560.9688157286737,
+    "mean_net_pnl": 21.45161937185948,
+    "profit_factor": 1.5474857962794106,
+    "max_consecutive_losses": 10,
+    "return_pct": 35.609688157286755,
+    "max_drawdown_pct": 7.197737340571953,
+    "fees": 483.6268105353479,
+    "sharpe_daily": 1.1592746712559558,
+    "exposure_pct": 68.15153168812445,
+    "end_equity": 13560.968815728676
+  }
+}

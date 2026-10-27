@@ -1,0 +1,82 @@
+{
+  "specs": [
+    {
+      "name": "scalp_market_extreme",
+      "maker": false,
+      "short": true,
+      "target_atr": 0.75,
+      "recovery": false,
+      "hybrid": false,
+      "max_hours": 8
+    },
+    {
+      "name": "scalp_market_recover",
+      "maker": false,
+      "short": true,
+      "target_atr": 0.75,
+      "recovery": true,
+      "hybrid": false,
+      "max_hours": 8
+    },
+    {
+      "name": "scalp_maker_extreme",
+      "maker": true,
+      "short": true,
+      "target_atr": 0.75,
+      "recovery": false,
+      "hybrid": false,
+      "max_hours": 8
+    },
+    {
+      "name": "scalp_maker_recover",
+      "maker": true,
+      "short": true,
+      "target_atr": 0.75,
+      "recovery": true,
+      "hybrid": false,
+      "max_hours": 8
+    },
+    {
+      "name": "hybrid_market_extreme",
+      "maker": false,
+      "short": true,
+      "target_atr": 0.75,
+      "recovery": false,
+      "hybrid": true,
+      "max_hours": 8
+    },
+    {
+      "name": "hybrid_market_recover",
+      "maker": false,
+      "short": true,
+      "target_atr": 0.75,
+      "recovery": true,
+      "hybrid": true,
+      "max_hours": 8
+    },
+    {
+      "name": "hybrid_maker_extreme",
+      "maker": true,
+      "short": true,
+      "target_atr": 0.75,
+      "recovery": false,
+      "hybrid": true,
+      "max_hours": 8
+    },
+    {
+      "name": "hybrid_maker_recover",
+      "maker": true,
+      "short": true,
+      "target_atr": 0.75,
+      "recovery": true,
+      "hybrid": true,
+      "max_hours": 8
+    }
+  ],
+  "known_data": true,
+  "maker_fee_assumption": 0.0002,
+  "taker_fee": 0.0005,
+  "slippage": 0.0002,
+  "risk_per_trade": 0.0025,
+  "limitation": "15m bars; no queue or orderbook simulation; maker fill strictly crosses by tick; no entry-bar profit"
+}

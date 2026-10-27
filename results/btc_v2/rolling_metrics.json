@@ -1,0 +1,14 @@
+{
+  "trades": 77,
+  "win_rate": 0.36363636363636365,
+  "net_pnl": 1318.96105158293,
+  "mean_net_pnl": 17.129364306271817,
+  "profit_factor": 1.5091829820916427,
+  "max_consecutive_losses": 8,
+  "return_pct": 13.189610515829276,
+  "max_drawdown_pct": 6.600291098985545,
+  "fees": 233.21290899908104,
+  "sharpe_daily": 0.8476815779822316,
+  "exposure_pct": 46.256542041430315,
+  "end_equity": 11318.961051582928
+}

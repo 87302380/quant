@@ -1,0 +1,232 @@
+{
+  "specs": [
+    {
+      "name": "scalp_market_extreme",
+      "maker": false,
+      "short": true,
+      "target_atr": 0.75,
+      "recovery": false,
+      "hybrid": false,
+      "max_hours": 8,
+      "adx_ceiling": 25,
+      "trend_align": false
+    },
+    {
+      "name": "scalp_market_recover",
+      "maker": false,
+      "short": true,
+      "target_atr": 0.75,
+      "recovery": true,
+      "hybrid": false,
+      "max_hours": 8,
+      "adx_ceiling": 25,
+      "trend_align": false
+    },
+    {
+      "name": "scalp_maker_extreme",
+      "maker": true,
+      "short": true,
+      "target_atr": 0.75,
+      "recovery": false,
+      "hybrid": false,
+      "max_hours": 8,
+      "adx_ceiling": 25,
+      "trend_align": false
+    },
+    {
+      "name": "scalp_maker_recover",
+      "maker": true,
+      "short": true,
+      "target_atr": 0.75,
+      "recovery": true,
+      "hybrid": false,
+      "max_hours": 8,
+      "adx_ceiling": 25,
+      "trend_align": false
+    },
+    {
+      "name": "hybrid_market_extreme",
+      "maker": false,
+      "short": true,
+      "target_atr": 0.75,
+      "recovery": false,
+      "hybrid": true,
+      "max_hours": 8,
+      "adx_ceiling": 25,
+      "trend_align": false
+    },
+    {
+      "name": "hybrid_market_recover",
+      "maker": false,
+      "short": true,
+      "target_atr": 0.75,
+      "recovery": true,
+      "hybrid": true,
+      "max_hours": 8,
+      "adx_ceiling": 25,
+      "trend_align": false
+    },
+    {
+      "name": "hybrid_maker_extreme",
+      "maker": true,
+      "short": true,
+      "target_atr": 0.75,
+      "recovery": false,
+      "hybrid": true,
+      "max_hours": 8,
+      "adx_ceiling": 25,
+      "trend_align": false
+    },
+    {
+      "name": "hybrid_maker_recover",
+      "maker": true,
+      "short": true,
+      "target_atr": 0.75,
+      "recovery": true,
+      "hybrid": true,
+      "max_hours": 8,
+      "adx_ceiling": 25,
+      "trend_align": false
+    },
+    {
+      "name": "aligned_long_2h_tp0.75",
+      "maker": true,
+      "short": false,
+      "target_atr": 0.75,
+      "recovery": false,
+      "hybrid": false,
+      "max_hours": 2,
+      "adx_ceiling": 25,
+      "trend_align": true
+    },
+    {
+      "name": "aligned_long_2h_tp1.5",
+      "maker": true,
+      "short": false,
+      "target_atr": 1.5,
+      "recovery": false,
+      "hybrid": false,
+      "max_hours": 2,
+      "adx_ceiling": 25,
+      "trend_align": true
+    },
+    {
+      "name": "range15_long_2h",
+      "maker": true,
+      "short": false,
+      "target_atr": 0.75,
+      "recovery": false,
+      "hybrid": false,
+      "max_hours": 2,
+      "adx_ceiling": 15,
+      "trend_align": false
+    },
+    {
+      "name": "aligned_long_8h_tp0.75",
+      "maker": true,
+      "short": false,
+      "target_atr": 0.75,
+      "recovery": false,
+      "hybrid": false,
+      "max_hours": 8,
+      "adx_ceiling": 25,
+      "trend_align": true
+    },
+    {
+      "name": "aligned_long_8h_tp1.5",
+      "maker": true,
+      "short": false,
+      "target_atr": 1.5,
+      "recovery": false,
+      "hybrid": false,
+      "max_hours": 8,
+      "adx_ceiling": 25,
+      "trend_align": true
+    },
+    {
+      "name": "range15_long_8h",
+      "maker": true,
+      "short": false,
+      "target_atr": 0.75,
+      "recovery": false,
+      "hybrid": false,
+      "max_hours": 8,
+      "adx_ceiling": 15,
+      "trend_align": false
+    },
+    {
+      "name": "aligned_both_2h_tp0.75",
+      "maker": true,
+      "short": true,
+      "target_atr": 0.75,
+      "recovery": false,
+      "hybrid": false,
+      "max_hours": 2,
+      "adx_ceiling": 25,
+      "trend_align": true
+    },
+    {
+      "name": "aligned_both_2h_tp1.5",
+      "maker": true,
+      "short": true,
+      "target_atr": 1.5,
+      "recovery": false,
+      "hybrid": false,
+      "max_hours": 2,
+      "adx_ceiling": 25,
+      "trend_align": true
+    },
+    {
+      "name": "range15_both_2h",
+      "maker": true,
+      "short": true,
+      "target_atr": 0.75,
+      "recovery": false,
+      "hybrid": false,
+      "max_hours": 2,
+      "adx_ceiling": 15,
+      "trend_align": false
+    },
+    {
+      "name": "aligned_both_8h_tp0.75",
+      "maker": true,
+      "short": true,
+      "target_atr": 0.75,
+      "recovery": false,
+      "hybrid": false,
+      "max_hours": 8,
+      "adx_ceiling": 25,
+      "trend_align": true
+    },
+    {
+      "name": "aligned_both_8h_tp1.5",
+      "maker": true,
+      "short": true,
+      "target_atr": 1.5,
+      "recovery": false,
+      "hybrid": false,
+      "max_hours": 8,
+      "adx_ceiling": 25,
+      "trend_align": true
+    },
+    {
+      "name": "range15_both_8h",
+      "maker": true,
+      "short": true,
+      "target_atr": 0.75,
+      "recovery": false,
+      "hybrid": false,
+      "max_hours": 8,
+      "adx_ceiling": 15,
+      "trend_align": false
+    }
+  ],
+  "known_data": true,
+  "maker_fee_assumption": 0.0002,
+  "taker_fee": 0.0005,
+  "slippage": 0.0002,
+  "risk_per_trade": 0.0025,
+  "source_sha256": "46bb04ee5df1570ba84bb6fb332d026b5c59215cc761910098b7b7b5080bd7b1",
+  "data_sha256": "be4aeb6f5d80d6a36430387519c6a34012e1fce87580c0d4c9f00623d4dd6556",
+  "limitation": "15m bars; no queue or orderbook simulation; maker fill strictly crosses by tick; no entry-bar profit"
+}

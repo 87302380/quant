@@ -1,0 +1,30 @@
+{
+  "normal": {
+    "trades": 77,
+    "win_rate": 0.36363636363636365,
+    "net_pnl": 1318.96105158293,
+    "mean_net_pnl": 17.129364306271817,
+    "profit_factor": 1.5091829820916427,
+    "max_consecutive_losses": 8,
+    "return_pct": 13.189610515829276,
+    "max_drawdown_pct": 6.600291098985545,
+    "fees": 233.21290899908104,
+    "sharpe_daily": 0.8476815779822316,
+    "exposure_pct": 46.256542041430315,
+    "end_equity": 11318.961051582928
+  },
+  "double": {
+    "trades": 76,
+    "win_rate": 0.35526315789473684,
+    "net_pnl": 904.4466850661415,
+    "mean_net_pnl": 11.900614277186072,
+    "profit_factor": 1.3420167509682428,
+    "max_consecutive_losses": 8,
+    "return_pct": 9.044466850661493,
+    "max_drawdown_pct": 6.753589708960616,
+    "fees": 437.36312303788,
+    "sharpe_daily": 0.6242028855970468,
+    "exposure_pct": 46.30198376633552,
+    "end_equity": 10904.44668506615
+  }
+}

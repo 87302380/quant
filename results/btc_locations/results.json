@@ -1,0 +1,1112 @@
+{
+  "trend_long_level": {
+    "2024": {
+      "trades": 432,
+      "win_rate": 0.4097222222222222,
+      "net_pnl": -3987.926663769056,
+      "mean_net_pnl": -9.23131172168763,
+      "profit_factor": 0.715945441961486,
+      "max_consecutive_losses": 9,
+      "return_pct": -39.879266637690556,
+      "max_drawdown_pct": 41.34428817585811,
+      "fees": 3361.5963821691703,
+      "end_equity": 6012.073336230944,
+      "rejections": {
+        "filled": 432,
+        "busy_or_cooldown": 2509,
+        "net_rr": 1055,
+        "invalid_or_late_stop": 13
+      }
+    },
+    "2025": {
+      "trades": 317,
+      "win_rate": 0.35962145110410093,
+      "net_pnl": -3567.742159123988,
+      "mean_net_pnl": -11.254707126574095,
+      "profit_factor": 0.6323301387887392,
+      "max_consecutive_losses": 9,
+      "return_pct": -35.67742159123988,
+      "max_drawdown_pct": 37.796220648250426,
+      "fees": 2714.015349892066,
+      "end_equity": 6432.257840876012,
+      "rejections": {
+        "net_rr": 877,
+        "filled": 317,
+        "busy_or_cooldown": 1820,
+        "invalid_or_late_stop": 8
+      }
+    },
+    "2026": {
+      "trades": 289,
+      "win_rate": 0.35986159169550175,
+      "net_pnl": -3933.360291696559,
+      "mean_net_pnl": -13.610243223863527,
+      "profit_factor": 0.5271764732129336,
+      "max_consecutive_losses": 9,
+      "return_pct": -39.333602916965596,
+      "max_drawdown_pct": 39.333602916965596,
+      "fees": 2225.752917420624,
+      "end_equity": 6066.639708303441,
+      "rejections": {
+        "net_rr": 849,
+        "filled": 289,
+        "busy_or_cooldown": 1605,
+        "invalid_or_late_stop": 8
+      }
+    },
+    "full": {
+      "trades": 1038,
+      "win_rate": 0.3805394990366089,
+      "net_pnl": -7652.37500262467,
+      "mean_net_pnl": -7.3722302530102795,
+      "profit_factor": 0.6685495929330877,
+      "max_consecutive_losses": 9,
+      "return_pct": -76.52375002624669,
+      "max_drawdown_pct": 76.77278031897615,
+      "fees": 5853.2975078108475,
+      "end_equity": 2347.62499737533,
+      "rejections": {
+        "filled": 1038,
+        "busy_or_cooldown": 5934,
+        "net_rr": 2781,
+        "invalid_or_late_stop": 29
+      }
+    }
+  },
+  "trend_long_cap": {
+    "2024": {
+      "trades": 471,
+      "win_rate": 0.5329087048832272,
+      "net_pnl": -3507.9974559284865,
+      "mean_net_pnl": -7.447977613436277,
+      "profit_factor": 0.7383057216346696,
+      "max_consecutive_losses": 8,
+      "return_pct": -35.079974559284864,
+      "max_drawdown_pct": 37.41977354641703,
+      "fees": 3874.2722352066253,
+      "end_equity": 6492.0025440715135,
+      "rejections": {
+        "filled": 471,
+        "busy_or_cooldown": 1955,
+        "net_rr": 1567,
+        "invalid_or_late_stop": 16
+      }
+    },
+    "2025": {
+      "trades": 258,
+      "win_rate": 0.46511627906976744,
+      "net_pnl": -3342.4997279050904,
+      "mean_net_pnl": -12.955425301957714,
+      "profit_factor": 0.5638727235860392,
+      "max_consecutive_losses": 9,
+      "return_pct": -33.424997279050906,
+      "max_drawdown_pct": 34.25170489181527,
+      "fees": 2171.169892871189,
+      "end_equity": 6657.50027209491,
+      "rejections": {
+        "net_rr": 1651,
+        "invalid_or_late_stop": 8,
+        "filled": 258,
+        "busy_or_cooldown": 1105
+      }
+    },
+    "2026": {
+      "trades": 257,
+      "win_rate": 0.4396887159533074,
+      "net_pnl": -3942.0966768975723,
+      "mean_net_pnl": -15.338897575476935,
+      "profit_factor": 0.4587959645054963,
+      "max_consecutive_losses": 6,
+      "return_pct": -39.42096676897572,
+      "max_drawdown_pct": 39.52565385897613,
+      "fees": 1977.686045593626,
+      "end_equity": 6057.903323102428,
+      "rejections": {
+        "net_rr": 1445,
+        "filled": 257,
+        "busy_or_cooldown": 1036,
+        "invalid_or_late_stop": 13
+      }
+    },
+    "full": {
+      "trades": 986,
+      "win_rate": 0.4908722109533469,
+      "net_pnl": -7380.85629022313,
+      "mean_net_pnl": -7.485655466757738,
+      "profit_factor": 0.6571154900496201,
+      "max_consecutive_losses": 9,
+      "return_pct": -73.8085629022313,
+      "max_drawdown_pct": 74.53057711617164,
+      "fees": 6137.673358391354,
+      "end_equity": 2619.1437097768708,
+      "rejections": {
+        "filled": 986,
+        "busy_or_cooldown": 4096,
+        "net_rr": 4663,
+        "invalid_or_late_stop": 37
+      }
+    }
+  },
+  "trend_long_split": {
+    "2024": {
+      "trades": 429,
+      "win_rate": 0.5174825174825175,
+      "net_pnl": -3763.00707695272,
+      "mean_net_pnl": -8.771578267955059,
+      "profit_factor": 0.6534568086765006,
+      "max_consecutive_losses": 7,
+      "return_pct": -37.6300707695272,
+      "max_drawdown_pct": 39.47620784258227,
+      "fees": 3349.870285628864,
+      "end_equity": 6236.99292304728,
+      "rejections": {
+        "filled": 429,
+        "busy_or_cooldown": 2696,
+        "net_rr": 875,
+        "invalid_or_late_stop": 9
+      }
+    },
+    "2025": {
+      "trades": 326,
+      "win_rate": 0.4447852760736196,
+      "net_pnl": -3894.332796302324,
+      "mean_net_pnl": -11.94580612362676,
+      "profit_factor": 0.5148394992830398,
+      "max_consecutive_losses": 9,
+      "return_pct": -38.94332796302324,
+      "max_drawdown_pct": 41.59392511393284,
+      "fees": 2656.3703666564293,
+      "end_equity": 6105.667203697676,
+      "rejections": {
+        "net_rr": 716,
+        "filled": 326,
+        "busy_or_cooldown": 1973,
+        "invalid_or_late_stop": 7
+      }
+    },
+    "2026": {
+      "trades": 304,
+      "win_rate": 0.4342105263157895,
+      "net_pnl": -4518.0222366850385,
+      "mean_net_pnl": -14.861915252253416,
+      "profit_factor": 0.37903672814382067,
+      "max_consecutive_losses": 9,
+      "return_pct": -45.18022236685039,
+      "max_drawdown_pct": 45.18022236685039,
+      "fees": 2254.815029383125,
+      "end_equity": 5481.9777633149615,
+      "rejections": {
+        "net_rr": 830,
+        "filled": 304,
+        "busy_or_cooldown": 1608,
+        "invalid_or_late_stop": 9
+      }
+    },
+    "full": {
+      "trades": 1059,
+      "win_rate": 0.4711992445703494,
+      "net_pnl": -7910.919951607234,
+      "mean_net_pnl": -7.470179368845358,
+      "profit_factor": 0.5754487270480759,
+      "max_consecutive_losses": 9,
+      "return_pct": -79.10919951607234,
+      "max_drawdown_pct": 79.60664030142249,
+      "fees": 5864.582378305461,
+      "end_equity": 2089.080048392766,
+      "rejections": {
+        "filled": 1059,
+        "busy_or_cooldown": 6277,
+        "net_rr": 2421,
+        "invalid_or_late_stop": 25
+      }
+    }
+  },
+  "trend_both_level": {
+    "2024": {
+      "trades": 738,
+      "win_rate": 0.3861788617886179,
+      "net_pnl": -6968.957484725536,
+      "mean_net_pnl": -9.443031822121323,
+      "profit_factor": 0.6327610027045955,
+      "max_consecutive_losses": 9,
+      "return_pct": -69.68957484725536,
+      "max_drawdown_pct": 70.54995485757951,
+      "fees": 4300.864494739723,
+      "end_equity": 3031.0425152744638,
+      "rejections": {
+        "net_rr": 1644,
+        "filled": 738,
+        "busy_or_cooldown": 4112,
+        "invalid_or_late_stop": 19
+      }
+    },
+    "2025": {
+      "trades": 733,
+      "win_rate": 0.3587994542974079,
+      "net_pnl": -6643.535615387011,
+      "mean_net_pnl": -9.063486514852675,
+      "profit_factor": 0.6497568478956974,
+      "max_consecutive_losses": 13,
+      "return_pct": -66.4353561538701,
+      "max_drawdown_pct": 66.91219224857079,
+      "fees": 4814.352601089197,
+      "end_equity": 3356.4643846129898,
+      "rejections": {
+        "filled": 733,
+        "busy_or_cooldown": 4294,
+        "net_rr": 1831,
+        "invalid_or_late_stop": 18
+      }
+    },
+    "2026": {
+      "trades": 596,
+      "win_rate": 0.3691275167785235,
+      "net_pnl": -6252.90283747602,
+      "mean_net_pnl": -10.49144771388594,
+      "profit_factor": 0.5819461077533769,
+      "max_consecutive_losses": 10,
+      "return_pct": -62.5290283747602,
+      "max_drawdown_pct": 62.91391216242839,
+      "fees": 3718.365220974157,
+      "end_equity": 3747.09716252398,
+      "rejections": {
+        "filled": 596,
+        "busy_or_cooldown": 3154,
+        "net_rr": 1689,
+        "invalid_or_late_stop": 15
+      }
+    },
+    "full": {
+      "trades": 2067,
+      "win_rate": 0.37155297532656023,
+      "net_pnl": -9616.076084653629,
+      "mean_net_pnl": -4.652189687785984,
+      "profit_factor": 0.6335132356838484,
+      "max_consecutive_losses": 13,
+      "return_pct": -96.16076084653629,
+      "max_drawdown_pct": 96.21337140234724,
+      "fees": 6136.033782627883,
+      "end_equity": 383.92391534637136,
+      "rejections": {
+        "net_rr": 5164,
+        "filled": 2067,
+        "busy_or_cooldown": 11560,
+        "invalid_or_late_stop": 52
+      }
+    }
+  },
+  "trend_both_cap": {
+    "2024": {
+      "trades": 808,
+      "win_rate": 0.5,
+      "net_pnl": -6457.7486071933145,
+      "mean_net_pnl": -7.992263127714498,
+      "profit_factor": 0.6599242753421266,
+      "max_consecutive_losses": 10,
+      "return_pct": -64.57748607193314,
+      "max_drawdown_pct": 65.27772262584875,
+      "fees": 5009.0308678555375,
+      "end_equity": 3542.2513928066855,
+      "rejections": {
+        "net_rr": 2420,
+        "filled": 808,
+        "busy_or_cooldown": 3265,
+        "invalid_or_late_stop": 20
+      }
+    },
+    "2025": {
+      "trades": 684,
+      "win_rate": 0.4678362573099415,
+      "net_pnl": -6756.985288659733,
+      "mean_net_pnl": -9.878633462952825,
+      "profit_factor": 0.5659389358564734,
+      "max_consecutive_losses": 10,
+      "return_pct": -67.56985288659733,
+      "max_drawdown_pct": 67.93970173088722,
+      "fees": 4131.497212553923,
+      "end_equity": 3243.0147113402672,
+      "rejections": {
+        "filled": 684,
+        "busy_or_cooldown": 2755,
+        "net_rr": 3417,
+        "invalid_or_late_stop": 20
+      }
+    },
+    "2026": {
+      "trades": 553,
+      "win_rate": 0.4629294755877034,
+      "net_pnl": -5936.18641848876,
+      "mean_net_pnl": -10.734514319147848,
+      "profit_factor": 0.5720578422500399,
+      "max_consecutive_losses": 7,
+      "return_pct": -59.3618641848876,
+      "max_drawdown_pct": 59.3618641848876,
+      "fees": 3692.612649392874,
+      "end_equity": 4063.8135815112396,
+      "rejections": {
+        "net_rr": 2757,
+        "filled": 553,
+        "busy_or_cooldown": 2123,
+        "invalid_or_late_stop": 21
+      }
+    },
+    "full": {
+      "trades": 2045,
+      "win_rate": 0.4792176039119804,
+      "net_pnl": -9530.829300725403,
+      "mean_net_pnl": -4.660552225293595,
+      "profit_factor": 0.6346886358613825,
+      "max_consecutive_losses": 10,
+      "return_pct": -95.30829300725404,
+      "max_drawdown_pct": 95.33045182101115,
+      "fees": 6894.623054185702,
+      "end_equity": 469.17069927459727,
+      "rejections": {
+        "net_rr": 8594,
+        "filled": 2045,
+        "busy_or_cooldown": 8143,
+        "invalid_or_late_stop": 61
+      }
+    }
+  },
+  "trend_both_split": {
+    "2024": {
+      "trades": 741,
+      "win_rate": 0.49527665317139,
+      "net_pnl": -6538.47011637572,
+      "mean_net_pnl": -8.823846310898407,
+      "profit_factor": 0.5690395820625632,
+      "max_consecutive_losses": 9,
+      "return_pct": -65.3847011637572,
+      "max_drawdown_pct": 66.13960714430877,
+      "fees": 4324.458089817881,
+      "end_equity": 3461.52988362428,
+      "rejections": {
+        "net_rr": 1388,
+        "filled": 741,
+        "busy_or_cooldown": 4369,
+        "invalid_or_late_stop": 15
+      }
+    },
+    "2025": {
+      "trades": 764,
+      "win_rate": 0.4568062827225131,
+      "net_pnl": -6927.66237677563,
+      "mean_net_pnl": -9.067620912009987,
+      "profit_factor": 0.5313757698386898,
+      "max_consecutive_losses": 8,
+      "return_pct": -69.27662376775629,
+      "max_drawdown_pct": 69.62514357980034,
+      "fees": 4589.460112051824,
+      "end_equity": 3072.33762322437,
+      "rejections": {
+        "filled": 764,
+        "busy_or_cooldown": 4408,
+        "net_rr": 1686,
+        "invalid_or_late_stop": 18
+      }
+    },
+    "2026": {
+      "trades": 615,
+      "win_rate": 0.4504065040650406,
+      "net_pnl": -6475.76058383649,
+      "mean_net_pnl": -10.529692006238195,
+      "profit_factor": 0.5160752552950956,
+      "max_consecutive_losses": 10,
+      "return_pct": -64.7576058383649,
+      "max_drawdown_pct": 65.93642649368934,
+      "fees": 3981.952899912656,
+      "end_equity": 3524.23941616351,
+      "rejections": {
+        "filled": 615,
+        "busy_or_cooldown": 3205,
+        "net_rr": 1620,
+        "invalid_or_late_stop": 14
+      }
+    },
+    "full": {
+      "trades": 2118,
+      "win_rate": 0.4683663833805477,
+      "net_pnl": -9622.940236815608,
+      "mean_net_pnl": -4.543408988109352,
+      "profit_factor": 0.5560195599257148,
+      "max_consecutive_losses": 10,
+      "return_pct": -96.22940236815609,
+      "max_drawdown_pct": 96.26438105183729,
+      "fees": 6322.9583483198585,
+      "end_equity": 377.0597631843913,
+      "rejections": {
+        "net_rr": 4693,
+        "filled": 2118,
+        "busy_or_cooldown": 11985,
+        "invalid_or_late_stop": 47
+      }
+    }
+  },
+  "range_both_level": {
+    "2024": {
+      "trades": 312,
+      "win_rate": 0.41346153846153844,
+      "net_pnl": -2568.490614169911,
+      "mean_net_pnl": -8.232341712083048,
+      "profit_factor": 0.760816088288543,
+      "max_consecutive_losses": 15,
+      "return_pct": -25.684906141699116,
+      "max_drawdown_pct": 29.260752692942983,
+      "fees": 2772.385694040059,
+      "end_equity": 7431.509385830089,
+      "rejections": {
+        "filled": 312,
+        "busy_or_cooldown": 2622,
+        "net_rr": 479,
+        "invalid_or_late_stop": 3
+      }
+    },
+    "2025": {
+      "trades": 452,
+      "win_rate": 0.3274336283185841,
+      "net_pnl": -5185.502488461468,
+      "mean_net_pnl": -11.472350638189088,
+      "profit_factor": 0.5863218719867462,
+      "max_consecutive_losses": 13,
+      "return_pct": -51.85502488461468,
+      "max_drawdown_pct": 52.857095963681466,
+      "fees": 3328.461678205616,
+      "end_equity": 4814.497511538532,
+      "rejections": {
+        "net_rr": 1108,
+        "filled": 452,
+        "busy_or_cooldown": 4018,
+        "invalid_or_late_stop": 13
+      }
+    },
+    "2026": {
+      "trades": 311,
+      "win_rate": 0.3054662379421222,
+      "net_pnl": -4654.706753189441,
+      "mean_net_pnl": -14.966902743374408,
+      "profit_factor": 0.4743058494204684,
+      "max_consecutive_losses": 11,
+      "return_pct": -46.547067531894406,
+      "max_drawdown_pct": 46.742338892223614,
+      "fees": 2195.929504575551,
+      "end_equity": 5345.293246810559,
+      "rejections": {
+        "filled": 311,
+        "busy_or_cooldown": 2464,
+        "net_rr": 747,
+        "invalid_or_late_stop": 12
+      }
+    },
+    "full": {
+      "trades": 1075,
+      "win_rate": 0.34604651162790695,
+      "net_pnl": -8086.423211520085,
+      "mean_net_pnl": -7.522254150251242,
+      "profit_factor": 0.6517254528716692,
+      "max_consecutive_losses": 15,
+      "return_pct": -80.86423211520085,
+      "max_drawdown_pct": 81.70448486771083,
+      "fees": 6030.592619474353,
+      "end_equity": 1913.5767884799147,
+      "rejections": {
+        "filled": 1075,
+        "busy_or_cooldown": 9104,
+        "net_rr": 2334,
+        "invalid_or_late_stop": 28
+      }
+    }
+  },
+  "range_both_cap": {
+    "2024": {
+      "trades": 329,
+      "win_rate": 0.49848024316109424,
+      "net_pnl": -3872.2623658937246,
+      "mean_net_pnl": -11.76979442520889,
+      "profit_factor": 0.5933299817352184,
+      "max_consecutive_losses": 11,
+      "return_pct": -38.72262365893725,
+      "max_drawdown_pct": 39.938190298177666,
+      "fees": 2671.717079405846,
+      "end_equity": 6127.737634106275,
+      "rejections": {
+        "net_rr": 954,
+        "filled": 329,
+        "busy_or_cooldown": 2129,
+        "invalid_or_late_stop": 4
+      }
+    },
+    "2025": {
+      "trades": 392,
+      "win_rate": 0.4846938775510204,
+      "net_pnl": -4173.415887189102,
+      "mean_net_pnl": -10.6464690999722,
+      "profit_factor": 0.6026667017985382,
+      "max_consecutive_losses": 10,
+      "return_pct": -41.734158871891026,
+      "max_drawdown_pct": 42.26701270382121,
+      "fees": 3062.095480463221,
+      "end_equity": 5826.584112810898,
+      "rejections": {
+        "net_rr": 2619,
+        "filled": 392,
+        "busy_or_cooldown": 2557,
+        "invalid_or_late_stop": 23
+      }
+    },
+    "2026": {
+      "trades": 305,
+      "win_rate": 0.42950819672131146,
+      "net_pnl": -4514.732182250192,
+      "mean_net_pnl": -14.802400597541613,
+      "profit_factor": 0.4680520115142518,
+      "max_consecutive_losses": 9,
+      "return_pct": -45.147321822501915,
+      "max_drawdown_pct": 45.194933929492095,
+      "fees": 2241.96388377828,
+      "end_equity": 5485.267817749808,
+      "rejections": {
+        "net_rr": 1520,
+        "filled": 305,
+        "busy_or_cooldown": 1687,
+        "invalid_or_late_stop": 22
+      }
+    },
+    "full": {
+      "trades": 1026,
+      "win_rate": 0.4727095516569201,
+      "net_pnl": -8039.871630322517,
+      "mean_net_pnl": -7.836132193296801,
+      "profit_factor": 0.5765145924649677,
+      "max_consecutive_losses": 11,
+      "return_pct": -80.39871630322517,
+      "max_drawdown_pct": 80.71693065604853,
+      "fees": 5347.610116036749,
+      "end_equity": 1960.128369677483,
+      "rejections": {
+        "net_rr": 5093,
+        "filled": 1026,
+        "busy_or_cooldown": 6373,
+        "invalid_or_late_stop": 49
+      }
+    }
+  },
+  "range_both_split": {
+    "2024": {
+      "trades": 271,
+      "win_rate": 0.4870848708487085,
+      "net_pnl": -3656.6966303897716,
+      "mean_net_pnl": -13.493345499593254,
+      "profit_factor": 0.5088867542745331,
+      "max_consecutive_losses": 9,
+      "return_pct": -36.56696630389772,
+      "max_drawdown_pct": 37.7698401184861,
+      "fees": 2213.469809073892,
+      "end_equity": 6343.303369610228,
+      "rejections": {
+        "filled": 271,
+        "busy_or_cooldown": 2716,
+        "net_rr": 427,
+        "invalid_or_late_stop": 2
+      }
+    },
+    "2025": {
+      "trades": 422,
+      "win_rate": 0.44075829383886256,
+      "net_pnl": -4926.2916001597805,
+      "mean_net_pnl": -11.673676777629812,
+      "profit_factor": 0.4752873823719387,
+      "max_consecutive_losses": 8,
+      "return_pct": -49.2629160015978,
+      "max_drawdown_pct": 49.885670561153916,
+      "fees": 3113.63751631991,
+      "end_equity": 5073.7083998402195,
+      "rejections": {
+        "net_rr": 1028,
+        "filled": 422,
+        "busy_or_cooldown": 4131,
+        "invalid_or_late_stop": 10
+      }
+    },
+    "2026": {
+      "trades": 289,
+      "win_rate": 0.43252595155709345,
+      "net_pnl": -3897.4945339994492,
+      "mean_net_pnl": -13.486140256053458,
+      "profit_factor": 0.4460275573936853,
+      "max_consecutive_losses": 8,
+      "return_pct": -38.97494533999449,
+      "max_drawdown_pct": 39.09682571282021,
+      "fees": 2202.2636118375513,
+      "end_equity": 6102.505466000551,
+      "rejections": {
+        "filled": 289,
+        "busy_or_cooldown": 2531,
+        "net_rr": 704,
+        "invalid_or_late_stop": 10
+      }
+    },
+    "full": {
+      "trades": 982,
+      "win_rate": 0.4511201629327902,
+      "net_pnl": -8034.278011931635,
+      "mean_net_pnl": -8.181545836997591,
+      "profit_factor": 0.4870411789274398,
+      "max_consecutive_losses": 9,
+      "return_pct": -80.34278011931634,
+      "max_drawdown_pct": 80.67839900048763,
+      "fees": 4896.371085075854,
+      "end_equity": 1965.7219880683651,
+      "rejections": {
+        "filled": 982,
+        "busy_or_cooldown": 9378,
+        "net_rr": 2159,
+        "invalid_or_late_stop": 22
+      }
+    }
+  },
+  "hybrid_both_level": {
+    "2024": {
+      "trades": 593,
+      "win_rate": 0.327150084317032,
+      "net_pnl": -6411.264835291825,
+      "mean_net_pnl": -10.811576450745067,
+      "profit_factor": 0.5740835024152585,
+      "max_consecutive_losses": 16,
+      "return_pct": -64.11264835291826,
+      "max_drawdown_pct": 64.3219947911821,
+      "fees": 3690.8535821819873,
+      "end_equity": 3588.735164708175,
+      "rejections": {
+        "net_rr": 1276,
+        "filled": 593,
+        "busy_or_cooldown": 3224,
+        "invalid_or_late_stop": 11
+      }
+    },
+    "2025": {
+      "trades": 644,
+      "win_rate": 0.2857142857142857,
+      "net_pnl": -5854.892951134646,
+      "mean_net_pnl": -9.091448681886096,
+      "profit_factor": 0.613465143851701,
+      "max_consecutive_losses": 17,
+      "return_pct": -58.54892951134646,
+      "max_drawdown_pct": 59.014365279060435,
+      "fees": 4378.0605429708185,
+      "end_equity": 4145.107048865354,
+      "rejections": {
+        "net_rr": 1241,
+        "filled": 644,
+        "busy_or_cooldown": 3536,
+        "invalid_or_late_stop": 17
+      }
+    },
+    "2026": {
+      "trades": 526,
+      "win_rate": 0.2984790874524715,
+      "net_pnl": -5742.627311919676,
+      "mean_net_pnl": -10.917542418098243,
+      "profit_factor": 0.5343526231939443,
+      "max_consecutive_losses": 21,
+      "return_pct": -57.42627311919676,
+      "max_drawdown_pct": 57.79323419475231,
+      "fees": 3483.978047515808,
+      "end_equity": 4257.372688080324,
+      "rejections": {
+        "filled": 526,
+        "busy_or_cooldown": 2301,
+        "net_rr": 1254,
+        "invalid_or_late_stop": 8
+      }
+    },
+    "full": {
+      "trades": 1763,
+      "win_rate": 0.3034600113442995,
+      "net_pnl": -9364.151997500661,
+      "mean_net_pnl": -5.311487236245412,
+      "profit_factor": 0.580419055937527,
+      "max_consecutive_losses": 21,
+      "return_pct": -93.6415199750066,
+      "max_drawdown_pct": 93.71792732610369,
+      "fees": 5778.666413186907,
+      "end_equity": 635.8480024993394,
+      "rejections": {
+        "net_rr": 3771,
+        "filled": 1763,
+        "busy_or_cooldown": 9061,
+        "invalid_or_late_stop": 36
+      }
+    }
+  },
+  "hybrid_both_cap": {
+    "2024": {
+      "trades": 664,
+      "win_rate": 0.4352409638554217,
+      "net_pnl": -5747.32087455776,
+      "mean_net_pnl": -8.655603726743616,
+      "profit_factor": 0.6276795912654136,
+      "max_consecutive_losses": 18,
+      "return_pct": -57.473208745577594,
+      "max_drawdown_pct": 58.39286783124214,
+      "fees": 4432.722390155951,
+      "end_equity": 4252.67912544224,
+      "rejections": {
+        "net_rr": 1861,
+        "filled": 664,
+        "busy_or_cooldown": 2568,
+        "invalid_or_late_stop": 11
+      }
+    },
+    "2025": {
+      "trades": 590,
+      "win_rate": 0.4067796610169492,
+      "net_pnl": -5888.905941412932,
+      "mean_net_pnl": -9.981196510869378,
+      "profit_factor": 0.5506859472225469,
+      "max_consecutive_losses": 14,
+      "return_pct": -58.88905941412932,
+      "max_drawdown_pct": 59.4301099240512,
+      "fees": 3901.446206063127,
+      "end_equity": 4111.094058587068,
+      "rejections": {
+        "net_rr": 2511,
+        "invalid_or_late_stop": 19,
+        "filled": 590,
+        "busy_or_cooldown": 2318
+      }
+    },
+    "2026": {
+      "trades": 467,
+      "win_rate": 0.4089935760171306,
+      "net_pnl": -5061.971047057265,
+      "mean_net_pnl": -10.839338430529477,
+      "profit_factor": 0.5499587523009465,
+      "max_consecutive_losses": 10,
+      "return_pct": -50.619710470572656,
+      "max_drawdown_pct": 50.662572545978946,
+      "fees": 3339.119294675405,
+      "end_equity": 4938.028952942735,
+      "rejections": {
+        "net_rr": 1939,
+        "filled": 467,
+        "busy_or_cooldown": 1672,
+        "invalid_or_late_stop": 11
+      }
+    },
+    "full": {
+      "trades": 1721,
+      "win_rate": 0.41836141778036023,
+      "net_pnl": -9134.711931063479,
+      "mean_net_pnl": -5.307793103465125,
+      "profit_factor": 0.6023379274190134,
+      "max_consecutive_losses": 18,
+      "return_pct": -91.3471193106348,
+      "max_drawdown_pct": 91.38798664782246,
+      "fees": 6673.881573367772,
+      "end_equity": 865.2880689365207,
+      "rejections": {
+        "net_rr": 6311,
+        "filled": 1721,
+        "busy_or_cooldown": 6558,
+        "invalid_or_late_stop": 41
+      }
+    }
+  },
+  "hybrid_both_split": {
+    "2024": {
+      "trades": 580,
+      "win_rate": 0.453448275862069,
+      "net_pnl": -5069.2692244524915,
+      "mean_net_pnl": -8.740119352504296,
+      "profit_factor": 0.5941157379610139,
+      "max_consecutive_losses": 13,
+      "return_pct": -50.69269224452492,
+      "max_drawdown_pct": 53.115387201736056,
+      "fees": 3973.373246224666,
+      "end_equity": 4930.7307755475085,
+      "rejections": {
+        "net_rr": 1033,
+        "filled": 580,
+        "busy_or_cooldown": 3482,
+        "invalid_or_late_stop": 9
+      }
+    },
+    "2025": {
+      "trades": 634,
+      "win_rate": 0.4069400630914827,
+      "net_pnl": -5428.541953955487,
+      "mean_net_pnl": -8.562369012548087,
+      "profit_factor": 0.5676909581870159,
+      "max_consecutive_losses": 17,
+      "return_pct": -54.285419539554866,
+      "max_drawdown_pct": 55.0960711257201,
+      "fees": 4453.8463869156985,
+      "end_equity": 4571.458046044513,
+      "rejections": {
+        "net_rr": 1106,
+        "filled": 634,
+        "busy_or_cooldown": 3681,
+        "invalid_or_late_stop": 17
+      }
+    },
+    "2026": {
+      "trades": 489,
+      "win_rate": 0.3783231083844581,
+      "net_pnl": -5585.4845264954465,
+      "mean_net_pnl": -11.422258745389462,
+      "profit_factor": 0.47998205417250017,
+      "max_consecutive_losses": 13,
+      "return_pct": -55.85484526495447,
+      "max_drawdown_pct": 55.943987972647676,
+      "fees": 3382.69211463156,
+      "end_equity": 4414.5154735045535,
+      "rejections": {
+        "filled": 489,
+        "busy_or_cooldown": 2450,
+        "net_rr": 1142,
+        "invalid_or_late_stop": 8
+      }
+    },
+    "full": {
+      "trades": 1703,
+      "win_rate": 0.41456253669994125,
+      "net_pnl": -9002.879657219306,
+      "mean_net_pnl": -5.2864824763472145,
+      "profit_factor": 0.5732664897887426,
+      "max_consecutive_losses": 17,
+      "return_pct": -90.02879657219304,
+      "max_drawdown_pct": 90.11821536588975,
+      "fees": 6930.295413741605,
+      "end_equity": 997.1203427806946,
+      "rejections": {
+        "net_rr": 3281,
+        "filled": 1703,
+        "busy_or_cooldown": 9613,
+        "invalid_or_late_stop": 34
+      }
+    }
+  },
+  "trend_both_split_4honly": {
+    "2024": {
+      "trades": 470,
+      "win_rate": 0.4978723404255319,
+      "net_pnl": -3771.293586884667,
+      "mean_net_pnl": -8.02402890826525,
+      "profit_factor": 0.7165258545526172,
+      "max_consecutive_losses": 6,
+      "return_pct": -37.71293586884668,
+      "max_drawdown_pct": 42.28585465499557,
+      "fees": 3687.046579472832,
+      "end_equity": 6228.706413115333,
+      "rejections": {
+        "filled": 470,
+        "busy_or_cooldown": 1908,
+        "net_rr": 170,
+        "invalid_or_late_stop": 12
+      }
+    },
+    "2025": {
+      "trades": 570,
+      "win_rate": 0.45789473684210524,
+      "net_pnl": -5969.257434367457,
+      "mean_net_pnl": -10.472381463802556,
+      "profit_factor": 0.505655001373888,
+      "max_consecutive_losses": 7,
+      "return_pct": -59.692574343674565,
+      "max_drawdown_pct": 60.15265384372345,
+      "fees": 3686.8868190515923,
+      "end_equity": 4030.742565632543,
+      "rejections": {
+        "filled": 570,
+        "busy_or_cooldown": 2402,
+        "net_rr": 296,
+        "invalid_or_late_stop": 12
+      }
+    },
+    "2026": {
+      "trades": 435,
+      "win_rate": 0.4459770114942529,
+      "net_pnl": -5180.787479662635,
+      "mean_net_pnl": -11.909856275086517,
+      "profit_factor": 0.4922590894352848,
+      "max_consecutive_losses": 9,
+      "return_pct": -51.80787479662634,
+      "max_drawdown_pct": 51.91162171582118,
+      "fees": 3133.449915300763,
+      "end_equity": 4819.212520337365,
+      "rejections": {
+        "filled": 435,
+        "busy_or_cooldown": 1744,
+        "net_rr": 254,
+        "invalid_or_late_stop": 10
+      }
+    },
+    "full": {
+      "trades": 1473,
+      "win_rate": 0.46707399864222676,
+      "net_pnl": -8791.527211382116,
+      "mean_net_pnl": -5.968450245337485,
+      "profit_factor": 0.6231569932249665,
+      "max_consecutive_losses": 9,
+      "return_pct": -87.91527211382116,
+      "max_drawdown_pct": 88.4714651876845,
+      "fees": 6748.588032230394,
+      "end_equity": 1208.4727886178835,
+      "rejections": {
+        "filled": 1473,
+        "busy_or_cooldown": 6057,
+        "net_rr": 719,
+        "invalid_or_late_stop": 34
+      }
+    }
+  },
+  "trend_both_split_align1h": {
+    "2024": {
+      "trades": 554,
+      "win_rate": 0.4963898916967509,
+      "net_pnl": -5180.4897084477625,
+      "mean_net_pnl": -9.351064455681882,
+      "profit_factor": 0.6051310550199993,
+      "max_consecutive_losses": 9,
+      "return_pct": -51.804897084477616,
+      "max_drawdown_pct": 52.856735283490444,
+      "fees": 3811.385994449931,
+      "end_equity": 4819.5102915522375,
+      "rejections": {
+        "net_rr": 1190,
+        "filled": 554,
+        "busy_or_cooldown": 3100,
+        "invalid_or_late_stop": 7
+      }
+    },
+    "2025": {
+      "trades": 583,
+      "win_rate": 0.4562607204116638,
+      "net_pnl": -6075.602243406264,
+      "mean_net_pnl": -10.421273144779184,
+      "profit_factor": 0.523371607868938,
+      "max_consecutive_losses": 7,
+      "return_pct": -60.75602243406264,
+      "max_drawdown_pct": 61.03664205880368,
+      "fees": 3879.069949430434,
+      "end_equity": 3924.3977565937357,
+      "rejections": {
+        "filled": 583,
+        "busy_or_cooldown": 3067,
+        "net_rr": 1307,
+        "invalid_or_late_stop": 16
+      }
+    },
+    "2026": {
+      "trades": 447,
+      "win_rate": 0.4720357941834452,
+      "net_pnl": -5053.357538580295,
+      "mean_net_pnl": -11.305050421879855,
+      "profit_factor": 0.5357964774936779,
+      "max_consecutive_losses": 7,
+      "return_pct": -50.533575385802955,
+      "max_drawdown_pct": 52.79621016767386,
+      "fees": 3213.038000560436,
+      "end_equity": 4946.642461419705,
+      "rejections": {
+        "filled": 447,
+        "busy_or_cooldown": 2281,
+        "net_rr": 1224,
+        "invalid_or_late_stop": 8
+      }
+    },
+    "full": {
+      "trades": 1582,
+      "win_rate": 0.4747155499367889,
+      "net_pnl": -9064.77961530787,
+      "mean_net_pnl": -5.72994918793165,
+      "profit_factor": 0.5739328199626778,
+      "max_consecutive_losses": 9,
+      "return_pct": -90.6477961530787,
+      "max_drawdown_pct": 90.73498943612151,
+      "fees": 6271.205954794129,
+      "end_equity": 935.2203846921295,
+      "rejections": {
+        "net_rr": 3720,
+        "filled": 1582,
+        "busy_or_cooldown": 8451,
+        "invalid_or_late_stop": 31
+      }
+    }
+  },
+  "trend_both_split_momentum": {
+    "2024": {
+      "trades": 290,
+      "win_rate": 0.5241379310344828,
+      "net_pnl": -1436.9896207179281,
+      "mean_net_pnl": -4.955136623165269,
+      "profit_factor": 0.8479730780785395,
+      "max_consecutive_losses": 6,
+      "return_pct": -14.369896207179277,
+      "max_drawdown_pct": 28.323871188069894,
+      "fees": 2755.956652760021,
+      "end_equity": 8563.010379282072,
+      "rejections": {
+        "net_rr": 484,
+        "filled": 290,
+        "busy_or_cooldown": 474,
+        "invalid_or_late_stop": 5
+      }
+    },
+    "2025": {
+      "trades": 279,
+      "win_rate": 0.43727598566308246,
+      "net_pnl": -4359.5614229175135,
+      "mean_net_pnl": -15.625668182500048,
+      "profit_factor": 0.4320305269825634,
+      "max_consecutive_losses": 10,
+      "return_pct": -43.59561422917514,
+      "max_drawdown_pct": 44.9588562426978,
+      "fees": 2171.775354057598,
+      "end_equity": 5640.4385770824865,
+      "rejections": {
+        "net_rr": 670,
+        "filled": 279,
+        "busy_or_cooldown": 417,
+        "invalid_or_late_stop": 13
+      }
+    },
+    "2026": {
+      "trades": 220,
+      "win_rate": 0.39090909090909093,
+      "net_pnl": -3786.0297250090807,
+      "mean_net_pnl": -17.209226022768547,
+      "profit_factor": 0.4051987982502105,
+      "max_consecutive_losses": 8,
+      "return_pct": -37.8602972500908,
+      "max_drawdown_pct": 38.835766678084674,
+      "fees": 1742.57005633317,
+      "end_equity": 6213.970274990919,
+      "rejections": {
+        "filled": 220,
+        "busy_or_cooldown": 234,
+        "net_rr": 559,
+        "invalid_or_late_stop": 10
+      }
+    },
+    "full": {
+      "trades": 789,
+      "win_rate": 0.45627376425855515,
+      "net_pnl": -7012.58156500202,
+      "mean_net_pnl": -8.887936077315615,
+      "profit_factor": 0.6319257611755401,
+      "max_consecutive_losses": 10,
+      "return_pct": -70.1258156500202,
+      "max_drawdown_pct": 74.27554144032078,
+      "fees": 5443.963821888219,
+      "end_equity": 2987.4184349979796,
+      "rejections": {
+        "net_rr": 1709,
+        "filled": 789,
+        "busy_or_cooldown": 1129,
+        "invalid_or_late_stop": 28
+      }
+    }
+  }
+}

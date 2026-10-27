@@ -1,0 +1,74 @@
+{
+  "adaptive_long_1.5": {
+    "trades": 10,
+    "win_rate": 0.4,
+    "net_pnl": -291.38864430986905,
+    "mean_net_pnl": -29.138864430986906,
+    "profit_factor": 0.49868608149010746,
+    "max_consecutive_losses": 2,
+    "return_pct": -2.91388644309869,
+    "max_drawdown_pct": 4.056782288285509,
+    "fees": 82.727858857868,
+    "end_equity": 9708.611355690131,
+    "rejections": {
+      "cost_fraction": 4044,
+      "filled": 10,
+      "busy_or_cooldown": 126,
+      "net_rr": 76
+    }
+  },
+  "adaptive_long_2": {
+    "trades": 10,
+    "win_rate": 0.4,
+    "net_pnl": 70.0088938515164,
+    "mean_net_pnl": 7.00088938515164,
+    "profit_factor": 1.117419997499895,
+    "max_consecutive_losses": 2,
+    "return_pct": 0.7000889385151643,
+    "max_drawdown_pct": 4.055869568311598,
+    "fees": 83.657040148488,
+    "end_equity": 10070.008893851516,
+    "rejections": {
+      "cost_fraction": 4016,
+      "filled": 10,
+      "busy_or_cooldown": 154,
+      "net_rr": 76
+    }
+  },
+  "adaptive_both_1.5": {
+    "trades": 36,
+    "win_rate": 0.4444444444444444,
+    "net_pnl": -412.1614278922625,
+    "mean_net_pnl": -11.448928552562847,
+    "profit_factor": 0.7788088773978457,
+    "max_consecutive_losses": 3,
+    "return_pct": -4.121614278922625,
+    "max_drawdown_pct": 6.630056867296341,
+    "fees": 313.896938232284,
+    "end_equity": 9587.838572107737,
+    "rejections": {
+      "cost_fraction": 7509,
+      "filled": 36,
+      "busy_or_cooldown": 560,
+      "net_rr": 178
+    }
+  },
+  "always_runner_long_1.5": {
+    "trades": 13,
+    "win_rate": 0.23076923076923078,
+    "net_pnl": -604.2550127487939,
+    "mean_net_pnl": -46.4811548268303,
+    "profit_factor": 0.18090259216780372,
+    "max_consecutive_losses": 5,
+    "return_pct": -6.042550127487933,
+    "max_drawdown_pct": 7.743451041859773,
+    "fees": 115.55220253280001,
+    "end_equity": 9395.744987251206,
+    "rejections": {
+      "cost_fraction": 4015,
+      "filled": 13,
+      "busy_or_cooldown": 180,
+      "net_rr": 48
+    }
+  }
+}

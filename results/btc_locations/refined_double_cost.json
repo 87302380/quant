@@ -1,0 +1,146 @@
+{
+  "4h_long_level": {
+    "trades": 12,
+    "win_rate": 0.25,
+    "net_pnl": -473.1460048447698,
+    "mean_net_pnl": -39.428833737064146,
+    "profit_factor": 0.46545799910962515,
+    "max_consecutive_losses": 4,
+    "return_pct": -4.731460048447699,
+    "max_drawdown_pct": 6.771317359927698,
+    "fees": 108.220804504772,
+    "end_equity": 9526.85399515523,
+    "rejections": {
+      "cost_fraction": 4015,
+      "filled": 12,
+      "busy_or_cooldown": 178,
+      "net_rr": 51
+    }
+  },
+  "4h_long_cap": {
+    "trades": 10,
+    "win_rate": 0.4,
+    "net_pnl": -282.46784701225806,
+    "mean_net_pnl": -28.246784701225806,
+    "profit_factor": 0.5233938312739371,
+    "max_consecutive_losses": 2,
+    "return_pct": -2.824678470122577,
+    "max_drawdown_pct": 4.055869568311598,
+    "fees": 82.68015977626,
+    "end_equity": 9717.532152987742,
+    "rejections": {
+      "cost_fraction": 4065,
+      "filled": 10,
+      "busy_or_cooldown": 105,
+      "net_rr": 76
+    }
+  },
+  "4h_long_split": {
+    "trades": 14,
+    "win_rate": 0.35714285714285715,
+    "net_pnl": -464.8600344970364,
+    "mean_net_pnl": -33.20428817835974,
+    "profit_factor": 0.31096822215771663,
+    "max_consecutive_losses": 3,
+    "return_pct": -4.648600344970366,
+    "max_drawdown_pct": 4.931014745519679,
+    "fees": 126.36248612104,
+    "end_equity": 9535.139965502964,
+    "rejections": {
+      "cost_fraction": 4041,
+      "filled": 14,
+      "busy_or_cooldown": 140,
+      "net_rr": 61
+    }
+  },
+  "4h_both_level": {
+    "trades": 38,
+    "win_rate": 0.3684210526315789,
+    "net_pnl": -725.799050277632,
+    "mean_net_pnl": -19.099975007306103,
+    "profit_factor": 0.6890257091069467,
+    "max_consecutive_losses": 5,
+    "return_pct": -7.257990502776323,
+    "max_drawdown_pct": 8.407071179061699,
+    "fees": 339.735700217644,
+    "end_equity": 9274.200949722368,
+    "rejections": {
+      "cost_fraction": 7353,
+      "filled": 38,
+      "busy_or_cooldown": 747,
+      "net_rr": 145
+    }
+  },
+  "4h_both_cap": {
+    "trades": 38,
+    "win_rate": 0.47368421052631576,
+    "net_pnl": -590.2738477319144,
+    "mean_net_pnl": -15.53352230873459,
+    "profit_factor": 0.6976098189879119,
+    "max_consecutive_losses": 3,
+    "return_pct": -5.902738477319147,
+    "max_drawdown_pct": 6.39130397142007,
+    "fees": 329.292170295932,
+    "end_equity": 9409.726152268086,
+    "rejections": {
+      "cost_fraction": 7558,
+      "filled": 38,
+      "busy_or_cooldown": 495,
+      "net_rr": 192
+    }
+  },
+  "4h_both_split": {
+    "trades": 44,
+    "win_rate": 0.4318181818181818,
+    "net_pnl": -383.1800083246417,
+    "mean_net_pnl": -8.708636552832765,
+    "profit_factor": 0.7824527094025028,
+    "max_consecutive_losses": 5,
+    "return_pct": -3.831800083246417,
+    "max_drawdown_pct": 5.0241839824787355,
+    "fees": 400.62382135265204,
+    "end_equity": 9616.819991675358,
+    "rejections": {
+      "cost_fraction": 7522,
+      "filled": 44,
+      "busy_or_cooldown": 543,
+      "net_rr": 174
+    }
+  },
+  "4h_long_split_align1h": {
+    "trades": 9,
+    "win_rate": 0.3333333333333333,
+    "net_pnl": -400.5651852657229,
+    "mean_net_pnl": -44.507242807302546,
+    "profit_factor": 0.24869183913935813,
+    "max_consecutive_losses": 3,
+    "return_pct": -4.005651852657232,
+    "max_drawdown_pct": 4.289970555751632,
+    "fees": 83.836364697728,
+    "end_equity": 9599.434814734277,
+    "rejections": {
+      "cost_fraction": 2293,
+      "filled": 9,
+      "busy_or_cooldown": 68,
+      "net_rr": 46
+    }
+  },
+  "4h_both_split_momentum": {
+    "trades": 29,
+    "win_rate": 0.41379310344827586,
+    "net_pnl": -334.98393964777097,
+    "mean_net_pnl": -11.551170332681757,
+    "profit_factor": 0.7369639296317851,
+    "max_consecutive_losses": 5,
+    "return_pct": -3.349839396477705,
+    "max_drawdown_pct": 5.144269460810347,
+    "fees": 261.58891046378403,
+    "end_equity": 9665.016060352229,
+    "rejections": {
+      "cost_fraction": 1462,
+      "net_rr": 40,
+      "filled": 29,
+      "busy_or_cooldown": 84
+    }
+  }
+}

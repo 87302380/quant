@@ -1,0 +1,6 @@
+{
+  "selected": null,
+  "live_trading_enabled": false,
+  "scope": "BTC current bear scenario; no pre-2024 data",
+  "reason": "No candidate met train/validation requirements; positive year-to-date returns do not establish recent validity"
+}

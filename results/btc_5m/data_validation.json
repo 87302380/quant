@@ -1,0 +1,14 @@
+{
+  "candles_5m": 296862,
+  "candles_15m": 98954,
+  "mismatch_counts": {
+    "open": 0,
+    "high": 0,
+    "low": 0,
+    "close": 0,
+    "volume": 0,
+    "volume_base": 0,
+    "volume_quote": 0
+  },
+  "sha256": "3a20e1ec8390b56d856309eef5beed1e69fcc7929ad702ae3c56ebc2f1be8dbe"
+}

@@ -1,0 +1,7 @@
+{
+  "action": "retain_v2_research_candidate",
+  "candidate": "trend_both_pause",
+  "reason": "No tested variant improved both full return and drawdown; common trend concentration remains.",
+  "live_trading_enabled": false,
+  "independent_validation": false
+}

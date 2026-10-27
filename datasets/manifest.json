@@ -1,0 +1,33 @@
+{
+  "format_version": 1,
+  "files": [
+    {
+      "file": "BTC-USDT-SWAP_15m_1704067200000_1793125800000.csv",
+      "archive": "BTC-USDT-SWAP_15m_1704067200000_1793125800000.csv.gz",
+      "bytes": 8875179,
+      "sha256": "be4aeb6f5d80d6a36430387519c6a34012e1fce87580c0d4c9f00623d4dd6556",
+      "archive_sha256": "24c835fcc5b6ab79e48757f34755e762806b0f2661cdefad9750f912098804c9"
+    },
+    {
+      "file": "BTC-USDT-SWAP_1H_1704067200000_1793124000000.csv",
+      "archive": "BTC-USDT-SWAP_1H_1704067200000_1793124000000.csv.gz",
+      "bytes": 2267679,
+      "sha256": "1c6be27b616c225be088f7b8dd6dda2defb09beeeece4189ce6f7907bbf18b03",
+      "archive_sha256": "44266c376c9da21fbbce71005f0e1dcadfdb126b78646d2b12cf4803eb965e56"
+    },
+    {
+      "file": "BTC-USDT-SWAP_4H_1704067200000_1793116800000.csv",
+      "archive": "BTC-USDT-SWAP_4H_1704067200000_1793116800000.csv.gz",
+      "bytes": 577610,
+      "sha256": "1802d87ba62dc55b426b397a60bb4cd90e523691a2524cc442be894f290aadc5",
+      "archive_sha256": "20cbfd87fd450684ced7bebad2a50bcd2959dd2a21dcfb36649b526fb4d31963"
+    },
+    {
+      "file": "BTC-USDT-SWAP_5m_1704067200000_1793125800000.csv",
+      "archive": "BTC-USDT-SWAP_5m_1704067200000_1793125800000.csv.gz",
+      "bytes": 26226005,
+      "sha256": "3a20e1ec8390b56d856309eef5beed1e69fcc7929ad702ae3c56ebc2f1be8dbe",
+      "archive_sha256": "e906769fb21d69a03a96d5a8ecf8a13554523204a75ec20218a5f273d5ee9f56"
+    }
+  ]
+}

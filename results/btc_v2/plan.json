@@ -1,0 +1,190 @@
+{
+  "universe": [
+    {
+      "name": "trend_long_base",
+      "family": "trend",
+      "short": false,
+      "stop_atr": 3,
+      "trail_atr": 3,
+      "daily_filter": false,
+      "cooldown_hours": 24,
+      "pause_losses": 0
+    },
+    {
+      "name": "trend_long_daily",
+      "family": "trend",
+      "short": false,
+      "stop_atr": 3,
+      "trail_atr": 3,
+      "daily_filter": true,
+      "cooldown_hours": 24,
+      "pause_losses": 0
+    },
+    {
+      "name": "trend_long_pause",
+      "family": "trend",
+      "short": false,
+      "stop_atr": 3,
+      "trail_atr": 3,
+      "daily_filter": false,
+      "cooldown_hours": 24,
+      "pause_losses": 3
+    },
+    {
+      "name": "trend_both_base",
+      "family": "trend",
+      "short": true,
+      "stop_atr": 3,
+      "trail_atr": 3,
+      "daily_filter": false,
+      "cooldown_hours": 24,
+      "pause_losses": 0
+    },
+    {
+      "name": "trend_both_daily",
+      "family": "trend",
+      "short": true,
+      "stop_atr": 3,
+      "trail_atr": 3,
+      "daily_filter": true,
+      "cooldown_hours": 24,
+      "pause_losses": 0
+    },
+    {
+      "name": "trend_both_pause",
+      "family": "trend",
+      "short": true,
+      "stop_atr": 3,
+      "trail_atr": 3,
+      "daily_filter": false,
+      "cooldown_hours": 24,
+      "pause_losses": 3
+    },
+    {
+      "name": "breakout_long_base",
+      "family": "breakout",
+      "short": false,
+      "stop_atr": 3,
+      "trail_atr": 3,
+      "daily_filter": false,
+      "cooldown_hours": 24,
+      "pause_losses": 0
+    },
+    {
+      "name": "breakout_long_daily",
+      "family": "breakout",
+      "short": false,
+      "stop_atr": 3,
+      "trail_atr": 3,
+      "daily_filter": true,
+      "cooldown_hours": 24,
+      "pause_losses": 0
+    },
+    {
+      "name": "breakout_long_pause",
+      "family": "breakout",
+      "short": false,
+      "stop_atr": 3,
+      "trail_atr": 3,
+      "daily_filter": false,
+      "cooldown_hours": 24,
+      "pause_losses": 3
+    },
+    {
+      "name": "breakout_both_base",
+      "family": "breakout",
+      "short": true,
+      "stop_atr": 3,
+      "trail_atr": 3,
+      "daily_filter": false,
+      "cooldown_hours": 24,
+      "pause_losses": 0
+    },
+    {
+      "name": "breakout_both_daily",
+      "family": "breakout",
+      "short": true,
+      "stop_atr": 3,
+      "trail_atr": 3,
+      "daily_filter": true,
+      "cooldown_hours": 24,
+      "pause_losses": 0
+    },
+    {
+      "name": "breakout_both_pause",
+      "family": "breakout",
+      "short": true,
+      "stop_atr": 3,
+      "trail_atr": 3,
+      "daily_filter": false,
+      "cooldown_hours": 24,
+      "pause_losses": 3
+    },
+    {
+      "name": "reversion_long_base",
+      "family": "reversion",
+      "short": false,
+      "stop_atr": 2.5,
+      "trail_atr": 3,
+      "daily_filter": false,
+      "cooldown_hours": 24,
+      "pause_losses": 0
+    },
+    {
+      "name": "reversion_long_daily",
+      "family": "reversion",
+      "short": false,
+      "stop_atr": 2.5,
+      "trail_atr": 3,
+      "daily_filter": true,
+      "cooldown_hours": 24,
+      "pause_losses": 0
+    },
+    {
+      "name": "reversion_long_pause",
+      "family": "reversion",
+      "short": false,
+      "stop_atr": 2.5,
+      "trail_atr": 3,
+      "daily_filter": false,
+      "cooldown_hours": 24,
+      "pause_losses": 3
+    },
+    {
+      "name": "reversion_both_base",
+      "family": "reversion",
+      "short": true,
+      "stop_atr": 2.5,
+      "trail_atr": 3,
+      "daily_filter": false,
+      "cooldown_hours": 24,
+      "pause_losses": 0
+    },
+    {
+      "name": "reversion_both_daily",
+      "family": "reversion",
+      "short": true,
+      "stop_atr": 2.5,
+      "trail_atr": 3,
+      "daily_filter": true,
+      "cooldown_hours": 24,
+      "pause_losses": 0
+    },
+    {
+      "name": "reversion_both_pause",
+      "family": "reversion",
+      "short": true,
+      "stop_atr": 2.5,
+      "trail_atr": 3,
+      "daily_filter": false,
+      "cooldown_hours": 24,
+      "pause_losses": 3
+    }
+  ],
+  "data_sha256": "be4aeb6f5d80d6a36430387519c6a34012e1fce87580c0d4c9f00623d4dd6556",
+  "source_sha256": "8cad60b13ba5be978c2aa31dddf17dc157f8dfcb4d6ec7e0642b84197fda6955",
+  "known_data": true,
+  "funding": 0,
+  "selection": "monthly: trailing 365 days, >=8 trades, positive return, PF>=1.1, drawdown<=20%; maximize return/max(drawdown,1); else cash",
+  "caveat": "All BTC 2024-2026 dates were examined previously; rolling replay is not independent validation."
+}

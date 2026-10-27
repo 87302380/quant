@@ -1,0 +1,2 @@
+# Python 3.10+; all research scripts currently use the standard library only.
+

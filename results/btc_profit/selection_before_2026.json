@@ -1,0 +1,34 @@
+{
+  "selected": {
+    "name": "long_stop1.5_trail4.5_adds0",
+    "family": "trend",
+    "short": false,
+    "stop_atr": 1.5,
+    "trail_atr": 4.5,
+    "daily_filter": false,
+    "cooldown_hours": 24,
+    "pause_losses": 3,
+    "fast": 25,
+    "slow": 99,
+    "min_adx": 0,
+    "min_efficiency": 0,
+    "breakeven_r": 0,
+    "signal_seconds": 14400,
+    "trail_on_regime": false,
+    "min_volume_ratio": 0,
+    "target_r": 0,
+    "max_adds": 0,
+    "add_step_r": 1
+  },
+  "eligible": [
+    "long_stop1.5_trail3_adds2",
+    "long_stop1.5_trail4.5_adds0",
+    "long_stop2_trail3_adds0",
+    "long_stop2_trail3_adds2",
+    "long_stop2_trail4.5_adds0",
+    "long_stop3_trail3_adds0",
+    "long_stop3_trail3_adds2",
+    "both_stop2_trail3_adds0",
+    "both_stop3_trail3_adds0"
+  ]
+}

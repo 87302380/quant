@@ -1,0 +1,48 @@
+{
+  "1H": {
+    "file": "data\\okx\\BTC-USDT-SWAP_1H_1704067200000_1793124000000.csv",
+    "candles": 24738,
+    "missing_15m_groups": 0,
+    "exact_mismatch_counts": {
+      "open": 0,
+      "high": 0,
+      "low": 0,
+      "close": 0,
+      "volume": 0,
+      "volume_base": 0,
+      "volume_quote": 0
+    },
+    "max_absolute_difference": {
+      "open": "0",
+      "high": "0",
+      "low": "0",
+      "close": "0",
+      "volume": "0",
+      "volume_base": "0",
+      "volume_quote": "0"
+    }
+  },
+  "4H": {
+    "file": "data\\okx\\BTC-USDT-SWAP_4H_1704067200000_1793116800000.csv",
+    "candles": 6184,
+    "missing_15m_groups": 0,
+    "exact_mismatch_counts": {
+      "open": 0,
+      "high": 0,
+      "low": 0,
+      "close": 0,
+      "volume": 0,
+      "volume_base": 0,
+      "volume_quote": 0
+    },
+    "max_absolute_difference": {
+      "open": "0",
+      "high": "0",
+      "low": "0",
+      "close": "0",
+      "volume": "0",
+      "volume_base": "0",
+      "volume_quote": "0"
+    }
+  }
+}

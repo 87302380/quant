@@ -1,0 +1,8 @@
+{
+  "selected": "slow_pullback_both_3R",
+  "eligible": [
+    "slow_pullback_both_3R"
+  ],
+  "diagnostic_best_validation": "slow_pullback_both_3R",
+  "plan_sha256": "f0bb6835cf4c163c39f4e9070ccad6f889957609824c5a8b20d2cf856f42cdd7"
+}

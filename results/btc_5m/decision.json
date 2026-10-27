@@ -1,0 +1,7 @@
+{
+  "research_preference": "range short-term primary, trend only on continuation",
+  "scalp_positive_configurations": [],
+  "scalp_deployment_enabled": false,
+  "reason": "No scalp hypothesis passed predeclared 2024/2025 eligibility.",
+  "next_evidence_needed": "BTC tick/orderbook and independent forward execution logs, not more unbounded indicator fitting"
+}

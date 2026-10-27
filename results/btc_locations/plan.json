@@ -1,0 +1,190 @@
+{
+  "known_history": true,
+  "rules": [
+    {
+      "name": "trend_long_level",
+      "regime": "trend",
+      "short": false,
+      "exit": "level",
+      "only4h": false,
+      "align1h": false,
+      "momentum": false,
+      "min_net_rr": 0.5
+    },
+    {
+      "name": "trend_long_cap",
+      "regime": "trend",
+      "short": false,
+      "exit": "cap",
+      "only4h": false,
+      "align1h": false,
+      "momentum": false,
+      "min_net_rr": 0.5
+    },
+    {
+      "name": "trend_long_split",
+      "regime": "trend",
+      "short": false,
+      "exit": "split",
+      "only4h": false,
+      "align1h": false,
+      "momentum": false,
+      "min_net_rr": 0.5
+    },
+    {
+      "name": "trend_both_level",
+      "regime": "trend",
+      "short": true,
+      "exit": "level",
+      "only4h": false,
+      "align1h": false,
+      "momentum": false,
+      "min_net_rr": 0.5
+    },
+    {
+      "name": "trend_both_cap",
+      "regime": "trend",
+      "short": true,
+      "exit": "cap",
+      "only4h": false,
+      "align1h": false,
+      "momentum": false,
+      "min_net_rr": 0.5
+    },
+    {
+      "name": "trend_both_split",
+      "regime": "trend",
+      "short": true,
+      "exit": "split",
+      "only4h": false,
+      "align1h": false,
+      "momentum": false,
+      "min_net_rr": 0.5
+    },
+    {
+      "name": "range_both_level",
+      "regime": "range",
+      "short": true,
+      "exit": "level",
+      "only4h": false,
+      "align1h": false,
+      "momentum": false,
+      "min_net_rr": 0.5
+    },
+    {
+      "name": "range_both_cap",
+      "regime": "range",
+      "short": true,
+      "exit": "cap",
+      "only4h": false,
+      "align1h": false,
+      "momentum": false,
+      "min_net_rr": 0.5
+    },
+    {
+      "name": "range_both_split",
+      "regime": "range",
+      "short": true,
+      "exit": "split",
+      "only4h": false,
+      "align1h": false,
+      "momentum": false,
+      "min_net_rr": 0.5
+    },
+    {
+      "name": "hybrid_both_level",
+      "regime": "hybrid",
+      "short": true,
+      "exit": "level",
+      "only4h": false,
+      "align1h": false,
+      "momentum": false,
+      "min_net_rr": 0.5
+    },
+    {
+      "name": "hybrid_both_cap",
+      "regime": "hybrid",
+      "short": true,
+      "exit": "cap",
+      "only4h": false,
+      "align1h": false,
+      "momentum": false,
+      "min_net_rr": 0.5
+    },
+    {
+      "name": "hybrid_both_split",
+      "regime": "hybrid",
+      "short": true,
+      "exit": "split",
+      "only4h": false,
+      "align1h": false,
+      "momentum": false,
+      "min_net_rr": 0.5
+    },
+    {
+      "name": "trend_both_split_4honly",
+      "regime": "trend",
+      "short": true,
+      "exit": "split",
+      "only4h": true,
+      "align1h": false,
+      "momentum": false,
+      "min_net_rr": 0.5
+    },
+    {
+      "name": "trend_both_split_align1h",
+      "regime": "trend",
+      "short": true,
+      "exit": "split",
+      "only4h": false,
+      "align1h": true,
+      "momentum": false,
+      "min_net_rr": 0.5
+    },
+    {
+      "name": "trend_both_split_momentum",
+      "regime": "trend",
+      "short": true,
+      "exit": "split",
+      "only4h": false,
+      "align1h": false,
+      "momentum": true,
+      "min_net_rr": 0.5
+    }
+  ],
+  "risk": {
+    "equity": 10000,
+    "risk": 0.01,
+    "total_risk": 0.02,
+    "fee": 0.0005,
+    "slippage": 0.0002,
+    "funding_per_8h": 0,
+    "min_rr": 1.5,
+    "zone_atr": 0.3,
+    "stop_atr": 0.2,
+    "max_entry_atr": 1.5,
+    "setup_bars": 8,
+    "pivot_left": 2,
+    "pivot_right": 2,
+    "rsi_long": 35,
+    "rsi_short": 65,
+    "volume_ratio": 1.2,
+    "require_rsi": false,
+    "require_volume": false,
+    "enable_long": true,
+    "enable_short": true,
+    "max_hold_bars": 96,
+    "min_adx": 0,
+    "require_1h_trend": false,
+    "min_stop_atr": 0,
+    "target_rr_cap": 0,
+    "contract_value": 0.01,
+    "lot_size": 0.01,
+    "min_contracts": 0.01,
+    "tick_size": 0.1,
+    "leverage": 1
+  },
+  "source_sha256": "a20623bd60191033e20f11a86edc158d51082b6dce086f874c68ebcba5ff16ba",
+  "data_sha256": "3a20e1ec8390b56d856309eef5beed1e69fcc7929ad702ae3c56ebc2f1be8dbe",
+  "eligibility": "2024 and 2025 each >=20 completed trades, positive return and PF>=1.1; maximize minimum return/drawdown"
+}

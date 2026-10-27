@@ -1,0 +1,58 @@
+[
+  {
+    "name": "adaptive_long_1.5",
+    "regime": "trend",
+    "short": false,
+    "exit": "adaptive",
+    "only4h": true,
+    "align1h": false,
+    "momentum": false,
+    "min_net_rr": 0.75,
+    "stop_floor4h": 0.75,
+    "cooldown_hours": 12,
+    "max_cost_fraction": 0.15,
+    "runner_atr4h": 1.5
+  },
+  {
+    "name": "adaptive_long_2",
+    "regime": "trend",
+    "short": false,
+    "exit": "adaptive",
+    "only4h": true,
+    "align1h": false,
+    "momentum": false,
+    "min_net_rr": 0.75,
+    "stop_floor4h": 0.75,
+    "cooldown_hours": 12,
+    "max_cost_fraction": 0.15,
+    "runner_atr4h": 2
+  },
+  {
+    "name": "adaptive_both_1.5",
+    "regime": "trend",
+    "short": true,
+    "exit": "adaptive",
+    "only4h": true,
+    "align1h": false,
+    "momentum": false,
+    "min_net_rr": 0.75,
+    "stop_floor4h": 0.75,
+    "cooldown_hours": 12,
+    "max_cost_fraction": 0.15,
+    "runner_atr4h": 1.5
+  },
+  {
+    "name": "always_runner_long_1.5",
+    "regime": "trend",
+    "short": false,
+    "exit": "runner",
+    "only4h": true,
+    "align1h": false,
+    "momentum": false,
+    "min_net_rr": 0.75,
+    "stop_floor4h": 0.75,
+    "cooldown_hours": 12,
+    "max_cost_fraction": 0.15,
+    "runner_atr4h": 1.5
+  }
+]

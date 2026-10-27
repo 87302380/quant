@@ -1,0 +1,420 @@
+[
+  {
+    "month": "2025-01",
+    "training_end_exclusive": 1735689600,
+    "choice": "trend_long_pause",
+    "training_metrics": {
+      "trades": 30,
+      "win_rate": 0.5,
+      "net_pnl": 2085.320866551001,
+      "mean_net_pnl": 69.51069555170004,
+      "profit_factor": 3.096511222092688,
+      "max_consecutive_losses": 4,
+      "return_pct": 20.853208665509992,
+      "max_drawdown_pct": 3.1817786056886677,
+      "fees": 73.627882795001,
+      "sharpe_daily": 2.3727894538820373,
+      "exposure_pct": 46.595319634703195,
+      "end_equity": 12085.320866551
+    }
+  },
+  {
+    "month": "2025-02",
+    "training_end_exclusive": 1738368000,
+    "choice": "trend_long_pause",
+    "training_metrics": {
+      "trades": 33,
+      "win_rate": 0.5757575757575758,
+      "net_pnl": 2263.806608537571,
+      "mean_net_pnl": 68.60020025871427,
+      "profit_factor": 3.494178793899007,
+      "max_consecutive_losses": 4,
+      "return_pct": 22.63806608537575,
+      "max_drawdown_pct": 3.182878009896295,
+      "fees": 81.57069024443301,
+      "sharpe_daily": 2.487640108194026,
+      "exposure_pct": 50.742009132420094,
+      "end_equity": 12263.806608537576
+    }
+  },
+  {
+    "month": "2025-03",
+    "training_end_exclusive": 1740787200,
+    "choice": "trend_long_pause",
+    "training_metrics": {
+      "trades": 32,
+      "win_rate": 0.53125,
+      "net_pnl": 1235.941416447816,
+      "mean_net_pnl": 38.62316926399425,
+      "profit_factor": 2.458361565171769,
+      "max_consecutive_losses": 4,
+      "return_pct": 12.359414164478121,
+      "max_drawdown_pct": 2.946972449220686,
+      "fees": 71.47618579418702,
+      "sharpe_daily": 1.6567078416624201,
+      "exposure_pct": 43.45890410958904,
+      "end_equity": 11235.941416447813
+    }
+  },
+  {
+    "month": "2025-04",
+    "training_end_exclusive": 1743465600,
+    "choice": "trend_long_base",
+    "training_metrics": {
+      "trades": 31,
+      "win_rate": 0.4838709677419355,
+      "net_pnl": 1014.6985801369414,
+      "mean_net_pnl": 32.73221226248198,
+      "profit_factor": 2.0840911826051327,
+      "max_consecutive_losses": 4,
+      "return_pct": 10.146985801369368,
+      "max_drawdown_pct": 2.945454257012936,
+      "fees": 74.15768937306099,
+      "sharpe_daily": 1.4012205362292527,
+      "exposure_pct": 38.926940639269404,
+      "end_equity": 11014.698580136937
+    }
+  },
+  {
+    "month": "2025-05",
+    "training_end_exclusive": 1746057600,
+    "choice": "trend_long_base",
+    "training_metrics": {
+      "trades": 29,
+      "win_rate": 0.5517241379310345,
+      "net_pnl": 1359.5442441667292,
+      "mean_net_pnl": 46.88083600574928,
+      "profit_factor": 2.6750306700464628,
+      "max_consecutive_losses": 2,
+      "return_pct": 13.595442441667283,
+      "max_drawdown_pct": 2.946296580291141,
+      "fees": 70.25211965527302,
+      "sharpe_daily": 1.8527862519284755,
+      "exposure_pct": 42.51426940639269,
+      "end_equity": 11359.54424416673
+    }
+  },
+  {
+    "month": "2025-06",
+    "training_end_exclusive": 1748736000,
+    "choice": "trend_long_base",
+    "training_metrics": {
+      "trades": 30,
+      "win_rate": 0.5666666666666667,
+      "net_pnl": 1561.2642368359247,
+      "mean_net_pnl": 52.04214122786416,
+      "profit_factor": 2.759872017463453,
+      "max_consecutive_losses": 2,
+      "return_pct": 15.612642368359243,
+      "max_drawdown_pct": 2.9460864984255486,
+      "fees": 76.410654596078,
+      "sharpe_daily": 1.9958067708675236,
+      "exposure_pct": 45.28538812785388,
+      "end_equity": 11561.264236835925
+    }
+  },
+  {
+    "month": "2025-07",
+    "training_end_exclusive": 1751328000,
+    "choice": "trend_long_base",
+    "training_metrics": {
+      "trades": 31,
+      "win_rate": 0.5161290322580645,
+      "net_pnl": 1392.1549886282564,
+      "mean_net_pnl": 44.90822543962118,
+      "profit_factor": 2.418303858168312,
+      "max_consecutive_losses": 4,
+      "return_pct": 13.921549886282559,
+      "max_drawdown_pct": 3.5064903509750445,
+      "fees": 81.85535792974497,
+      "sharpe_daily": 1.7817688746617155,
+      "exposure_pct": 45.16267123287671,
+      "end_equity": 11392.154988628256
+    }
+  },
+  {
+    "month": "2025-08",
+    "training_end_exclusive": 1754006400,
+    "choice": "trend_long_base",
+    "training_metrics": {
+      "trades": 33,
+      "win_rate": 0.45454545454545453,
+      "net_pnl": 1683.8669001149271,
+      "mean_net_pnl": 51.02626970045234,
+      "profit_factor": 2.6068239587886475,
+      "max_consecutive_losses": 5,
+      "return_pct": 16.838669001149277,
+      "max_drawdown_pct": 4.454773543312429,
+      "fees": 94.337340891075,
+      "sharpe_daily": 2.0356575624975592,
+      "exposure_pct": 47.73687214611872,
+      "end_equity": 11683.866900114928
+    }
+  },
+  {
+    "month": "2025-09",
+    "training_end_exclusive": 1756684800,
+    "choice": "trend_long_daily",
+    "training_metrics": {
+      "trades": 34,
+      "win_rate": 0.4411764705882353,
+      "net_pnl": 1632.6971075585247,
+      "mean_net_pnl": 48.02050316348602,
+      "profit_factor": 2.524343601458233,
+      "max_consecutive_losses": 5,
+      "return_pct": 16.32697107558525,
+      "max_drawdown_pct": 4.453007764171579,
+      "fees": 102.355736715479,
+      "sharpe_daily": 1.9353528640631645,
+      "exposure_pct": 43.98687214611872,
+      "end_equity": 11632.697107558524
+    }
+  },
+  {
+    "month": "2025-10",
+    "training_end_exclusive": 1759276800,
+    "choice": "trend_long_daily",
+    "training_metrics": {
+      "trades": 34,
+      "win_rate": 0.4411764705882353,
+      "net_pnl": 1570.6456453053754,
+      "mean_net_pnl": 46.195460156040454,
+      "profit_factor": 2.5713040578298254,
+      "max_consecutive_losses": 5,
+      "return_pct": 15.706456453053752,
+      "max_drawdown_pct": 4.452889119657999,
+      "fees": 107.14142562062898,
+      "sharpe_daily": 1.8826260222443199,
+      "exposure_pct": 42.611301369863014,
+      "end_equity": 11570.645645305374
+    }
+  },
+  {
+    "month": "2025-11",
+    "training_end_exclusive": 1761955200,
+    "choice": "trend_long_daily",
+    "training_metrics": {
+      "trades": 31,
+      "win_rate": 0.45161290322580644,
+      "net_pnl": 1622.2830692244943,
+      "mean_net_pnl": 52.331711910467554,
+      "profit_factor": 2.8076600697749603,
+      "max_consecutive_losses": 5,
+      "return_pct": 16.222830692244884,
+      "max_drawdown_pct": 4.454579768101241,
+      "fees": 102.41554296350999,
+      "sharpe_daily": 1.9468054028116355,
+      "exposure_pct": 40.88755707762557,
+      "end_equity": 11622.283069224488
+    }
+  },
+  {
+    "month": "2025-12",
+    "training_end_exclusive": 1764547200,
+    "choice": "trend_long_daily",
+    "training_metrics": {
+      "trades": 29,
+      "win_rate": 0.41379310344827586,
+      "net_pnl": 600.1158343372085,
+      "mean_net_pnl": 20.693649459903742,
+      "profit_factor": 1.74462214007602,
+      "max_consecutive_losses": 5,
+      "return_pct": 6.001158343372137,
+      "max_drawdown_pct": 4.453500423264556,
+      "fees": 89.21155475879601,
+      "sharpe_daily": 0.9587007263211511,
+      "exposure_pct": 33.24771689497717,
+      "end_equity": 10600.115834337214
+    }
+  },
+  {
+    "month": "2026-01",
+    "training_end_exclusive": 1767225600,
+    "choice": "trend_long_daily",
+    "training_metrics": {
+      "trades": 25,
+      "win_rate": 0.4,
+      "net_pnl": 588.1281446215621,
+      "mean_net_pnl": 23.525125784862485,
+      "profit_factor": 1.8611144340710797,
+      "max_consecutive_losses": 5,
+      "return_pct": 5.881281446215669,
+      "max_drawdown_pct": 4.452518755465484,
+      "fees": 81.31957664244202,
+      "sharpe_daily": 0.9708713493315662,
+      "exposure_pct": 29.315068493150687,
+      "end_equity": 10588.128144621567
+    }
+  },
+  {
+    "month": "2026-02",
+    "training_end_exclusive": 1769904000,
+    "choice": "trend_both_pause",
+    "training_metrics": {
+      "trades": 58,
+      "win_rate": 0.3448275862068966,
+      "net_pnl": 775.3905492065596,
+      "mean_net_pnl": 13.36880257252689,
+      "profit_factor": 1.3706643282702493,
+      "max_consecutive_losses": 7,
+      "return_pct": 7.7539054920655825,
+      "max_drawdown_pct": 6.484936262380181,
+      "fees": 162.70352904744695,
+      "sharpe_daily": 0.9062523344775726,
+      "exposure_pct": 66.57819634703196,
+      "end_equity": 10775.390549206559
+    }
+  },
+  {
+    "month": "2026-03",
+    "training_end_exclusive": 1772323200,
+    "choice": "trend_both_pause",
+    "training_metrics": {
+      "trades": 57,
+      "win_rate": 0.3333333333333333,
+      "net_pnl": 979.9123421472184,
+      "mean_net_pnl": 17.191444599074007,
+      "profit_factor": 1.48705525134414,
+      "max_consecutive_losses": 7,
+      "return_pct": 9.799123421472222,
+      "max_drawdown_pct": 6.486606225369329,
+      "fees": 154.756949992788,
+      "sharpe_daily": 1.0524840562137445,
+      "exposure_pct": 67.41152968036529,
+      "end_equity": 10979.912342147223
+    }
+  },
+  {
+    "month": "2026-04",
+    "training_end_exclusive": 1775001600,
+    "choice": "trend_both_pause",
+    "training_metrics": {
+      "trades": 59,
+      "win_rate": 0.3389830508474576,
+      "net_pnl": 680.0086400684717,
+      "mean_net_pnl": 11.525570170652061,
+      "profit_factor": 1.2991288993186307,
+      "max_consecutive_losses": 7,
+      "return_pct": 6.800086400684768,
+      "max_drawdown_pct": 6.488624056897363,
+      "fees": 161.58998120153507,
+      "sharpe_daily": 0.7467274402728766,
+      "exposure_pct": 66.52397260273973,
+      "end_equity": 10680.008640068478
+    }
+  },
+  {
+    "month": "2026-05",
+    "training_end_exclusive": 1777593600,
+    "choice": "trend_both_pause",
+    "training_metrics": {
+      "trades": 62,
+      "win_rate": 0.3548387096774194,
+      "net_pnl": 674.5079535128172,
+      "mean_net_pnl": 10.879160540529309,
+      "profit_factor": 1.3069181919438972,
+      "max_consecutive_losses": 7,
+      "return_pct": 6.745079535128196,
+      "max_drawdown_pct": 6.481794516272988,
+      "fees": 174.04293554319005,
+      "sharpe_daily": 0.7443408591154975,
+      "exposure_pct": 65.62785388127854,
+      "end_equity": 10674.507953512819
+    }
+  },
+  {
+    "month": "2026-06",
+    "training_end_exclusive": 1780272000,
+    "choice": "trend_both_base",
+    "training_metrics": {
+      "trades": 71,
+      "win_rate": 0.36619718309859156,
+      "net_pnl": 442.2156953166884,
+      "mean_net_pnl": 6.2283900748829355,
+      "profit_factor": 1.175903333084682,
+      "max_consecutive_losses": 5,
+      "return_pct": 4.4221569531669,
+      "max_drawdown_pct": 7.25639676576717,
+      "fees": 196.72219712731996,
+      "sharpe_daily": 0.4995602866827722,
+      "exposure_pct": 75.41666666666667,
+      "end_equity": 10442.21569531669
+    }
+  },
+  {
+    "month": "2026-07",
+    "training_end_exclusive": 1782864000,
+    "choice": "trend_both_pause",
+    "training_metrics": {
+      "trades": 61,
+      "win_rate": 0.39344262295081966,
+      "net_pnl": 1474.2296273229701,
+      "mean_net_pnl": 24.16769880857328,
+      "profit_factor": 1.6977037686736225,
+      "max_consecutive_losses": 7,
+      "return_pct": 14.742296273229737,
+      "max_drawdown_pct": 6.486014656181915,
+      "fees": 170.37137440503804,
+      "sharpe_daily": 1.4855616496877773,
+      "exposure_pct": 68.35045662100457,
+      "end_equity": 11474.229627322973
+    }
+  },
+  {
+    "month": "2026-08",
+    "training_end_exclusive": 1785542400,
+    "choice": "trend_both_pause",
+    "training_metrics": {
+      "trades": 63,
+      "win_rate": 0.36507936507936506,
+      "net_pnl": 734.7542237441149,
+      "mean_net_pnl": 11.662765456255793,
+      "profit_factor": 1.3396552461857312,
+      "max_consecutive_losses": 7,
+      "return_pct": 7.347542237441096,
+      "max_drawdown_pct": 6.483415993666741,
+      "fees": 169.84771239589404,
+      "sharpe_daily": 0.8069680578794711,
+      "exposure_pct": 66.90639269406392,
+      "end_equity": 10734.75422374411
+    }
+  },
+  {
+    "month": "2026-09",
+    "training_end_exclusive": 1788220800,
+    "choice": "trend_both_pause",
+    "training_metrics": {
+      "trades": 61,
+      "win_rate": 0.3770491803278688,
+      "net_pnl": 1888.775004781259,
+      "mean_net_pnl": 30.96352466854523,
+      "profit_factor": 1.9184535295772485,
+      "max_consecutive_losses": 8,
+      "return_pct": 18.88775004781258,
+      "max_drawdown_pct": 6.479724702057932,
+      "fees": 170.033871532749,
+      "sharpe_daily": 1.617669028990068,
+      "exposure_pct": 68.32762557077625,
+      "end_equity": 11888.775004781257
+    }
+  },
+  {
+    "month": "2026-10",
+    "training_end_exclusive": 1790812800,
+    "choice": "trend_both_pause",
+    "training_metrics": {
+      "trades": 63,
+      "win_rate": 0.3492063492063492,
+      "net_pnl": 1839.8872256182071,
+      "mean_net_pnl": 29.204559136796938,
+      "profit_factor": 1.810797349364775,
+      "max_consecutive_losses": 8,
+      "return_pct": 18.398872256182088,
+      "max_drawdown_pct": 6.488615467286863,
+      "fees": 179.08905768380097,
+      "sharpe_daily": 1.5470844930638223,
+      "exposure_pct": 68.30479452054794,
+      "end_equity": 11839.887225618208
+    }
+  }
+]

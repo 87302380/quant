@@ -1,0 +1,282 @@
+{
+  "baseline": {
+    "report": {
+      "all": {
+        "trades": 122,
+        "win_rate": 0.28688524590163933,
+        "net_pnl": -237.40404269792202,
+        "mean_net_pnl": -1.9459347762124757,
+        "profit_factor": 0.953599750986379,
+        "max_consecutive_losses": 9
+      },
+      "long": {
+        "trades": 67,
+        "win_rate": 0.31343283582089554,
+        "net_pnl": -114.70871868681985,
+        "mean_net_pnl": -1.7120704281614902,
+        "profit_factor": 0.9579023836654458,
+        "max_consecutive_losses": 12
+      },
+      "short": {
+        "trades": 55,
+        "win_rate": 0.2545454545454545,
+        "net_pnl": -122.69532401110219,
+        "mean_net_pnl": -2.230824072929131,
+        "profit_factor": 0.9486976476540937,
+        "max_consecutive_losses": 12
+      },
+      "scores": {
+        "50-59": {
+          "trades": 0,
+          "win_rate": null,
+          "net_pnl": 0,
+          "mean_net_pnl": null,
+          "profit_factor": null,
+          "max_consecutive_losses": 0
+        },
+        "60-69": {
+          "trades": 0,
+          "win_rate": null,
+          "net_pnl": 0,
+          "mean_net_pnl": null,
+          "profit_factor": null,
+          "max_consecutive_losses": 0
+        },
+        "70-79": {
+          "trades": 49,
+          "win_rate": 0.22448979591836735,
+          "net_pnl": -860.3159571065034,
+          "mean_net_pnl": -17.55746851237762,
+          "profit_factor": 0.6074782123658351,
+          "max_consecutive_losses": 13
+        },
+        "80+": {
+          "trades": 73,
+          "win_rate": 0.3287671232876712,
+          "net_pnl": 622.9119144085813,
+          "mean_net_pnl": 8.533039923405223,
+          "profit_factor": 1.2129851594585965,
+          "max_consecutive_losses": 5
+        }
+      }
+    },
+    "rejections": {
+      "filled": 122,
+      "existing_position": 78,
+      "late_entry": 391,
+      "net_rr": 170,
+      "no_confirmed_target": 5,
+      "invalid_stop_target": 2
+    }
+  },
+  "rsi": {
+    "report": {
+      "all": {
+        "trades": 27,
+        "win_rate": 0.3333333333333333,
+        "net_pnl": 557.3492012123991,
+        "mean_net_pnl": 20.64256300786663,
+        "profit_factor": 1.4529401912992093,
+        "max_consecutive_losses": 5
+      },
+      "long": {
+        "trades": 12,
+        "win_rate": 0.16666666666666666,
+        "net_pnl": -323.44499565268734,
+        "mean_net_pnl": -26.953749637723945,
+        "profit_factor": 0.5557496541090226,
+        "max_consecutive_losses": 7
+      },
+      "short": {
+        "trades": 15,
+        "win_rate": 0.4666666666666667,
+        "net_pnl": 880.7941968650863,
+        "mean_net_pnl": 58.719613124339084,
+        "profit_factor": 2.753017205368017,
+        "max_consecutive_losses": 2
+      },
+      "scores": {
+        "50-59": {
+          "trades": 0,
+          "win_rate": null,
+          "net_pnl": 0,
+          "mean_net_pnl": null,
+          "profit_factor": null,
+          "max_consecutive_losses": 0
+        },
+        "60-69": {
+          "trades": 0,
+          "win_rate": null,
+          "net_pnl": 0,
+          "mean_net_pnl": null,
+          "profit_factor": null,
+          "max_consecutive_losses": 0
+        },
+        "70-79": {
+          "trades": 0,
+          "win_rate": null,
+          "net_pnl": 0,
+          "mean_net_pnl": null,
+          "profit_factor": null,
+          "max_consecutive_losses": 0
+        },
+        "80+": {
+          "trades": 27,
+          "win_rate": 0.3333333333333333,
+          "net_pnl": 557.3492012123991,
+          "mean_net_pnl": 20.64256300786663,
+          "profit_factor": 1.4529401912992093,
+          "max_consecutive_losses": 5
+        }
+      }
+    },
+    "rejections": {
+      "rsi_filter": 653,
+      "late_entry": 65,
+      "filled": 27,
+      "existing_position": 19,
+      "net_rr": 3,
+      "invalid_stop_target": 1
+    }
+  },
+  "volume": {
+    "report": {
+      "all": {
+        "trades": 17,
+        "win_rate": 0.17647058823529413,
+        "net_pnl": -451.54096620401015,
+        "mean_net_pnl": -26.561233306118243,
+        "profit_factor": 0.3836335158662746,
+        "max_consecutive_losses": 5
+      },
+      "long": {
+        "trades": 9,
+        "win_rate": 0.2222222222222222,
+        "net_pnl": -238.61534972881313,
+        "mean_net_pnl": -26.512816636534794,
+        "profit_factor": 0.358002989522108,
+        "max_consecutive_losses": 3
+      },
+      "short": {
+        "trades": 8,
+        "win_rate": 0.125,
+        "net_pnl": -212.92561647519702,
+        "mean_net_pnl": -26.615702059399627,
+        "profit_factor": 0.4100287682254663,
+        "max_consecutive_losses": 4
+      },
+      "scores": {
+        "50-59": {
+          "trades": 0,
+          "win_rate": null,
+          "net_pnl": 0,
+          "mean_net_pnl": null,
+          "profit_factor": null,
+          "max_consecutive_losses": 0
+        },
+        "60-69": {
+          "trades": 0,
+          "win_rate": null,
+          "net_pnl": 0,
+          "mean_net_pnl": null,
+          "profit_factor": null,
+          "max_consecutive_losses": 0
+        },
+        "70-79": {
+          "trades": 0,
+          "win_rate": null,
+          "net_pnl": 0,
+          "mean_net_pnl": null,
+          "profit_factor": null,
+          "max_consecutive_losses": 0
+        },
+        "80+": {
+          "trades": 17,
+          "win_rate": 0.17647058823529413,
+          "net_pnl": -451.54096620401015,
+          "mean_net_pnl": -26.561233306118243,
+          "profit_factor": 0.3836335158662746,
+          "max_consecutive_losses": 5
+        }
+      }
+    },
+    "rejections": {
+      "volume_filter": 539,
+      "late_entry": 179,
+      "net_rr": 24,
+      "filled": 17,
+      "no_confirmed_target": 5,
+      "existing_position": 3,
+      "invalid_stop_target": 1
+    }
+  },
+  "rsi_volume": {
+    "report": {
+      "all": {
+        "trades": 4,
+        "win_rate": 0.25,
+        "net_pnl": -22.92075220209786,
+        "mean_net_pnl": -5.730188050524465,
+        "profit_factor": 0.8688179518613397,
+        "max_consecutive_losses": 2
+      },
+      "long": {
+        "trades": 1,
+        "win_rate": 0.0,
+        "net_pnl": -53.31742499950875,
+        "mean_net_pnl": -53.31742499950875,
+        "profit_factor": 0.0,
+        "max_consecutive_losses": 1
+      },
+      "short": {
+        "trades": 3,
+        "win_rate": 0.3333333333333333,
+        "net_pnl": 30.396672797410893,
+        "mean_net_pnl": 10.13222426580363,
+        "profit_factor": 1.2503693222280097,
+        "max_consecutive_losses": 1
+      },
+      "scores": {
+        "50-59": {
+          "trades": 0,
+          "win_rate": null,
+          "net_pnl": 0,
+          "mean_net_pnl": null,
+          "profit_factor": null,
+          "max_consecutive_losses": 0
+        },
+        "60-69": {
+          "trades": 0,
+          "win_rate": null,
+          "net_pnl": 0,
+          "mean_net_pnl": null,
+          "profit_factor": null,
+          "max_consecutive_losses": 0
+        },
+        "70-79": {
+          "trades": 0,
+          "win_rate": null,
+          "net_pnl": 0,
+          "mean_net_pnl": null,
+          "profit_factor": null,
+          "max_consecutive_losses": 0
+        },
+        "80+": {
+          "trades": 4,
+          "win_rate": 0.25,
+          "net_pnl": -22.92075220209786,
+          "mean_net_pnl": -5.730188050524465,
+          "profit_factor": 0.8688179518613397,
+          "max_consecutive_losses": 2
+        }
+      }
+    },
+    "rejections": {
+      "rsi_filter": 669,
+      "volume_filter": 67,
+      "filled": 4,
+      "late_entry": 25,
+      "existing_position": 3
+    }
+  }
+}

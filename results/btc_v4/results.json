@@ -1,0 +1,2484 @@
+{
+  "v2_control": {
+    "2024": {
+      "trades": 55,
+      "win_rate": 0.38181818181818183,
+      "net_pnl": 1396.2225607013993,
+      "mean_net_pnl": 25.385864740025443,
+      "profit_factor": 1.6664608627673307,
+      "max_consecutive_losses": 10,
+      "return_pct": 13.962225607014012,
+      "max_drawdown_pct": 7.290712041497449,
+      "fees": 122.47237613660498,
+      "sharpe_daily": 1.4670671361869758,
+      "exposure_pct": 69.75466757741349,
+      "end_equity": 11396.2225607014,
+      "top5_share_of_gross_profit": 0.6745630970224739,
+      "net_pnl_without_best5": -958.8142380483578,
+      "net_change_without_best5_months": -796.8770981837679,
+      "worst_month_cash_change": -256.40010204561986,
+      "sides": {
+        "long": {
+          "trades": 31,
+          "net_pnl": 1776.667680191279,
+          "win_rate": 0.4838709677419355,
+          "mean_win_r": 1.7912122515831224,
+          "mean_loss_r": -0.595534758696888,
+          "mean_hold_hours": 128.1048387096774
+        },
+        "short": {
+          "trades": 24,
+          "net_pnl": -380.4451194898797,
+          "win_rate": 0.25,
+          "mean_win_r": 1.1357367624870944,
+          "mean_loss_r": -0.574335810341795,
+          "mean_hold_hours": 90.40625
+        }
+      }
+    },
+    "2025": {
+      "trades": 60,
+      "win_rate": 0.35,
+      "net_pnl": 303.309352818506,
+      "mean_net_pnl": 5.055155880308433,
+      "profit_factor": 1.1418108925607047,
+      "max_consecutive_losses": 6,
+      "return_pct": 3.033093528185038,
+      "max_drawdown_pct": 5.971255347456362,
+      "fees": 158.23258299150098,
+      "sharpe_daily": 0.3954168091143631,
+      "exposure_pct": 66.72374429223744,
+      "end_equity": 10303.309352818504,
+      "top5_share_of_gross_profit": 0.6488480216644683,
+      "net_pnl_without_best5": -1281.2677586538034,
+      "net_change_without_best5_months": -1194.6901668130595,
+      "worst_month_cash_change": -391.81513363154045,
+      "sides": {
+        "long": {
+          "trades": 24,
+          "net_pnl": 602.7521853267668,
+          "win_rate": 0.4166666666666667,
+          "mean_win_r": 1.2336223630894267,
+          "mean_loss_r": -0.4405635736785296,
+          "mean_hold_hours": 113.70833333333333
+        },
+        "short": {
+          "trades": 36,
+          "net_pnl": -299.44283250826084,
+          "win_rate": 0.3055555555555556,
+          "mean_win_r": 1.0806105059169804,
+          "mean_loss_r": -0.58821236604822,
+          "mean_hold_hours": 86.97222222222223
+        }
+      }
+    },
+    "2026": {
+      "trades": 52,
+      "win_rate": 0.36538461538461536,
+      "net_pnl": 1627.2041873371652,
+      "mean_net_pnl": 31.292388218022406,
+      "profit_factor": 1.9437117536603847,
+      "max_consecutive_losses": 8,
+      "return_pct": 16.272041873371656,
+      "max_drawdown_pct": 5.922187413765567,
+      "fees": 157.855220524843,
+      "sharpe_daily": 1.6276108282935617,
+      "exposure_pct": 69.49058308430051,
+      "end_equity": 11627.204187337165,
+      "top5_share_of_gross_profit": 0.7424367278243874,
+      "net_pnl_without_best5": -861.0457277075436,
+      "net_change_without_best5_months": -1042.1944603052398,
+      "worst_month_cash_change": -383.2394685172094,
+      "sides": {
+        "long": {
+          "trades": 27,
+          "net_pnl": 976.0004854562351,
+          "win_rate": 0.37037037037037035,
+          "mean_win_r": 1.656293974977815,
+          "mean_loss_r": -0.43191117465428136,
+          "mean_hold_hours": 90.9074074074074
+        },
+        "short": {
+          "trades": 25,
+          "net_pnl": 651.2037018809301,
+          "win_rate": 0.36,
+          "mean_win_r": 1.6690970185901703,
+          "mean_loss_r": -0.5201645956434507,
+          "mean_hold_hours": 102.32
+        }
+      }
+    },
+    "full": {
+      "trades": 166,
+      "win_rate": 0.3614457831325301,
+      "net_pnl": 3561.964159681968,
+      "mean_net_pnl": 21.457615419770892,
+      "profit_factor": 1.5465196123683225,
+      "max_consecutive_losses": 10,
+      "return_pct": 35.619641596819626,
+      "max_drawdown_pct": 7.290712041497449,
+      "fees": 483.28938626805297,
+      "sharpe_daily": 1.1580007962557743,
+      "exposure_pct": 68.33073953554177,
+      "end_equity": 13561.964159681964,
+      "top5_share_of_gross_profit": 0.39695942436473375,
+      "net_pnl_without_best5": -439.1905362327252,
+      "net_change_without_best5_months": -664.2922687466962,
+      "worst_month_cash_change": -447.48779197309705,
+      "sides": {
+        "long": {
+          "trades": 82,
+          "net_pnl": 3440.1852760172706,
+          "win_rate": 0.4146341463414634,
+          "mean_win_r": 1.6156169093063493,
+          "mean_loss_r": -0.49117604227903483,
+          "mean_hold_hours": 111.10670731707317
+        },
+        "short": {
+          "trades": 84,
+          "net_pnl": 121.77888366469767,
+          "win_rate": 0.30952380952380953,
+          "mean_win_r": 1.2970388195123417,
+          "mean_loss_r": -0.5629090268103014,
+          "mean_hold_hours": 93.27083333333333
+        }
+      }
+    }
+  },
+  "resume_stop2_vol0": {
+    "2024": {
+      "trades": 68,
+      "win_rate": 0.25,
+      "net_pnl": 4032.6260315329678,
+      "mean_net_pnl": 59.303323993131876,
+      "profit_factor": 1.7260044909305503,
+      "max_consecutive_losses": 14,
+      "return_pct": 40.3262603153298,
+      "max_drawdown_pct": 21.477462011985835,
+      "fees": 515.7523630570472,
+      "sharpe_daily": 1.6892308457103546,
+      "exposure_pct": 45.58572404371585,
+      "end_equity": 14032.62603153298,
+      "top5_share_of_gross_profit": 0.7194445353262844,
+      "net_pnl_without_best5": -2864.8131800003425,
+      "net_change_without_best5_months": -2303.835412338578,
+      "worst_month_cash_change": -674.7000359136182,
+      "sides": {
+        "long": {
+          "trades": 38,
+          "net_pnl": 4781.446013377536,
+          "win_rate": 0.2894736842105263,
+          "mean_win_r": 6.541522281325167,
+          "mean_loss_r": -0.9068752426596193,
+          "mean_hold_hours": 71.32894736842105
+        },
+        "short": {
+          "trades": 30,
+          "net_pnl": -748.8199818445682,
+          "win_rate": 0.2,
+          "mean_win_r": 2.7633174842817145,
+          "mean_loss_r": -0.9480744482475338,
+          "mean_hold_hours": 43.69166666666667
+        }
+      }
+    },
+    "2025": {
+      "trades": 73,
+      "win_rate": 0.1643835616438356,
+      "net_pnl": -792.3416448830237,
+      "mean_net_pnl": -10.853995135383887,
+      "profit_factor": 0.853790906705075,
+      "max_consecutive_losses": 10,
+      "return_pct": -7.9234164488301335,
+      "max_drawdown_pct": 17.529501985815177,
+      "fees": 575.4364888230562,
+      "sharpe_daily": -0.3242396105761855,
+      "exposure_pct": 34.897260273972606,
+      "end_equity": 9207.658355116986,
+      "top5_share_of_gross_profit": 0.7846000016257642,
+      "net_pnl_without_best5": -4422.603301354854,
+      "net_change_without_best5_months": -3422.7077165749033,
+      "worst_month_cash_change": -645.0149791386593,
+      "sides": {
+        "long": {
+          "trades": 30,
+          "net_pnl": 948.3013733574463,
+          "win_rate": 0.2,
+          "mean_win_r": 5.671784135421307,
+          "mean_loss_r": -0.8064030874225053,
+          "mean_hold_hours": 57.09166666666667
+        },
+        "short": {
+          "trades": 43,
+          "net_pnl": -1740.64301824047,
+          "win_rate": 0.13953488372093023,
+          "mean_win_r": 3.215705814582199,
+          "mean_loss_r": -0.9789526826847679,
+          "mean_hold_hours": 31.686046511627907
+        }
+      }
+    },
+    "2026": {
+      "trades": 64,
+      "win_rate": 0.25,
+      "net_pnl": 1069.0035092480168,
+      "mean_net_pnl": 16.703179832000263,
+      "profit_factor": 1.2362672522626046,
+      "max_consecutive_losses": 10,
+      "return_pct": 10.690035092480166,
+      "max_drawdown_pct": 14.837675692162644,
+      "fees": 538.0616341860127,
+      "sharpe_daily": 0.6427231955539228,
+      "exposure_pct": 43.08499548266037,
+      "end_equity": 11069.003509248016,
+      "top5_share_of_gross_profit": 0.8407884530653024,
+      "net_pnl_without_best5": -3633.9935185921113,
+      "net_change_without_best5_months": -2639.471696120694,
+      "worst_month_cash_change": -863.5214877503386,
+      "sides": {
+        "long": {
+          "trades": 31,
+          "net_pnl": 178.7656297503453,
+          "win_rate": 0.1935483870967742,
+          "mean_win_r": 5.161914627000773,
+          "mean_loss_r": -0.873098652312031,
+          "mean_hold_hours": 45.306451612903224
+        },
+        "short": {
+          "trades": 33,
+          "net_pnl": 890.2378794976714,
+          "win_rate": 0.30303030303030304,
+          "mean_win_r": 3.150052890560898,
+          "mean_loss_r": -0.9349369261543832,
+          "mean_hold_hours": 51.85606060606061
+        }
+      }
+    },
+    "full": {
+      "trades": 202,
+      "win_rate": 0.23267326732673269,
+      "net_pnl": 5017.805459796569,
+      "mean_net_pnl": 24.840621088101827,
+      "profit_factor": 1.2646271901011557,
+      "max_consecutive_losses": 14,
+      "return_pct": 50.17805459796585,
+      "max_drawdown_pct": 21.477462011985835,
+      "fees": 2057.1492244935307,
+      "sharpe_daily": 0.7778772773097667,
+      "exposure_pct": 42.01245022939952,
+      "end_equity": 15017.805459796586,
+      "top5_share_of_gross_profit": 0.40435016938714047,
+      "net_pnl_without_best5": -4678.3484124983115,
+      "net_change_without_best5_months": -5440.439160467489,
+      "worst_month_cash_change": -1171.574013388019,
+      "sides": {
+        "long": {
+          "trades": 98,
+          "net_pnl": 6462.425501719198,
+          "win_rate": 0.23469387755102042,
+          "mean_win_r": 5.92517545487648,
+          "mean_loss_r": -0.8622236261033417,
+          "mean_hold_hours": 58.640306122448976
+        },
+        "short": {
+          "trades": 104,
+          "net_pnl": -1444.620041922629,
+          "win_rate": 0.23076923076923078,
+          "mean_win_r": 2.8415532511812422,
+          "mean_loss_r": -0.9559823164853505,
+          "mean_hold_hours": 45.16346153846154
+        }
+      }
+    }
+  },
+  "resume_stop2_vol1.2": {
+    "2024": {
+      "trades": 59,
+      "win_rate": 0.23728813559322035,
+      "net_pnl": 3041.7931265906363,
+      "mean_net_pnl": 51.55581570492604,
+      "profit_factor": 1.5944273977710839,
+      "max_consecutive_losses": 16,
+      "return_pct": 30.41793126590635,
+      "max_drawdown_pct": 22.110428748430156,
+      "fees": 471.8234752253859,
+      "sharpe_daily": 1.3982317520442036,
+      "exposure_pct": 35.32559198542805,
+      "end_equity": 13041.793126590635,
+      "top5_share_of_gross_profit": 0.8047196018942653,
+      "net_pnl_without_best5": -3523.894016595378,
+      "net_change_without_best5_months": -2927.2360709595705,
+      "worst_month_cash_change": -667.9823179041196,
+      "sides": {
+        "long": {
+          "trades": 34,
+          "net_pnl": 3170.2742945636314,
+          "win_rate": 0.23529411764705882,
+          "mean_win_r": 6.996797992572216,
+          "mean_loss_r": -0.9966735021001146,
+          "mean_hold_hours": 55.69117647058823
+        },
+        "short": {
+          "trades": 25,
+          "net_pnl": -128.48116797299497,
+          "win_rate": 0.24,
+          "mean_win_r": 3.779934059867603,
+          "mean_loss_r": -0.9580617016456111,
+          "mean_hold_hours": 48.97
+        }
+      }
+    },
+    "2025": {
+      "trades": 64,
+      "win_rate": 0.234375,
+      "net_pnl": 1327.1087159092965,
+      "mean_net_pnl": 20.736073686082758,
+      "profit_factor": 1.2773891050800135,
+      "max_consecutive_losses": 8,
+      "return_pct": 13.271087159093021,
+      "max_drawdown_pct": 12.41719163031556,
+      "fees": 553.2386071607151,
+      "sharpe_daily": 0.7162803888166768,
+      "exposure_pct": 34.06678082191781,
+      "end_equity": 11327.108715909302,
+      "top5_share_of_gross_profit": 0.8189800322146047,
+      "net_pnl_without_best5": -3678.00124173724,
+      "net_change_without_best5_months": -2377.4903573717893,
+      "worst_month_cash_change": -595.5357414951995,
+      "sides": {
+        "long": {
+          "trades": 25,
+          "net_pnl": 1055.7909292214617,
+          "win_rate": 0.28,
+          "mean_win_r": 4.5394870054973415,
+          "mean_loss_r": -0.9232703707711223,
+          "mean_hold_hours": 57.2
+        },
+        "short": {
+          "trades": 39,
+          "net_pnl": 271.31778668783477,
+          "win_rate": 0.20512820512820512,
+          "mean_win_r": 4.857403249060775,
+          "mean_loss_r": -0.9688449850403426,
+          "mean_hold_hours": 40.26282051282051
+        }
+      }
+    },
+    "2026": {
+      "trades": 53,
+      "win_rate": 0.16981132075471697,
+      "net_pnl": -2376.364514070424,
+      "mean_net_pnl": -44.83706630321554,
+      "profit_factor": 0.2776080570860161,
+      "max_consecutive_losses": 18,
+      "return_pct": -23.76364514070429,
+      "max_drawdown_pct": 26.4516380274052,
+      "fees": 355.8857922824479,
+      "sharpe_daily": -2.177796816070461,
+      "exposure_pct": 26.120647717006047,
+      "end_equity": 7623.635485929571,
+      "top5_share_of_gross_profit": 0.8512173717526768,
+      "net_pnl_without_best5": -3153.707545741553,
+      "net_change_without_best5_months": -1766.8806778346325,
+      "worst_month_cash_change": -481.5850789293827,
+      "sides": {
+        "long": {
+          "trades": 27,
+          "net_pnl": -520.6029324237693,
+          "win_rate": 0.25925925925925924,
+          "mean_win_r": 1.3915668553914744,
+          "mean_loss_r": -0.8801870748414069,
+          "mean_hold_hours": 41.342592592592595
+        },
+        "short": {
+          "trades": 26,
+          "net_pnl": -1855.7615816466543,
+          "win_rate": 0.07692307692307693,
+          "mean_win_r": 0.6288187986540394,
+          "mean_loss_r": -0.9511230675165383,
+          "mean_hold_hours": 29.85576923076923
+        }
+      }
+    },
+    "full": {
+      "trades": 176,
+      "win_rate": 0.2159090909090909,
+      "net_pnl": 1262.2891016140668,
+      "mean_net_pnl": 7.172097168261743,
+      "profit_factor": 1.0778237126328736,
+      "max_consecutive_losses": 18,
+      "return_pct": 12.622891016140736,
+      "max_drawdown_pct": 31.033024878537518,
+      "fees": 1719.4362082900052,
+      "sharpe_daily": 0.3159177146398381,
+      "exposure_pct": 32.20284172443762,
+      "end_equity": 11262.289101614073,
+      "top5_share_of_gross_profit": 0.4750119236521054,
+      "net_pnl_without_best5": -7041.936376395229,
+      "net_change_without_best5_months": -7903.420692115869,
+      "worst_month_cash_change": -776.7809975924538,
+      "sides": {
+        "long": {
+          "trades": 86,
+          "net_pnl": 3778.5596726258295,
+          "win_rate": 0.2558139534883721,
+          "mean_win_r": 4.431443680309066,
+          "mean_loss_r": -0.9396268628954894,
+          "mean_hold_hours": 51.625
+        },
+        "short": {
+          "trades": 90,
+          "net_pnl": -2516.270571011763,
+          "win_rate": 0.17777777777777778,
+          "mean_win_r": 3.924779246812493,
+          "mean_loss_r": -0.9603286552420831,
+          "mean_hold_hours": 39.675
+        }
+      }
+    }
+  },
+  "resume_stop3_vol0": {
+    "2024": {
+      "trades": 63,
+      "win_rate": 0.31746031746031744,
+      "net_pnl": 1867.8983287108204,
+      "mean_net_pnl": 29.649179820806673,
+      "profit_factor": 1.4452937121317784,
+      "max_consecutive_losses": 12,
+      "return_pct": 18.67898328710822,
+      "max_drawdown_pct": 15.539309383216704,
+      "fees": 289.18552169918513,
+      "sharpe_daily": 1.1856477516543966,
+      "exposure_pct": 51.12989526411658,
+      "end_equity": 11867.898328710822,
+      "top5_share_of_gross_profit": 0.676662736621544,
+      "net_pnl_without_best5": -2234.473724739013,
+      "net_change_without_best5_months": -1704.2935439727607,
+      "worst_month_cash_change": -775.2983273719783,
+      "sides": {
+        "long": {
+          "trades": 34,
+          "net_pnl": 2923.3235597613116,
+          "win_rate": 0.4117647058823529,
+          "mean_win_r": 3.3563971972182896,
+          "mean_loss_r": -0.906042779450372,
+          "mean_hold_hours": 87.16911764705883
+        },
+        "short": {
+          "trades": 29,
+          "net_pnl": -1055.4252310504912,
+          "win_rate": 0.20689655172413793,
+          "mean_win_r": 1.8518651064874625,
+          "mean_loss_r": -0.9061017450215978,
+          "mean_hold_hours": 53.21551724137931
+        }
+      }
+    },
+    "2025": {
+      "trades": 66,
+      "win_rate": 0.2878787878787879,
+      "net_pnl": 139.7023220542795,
+      "mean_net_pnl": 2.1167018493072653,
+      "profit_factor": 1.0333239543568271,
+      "max_consecutive_losses": 9,
+      "return_pct": 1.3970232205428257,
+      "max_drawdown_pct": 12.13373787489419,
+      "fees": 379.757336493738,
+      "sharpe_daily": 0.16607377247260363,
+      "exposure_pct": 49.574771689497716,
+      "end_equity": 10139.702322054281,
+      "top5_share_of_gross_profit": 0.6750021415617458,
+      "net_pnl_without_best5": -2784.37425396608,
+      "net_change_without_best5_months": -2378.3598326333995,
+      "worst_month_cash_change": -603.5732011128748,
+      "sides": {
+        "long": {
+          "trades": 27,
+          "net_pnl": -216.22748742294024,
+          "win_rate": 0.2222222222222222,
+          "mean_win_r": 2.2716492724828186,
+          "mean_loss_r": -0.756557049426878,
+          "mean_hold_hours": 69.87962962962963
+        },
+        "short": {
+          "trades": 39,
+          "net_pnl": 355.92980947721975,
+          "win_rate": 0.3333333333333333,
+          "mean_win_r": 2.278422641264761,
+          "mean_loss_r": -0.9701527710322931,
+          "mean_hold_hours": 63.3974358974359
+        }
+      }
+    },
+    "2026": {
+      "trades": 60,
+      "win_rate": 0.2833333333333333,
+      "net_pnl": 1069.5132513830324,
+      "mean_net_pnl": 17.825220856383872,
+      "profit_factor": 1.2878056158307813,
+      "max_consecutive_losses": 8,
+      "return_pct": 10.695132513830385,
+      "max_drawdown_pct": 13.212194808278833,
+      "fees": 369.590553670991,
+      "sharpe_daily": 0.7153423509279592,
+      "exposure_pct": 48.3946069914518,
+      "end_equity": 11069.51325138304,
+      "top5_share_of_gross_profit": 0.8160083848075173,
+      "net_pnl_without_best5": -2835.5838926485676,
+      "net_change_without_best5_months": -2239.3257477072475,
+      "worst_month_cash_change": -616.1082338667784,
+      "sides": {
+        "long": {
+          "trades": 30,
+          "net_pnl": 773.3994197343018,
+          "win_rate": 0.23333333333333334,
+          "mean_win_r": 3.6924497533628786,
+          "mean_loss_r": -0.7675289295221595,
+          "mean_hold_hours": 59.583333333333336
+        },
+        "short": {
+          "trades": 30,
+          "net_pnl": 296.11383164873075,
+          "win_rate": 0.3333333333333333,
+          "mean_win_r": 2.167455375226458,
+          "mean_loss_r": -0.8837684133319779,
+          "mean_hold_hours": 56.975
+        }
+      }
+    },
+    "full": {
+      "trades": 185,
+      "win_rate": 0.3027027027027027,
+      "net_pnl": 3705.561016821911,
+      "mean_net_pnl": 20.030059550388707,
+      "profit_factor": 1.2778535363510626,
+      "max_consecutive_losses": 12,
+      "return_pct": 37.055610168219054,
+      "max_drawdown_pct": 15.539309383216704,
+      "fees": 1166.4838211661427,
+      "sharpe_daily": 0.7443481229631114,
+      "exposure_pct": 49.50785213331447,
+      "end_equity": 13705.561016821906,
+      "top5_share_of_gross_profit": 0.3948442015700367,
+      "net_pnl_without_best5": -3023.351531689591,
+      "net_change_without_best5_months": -3349.2880579377725,
+      "worst_month_cash_change": -775.2983273719783,
+      "sides": {
+        "long": {
+          "trades": 90,
+          "net_pnl": 3466.464268879084,
+          "win_rate": 0.28888888888888886,
+          "mean_win_r": 3.2762582029411558,
+          "mean_loss_r": -0.8072143594684617,
+          "mean_hold_hours": 72.6361111111111
+        },
+        "short": {
+          "trades": 95,
+          "net_pnl": 239.0967479428271,
+          "win_rate": 0.3157894736842105,
+          "mean_win_r": 2.0844166551860783,
+          "mean_loss_r": -0.919072006907322,
+          "mean_hold_hours": 60.59473684210526
+        }
+      }
+    }
+  },
+  "resume_stop3_vol1.2": {
+    "2024": {
+      "trades": 56,
+      "win_rate": 0.2857142857142857,
+      "net_pnl": 758.8282215671957,
+      "mean_net_pnl": 13.550503956557066,
+      "profit_factor": 1.1990197804752332,
+      "max_consecutive_losses": 13,
+      "return_pct": 7.588282215672049,
+      "max_drawdown_pct": 17.811543322318503,
+      "fees": 272.1953734548211,
+      "sharpe_daily": 0.5555231897279835,
+      "exposure_pct": 38.396516393442624,
+      "end_equity": 10758.828221567204,
+      "top5_share_of_gross_profit": 0.7296577720376272,
+      "net_pnl_without_best5": -2576.9163816349014,
+      "net_change_without_best5_months": -2240.073119571178,
+      "worst_month_cash_change": -636.3185277494595,
+      "sides": {
+        "long": {
+          "trades": 31,
+          "net_pnl": 1282.1273303892078,
+          "win_rate": 0.3225806451612903,
+          "mean_win_r": 3.4001342515684216,
+          "mean_loss_r": -0.9700492018971115,
+          "mean_hold_hours": 65.87096774193549
+        },
+        "short": {
+          "trades": 25,
+          "net_pnl": -523.2991088220123,
+          "win_rate": 0.24,
+          "mean_win_r": 2.331251990747482,
+          "mean_loss_r": -0.8947609276771562,
+          "mean_hold_hours": 53.79
+        }
+      }
+    },
+    "2025": {
+      "trades": 59,
+      "win_rate": 0.3050847457627119,
+      "net_pnl": 1104.567716139095,
+      "mean_net_pnl": 18.72148671422195,
+      "profit_factor": 1.2783938768861238,
+      "max_consecutive_losses": 6,
+      "return_pct": 11.045677161390932,
+      "max_drawdown_pct": 10.703931033127557,
+      "fees": 389.6664627549172,
+      "sharpe_daily": 0.727931888129871,
+      "exposure_pct": 43.53025114155251,
+      "end_equity": 11104.567716139094,
+      "top5_share_of_gross_profit": 0.7543112916942617,
+      "net_pnl_without_best5": -2721.458640818835,
+      "net_change_without_best5_months": -2108.4372590995263,
+      "worst_month_cash_change": -627.7638651478737,
+      "sides": {
+        "long": {
+          "trades": 22,
+          "net_pnl": 595.6431557038355,
+          "win_rate": 0.3181818181818182,
+          "mean_win_r": 2.485866488877531,
+          "mean_loss_r": -0.7967773019105693,
+          "mean_hold_hours": 78.32954545454545
+        },
+        "short": {
+          "trades": 37,
+          "net_pnl": 508.9245604352595,
+          "win_rate": 0.2972972972972973,
+          "mean_win_r": 2.7949255138121143,
+          "mean_loss_r": -0.9391966748766772,
+          "mean_hold_hours": 56.88513513513514
+        }
+      }
+    },
+    "2026": {
+      "trades": 47,
+      "win_rate": 0.3404255319148936,
+      "net_pnl": 449.6167031194899,
+      "mean_net_pnl": 9.566312832329572,
+      "profit_factor": 1.1827584457163427,
+      "max_consecutive_losses": 6,
+      "return_pct": 4.496167031194864,
+      "max_drawdown_pct": 8.187060092813958,
+      "fees": 281.641445088524,
+      "sharpe_daily": 0.4228943100412355,
+      "exposure_pct": 43.87031760372507,
+      "end_equity": 10449.616703119485,
+      "top5_share_of_gross_profit": 0.8048927806086503,
+      "net_pnl_without_best5": -1892.4489807188447,
+      "net_change_without_best5_months": -1417.7299248060735,
+      "worst_month_cash_change": -527.3498831816978,
+      "sides": {
+        "long": {
+          "trades": 25,
+          "net_pnl": -342.67752750944817,
+          "win_rate": 0.28,
+          "mean_win_r": 1.3020062118639524,
+          "mean_loss_r": -0.6875621472827144,
+          "mean_hold_hours": 66.04
+        },
+        "short": {
+          "trades": 22,
+          "net_pnl": 792.2942306289381,
+          "win_rate": 0.4090909090909091,
+          "mean_win_r": 2.1603532640719876,
+          "mean_loss_r": -0.8674020214650804,
+          "mean_hold_hours": 68.95454545454545
+        }
+      }
+    },
+    "full": {
+      "trades": 162,
+      "win_rate": 0.30864197530864196,
+      "net_pnl": 2485.1057556385435,
+      "mean_net_pnl": 15.340158985423109,
+      "profit_factor": 1.2254927352078346,
+      "max_consecutive_losses": 13,
+      "return_pct": 24.85105755638535,
+      "max_drawdown_pct": 17.811543322318503,
+      "fees": 1027.8993338535024,
+      "sharpe_daily": 0.581036151867308,
+      "exposure_pct": 41.806293833498394,
+      "end_equity": 12485.105755638535,
+      "top5_share_of_gross_profit": 0.3854625904505025,
+      "net_pnl_without_best5": -2720.9078332273934,
+      "net_change_without_best5_months": -3392.152648155299,
+      "worst_month_cash_change": -675.1464227066826,
+      "sides": {
+        "long": {
+          "trades": 78,
+          "net_pnl": 1513.9505756724475,
+          "win_rate": 0.3076923076923077,
+          "mean_win_r": 2.5215188092031084,
+          "mean_loss_r": -0.827755767029384,
+          "mean_hold_hours": 69.43910256410257
+        },
+        "short": {
+          "trades": 84,
+          "net_pnl": 971.1551799660961,
+          "win_rate": 0.30952380952380953,
+          "mean_win_r": 2.468264306656386,
+          "mean_loss_r": -0.908548231925959,
+          "mean_hold_hours": 59.125
+        }
+      }
+    }
+  },
+  "resume_long": {
+    "2024": {
+      "trades": 40,
+      "win_rate": 0.35,
+      "net_pnl": 5804.568907549636,
+      "mean_net_pnl": 145.11422268874088,
+      "profit_factor": 2.971921076420849,
+      "max_consecutive_losses": 8,
+      "return_pct": 58.04568907549634,
+      "max_drawdown_pct": 12.49019977607012,
+      "fees": 336.75506529237487,
+      "sharpe_daily": 2.436707656593217,
+      "exposure_pct": 34.86452641165756,
+      "end_equity": 15804.568907549634,
+      "top5_share_of_gross_profit": 0.7793373227125413,
+      "net_pnl_without_best5": -1013.2143329475548,
+      "net_change_without_best5_months": -572.7388614325337,
+      "worst_month_cash_change": -469.0679679995428,
+      "sides": {
+        "long": {
+          "trades": 40,
+          "net_pnl": 5804.568907549636,
+          "win_rate": 0.35,
+          "mean_win_r": 5.44805547455239,
+          "mean_loss_r": -0.9032935212234509,
+          "mean_hold_hours": 76.8125
+        },
+        "short": {
+          "trades": 0,
+          "net_pnl": 0,
+          "win_rate": null,
+          "mean_win_r": null,
+          "mean_loss_r": null,
+          "mean_hold_hours": null
+        }
+      }
+    },
+    "2025": {
+      "trades": 36,
+      "win_rate": 0.16666666666666666,
+      "net_pnl": -650.4753505466585,
+      "mean_net_pnl": -18.06875973740718,
+      "profit_factor": 0.7282318979554615,
+      "max_consecutive_losses": 10,
+      "return_pct": -6.5047535054665655,
+      "max_drawdown_pct": 12.037309393994155,
+      "fees": 268.784779652667,
+      "sharpe_daily": -0.47380274535867206,
+      "exposure_pct": 17.16038812785388,
+      "end_equity": 9349.524649453344,
+      "top5_share_of_gross_profit": 0.9317044768345949,
+      "net_pnl_without_best5": -2274.453728566599,
+      "net_change_without_best5_months": -1418.0321213549068,
+      "worst_month_cash_change": -337.2042431196696,
+      "sides": {
+        "long": {
+          "trades": 36,
+          "net_pnl": -650.4753505466585,
+          "win_rate": 0.16666666666666666,
+          "mean_win_r": 3.7693067238584583,
+          "mean_loss_r": -0.8700014769359647,
+          "mean_hold_hours": 42.00694444444444
+        },
+        "short": {
+          "trades": 0,
+          "net_pnl": 0,
+          "win_rate": null,
+          "mean_win_r": null,
+          "mean_loss_r": null,
+          "mean_hold_hours": null
+        }
+      }
+    },
+    "2026": {
+      "trades": 34,
+      "win_rate": 0.23529411764705882,
+      "net_pnl": 912.992751563415,
+      "mean_net_pnl": 26.852727987159266,
+      "profit_factor": 1.4183070774969309,
+      "max_consecutive_losses": 11,
+      "return_pct": 9.129927515634106,
+      "max_drawdown_pct": 10.549240374754786,
+      "fees": 288.5365469706029,
+      "sharpe_daily": 0.6758337798045907,
+      "exposure_pct": 23.41024393634026,
+      "end_equity": 10912.99275156341,
+      "top5_share_of_gross_profit": 0.8931751401905906,
+      "net_pnl_without_best5": -1851.9046085788145,
+      "net_change_without_best5_months": -972.6354658048349,
+      "worst_month_cash_change": -528.9308294609928,
+      "sides": {
+        "long": {
+          "trades": 34,
+          "net_pnl": 912.992751563415,
+          "win_rate": 0.23529411764705882,
+          "mean_win_r": 4.860523093564367,
+          "mean_loss_r": -0.8779794733769529,
+          "mean_hold_hours": 49.786764705882355
+        },
+        "short": {
+          "trades": 0,
+          "net_pnl": 0,
+          "win_rate": null,
+          "mean_win_r": null,
+          "mean_loss_r": null,
+          "mean_hold_hours": null
+        }
+      }
+    },
+    "full": {
+      "trades": 109,
+      "win_rate": 0.25688073394495414,
+      "net_pnl": 6374.089742101442,
+      "mean_net_pnl": 58.477887542215065,
+      "profit_factor": 1.6491648367143161,
+      "max_consecutive_losses": 11,
+      "return_pct": 63.74089742101441,
+      "max_drawdown_pct": 12.974542475111672,
+      "fees": 1184.3813332926072,
+      "sharpe_daily": 1.115539042567037,
+      "exposure_pct": 25.384522101178327,
+      "end_equity": 16374.089742101442,
+      "top5_share_of_gross_profit": 0.5715210104853349,
+      "net_pnl_without_best5": -2880.5486317652512,
+      "net_change_without_best5_months": -2592.1090969381203,
+      "worst_month_cash_change": -793.6018981828402,
+      "sides": {
+        "long": {
+          "trades": 109,
+          "net_pnl": 6374.089742101442,
+          "win_rate": 0.25688073394495414,
+          "mean_win_r": 4.920457204835683,
+          "mean_loss_r": -0.8754059826252505,
+          "mean_hold_hours": 57.862385321100916
+        },
+        "short": {
+          "trades": 0,
+          "net_pnl": 0,
+          "win_rate": null,
+          "mean_win_r": null,
+          "mean_loss_r": null,
+          "mean_hold_hours": null
+        }
+      }
+    }
+  },
+  "dip_stop2_vol0": {
+    "2024": {
+      "trades": 55,
+      "win_rate": 0.23636363636363636,
+      "net_pnl": 1141.9653092052665,
+      "mean_net_pnl": 20.763005621913937,
+      "profit_factor": 1.2534863866315324,
+      "max_consecutive_losses": 10,
+      "return_pct": 11.419653092052616,
+      "max_drawdown_pct": 14.866886436224602,
+      "fees": 401.26224474674785,
+      "sharpe_daily": 0.687455465296096,
+      "exposure_pct": 28.677140255009107,
+      "end_equity": 11141.965309205261,
+      "top5_share_of_gross_profit": 0.6739470300287712,
+      "net_pnl_without_best5": -2663.8144833948227,
+      "net_change_without_best5_months": -1330.250804512414,
+      "worst_month_cash_change": -643.9573717013172,
+      "sides": {
+        "long": {
+          "trades": 34,
+          "net_pnl": 560.2912727345873,
+          "win_rate": 0.23529411764705882,
+          "mean_win_r": 4.14747249905616,
+          "mean_loss_r": -0.9658750332008691,
+          "mean_hold_hours": 40.595588235294116
+        },
+        "short": {
+          "trades": 21,
+          "net_pnl": 581.6740364706792,
+          "win_rate": 0.23809523809523808,
+          "mean_win_r": 4.327799226070389,
+          "mean_loss_r": -0.9536028637509993,
+          "mean_hold_hours": 54.88095238095238
+        }
+      }
+    },
+    "2025": {
+      "trades": 58,
+      "win_rate": 0.20689655172413793,
+      "net_pnl": 938.1667119990865,
+      "mean_net_pnl": 16.175288137915285,
+      "profit_factor": 1.2284223673881254,
+      "max_consecutive_losses": 16,
+      "return_pct": 9.381667119990912,
+      "max_drawdown_pct": 13.387983311224039,
+      "fees": 448.1813109829389,
+      "sharpe_daily": 0.578702631297714,
+      "exposure_pct": 36.135844748858446,
+      "end_equity": 10938.16671199909,
+      "top5_share_of_gross_profit": 0.8546553310255159,
+      "net_pnl_without_best5": -3373.8467942244447,
+      "net_change_without_best5_months": -2208.8118192943493,
+      "worst_month_cash_change": -635.9464641823106,
+      "sides": {
+        "long": {
+          "trades": 23,
+          "net_pnl": 1197.761721030598,
+          "win_rate": 0.21739130434782608,
+          "mean_win_r": 5.7864217963514815,
+          "mean_loss_r": -0.8588794414677011,
+          "mean_hold_hours": 70.65217391304348
+        },
+        "short": {
+          "trades": 35,
+          "net_pnl": -259.59500903151144,
+          "win_rate": 0.2,
+          "mean_win_r": 3.5183188580004305,
+          "mean_loss_r": -0.9674381920450501,
+          "mean_hold_hours": 44.42857142857143
+        }
+      }
+    },
+    "2026": {
+      "trades": 50,
+      "win_rate": 0.24,
+      "net_pnl": 1194.704857820001,
+      "mean_net_pnl": 23.894097156400022,
+      "profit_factor": 1.3047873091341335,
+      "max_consecutive_losses": 14,
+      "return_pct": 11.947048578200015,
+      "max_drawdown_pct": 15.389616292971231,
+      "fees": 437.574885634023,
+      "sharpe_daily": 0.7677990445003681,
+      "exposure_pct": 33.633331016748905,
+      "end_equity": 11194.704857820001,
+      "top5_share_of_gross_profit": 0.8450581556755838,
+      "net_pnl_without_best5": -3127.347974209846,
+      "net_change_without_best5_months": -2179.9118411373474,
+      "worst_month_cash_change": -1103.4152476974177,
+      "sides": {
+        "long": {
+          "trades": 26,
+          "net_pnl": -636.8531457345265,
+          "win_rate": 0.23076923076923078,
+          "mean_win_r": 2.1621238591511265,
+          "mean_loss_r": -0.9310244969830186,
+          "mean_hold_hours": 44.74038461538461
+        },
+        "short": {
+          "trades": 24,
+          "net_pnl": 1831.5580035545274,
+          "win_rate": 0.25,
+          "mean_win_r": 6.902861633601674,
+          "mean_loss_r": -0.9775614897666842,
+          "mean_hold_hours": 52.875
+        }
+      }
+    },
+    "full": {
+      "trades": 163,
+      "win_rate": 0.22699386503067484,
+      "net_pnl": 3642.6640697494804,
+      "mean_net_pnl": 22.347632329751413,
+      "profit_factor": 1.2628252909632929,
+      "max_consecutive_losses": 16,
+      "return_pct": 36.4266406974948,
+      "max_drawdown_pct": 23.195327472242433,
+      "fees": 1433.9998530285907,
+      "sharpe_daily": 0.6748988111740871,
+      "exposure_pct": 32.759666107484286,
+      "end_equity": 13642.664069749479,
+      "top5_share_of_gross_profit": 0.43843345861434857,
+      "net_pnl_without_best5": -4030.931894338524,
+      "net_change_without_best5_months": -3364.368313706951,
+      "worst_month_cash_change": -1344.8831959533036,
+      "sides": {
+        "long": {
+          "trades": 83,
+          "net_pnl": 1119.2290093689533,
+          "win_rate": 0.2289156626506024,
+          "mean_win_r": 3.9518227436375493,
+          "mean_loss_r": -0.9248917304578372,
+          "mean_hold_hours": 50.22289156626506
+        },
+        "short": {
+          "trades": 80,
+          "net_pnl": 2523.4350603805274,
+          "win_rate": 0.225,
+          "mean_win_r": 4.871355440998055,
+          "mean_loss_r": -0.9668068066625437,
+          "mean_hold_hours": 49.70625
+        }
+      }
+    }
+  },
+  "dip_stop2_vol1.2": {
+    "2024": {
+      "trades": 44,
+      "win_rate": 0.22727272727272727,
+      "net_pnl": -672.0799587589618,
+      "mean_net_pnl": -15.274544517249131,
+      "profit_factor": 0.7685156953263631,
+      "max_consecutive_losses": 9,
+      "return_pct": -6.72079958758961,
+      "max_drawdown_pct": 13.813881070340738,
+      "fees": 278.62874288497306,
+      "sharpe_daily": -0.41987927009954923,
+      "exposure_pct": 22.421448087431695,
+      "end_equity": 9327.92004124104,
+      "top5_share_of_gross_profit": 0.7704025797359059,
+      "net_pnl_without_best5": -2391.0561638864483,
+      "net_change_without_best5_months": -1697.4809228734994,
+      "worst_month_cash_change": -428.2442876686018,
+      "sides": {
+        "long": {
+          "trades": 24,
+          "net_pnl": -1102.1878334304213,
+          "win_rate": 0.16666666666666666,
+          "mean_win_r": 1.793321854211812,
+          "mean_loss_r": -0.93824561922044,
+          "mean_hold_hours": 31.791666666666668
+        },
+        "short": {
+          "trades": 20,
+          "net_pnl": 430.10787467145946,
+          "win_rate": 0.3,
+          "mean_win_r": 2.804559244871457,
+          "mean_loss_r": -0.818391821928966,
+          "mean_hold_hours": 60.875
+        }
+      }
+    },
+    "2025": {
+      "trades": 51,
+      "win_rate": 0.19607843137254902,
+      "net_pnl": -359.2768723866411,
+      "mean_net_pnl": -7.044644556600806,
+      "profit_factor": 0.900716831186858,
+      "max_consecutive_losses": 13,
+      "return_pct": -3.5927687238663797,
+      "max_drawdown_pct": 21.249801899123234,
+      "fees": 390.585882060663,
+      "sharpe_daily": -0.14310530633589025,
+      "exposure_pct": 24.69178082191781,
+      "end_equity": 9640.723127613363,
+      "top5_share_of_gross_profit": 0.9389725268671514,
+      "net_pnl_without_best5": -3419.793865042504,
+      "net_change_without_best5_months": -2362.332970217327,
+      "worst_month_cash_change": -528.6298818141131,
+      "sides": {
+        "long": {
+          "trades": 21,
+          "net_pnl": 642.1078521390115,
+          "win_rate": 0.23809523809523808,
+          "mean_win_r": 4.715558309411556,
+          "mean_loss_r": -0.9260928803854144,
+          "mean_hold_hours": 54.01190476190476
+        },
+        "short": {
+          "trades": 30,
+          "net_pnl": -1001.3847245256526,
+          "win_rate": 0.16666666666666666,
+          "mean_win_r": 2.8279020939367205,
+          "mean_loss_r": -0.973472180401694,
+          "mean_hold_hours": 34.71666666666667
+        }
+      }
+    },
+    "2026": {
+      "trades": 42,
+      "win_rate": 0.19047619047619047,
+      "net_pnl": -1648.1684924473375,
+      "mean_net_pnl": -39.242106963031844,
+      "profit_factor": 0.42544149672509673,
+      "max_consecutive_losses": 11,
+      "return_pct": -16.48168492447334,
+      "max_drawdown_pct": 18.966431111963743,
+      "fees": 305.43213662135497,
+      "sharpe_daily": -1.5063216721355703,
+      "exposure_pct": 20.71373966224199,
+      "end_equity": 8351.831507552666,
+      "top5_share_of_gross_profit": 0.9150478575836488,
+      "net_pnl_without_best5": -2764.9057548035676,
+      "net_change_without_best5_months": -1792.4027118739778,
+      "worst_month_cash_change": -769.9405264306552,
+      "sides": {
+        "long": {
+          "trades": 21,
+          "net_pnl": -280.8811849704181,
+          "win_rate": 0.23809523809523808,
+          "mean_win_r": 2.4232690994136044,
+          "mean_loss_r": -0.9745299908053544,
+          "mean_hold_hours": 39.083333333333336
+        },
+        "short": {
+          "trades": 21,
+          "net_pnl": -1367.2873074769195,
+          "win_rate": 0.14285714285714285,
+          "mean_win_r": 0.5995434499738012,
+          "mean_loss_r": -0.9683218898106948,
+          "mean_hold_hours": 32.38095238095238
+        }
+      }
+    },
+    "full": {
+      "trades": 136,
+      "win_rate": 0.19117647058823528,
+      "net_pnl": -2660.2828086953627,
+      "mean_net_pnl": -19.560903005112962,
+      "profit_factor": 0.7001615633123024,
+      "max_consecutive_losses": 13,
+      "return_pct": -26.60282808695357,
+      "max_drawdown_pct": 31.5292948428336,
+      "fees": 899.4705390974106,
+      "sharpe_daily": -0.6596935445200176,
+      "exposure_pct": 22.578167633445844,
+      "end_equity": 7339.717191304643,
+      "top5_share_of_gross_profit": 0.5600159353772677,
+      "net_pnl_without_best5": -6139.160448617566,
+      "net_change_without_best5_months": -5650.842218776411,
+      "worst_month_cash_change": -676.6485998529797,
+      "sides": {
+        "long": {
+          "trades": 65,
+          "net_pnl": -708.3065496943784,
+          "win_rate": 0.2153846153846154,
+          "mean_win_r": 3.0619588900695036,
+          "mean_loss_r": -0.9525960484426554,
+          "mean_hold_hours": 40.36153846153846
+        },
+        "short": {
+          "trades": 71,
+          "net_pnl": -1951.976259000984,
+          "win_rate": 0.16901408450704225,
+          "mean_win_r": 2.6578420812882078,
+          "mean_loss_r": -0.9360014242989895,
+          "mean_hold_hours": 42.19718309859155
+        }
+      }
+    }
+  },
+  "dip_stop3_vol0": {
+    "2024": {
+      "trades": 51,
+      "win_rate": 0.29411764705882354,
+      "net_pnl": -63.15263094104856,
+      "mean_net_pnl": -1.2382868811970305,
+      "profit_factor": 0.9807557123581956,
+      "max_consecutive_losses": 10,
+      "return_pct": -0.6315263094106016,
+      "max_drawdown_pct": 11.901275342536499,
+      "fees": 234.637193091055,
+      "sharpe_daily": 0.013051829795049721,
+      "exposure_pct": 32.02698087431694,
+      "end_equity": 9936.84736905894,
+      "top5_share_of_gross_profit": 0.6000437838973319,
+      "net_pnl_without_best5": -1994.37994762981,
+      "net_change_without_best5_months": -1289.0291000348461,
+      "worst_month_cash_change": -563.3034125743616,
+      "sides": {
+        "long": {
+          "trades": 29,
+          "net_pnl": 40.29429928012733,
+          "win_rate": 0.3448275862068966,
+          "mean_win_r": 1.868332039909523,
+          "mean_loss_r": -0.9455843436270192,
+          "mean_hold_hours": 59.12931034482759
+        },
+        "short": {
+          "trades": 22,
+          "net_pnl": -103.44693022117589,
+          "win_rate": 0.22727272727272727,
+          "mean_win_r": 2.741236139574786,
+          "mean_loss_r": -0.8466036470338776,
+          "mean_hold_hours": 50.51136363636363
+        }
+      }
+    },
+    "2025": {
+      "trades": 56,
+      "win_rate": 0.30357142857142855,
+      "net_pnl": 1021.7744245380676,
+      "mean_net_pnl": 18.24597186675121,
+      "profit_factor": 1.2858297313667948,
+      "max_consecutive_losses": 8,
+      "return_pct": 10.2177442453806,
+      "max_drawdown_pct": 12.121521006099222,
+      "fees": 328.03997587195505,
+      "sharpe_daily": 0.7514590615480291,
+      "exposure_pct": 46.909246575342465,
+      "end_equity": 11021.77442453806,
+      "top5_share_of_gross_profit": 0.6983919032680375,
+      "net_pnl_without_best5": -2188.412237571803,
+      "net_change_without_best5_months": -1801.526623615271,
+      "worst_month_cash_change": -719.4841354281216,
+      "sides": {
+        "long": {
+          "trades": 21,
+          "net_pnl": 933.1625765204914,
+          "win_rate": 0.3333333333333333,
+          "mean_win_r": 2.8477838958482398,
+          "mean_loss_r": -0.7815072759203422,
+          "mean_hold_hours": 96.08333333333333
+        },
+        "short": {
+          "trades": 35,
+          "net_pnl": 88.61184801757622,
+          "win_rate": 0.2857142857142857,
+          "mean_win_r": 2.4576418854471194,
+          "mean_loss_r": -0.9248609084679567,
+          "mean_hold_hours": 60.15714285714286
+        }
+      }
+    },
+    "2026": {
+      "trades": 46,
+      "win_rate": 0.2826086956521739,
+      "net_pnl": -373.8719687231166,
+      "mean_net_pnl": -8.127651493980796,
+      "profit_factor": 0.8699980005002099,
+      "max_consecutive_losses": 6,
+      "return_pct": -3.7387196872311734,
+      "max_drawdown_pct": 14.986949236574365,
+      "fees": 261.65767787512203,
+      "sharpe_daily": -0.2569270345058883,
+      "exposure_pct": 37.72673570088262,
+      "end_equity": 9626.128031276883,
+      "top5_share_of_gross_profit": 0.8741459129155336,
+      "net_pnl_without_best5": -2561.004290452808,
+      "net_change_without_best5_months": -1787.9350559903578,
+      "worst_month_cash_change": -652.3637557327493,
+      "sides": {
+        "long": {
+          "trades": 25,
+          "net_pnl": -727.8486319514599,
+          "win_rate": 0.32,
+          "mean_win_r": 1.1420054016259447,
+          "mean_loss_r": -0.9525079558639113,
+          "mean_hold_hours": 50.63
+        },
+        "short": {
+          "trades": 21,
+          "net_pnl": 353.9766632283433,
+          "win_rate": 0.23809523809523808,
+          "mean_win_r": 3.3373903878123747,
+          "mean_loss_r": -0.7785407905389521,
+          "mean_hold_hours": 69.52380952380952
+        }
+      }
+    },
+    "full": {
+      "trades": 152,
+      "win_rate": 0.2894736842105263,
+      "net_pnl": 506.8262035067865,
+      "mean_net_pnl": 3.334382917807806,
+      "profit_factor": 1.0509364855445513,
+      "max_consecutive_losses": 10,
+      "return_pct": 5.068262035067828,
+      "max_drawdown_pct": 14.9888147402213,
+      "fees": 839.6223137152493,
+      "sharpe_daily": 0.1954732538283413,
+      "exposure_pct": 39.07573215837662,
+      "end_equity": 10506.826203506784,
+      "top5_share_of_gross_profit": 0.3926235205293621,
+      "net_pnl_without_best5": -3598.83270727953,
+      "net_change_without_best5_months": -2963.157087901547,
+      "worst_month_cash_change": -712.4395371425398,
+      "sides": {
+        "long": {
+          "trades": 75,
+          "net_pnl": 169.80951428248088,
+          "win_rate": 0.3333333333333333,
+          "mean_win_r": 1.9101540353216184,
+          "mean_loss_r": -0.9019967928296929,
+          "mean_hold_hours": 66.64333333333333
+        },
+        "short": {
+          "trades": 77,
+          "net_pnl": 337.01668922430565,
+          "win_rate": 0.24675324675324675,
+          "mean_win_r": 2.868934358442647,
+          "mean_loss_r": -0.8598546471951999,
+          "mean_hold_hours": 61.12337662337662
+        }
+      }
+    }
+  },
+  "dip_stop3_vol1.2": {
+    "2024": {
+      "trades": 43,
+      "win_rate": 0.3488372093023256,
+      "net_pnl": 751.14043062332,
+      "mean_net_pnl": 17.46838210751907,
+      "profit_factor": 1.3082416624524738,
+      "max_consecutive_losses": 6,
+      "return_pct": 7.511404306233205,
+      "max_drawdown_pct": 9.452857897689803,
+      "fees": 210.8375910886901,
+      "sharpe_daily": 0.6268599298254054,
+      "exposure_pct": 31.090619307832423,
+      "end_equity": 10751.14043062332,
+      "top5_share_of_gross_profit": 0.6825615940684652,
+      "net_pnl_without_best5": -1424.8632425667938,
+      "net_change_without_best5_months": -969.5549139118175,
+      "worst_month_cash_change": -347.4042986274944,
+      "sides": {
+        "long": {
+          "trades": 24,
+          "net_pnl": 596.2853039020533,
+          "win_rate": 0.375,
+          "mean_win_r": 2.176889210190479,
+          "mean_loss_r": -0.883170630501001,
+          "mean_hold_hours": 62.333333333333336
+        },
+        "short": {
+          "trades": 19,
+          "net_pnl": 154.8551267212666,
+          "win_rate": 0.3157894736842105,
+          "mean_win_r": 1.9313183862955345,
+          "mean_loss_r": -0.7600348479930915,
+          "mean_hold_hours": 65.5657894736842
+        }
+      }
+    },
+    "2025": {
+      "trades": 49,
+      "win_rate": 0.2653061224489796,
+      "net_pnl": -292.8472440970703,
+      "mean_net_pnl": -5.976474369327965,
+      "profit_factor": 0.9074823496216433,
+      "max_consecutive_losses": 8,
+      "return_pct": -2.928472440970742,
+      "max_drawdown_pct": 17.487967036536745,
+      "fees": 276.918835931087,
+      "sharpe_daily": -0.19082545236748658,
+      "exposure_pct": 35.45091324200913,
+      "end_equity": 9707.152755902925,
+      "top5_share_of_gross_profit": 0.8287158795526106,
+      "net_pnl_without_best5": -2673.3045364075615,
+      "net_change_without_best5_months": -2069.781078454953,
+      "worst_month_cash_change": -620.5127475551635,
+      "sides": {
+        "long": {
+          "trades": 19,
+          "net_pnl": 97.4248109714214,
+          "win_rate": 0.2631578947368421,
+          "mean_win_r": 2.4086876594010365,
+          "mean_loss_r": -0.8259398131352321,
+          "mean_hold_hours": 78.40789473684211
+        },
+        "short": {
+          "trades": 30,
+          "net_pnl": -390.2720550684917,
+          "win_rate": 0.26666666666666666,
+          "mean_win_r": 2.148563305673575,
+          "mean_loss_r": -0.9242253573632017,
+          "mean_hold_hours": 54.266666666666666
+        }
+      }
+    },
+    "2026": {
+      "trades": 38,
+      "win_rate": 0.3157894736842105,
+      "net_pnl": 86.26753795955624,
+      "mean_net_pnl": 2.270198367356743,
+      "profit_factor": 1.0367151847660512,
+      "max_consecutive_losses": 4,
+      "return_pct": 0.8626753795955677,
+      "max_drawdown_pct": 14.173291775593878,
+      "fees": 232.11996113645006,
+      "sharpe_daily": 0.14310601179714655,
+      "exposure_pct": 30.42949475293627,
+      "end_equity": 10086.267537959557,
+      "top5_share_of_gross_profit": 0.9202502741335155,
+      "net_pnl_without_best5": -2155.3788268568997,
+      "net_change_without_best5_months": -1142.0689962825454,
+      "worst_month_cash_change": -560.0607618809208,
+      "sides": {
+        "long": {
+          "trades": 18,
+          "net_pnl": -146.2305344935242,
+          "win_rate": 0.3888888888888889,
+          "mean_win_r": 1.2972537447210348,
+          "mean_loss_r": -0.9240053220897003,
+          "mean_hold_hours": 60.18055555555556
+        },
+        "short": {
+          "trades": 20,
+          "net_pnl": 232.49807245308045,
+          "win_rate": 0.25,
+          "mean_win_r": 3.271320474312364,
+          "mean_loss_r": -0.8631098001821107,
+          "mean_hold_hours": 55.775
+        }
+      }
+    },
+    "full": {
+      "trades": 129,
+      "win_rate": 0.29457364341085274,
+      "net_pnl": 308.85159010648914,
+      "mean_net_pnl": 2.3941983729185203,
+      "profit_factor": 1.036970714916792,
+      "max_consecutive_losses": 8,
+      "return_pct": 3.08851590106487,
+      "max_drawdown_pct": 18.25543196480517,
+      "fees": 737.2877901795442,
+      "sharpe_daily": 0.1469257803523118,
+      "exposure_pct": 32.350385027386466,
+      "end_equity": 10308.851590106487,
+      "top5_share_of_gross_profit": 0.4966009610810171,
+      "net_pnl_without_best5": -3993.1051634244595,
+      "net_change_without_best5_months": -3051.412718492813,
+      "worst_month_cash_change": -658.3512628437038,
+      "sides": {
+        "long": {
+          "trades": 60,
+          "net_pnl": 591.8362349276487,
+          "win_rate": 0.35,
+          "mean_win_r": 1.9388674953222256,
+          "mean_loss_r": -0.8863760134992009,
+          "mean_hold_hours": 66.24166666666666
+        },
+        "short": {
+          "trades": 69,
+          "net_pnl": -282.9846448211595,
+          "win_rate": 0.2463768115942029,
+          "mean_win_r": 2.6198120283967956,
+          "mean_loss_r": -0.8665613474241501,
+          "mean_hold_hours": 58.85144927536232
+        }
+      }
+    }
+  },
+  "dip_long": {
+    "2024": {
+      "trades": 35,
+      "win_rate": 0.2,
+      "net_pnl": 1650.852575034455,
+      "mean_net_pnl": 47.16721642955586,
+      "profit_factor": 1.5266991619016834,
+      "max_consecutive_losses": 10,
+      "return_pct": 16.50852575034458,
+      "max_drawdown_pct": 16.24954676022343,
+      "fees": 274.958381095561,
+      "sharpe_daily": 1.0403705596461226,
+      "exposure_pct": 18.45116120218579,
+      "end_equity": 11650.852575034458,
+      "top5_share_of_gross_profit": 0.9133051561076224,
+      "net_pnl_without_best5": -2719.485570360858,
+      "net_change_without_best5_months": -1738.9941546648406,
+      "worst_month_cash_change": -391.18992672975764,
+      "sides": {
+        "long": {
+          "trades": 35,
+          "net_pnl": 1650.852575034455,
+          "win_rate": 0.2,
+          "mean_win_r": 6.40017482764267,
+          "mean_loss_r": -0.9274698690090708,
+          "mean_hold_hours": 46.55714285714286
+        },
+        "short": {
+          "trades": 0,
+          "net_pnl": 0,
+          "win_rate": null,
+          "mean_win_r": null,
+          "mean_loss_r": null,
+          "mean_hold_hours": null
+        }
+      }
+    },
+    "2025": {
+      "trades": 23,
+      "win_rate": 0.30434782608695654,
+      "net_pnl": 1816.7733368873123,
+      "mean_net_pnl": 78.99014508205705,
+      "profit_factor": 2.15101470933511,
+      "max_consecutive_losses": 5,
+      "return_pct": 18.16773336887316,
+      "max_drawdown_pct": 8.65430438860132,
+      "fees": 208.099684848702,
+      "sharpe_daily": 1.2416646208886468,
+      "exposure_pct": 19.42066210045662,
+      "end_equity": 11816.773336887316,
+      "top5_share_of_gross_profit": 0.9807432024728043,
+      "net_pnl_without_best5": -1513.0298204440537,
+      "net_change_without_best5_months": -680.9737698482568,
+      "worst_month_cash_change": -238.8556216686029,
+      "sides": {
+        "long": {
+          "trades": 23,
+          "net_pnl": 1816.7733368873123,
+          "win_rate": 0.30434782608695654,
+          "mean_win_r": 5.286322202119835,
+          "mean_loss_r": -0.8926894612590326,
+          "mean_hold_hours": 74.21739130434783
+        },
+        "short": {
+          "trades": 0,
+          "net_pnl": 0,
+          "win_rate": null,
+          "mean_win_r": null,
+          "mean_loss_r": null,
+          "mean_hold_hours": null
+        }
+      }
+    },
+    "2026": {
+      "trades": 26,
+      "win_rate": 0.2692307692307692,
+      "net_pnl": -359.5655394882599,
+      "mean_net_pnl": -13.829443826471534,
+      "profit_factor": 0.781905607196567,
+      "max_consecutive_losses": 6,
+      "return_pct": -3.595655394882602,
+      "max_drawdown_pct": 11.032434395151736,
+      "fees": 205.15915884427204,
+      "sharpe_daily": -0.3051389350811727,
+      "exposure_pct": 17.947737855306137,
+      "end_equity": 9640.43446051174,
+      "top5_share_of_gross_profit": 0.941909092193507,
+      "net_pnl_without_best5": -1573.7841336309034,
+      "net_change_without_best5_months": -937.7755851145284,
+      "worst_month_cash_change": -478.05021096038945,
+      "sides": {
+        "long": {
+          "trades": 26,
+          "net_pnl": -359.5655394882599,
+          "win_rate": 0.2692307692307692,
+          "mean_win_r": 1.9656951671791756,
+          "mean_loss_r": -0.9273942073505458,
+          "mean_hold_hours": 49.91346153846154
+        },
+        "short": {
+          "trades": 0,
+          "net_pnl": 0,
+          "win_rate": null,
+          "mean_win_r": null,
+          "mean_loss_r": null,
+          "mean_hold_hours": null
+        }
+      }
+    },
+    "full": {
+      "trades": 84,
+      "win_rate": 0.23809523809523808,
+      "net_pnl": 2857.0825445362398,
+      "mean_net_pnl": 34.01288743495523,
+      "profit_factor": 1.3903460088978679,
+      "max_consecutive_losses": 11,
+      "return_pct": 28.57082544536247,
+      "max_drawdown_pct": 17.762769604327723,
+      "fees": 795.692304729807,
+      "sharpe_daily": 0.6967527831448289,
+      "exposure_pct": 17.79715827556238,
+      "end_equity": 12857.082544536246,
+      "top5_share_of_gross_profit": 0.6741184312392015,
+      "net_pnl_without_best5": -4003.044215319356,
+      "net_change_without_best5_months": -3310.000921483841,
+      "worst_month_cash_change": -637.5068666296938,
+      "sides": {
+        "long": {
+          "trades": 84,
+          "net_pnl": 2857.0825445362398,
+          "win_rate": 0.23809523809523808,
+          "mean_win_r": 4.668051237660505,
+          "mean_loss_r": -0.9262530906120814,
+          "mean_hold_hours": 52.663690476190474
+        },
+        "short": {
+          "trades": 0,
+          "net_pnl": 0,
+          "win_rate": null,
+          "mean_win_r": null,
+          "mean_loss_r": null,
+          "mean_hold_hours": null
+        }
+      }
+    }
+  },
+  "squeeze_stop2_vol0": {
+    "2024": {
+      "trades": 41,
+      "win_rate": 0.2682926829268293,
+      "net_pnl": 2865.9160828654053,
+      "mean_net_pnl": 69.90039226500988,
+      "profit_factor": 1.8810772438753425,
+      "max_consecutive_losses": 14,
+      "return_pct": 28.659160828654052,
+      "max_drawdown_pct": 20.88276231157289,
+      "fees": 361.791237312605,
+      "sharpe_daily": 1.3574103686195589,
+      "exposure_pct": 25.47814207650273,
+      "end_equity": 12865.916082865406,
+      "top5_share_of_gross_profit": 0.8341323574941167,
+      "net_pnl_without_best5": -2237.8537815062587,
+      "net_change_without_best5_months": -1916.8823421985053,
+      "worst_month_cash_change": -481.4880525832159,
+      "sides": {
+        "long": {
+          "trades": 27,
+          "net_pnl": 3387.2998199598246,
+          "win_rate": 0.25925925925925924,
+          "mean_win_r": 8.004970190441238,
+          "mean_loss_r": -0.9716800294977016,
+          "mean_hold_hours": 54.907407407407405
+        },
+        "short": {
+          "trades": 14,
+          "net_pnl": -521.3837370944191,
+          "win_rate": 0.2857142857142857,
+          "mean_win_r": 1.37634406407077,
+          "mean_loss_r": -0.9785314400199574,
+          "mean_hold_hours": 54.69642857142857
+        }
+      }
+    },
+    "2025": {
+      "trades": 47,
+      "win_rate": 0.1702127659574468,
+      "net_pnl": -1732.2652770406705,
+      "mean_net_pnl": -36.85670802214192,
+      "profit_factor": 0.42650486152701783,
+      "max_consecutive_losses": 13,
+      "return_pct": -17.322652770406787,
+      "max_drawdown_pct": 17.322652770406787,
+      "fees": 353.23465467868107,
+      "sharpe_daily": -1.5148477678290821,
+      "exposure_pct": 15.810502283105023,
+      "end_equity": 8267.734722959322,
+      "top5_share_of_gross_profit": 0.8611964635964973,
+      "net_pnl_without_best5": -2841.723320261719,
+      "net_change_without_best5_months": -1878.3172504365848,
+      "worst_month_cash_change": -446.5750627739344,
+      "sides": {
+        "long": {
+          "trades": 19,
+          "net_pnl": -524.7407708471128,
+          "win_rate": 0.15789473684210525,
+          "mean_win_r": 2.795296513762995,
+          "mean_loss_r": -0.9452695545817665,
+          "mean_hold_hours": 39.421052631578945
+        },
+        "short": {
+          "trades": 28,
+          "net_pnl": -1207.5245061935577,
+          "win_rate": 0.17857142857142858,
+          "mean_win_r": 1.5567057886031577,
+          "mean_loss_r": -0.9619861443818403,
+          "mean_hold_hours": 23.133928571428573
+        }
+      }
+    },
+    "2026": {
+      "trades": 47,
+      "win_rate": 0.1702127659574468,
+      "net_pnl": -1669.10051210741,
+      "mean_net_pnl": -35.512776853349145,
+      "profit_factor": 0.4566789661229422,
+      "max_consecutive_losses": 12,
+      "return_pct": -16.69100512107414,
+      "max_drawdown_pct": 24.648990843871598,
+      "fees": 357.07595633942196,
+      "sharpe_daily": -1.3756950758987294,
+      "exposure_pct": 25.498644798109666,
+      "end_equity": 8330.899487892586,
+      "top5_share_of_gross_profit": 0.9582427797729864,
+      "net_pnl_without_best5": -3013.4510854264545,
+      "net_change_without_best5_months": -1571.9535887596903,
+      "worst_month_cash_change": -494.9125887151604,
+      "sides": {
+        "long": {
+          "trades": 22,
+          "net_pnl": -515.9672493229214,
+          "win_rate": 0.18181818181818182,
+          "mean_win_r": 2.501817347957456,
+          "mean_loss_r": -0.9326677849513765,
+          "mean_hold_hours": 44.40909090909091
+        },
+        "short": {
+          "trades": 25,
+          "net_pnl": -1153.1332627844886,
+          "win_rate": 0.16,
+          "mean_win_r": 1.3754448853979333,
+          "mean_loss_r": -0.8874404281229683,
+          "mean_hold_hours": 34.77
+        }
+      }
+    },
+    "full": {
+      "trades": 135,
+      "win_rate": 0.2,
+      "net_pnl": -1138.6253701004885,
+      "mean_net_pnl": -8.43426200074436,
+      "profit_factor": 0.8906007101590411,
+      "max_consecutive_losses": 14,
+      "return_pct": -11.386253701004822,
+      "max_drawdown_pct": 34.93888375568361,
+      "fees": 1196.235784754525,
+      "sharpe_daily": -0.18457506274336707,
+      "exposure_pct": 22.060755502556745,
+      "end_equity": 8861.374629899517,
+      "top5_share_of_gross_profit": 0.570175949266892,
+      "net_pnl_without_best5": -6423.787139310327,
+      "net_change_without_best5_months": -6181.750437197865,
+      "worst_month_cash_change": -574.6269364966647,
+      "sides": {
+        "long": {
+          "trades": 68,
+          "net_pnl": 2162.892371979779,
+          "win_rate": 0.20588235294117646,
+          "mean_win_r": 5.316282161871962,
+          "mean_loss_r": -0.950850622081242,
+          "mean_hold_hours": 47.18382352941177
+        },
+        "short": {
+          "trades": 67,
+          "net_pnl": -3301.5177420802675,
+          "win_rate": 0.19402985074626866,
+          "mean_win_r": 1.4454372877608155,
+          "mean_loss_r": -0.9360600872511896,
+          "mean_hold_hours": 34.07089552238806
+        }
+      }
+    }
+  },
+  "squeeze_stop2_vol1.2": {
+    "2024": {
+      "trades": 42,
+      "win_rate": 0.21428571428571427,
+      "net_pnl": 380.3565308146487,
+      "mean_net_pnl": 9.056107876539254,
+      "profit_factor": 1.1244247703631558,
+      "max_consecutive_losses": 14,
+      "return_pct": 3.803565308146406,
+      "max_drawdown_pct": 20.965744517030295,
+      "fees": 318.9855757913628,
+      "sharpe_daily": 0.2973819447253547,
+      "exposure_pct": 23.727800546448087,
+      "end_equity": 10380.35653081464,
+      "top5_share_of_gross_profit": 0.9559668550535806,
+      "net_pnl_without_best5": -2905.565610773744,
+      "net_change_without_best5_months": -1996.5047888044792,
+      "worst_month_cash_change": -493.65358741760065,
+      "sides": {
+        "long": {
+          "trades": 27,
+          "net_pnl": 1188.3856885435423,
+          "win_rate": 0.2222222222222222,
+          "mean_win_r": 5.692271536227452,
+          "mean_loss_r": -0.9730285995216206,
+          "mean_hold_hours": 52.342592592592595
+        },
+        "short": {
+          "trades": 15,
+          "net_pnl": -808.0291577288936,
+          "win_rate": 0.2,
+          "mean_win_r": 1.2629803755364315,
+          "mean_loss_r": -0.9635851377529053,
+          "mean_hold_hours": 45.43333333333333
+        }
+      }
+    },
+    "2025": {
+      "trades": 42,
+      "win_rate": 0.16666666666666666,
+      "net_pnl": -1434.6548771559671,
+      "mean_net_pnl": -34.15844945609446,
+      "profit_factor": 0.45663874922719677,
+      "max_consecutive_losses": 8,
+      "return_pct": -14.346548771559641,
+      "max_drawdown_pct": 14.346548771559641,
+      "fees": 333.1465184899789,
+      "sharpe_daily": -1.3186619371284731,
+      "exposure_pct": 13.521689497716896,
+      "end_equity": 8565.345122844035,
+      "top5_share_of_gross_profit": 0.8876009218902621,
+      "net_pnl_without_best5": -2504.8162757148298,
+      "net_change_without_best5_months": -1662.215097070588,
+      "worst_month_cash_change": -457.3328883699178,
+      "sides": {
+        "long": {
+          "trades": 17,
+          "net_pnl": -321.07063376861544,
+          "win_rate": 0.17647058823529413,
+          "mean_win_r": 2.795296513762995,
+          "mean_loss_r": -0.937450919522019,
+          "mean_hold_hours": 36.69117647058823
+        },
+        "short": {
+          "trades": 25,
+          "net_pnl": -1113.5842433873518,
+          "win_rate": 0.16,
+          "mean_win_r": 1.6037507400767177,
+          "mean_loss_r": -0.9229244044517705,
+          "mean_hold_hours": 22.85
+        }
+      }
+    },
+    "2026": {
+      "trades": 44,
+      "win_rate": 0.09090909090909091,
+      "net_pnl": -2216.8206661803083,
+      "mean_net_pnl": -50.38228786773428,
+      "profit_factor": 0.2306693763854167,
+      "max_consecutive_losses": 25,
+      "return_pct": -22.168206661803126,
+      "max_drawdown_pct": 25.49865943302062,
+      "fees": 327.07674752632914,
+      "sharpe_daily": -2.439227012337174,
+      "exposure_pct": 20.00833970394051,
+      "end_equity": 7783.179333819688,
+      "top5_share_of_gross_profit": 0.9859362336264412,
+      "net_pnl_without_best5": -2872.145023587431,
+      "net_change_without_best5_months": -1715.7316768389628,
+      "worst_month_cash_change": -475.35978381192945,
+      "sides": {
+        "long": {
+          "trades": 20,
+          "net_pnl": -576.9511089356305,
+          "win_rate": 0.15,
+          "mean_win_r": 2.336597843825569,
+          "mean_loss_r": -0.9662693329541244,
+          "mean_hold_hours": 38.5
+        },
+        "short": {
+          "trades": 24,
+          "net_pnl": -1639.869557244678,
+          "win_rate": 0.041666666666666664,
+          "mean_win_r": 0.34794818632409413,
+          "mean_loss_r": -0.8743858886619829,
+          "mean_hold_hours": 28.354166666666668
+        }
+      }
+    },
+    "full": {
+      "trades": 127,
+      "win_rate": 0.15748031496062992,
+      "net_pnl": -3017.5738239295083,
+      "mean_net_pnl": -23.76042381046857,
+      "profit_factor": 0.6370518657562229,
+      "max_consecutive_losses": 25,
+      "return_pct": -30.175738239295136,
+      "max_drawdown_pct": 38.26962732809391,
+      "fees": 945.7845654775499,
+      "sharpe_daily": -0.8310532379871467,
+      "exposure_pct": 19.01691695131071,
+      "end_equity": 6982.426176070487,
+      "top5_share_of_gross_profit": 0.6568165407685227,
+      "net_pnl_without_best5": -6496.395830588671,
+      "net_change_without_best5_months": -5726.517979360036,
+      "worst_month_cash_change": -493.65358741760065,
+      "sides": {
+        "long": {
+          "trades": 63,
+          "net_pnl": 429.8681875310301,
+          "win_rate": 0.19047619047619047,
+          "mean_win_r": 4.129109357510867,
+          "mean_loss_r": -0.9604802377153414,
+          "mean_hold_hours": 44.37301587301587
+        },
+        "short": {
+          "trades": 64,
+          "net_pnl": -3447.4420114605387,
+          "win_rate": 0.125,
+          "mean_win_r": 1.3189865341550324,
+          "mean_loss_r": -0.9117019568883509,
+          "mean_hold_hours": 30.32421875
+        }
+      }
+    }
+  },
+  "squeeze_stop3_vol0": {
+    "2024": {
+      "trades": 41,
+      "win_rate": 0.2926829268292683,
+      "net_pnl": 1680.2309850189843,
+      "mean_net_pnl": 40.9812435370484,
+      "profit_factor": 1.5783283314184018,
+      "max_consecutive_losses": 14,
+      "return_pct": 16.802309850189868,
+      "max_drawdown_pct": 21.08205388266102,
+      "fees": 248.80624559901898,
+      "sharpe_daily": 1.0778049283669848,
+      "exposure_pct": 28.432377049180328,
+      "end_equity": 11680.230985018987,
+      "top5_share_of_gross_profit": 0.8211268652677096,
+      "net_pnl_without_best5": -2085.0911268702603,
+      "net_change_without_best5_months": -1797.120017894893,
+      "worst_month_cash_change": -440.3736091379851,
+      "sides": {
+        "long": {
+          "trades": 27,
+          "net_pnl": 2278.868964067089,
+          "win_rate": 0.2962962962962963,
+          "mean_win_r": 5.0389089140553205,
+          "mean_loss_r": -0.9378943622335101,
+          "mean_hold_hours": 63.129629629629626
+        },
+        "short": {
+          "trades": 14,
+          "net_pnl": -598.6379790481046,
+          "win_rate": 0.2857142857142857,
+          "mean_win_r": 0.9433707259849949,
+          "mean_loss_r": -0.9029617058692581,
+          "mean_hold_hours": 57.375
+        }
+      }
+    },
+    "2025": {
+      "trades": 41,
+      "win_rate": 0.2682926829268293,
+      "net_pnl": -123.34292270042369,
+      "mean_net_pnl": -3.0083639683030166,
+      "profit_factor": 0.9537349993262575,
+      "max_consecutive_losses": 8,
+      "return_pct": -1.2334292270042124,
+      "max_drawdown_pct": 7.960676503612996,
+      "fees": 265.3632448384369,
+      "sharpe_daily": -0.052717275228970024,
+      "exposure_pct": 26.121575342465754,
+      "end_equity": 9876.657077299578,
+      "top5_share_of_gross_profit": 0.7453659763632051,
+      "net_pnl_without_best5": -2018.5599398886106,
+      "net_change_without_best5_months": -1606.591410183708,
+      "worst_month_cash_change": -393.715873340876,
+      "sides": {
+        "long": {
+          "trades": 18,
+          "net_pnl": -78.81408879028585,
+          "win_rate": 0.2222222222222222,
+          "mean_win_r": 2.9712791190147305,
+          "mean_loss_r": -0.9102288523992413,
+          "mean_hold_hours": 63.375
+        },
+        "short": {
+          "trades": 23,
+          "net_pnl": -44.52883391013783,
+          "win_rate": 0.30434782608695654,
+          "mean_win_r": 2.082879994589588,
+          "mean_loss_r": -0.9334263948999604,
+          "mean_hold_hours": 50.33695652173913
+        }
+      }
+    },
+    "2026": {
+      "trades": 43,
+      "win_rate": 0.20930232558139536,
+      "net_pnl": -1603.562515401294,
+      "mean_net_pnl": -37.292151520960324,
+      "profit_factor": 0.38047609310651176,
+      "max_consecutive_losses": 12,
+      "return_pct": -16.0356251540129,
+      "max_drawdown_pct": 20.31254221039903,
+      "fees": 255.43536088530604,
+      "sharpe_daily": -1.6986605426149726,
+      "exposure_pct": 29.98471054277573,
+      "end_equity": 8396.43748459871,
+      "top5_share_of_gross_profit": 0.945455733813121,
+      "net_pnl_without_best5": -2534.6626706683837,
+      "net_change_without_best5_months": -1602.4453556592762,
+      "worst_month_cash_change": -417.0445483263411,
+      "sides": {
+        "long": {
+          "trades": 20,
+          "net_pnl": -589.7333216967736,
+          "win_rate": 0.2,
+          "mean_win_r": 1.7425583257648831,
+          "mean_loss_r": -0.8605122577184084,
+          "mean_hold_hours": 53.7375
+        },
+        "short": {
+          "trades": 23,
+          "net_pnl": -1013.8291937045204,
+          "win_rate": 0.21739130434782608,
+          "mean_win_r": 0.6414368265406742,
+          "mean_loss_r": -0.7883901965930948,
+          "mean_hold_hours": 47.53260869565217
+        }
+      }
+    },
+    "full": {
+      "trades": 125,
+      "win_rate": 0.256,
+      "net_pnl": -313.6270456254467,
+      "mean_net_pnl": -2.509016365003574,
+      "profit_factor": 0.9651770599564892,
+      "max_consecutive_losses": 14,
+      "return_pct": -3.136270456254442,
+      "max_drawdown_pct": 23.034622887572876,
+      "fees": 853.5158716954788,
+      "sharpe_daily": -0.02043771545086011,
+      "exposure_pct": 28.065565818461103,
+      "end_equity": 9686.372954374556,
+      "top5_share_of_gross_profit": 0.48280506319744637,
+      "net_pnl_without_best5": -4510.51020806574,
+      "net_change_without_best5_months": -4846.213401514116,
+      "worst_month_cash_change": -481.01656815888055,
+      "sides": {
+        "long": {
+          "trades": 65,
+          "net_pnl": 1506.892134396939,
+          "win_rate": 0.24615384615384617,
+          "mean_win_r": 3.6979138182225633,
+          "mean_loss_r": -0.9047223048881756,
+          "mean_hold_hours": 60.30769230769231
+        },
+        "short": {
+          "trades": 60,
+          "net_pnl": -1820.5191800223856,
+          "win_rate": 0.26666666666666666,
+          "mean_win_r": 1.3475516874231543,
+          "mean_loss_r": -0.8671696117219921,
+          "mean_hold_hours": 50.90416666666667
+        }
+      }
+    }
+  },
+  "squeeze_stop3_vol1.2": {
+    "2024": {
+      "trades": 41,
+      "win_rate": 0.2682926829268293,
+      "net_pnl": -118.31942454337259,
+      "mean_net_pnl": -2.8858396230090877,
+      "profit_factor": 0.9557280196446754,
+      "max_consecutive_losses": 14,
+      "return_pct": -1.1831942454336941,
+      "max_drawdown_pct": 20.665235147024287,
+      "fees": 215.18260516137704,
+      "sharpe_daily": -0.023414942220617827,
+      "exposure_pct": 27.17156193078324,
+      "end_equity": 9881.68057545663,
+      "top5_share_of_gross_profit": 0.8959398635763456,
+      "net_pnl_without_best5": -2406.763368212397,
+      "net_change_without_best5_months": -1637.1235762657416,
+      "worst_month_cash_change": -383.8670412021529,
+      "sides": {
+        "long": {
+          "trades": 27,
+          "net_pnl": 525.3841369416456,
+          "win_rate": 0.25925925925925924,
+          "mean_win_r": 3.5689499704067216,
+          "mean_loss_r": -0.9409996441218346,
+          "mean_hold_hours": 59.71296296296296
+        },
+        "short": {
+          "trades": 14,
+          "net_pnl": -643.7035614850182,
+          "win_rate": 0.2857142857142857,
+          "mean_win_r": 0.7176333076310636,
+          "mean_loss_r": -0.9391375311636451,
+          "mean_hold_hours": 56.05357142857143
+        }
+      }
+    },
+    "2025": {
+      "trades": 38,
+      "win_rate": 0.3157894736842105,
+      "net_pnl": 332.69752111243287,
+      "mean_net_pnl": 8.75519792401139,
+      "profit_factor": 1.146253474271223,
+      "max_consecutive_losses": 7,
+      "return_pct": 3.326975211124328,
+      "max_drawdown_pct": 6.301269575169388,
+      "fees": 263.33332202357985,
+      "sharpe_daily": 0.346856854423433,
+      "exposure_pct": 25.722031963470318,
+      "end_equity": 10332.697521112434,
+      "top5_share_of_gross_profit": 0.7365286698727144,
+      "net_pnl_without_best5": -1587.7997532493482,
+      "net_change_without_best5_months": -1376.0003719270317,
+      "worst_month_cash_change": -351.08121814419064,
+      "sides": {
+        "long": {
+          "trades": 15,
+          "net_pnl": 205.82724156452923,
+          "win_rate": 0.26666666666666666,
+          "mean_win_r": 2.9273230821906573,
+          "mean_loss_r": -0.8899447643848594,
+          "mean_hold_hours": 69.98333333333333
+        },
+        "short": {
+          "trades": 23,
+          "net_pnl": 126.87027954790366,
+          "win_rate": 0.34782608695652173,
+          "mean_win_r": 1.8098793689811759,
+          "mean_loss_r": -0.8742182234332421,
+          "mean_hold_hours": 52.73913043478261
+        }
+      }
+    },
+    "2026": {
+      "trades": 41,
+      "win_rate": 0.17073170731707318,
+      "net_pnl": -1909.045584436827,
+      "mean_net_pnl": -46.56208742528847,
+      "profit_factor": 0.24190074894184294,
+      "max_consecutive_losses": 12,
+      "return_pct": -19.090455844368236,
+      "max_drawdown_pct": 22.321967470378155,
+      "fees": 250.73375482683903,
+      "sharpe_daily": -2.35454523555095,
+      "exposure_pct": 26.349989575370074,
+      "end_equity": 8090.954415563177,
+      "top5_share_of_gross_profit": 0.9717969967205796,
+      "net_pnl_without_best5": -2501.020080655692,
+      "net_change_without_best5_months": -1658.9548062671274,
+      "worst_month_cash_change": -407.7282065424715,
+      "sides": {
+        "long": {
+          "trades": 20,
+          "net_pnl": -726.5536056609784,
+          "win_rate": 0.2,
+          "mean_win_r": 1.509942261559678,
+          "mean_loss_r": -0.9291707732665372,
+          "mean_hold_hours": 46.65
+        },
+        "short": {
+          "trades": 21,
+          "net_pnl": -1182.4919787758486,
+          "win_rate": 0.14285714285714285,
+          "mean_win_r": 0.14095040608158152,
+          "mean_loss_r": -0.7515738265254569,
+          "mean_hold_hours": 46.333333333333336
+        }
+      }
+    },
+    "full": {
+      "trades": 120,
+      "win_rate": 0.25,
+      "net_pnl": -1739.0656811677306,
+      "mean_net_pnl": -14.49221400973109,
+      "profit_factor": 0.7678523775857112,
+      "max_consecutive_losses": 14,
+      "return_pct": -17.390656811677307,
+      "max_drawdown_pct": 24.171555376531217,
+      "fees": 731.3200784117602,
+      "sharpe_daily": -0.5102207271208877,
+      "exposure_pct": 26.419346362956524,
+      "end_equity": 8260.93431883227,
+      "top5_share_of_gross_profit": 0.4880277325203029,
+      "net_pnl_without_best5": -4546.26971857835,
+      "net_change_without_best5_months": -4440.096852722008,
+      "worst_month_cash_change": -416.2579436502583,
+      "sides": {
+        "long": {
+          "trades": 62,
+          "net_pnl": -13.4079396553546,
+          "win_rate": 0.24193548387096775,
+          "mean_win_r": 2.8487807445232263,
+          "mean_loss_r": -0.9250237800624412,
+          "mean_hold_hours": 57.983870967741936
+        },
+        "short": {
+          "trades": 58,
+          "net_pnl": -1725.657741512376,
+          "win_rate": 0.25862068965517243,
+          "mean_win_r": 1.184827960041227,
+          "mean_loss_r": -0.8379762218742629,
+          "mean_hold_hours": 51.2198275862069
+        }
+      }
+    }
+  },
+  "squeeze_long": {
+    "2024": {
+      "trades": 28,
+      "win_rate": 0.25,
+      "net_pnl": 3331.6926557114125,
+      "mean_net_pnl": 118.98902341826474,
+      "profit_factor": 2.453306470097058,
+      "max_consecutive_losses": 8,
+      "return_pct": 33.316926557114115,
+      "max_drawdown_pct": 17.145025440697005,
+      "fees": 266.8651900545931,
+      "sharpe_daily": 1.6453494370392472,
+      "exposure_pct": 16.564207650273225,
+      "end_equity": 13331.692655711411,
+      "top5_share_of_gross_profit": 0.9252996527155404,
+      "net_pnl_without_best5": -1872.3629433375531,
+      "net_change_without_best5_months": -1470.3779215795566,
+      "worst_month_cash_change": -317.2079881660029,
+      "sides": {
+        "long": {
+          "trades": 28,
+          "net_pnl": 3331.6926557114125,
+          "win_rate": 0.25,
+          "mean_win_r": 8.004970190441238,
+          "mean_loss_r": -0.9730285995216206,
+          "mean_hold_hours": 52.214285714285715
+        },
+        "short": {
+          "trades": 0,
+          "net_pnl": 0,
+          "win_rate": null,
+          "mean_win_r": null,
+          "mean_loss_r": null,
+          "mean_hold_hours": null
+        }
+      }
+    },
+    "2025": {
+      "trades": 19,
+      "win_rate": 0.15789473684210525,
+      "net_pnl": -538.9203275193526,
+      "mean_net_pnl": -28.36422776417645,
+      "profit_factor": 0.5711392090049249,
+      "max_consecutive_losses": 11,
+      "return_pct": -5.3892032751935215,
+      "max_drawdown_pct": 9.553838833360295,
+      "fees": 159.74055009335703,
+      "sharpe_daily": -0.7064730672154642,
+      "exposure_pct": 8.496004566210045,
+      "end_equity": 9461.079672480648,
+      "top5_share_of_gross_profit": 0.9023297892666824,
+      "net_pnl_without_best5": -1186.5332316614022,
+      "net_change_without_best5_months": -881.9280996165562,
+      "worst_month_cash_change": -288.25553514490275,
+      "sides": {
+        "long": {
+          "trades": 19,
+          "net_pnl": -538.9203275193526,
+          "win_rate": 0.15789473684210525,
+          "mean_win_r": 2.795296513762995,
+          "mean_loss_r": -0.9452695545817665,
+          "mean_hold_hours": 39.421052631578945
+        },
+        "short": {
+          "trades": 0,
+          "net_pnl": 0,
+          "win_rate": null,
+          "mean_win_r": null,
+          "mean_loss_r": null,
+          "mean_hold_hours": null
+        }
+      }
+    },
+    "2026": {
+      "trades": 22,
+      "win_rate": 0.22727272727272727,
+      "net_pnl": -338.24533548229476,
+      "mean_net_pnl": -15.374787976467944,
+      "profit_factor": 0.7410775383842433,
+      "max_consecutive_losses": 7,
+      "return_pct": -3.382453354822923,
+      "max_drawdown_pct": 9.953721250163872,
+      "fees": 196.287370014302,
+      "sharpe_daily": -0.3609397188992743,
+      "exposure_pct": 16.311070956981027,
+      "end_equity": 9661.754664517708,
+      "top5_share_of_gross_profit": 1.0,
+      "net_pnl_without_best5": -1306.3576383892637,
+      "net_change_without_best5_months": -521.0489578908873,
+      "worst_month_cash_change": -263.1535478279766,
+      "sides": {
+        "long": {
+          "trades": 22,
+          "net_pnl": -338.24533548229476,
+          "win_rate": 0.22727272727272727,
+          "mean_win_r": 2.1187562202448214,
+          "mean_loss_r": -0.8654006905341504,
+          "mean_hold_hours": 53.59090909090909
+        },
+        "short": {
+          "trades": 0,
+          "net_pnl": 0,
+          "win_rate": null,
+          "mean_win_r": null,
+          "mean_loss_r": null,
+          "mean_hold_hours": null
+        }
+      }
+    },
+    "full": {
+      "trades": 69,
+      "win_rate": 0.21739130434782608,
+      "net_pnl": 2186.717810703368,
+      "mean_net_pnl": 31.691562473961852,
+      "profit_factor": 1.389394439882688,
+      "max_consecutive_losses": 14,
+      "return_pct": 21.86717810703367,
+      "max_drawdown_pct": 17.145025440697005,
+      "fees": 727.4182364946531,
+      "sharpe_daily": 0.5997133543398286,
+      "exposure_pct": 13.633607534814155,
+      "end_equity": 12186.717810703367,
+      "top5_share_of_gross_profit": 0.6983482534651615,
+      "net_pnl_without_best5": -3262.078888487087,
+      "net_change_without_best5_months": -2980.7738195927323,
+      "worst_month_cash_change": -384.3004243969426,
+      "sides": {
+        "long": {
+          "trades": 69,
+          "net_pnl": 2186.717810703368,
+          "win_rate": 0.21739130434782608,
+          "mean_win_r": 5.000964131706784,
+          "mean_loss_r": -0.9309208370804232,
+          "mean_hold_hours": 49.130434782608695
+        },
+        "short": {
+          "trades": 0,
+          "net_pnl": 0,
+          "win_rate": null,
+          "mean_win_r": null,
+          "mean_loss_r": null,
+          "mean_hold_hours": null
+        }
+      }
+    }
+  },
+  "resume_local_trail": {
+    "2024": {
+      "trades": 92,
+      "win_rate": 0.22826086956521738,
+      "net_pnl": -2567.2224698635564,
+      "mean_net_pnl": -27.90459206373431,
+      "profit_factor": 0.43973013485324414,
+      "max_consecutive_losses": 15,
+      "return_pct": -25.672224698635603,
+      "max_drawdown_pct": 25.80977637480295,
+      "fees": 498.6762604475779,
+      "sharpe_daily": -2.544053067124687,
+      "exposure_pct": 19.871357012750455,
+      "end_equity": 7432.77753013644,
+      "top5_share_of_gross_profit": 0.5939518391445961,
+      "net_pnl_without_best5": -3763.9732017251135,
+      "net_change_without_best5_months": -2226.8908645243473,
+      "worst_month_cash_change": -426.9569812337795,
+      "sides": {
+        "long": {
+          "trades": 54,
+          "net_pnl": -1593.376485142661,
+          "win_rate": 0.2037037037037037,
+          "mean_win_r": 1.1245350646656296,
+          "mean_loss_r": -0.7370120412102191,
+          "mean_hold_hours": 20.444444444444443
+        },
+        "short": {
+          "trades": 38,
+          "net_pnl": -973.8459847208952,
+          "win_rate": 0.2631578947368421,
+          "mean_win_r": 1.0790623607773413,
+          "mean_loss_r": -0.7632592211056248,
+          "mean_hold_hours": 17.486842105263158
+        }
+      }
+    },
+    "2025": {
+      "trades": 107,
+      "win_rate": 0.308411214953271,
+      "net_pnl": -1258.2771506778777,
+      "mean_net_pnl": -11.759599539045587,
+      "profit_factor": 0.767611888512403,
+      "max_consecutive_losses": 10,
+      "return_pct": -12.582771506778734,
+      "max_drawdown_pct": 13.794812022753911,
+      "fees": 777.5772053319072,
+      "sharpe_daily": -0.8024251548775195,
+      "exposure_pct": 25.26541095890411,
+      "end_equity": 8741.722849322126,
+      "top5_share_of_gross_profit": 0.46734225976474175,
+      "net_pnl_without_best5": -3200.6793006464613,
+      "net_change_without_best5_months": -2593.061607333191,
+      "worst_month_cash_change": -634.3508378964998,
+      "sides": {
+        "long": {
+          "trades": 53,
+          "net_pnl": -201.9057861012305,
+          "win_rate": 0.2830188679245283,
+          "mean_win_r": 1.9581674325754734,
+          "mean_loss_r": -0.8009995803533624,
+          "mean_hold_hours": 20.78301886792453
+        },
+        "short": {
+          "trades": 54,
+          "net_pnl": -1056.3713645766472,
+          "win_rate": 0.3333333333333333,
+          "mean_win_r": 0.9603131708695597,
+          "mean_loss_r": -0.7954761818782099,
+          "mean_hold_hours": 21.083333333333332
+        }
+      }
+    },
+    "2026": {
+      "trades": 91,
+      "win_rate": 0.32967032967032966,
+      "net_pnl": 2384.5538319002285,
+      "mean_net_pnl": 26.203888262639875,
+      "profit_factor": 1.4631579629337705,
+      "max_consecutive_losses": 7,
+      "return_pct": 23.845538319002202,
+      "max_drawdown_pct": 11.282775255215071,
+      "fees": 784.5841705578196,
+      "sharpe_daily": 1.3707513694810811,
+      "exposure_pct": 26.787824032246856,
+      "end_equity": 12384.55383190022,
+      "top5_share_of_gross_profit": 0.5794535626439807,
+      "net_pnl_without_best5": -1980.4823569271352,
+      "net_change_without_best5_months": -1646.8998940485217,
+      "worst_month_cash_change": -524.0147495758592,
+      "sides": {
+        "long": {
+          "trades": 49,
+          "net_pnl": 2107.653957472143,
+          "win_rate": 0.32653061224489793,
+          "mean_win_r": 3.2958631977986896,
+          "mean_loss_r": -0.7807403506050178,
+          "mean_hold_hours": 22.178571428571427
+        },
+        "short": {
+          "trades": 42,
+          "net_pnl": 276.8998744280853,
+          "win_rate": 0.3333333333333333,
+          "mean_win_r": 1.8642318432203338,
+          "mean_loss_r": -0.7753285698358431,
+          "mean_hold_hours": 20.553571428571427
+        }
+      }
+    },
+    "full": {
+      "trades": 288,
+      "win_rate": 0.2881944444444444,
+      "net_pnl": -2127.405444750057,
+      "mean_net_pnl": -7.3868244609376985,
+      "profit_factor": 0.820872607407576,
+      "max_consecutive_losses": 15,
+      "return_pct": -21.274054447500546,
+      "max_drawdown_pct": 36.520319798071355,
+      "fees": 1567.2386657721315,
+      "sharpe_daily": -0.457979981326802,
+      "exposure_pct": 23.39369808193706,
+      "end_equity": 7872.594555249945,
+      "top5_share_of_gross_profit": 0.3216491487416099,
+      "net_pnl_without_best5": -5263.191553875382,
+      "net_change_without_best5_months": -5203.1660564425765,
+      "worst_month_cash_change": -472.2437537688138,
+      "sides": {
+        "long": {
+          "trades": 155,
+          "net_pnl": -564.219575085037,
+          "win_rate": 0.2645161290322581,
+          "mean_win_r": 2.2469431260011006,
+          "mean_loss_r": -0.7726377660217547,
+          "mean_hold_hours": 20.656451612903226
+        },
+        "short": {
+          "trades": 133,
+          "net_pnl": -1563.1858696650202,
+          "win_rate": 0.3157894736842105,
+          "mean_win_r": 1.2898930116311942,
+          "mean_loss_r": -0.7880623442796177,
+          "mean_hold_hours": 19.981203007518797
+        }
+      }
+    }
+  }
+}

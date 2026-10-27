@@ -1,0 +1,18 @@
+{
+  "trades": 155,
+  "win_rate": 0.4967741935483871,
+  "net_pnl": 2279.0331472604794,
+  "mean_net_pnl": 14.703439659745028,
+  "profit_factor": 1.271869881633998,
+  "max_consecutive_losses": 6,
+  "return_pct": 22.790331472604784,
+  "max_drawdown_pct": 8.270359897983626,
+  "fees": 1451.450728783566,
+  "end_equity": 12279.03314726048,
+  "rejections": {
+    "filled": 155,
+    "busy_or_cooldown": 2402,
+    "net_rr": 607,
+    "cost_fraction": 1092
+  }
+}

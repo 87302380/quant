@@ -1,0 +1,242 @@
+{
+  "baseline": {
+    "all": {
+      "trades": 342,
+      "win_rate": 0.20175438596491227,
+      "net_pnl": -4904.300105243116,
+      "mean_net_pnl": -14.340058787260574,
+      "profit_factor": 0.609146608652637,
+      "max_consecutive_losses": 22
+    },
+    "long": {
+      "trades": 166,
+      "win_rate": 0.23493975903614459,
+      "net_pnl": -1704.7741956252014,
+      "mean_net_pnl": -10.269724070031334,
+      "profit_factor": 0.6996564164089354,
+      "max_consecutive_losses": 14
+    },
+    "short": {
+      "trades": 176,
+      "win_rate": 0.17045454545454544,
+      "net_pnl": -3199.5259096179147,
+      "mean_net_pnl": -18.179124486465426,
+      "profit_factor": 0.5343835970695197,
+      "max_consecutive_losses": 30
+    },
+    "scores": {
+      "50-59": {
+        "trades": 0,
+        "win_rate": null,
+        "net_pnl": 0,
+        "mean_net_pnl": null,
+        "profit_factor": null,
+        "max_consecutive_losses": 0
+      },
+      "60-69": {
+        "trades": 0,
+        "win_rate": null,
+        "net_pnl": 0,
+        "mean_net_pnl": null,
+        "profit_factor": null,
+        "max_consecutive_losses": 0
+      },
+      "70-79": {
+        "trades": 139,
+        "win_rate": 0.16546762589928057,
+        "net_pnl": -3122.734660857957,
+        "mean_net_pnl": -22.46571698458962,
+        "profit_factor": 0.42840848181640395,
+        "max_consecutive_losses": 20
+      },
+      "80+": {
+        "trades": 203,
+        "win_rate": 0.22660098522167488,
+        "net_pnl": -1781.5654443851593,
+        "mean_net_pnl": -8.776184455099306,
+        "profit_factor": 0.7485243131502538,
+        "max_consecutive_losses": 28
+      }
+    }
+  },
+  "rsi": {
+    "all": {
+      "trades": 77,
+      "win_rate": 0.19480519480519481,
+      "net_pnl": -1538.5457071245453,
+      "mean_net_pnl": -19.98111307953955,
+      "profit_factor": 0.5765634036886478,
+      "max_consecutive_losses": 15
+    },
+    "long": {
+      "trades": 39,
+      "win_rate": 0.1282051282051282,
+      "net_pnl": -1353.6563463638615,
+      "mean_net_pnl": -34.70913708625286,
+      "profit_factor": 0.3252845508141848,
+      "max_consecutive_losses": 15
+    },
+    "short": {
+      "trades": 38,
+      "win_rate": 0.2631578947368421,
+      "net_pnl": -184.8893607606837,
+      "mean_net_pnl": -4.865509493702203,
+      "profit_factor": 0.8863765344356119,
+      "max_consecutive_losses": 7
+    },
+    "scores": {
+      "50-59": {
+        "trades": 0,
+        "win_rate": null,
+        "net_pnl": 0,
+        "mean_net_pnl": null,
+        "profit_factor": null,
+        "max_consecutive_losses": 0
+      },
+      "60-69": {
+        "trades": 0,
+        "win_rate": null,
+        "net_pnl": 0,
+        "mean_net_pnl": null,
+        "profit_factor": null,
+        "max_consecutive_losses": 0
+      },
+      "70-79": {
+        "trades": 0,
+        "win_rate": null,
+        "net_pnl": 0,
+        "mean_net_pnl": null,
+        "profit_factor": null,
+        "max_consecutive_losses": 0
+      },
+      "80+": {
+        "trades": 77,
+        "win_rate": 0.19480519480519481,
+        "net_pnl": -1538.5457071245453,
+        "mean_net_pnl": -19.98111307953955,
+        "profit_factor": 0.5765634036886478,
+        "max_consecutive_losses": 15
+      }
+    }
+  },
+  "volume": {
+    "all": {
+      "trades": 50,
+      "win_rate": 0.28,
+      "net_pnl": -40.89362693119189,
+      "mean_net_pnl": -0.8178725386238378,
+      "profit_factor": 0.975281216354742,
+      "max_consecutive_losses": 13
+    },
+    "long": {
+      "trades": 25,
+      "win_rate": 0.28,
+      "net_pnl": -161.93767316858015,
+      "mean_net_pnl": -6.477506926743206,
+      "profit_factor": 0.794628602184841,
+      "max_consecutive_losses": 9
+    },
+    "short": {
+      "trades": 25,
+      "win_rate": 0.28,
+      "net_pnl": 121.04404623738827,
+      "mean_net_pnl": 4.841761849495531,
+      "profit_factor": 1.1397990682559134,
+      "max_consecutive_losses": 7
+    },
+    "scores": {
+      "50-59": {
+        "trades": 0,
+        "win_rate": null,
+        "net_pnl": 0,
+        "mean_net_pnl": null,
+        "profit_factor": null,
+        "max_consecutive_losses": 0
+      },
+      "60-69": {
+        "trades": 0,
+        "win_rate": null,
+        "net_pnl": 0,
+        "mean_net_pnl": null,
+        "profit_factor": null,
+        "max_consecutive_losses": 0
+      },
+      "70-79": {
+        "trades": 0,
+        "win_rate": null,
+        "net_pnl": 0,
+        "mean_net_pnl": null,
+        "profit_factor": null,
+        "max_consecutive_losses": 0
+      },
+      "80+": {
+        "trades": 50,
+        "win_rate": 0.28,
+        "net_pnl": -40.89362693119189,
+        "mean_net_pnl": -0.8178725386238378,
+        "profit_factor": 0.975281216354742,
+        "max_consecutive_losses": 13
+      }
+    }
+  },
+  "rsi_volume": {
+    "all": {
+      "trades": 11,
+      "win_rate": 0.45454545454545453,
+      "net_pnl": 352.8752460681997,
+      "mean_net_pnl": 32.07956782438179,
+      "profit_factor": 2.151969627142422,
+      "max_consecutive_losses": 2
+    },
+    "long": {
+      "trades": 7,
+      "win_rate": 0.42857142857142855,
+      "net_pnl": 168.13777367618908,
+      "mean_net_pnl": 24.019681953741298,
+      "profit_factor": 1.9092654081011342,
+      "max_consecutive_losses": 2
+    },
+    "short": {
+      "trades": 4,
+      "win_rate": 0.5,
+      "net_pnl": 184.73747239201066,
+      "mean_net_pnl": 46.184368098002665,
+      "profit_factor": 2.521633504468391,
+      "max_consecutive_losses": 1
+    },
+    "scores": {
+      "50-59": {
+        "trades": 0,
+        "win_rate": null,
+        "net_pnl": 0,
+        "mean_net_pnl": null,
+        "profit_factor": null,
+        "max_consecutive_losses": 0
+      },
+      "60-69": {
+        "trades": 0,
+        "win_rate": null,
+        "net_pnl": 0,
+        "mean_net_pnl": null,
+        "profit_factor": null,
+        "max_consecutive_losses": 0
+      },
+      "70-79": {
+        "trades": 0,
+        "win_rate": null,
+        "net_pnl": 0,
+        "mean_net_pnl": null,
+        "profit_factor": null,
+        "max_consecutive_losses": 0
+      },
+      "80+": {
+        "trades": 11,
+        "win_rate": 0.45454545454545453,
+        "net_pnl": 352.8752460681997,
+        "mean_net_pnl": 32.07956782438179,
+        "profit_factor": 2.151969627142422,
+        "max_consecutive_losses": 2
+      }
+    }
+  }
+}

@@ -1,0 +1,424 @@
+{
+  "selection": {
+    "selected": "slow_pullback_both_3R",
+    "eligible": [
+      "slow_pullback_both_3R"
+    ],
+    "diagnostic_best_validation": "slow_pullback_both_3R",
+    "plan_sha256": "f0bb6835cf4c163c39f4e9070ccad6f889957609824c5a8b20d2cf856f42cdd7"
+  },
+  "candidate": "slow_pullback_both_3R",
+  "results": {
+    "baseline": {
+      "trades": 92,
+      "win_rate": 0.20652173913043478,
+      "net_pnl": -1560.07553343882,
+      "mean_net_pnl": -16.957342754769783,
+      "profit_factor": 0.6108432973206452,
+      "max_consecutive_losses": 15,
+      "return_pct": -15.6007553343882,
+      "end_equity": 8439.92446656118,
+      "max_drawdown_pct": 20.22509588868202,
+      "adverse_mark_drawdown_pct": 20.300425934087208,
+      "sharpe_daily": -1.9656125852223036,
+      "annualized_return_pct": -18.658894966293538,
+      "exposure_pct": 6.960177913684064,
+      "fees": 872.5763621268641,
+      "monthly": {
+        "2026-01": 0.2325639306661076,
+        "2026-02": -1.6694364509812099,
+        "2026-03": -0.6360327507453856,
+        "2026-04": -0.3670949840251958,
+        "2026-05": -5.160081638495361,
+        "2026-06": -0.22376459337084542,
+        "2026-07": -2.9003315529888107,
+        "2026-08": -1.797535208432366,
+        "2026-09": -4.030326534722084,
+        "2026-10": -0.11114429672964832
+      },
+      "sides": {
+        "long": {
+          "trades": 44,
+          "win_rate": 0.20454545454545456,
+          "net_pnl": -1031.8015502465314,
+          "mean_net_pnl": -23.450035232875713,
+          "profit_factor": 0.410214702043938,
+          "max_consecutive_losses": 12
+        },
+        "short": {
+          "trades": 48,
+          "win_rate": 0.20833333333333334,
+          "net_pnl": -528.2739831922886,
+          "mean_net_pnl": -11.005707983172679,
+          "profit_factor": 0.766189330702921,
+          "max_consecutive_losses": 11
+        }
+      },
+      "uncertainty": {
+        "method": "circular 14-day block bootstrap, 1000 draws; not selection-adjusted",
+        "daily_mean_return_95pct": [
+          -0.0009994916222001028,
+          -3.76778771618073e-05
+        ]
+      }
+    },
+    "rsi": {
+      "trades": 19,
+      "win_rate": 0.21052631578947367,
+      "net_pnl": -448.4422878074205,
+      "mean_net_pnl": -23.602225674074763,
+      "profit_factor": 0.4738088374136614,
+      "max_consecutive_losses": 11,
+      "return_pct": -4.484422878074205,
+      "end_equity": 9551.55771219258,
+      "max_drawdown_pct": 6.744985302275708,
+      "adverse_mark_drawdown_pct": 6.776755751716412,
+      "sharpe_daily": -1.4072684742397514,
+      "annualized_return_pct": -5.433260582732736,
+      "exposure_pct": 1.8625338800472584,
+      "fees": 186.45574664542502,
+      "monthly": {
+        "2026-01": 0.43537626988645606,
+        "2026-02": -0.8985885444539377,
+        "2026-03": 0.8795867846345562,
+        "2026-04": -0.8111554794059117,
+        "2026-05": -1.5414306488935603,
+        "2026-06": 0.0,
+        "2026-07": -1.577748269047552,
+        "2026-08": -0.7043122910436073,
+        "2026-09": 0.0,
+        "2026-10": -0.3300313299537949
+      },
+      "sides": {
+        "long": {
+          "trades": 11,
+          "win_rate": 0.18181818181818182,
+          "net_pnl": -316.43185025602423,
+          "mean_net_pnl": -28.76653184145675,
+          "profit_factor": 0.30667480889085336,
+          "max_consecutive_losses": 7
+        },
+        "short": {
+          "trades": 8,
+          "win_rate": 0.25,
+          "net_pnl": -132.01043755139625,
+          "mean_net_pnl": -16.50130469392453,
+          "profit_factor": 0.6665095226001524,
+          "max_consecutive_losses": 5
+        }
+      },
+      "uncertainty": {
+        "method": "circular 14-day block bootstrap, 1000 draws; not selection-adjusted",
+        "daily_mean_return_95pct": [
+          -0.00035595154783819914,
+          6.0551914625433337e-05
+        ]
+      }
+    },
+    "volume": {
+      "trades": 14,
+      "win_rate": 0.5,
+      "net_pnl": 541.311927262868,
+      "mean_net_pnl": 38.66513766163343,
+      "profit_factor": 2.5368168851402713,
+      "max_consecutive_losses": 3,
+      "return_pct": 5.4131192726286805,
+      "end_equity": 10541.311927262868,
+      "max_drawdown_pct": 2.3568063478491497,
+      "adverse_mark_drawdown_pct": 2.400205004895628,
+      "sharpe_daily": 1.3895826705519567,
+      "annualized_return_pct": 6.629278333105382,
+      "exposure_pct": 1.1432344151782612,
+      "fees": 143.597630745136,
+      "monthly": {
+        "2026-01": 1.5857631599399902,
+        "2026-02": -0.49913249082937927,
+        "2026-03": 1.531799547206103,
+        "2026-04": 1.5331727706325182,
+        "2026-05": 0.0,
+        "2026-06": 1.9419955100712816,
+        "2026-07": -0.6748246022398319,
+        "2026-08": -0.37527855445202984,
+        "2026-09": -0.5146773000817562,
+        "2026-10": 0.8059819342768115
+      },
+      "sides": {
+        "long": {
+          "trades": 8,
+          "win_rate": 0.5,
+          "net_pnl": 187.5283628891611,
+          "mean_net_pnl": 23.441045361145136,
+          "profit_factor": 1.9857082465818283,
+          "max_consecutive_losses": 3
+        },
+        "short": {
+          "trades": 6,
+          "win_rate": 0.5,
+          "net_pnl": 353.78356437370695,
+          "mean_net_pnl": 58.96392739561782,
+          "profit_factor": 3.1840923292267638,
+          "max_consecutive_losses": 2
+        }
+      },
+      "uncertainty": {
+        "method": "circular 14-day block bootstrap, 1000 draws; not selection-adjusted",
+        "daily_mean_return_95pct": [
+          -4.8318717828162255e-05,
+          0.0004106096517127907
+        ]
+      }
+    },
+    "rsi_volume": {
+      "trades": 5,
+      "win_rate": 0.6,
+      "net_pnl": 271.4180198499108,
+      "mean_net_pnl": 54.28360396998217,
+      "profit_factor": 3.9824702596035655,
+      "max_consecutive_losses": 2,
+      "return_pct": 2.714180198499108,
+      "end_equity": 10271.41801984991,
+      "max_drawdown_pct": 2.049296937236933,
+      "adverse_mark_drawdown_pct": 2.2431509895488255,
+      "sharpe_daily": 1.0743074244483688,
+      "annualized_return_pct": 3.314467755287809,
+      "exposure_pct": 0.5907290291194662,
+      "fees": 49.250754668091005,
+      "monthly": {
+        "2026-01": 0.0,
+        "2026-02": 0.0,
+        "2026-03": 1.532348543745754,
+        "2026-04": 0.35558162924147485,
+        "2026-05": 0.0,
+        "2026-06": 0.0,
+        "2026-07": 0.0,
+        "2026-08": 0.0,
+        "2026-09": 0.0,
+        "2026-10": 0.8055491772585466
+      },
+      "sides": {
+        "long": {
+          "trades": 4,
+          "win_rate": 0.5,
+          "net_pnl": 118.1831654753361,
+          "mean_net_pnl": 29.545791368834024,
+          "profit_factor": 2.2986528175649887,
+          "max_consecutive_losses": 2
+        },
+        "short": {
+          "trades": 1,
+          "win_rate": 1.0,
+          "net_pnl": 153.23485437457475,
+          "mean_net_pnl": 153.23485437457475,
+          "profit_factor": null,
+          "max_consecutive_losses": 0
+        }
+      },
+      "uncertainty": {
+        "method": "circular 14-day block bootstrap, 1000 draws; not selection-adjusted",
+        "daily_mean_return_95pct": [
+          -2.7245100360390555e-05,
+          0.00023427017008588623
+        ]
+      }
+    },
+    "slow_pullback_both_3R": {
+      "trades": 29,
+      "win_rate": 0.2413793103448276,
+      "net_pnl": -458.0932597445774,
+      "mean_net_pnl": -15.796319301537151,
+      "profit_factor": 0.7965218378069048,
+      "max_consecutive_losses": 11,
+      "return_pct": -4.5809325974457735,
+      "end_equity": 9541.906740255423,
+      "max_drawdown_pct": 11.408300812753403,
+      "adverse_mark_drawdown_pct": 11.408300812753403,
+      "sharpe_daily": -0.5747750154674527,
+      "annualized_return_pct": -5.549590386517,
+      "exposure_pct": 54.08298005420808,
+      "fees": 124.748179344582,
+      "monthly": {
+        "2026-01": 3.485281438583532,
+        "2026-02": 0.20051343171147984,
+        "2026-03": -1.580923905355336,
+        "2026-04": 0.3803745046675022,
+        "2026-05": 3.216357243519119,
+        "2026-06": 0.770324699817837,
+        "2026-07": -1.1020853830031152,
+        "2026-08": -0.8857872558042046,
+        "2026-09": -5.336536261075542,
+        "2026-10": -3.490093820125506
+      },
+      "sides": {
+        "long": {
+          "trades": 16,
+          "win_rate": 0.25,
+          "net_pnl": -294.8951419205655,
+          "mean_net_pnl": -18.430946370035343,
+          "profit_factor": 0.761354471773943,
+          "max_consecutive_losses": 5
+        },
+        "short": {
+          "trades": 13,
+          "win_rate": 0.23076923076923078,
+          "net_pnl": -163.19811782401194,
+          "mean_net_pnl": -12.553701371077842,
+          "profit_factor": 0.8393103291632734,
+          "max_consecutive_losses": 6
+        }
+      },
+      "uncertainty": {
+        "method": "circular 14-day block bootstrap, 1000 draws; not selection-adjusted",
+        "daily_mean_return_95pct": [
+          -0.0006797640951606798,
+          0.00038953185533858477
+        ]
+      }
+    }
+  },
+  "stress": {
+    "normal": {
+      "trades": 29,
+      "win_rate": 0.2413793103448276,
+      "net_pnl": -458.0932597445774,
+      "mean_net_pnl": -15.796319301537151,
+      "profit_factor": 0.7965218378069048,
+      "max_consecutive_losses": 11,
+      "return_pct": -4.5809325974457735,
+      "end_equity": 9541.906740255423,
+      "max_drawdown_pct": 11.408300812753403,
+      "adverse_mark_drawdown_pct": 11.408300812753403,
+      "sharpe_daily": -0.5747750154674527,
+      "annualized_return_pct": -5.549590386517,
+      "exposure_pct": 54.08298005420808,
+      "fees": 124.748179344582,
+      "monthly": {
+        "2026-01": 3.485281438583532,
+        "2026-02": 0.20051343171147984,
+        "2026-03": -1.580923905355336,
+        "2026-04": 0.3803745046675022,
+        "2026-05": 3.216357243519119,
+        "2026-06": 0.770324699817837,
+        "2026-07": -1.1020853830031152,
+        "2026-08": -0.8857872558042046,
+        "2026-09": -5.336536261075542,
+        "2026-10": -3.490093820125506
+      },
+      "sides": {
+        "long": {
+          "trades": 16,
+          "win_rate": 0.25,
+          "net_pnl": -294.8951419205655,
+          "mean_net_pnl": -18.430946370035343,
+          "profit_factor": 0.761354471773943,
+          "max_consecutive_losses": 5
+        },
+        "short": {
+          "trades": 13,
+          "win_rate": 0.23076923076923078,
+          "net_pnl": -163.19811782401194,
+          "mean_net_pnl": -12.553701371077842,
+          "profit_factor": 0.8393103291632734,
+          "max_consecutive_losses": 6
+        }
+      }
+    },
+    "moderate": {
+      "trades": 29,
+      "win_rate": 0.2413793103448276,
+      "net_pnl": -536.4266170184695,
+      "mean_net_pnl": -18.497469552361018,
+      "profit_factor": 0.760177873583626,
+      "max_consecutive_losses": 11,
+      "return_pct": -5.364266170184695,
+      "end_equity": 9463.57338298153,
+      "max_drawdown_pct": 11.384378824881015,
+      "adverse_mark_drawdown_pct": 11.384378824881015,
+      "sharpe_daily": -0.7061436533129356,
+      "annualized_return_pct": -6.49284730938512,
+      "exposure_pct": 54.08298005420808,
+      "fees": 178.782644990481,
+      "monthly": {
+        "2026-01": 3.2019886305051815,
+        "2026-02": 0.18913019773778572,
+        "2026-03": -1.603101980451438,
+        "2026-04": 0.25983172393777565,
+        "2026-05": 2.9726696162604815,
+        "2026-06": 0.6661102953392728,
+        "2026-07": -1.1221086900499277,
+        "2026-08": -0.9245884032488716,
+        "2026-09": -5.3470220141953355,
+        "2026-10": -3.476407066953857
+      },
+      "sides": {
+        "long": {
+          "trades": 16,
+          "win_rate": 0.25,
+          "net_pnl": -337.5010954613738,
+          "mean_net_pnl": -21.09381846633586,
+          "profit_factor": 0.7252373889701388,
+          "max_consecutive_losses": 5
+        },
+        "short": {
+          "trades": 13,
+          "win_rate": 0.23076923076923078,
+          "net_pnl": -198.92552155709575,
+          "mean_net_pnl": -15.301963196699672,
+          "profit_factor": 0.8027377173618093,
+          "max_consecutive_losses": 6
+        }
+      }
+    },
+    "severe": {
+      "trades": 29,
+      "win_rate": 0.2413793103448276,
+      "net_pnl": -610.1660328003361,
+      "mean_net_pnl": -21.040208027597796,
+      "profit_factor": 0.7256336805381236,
+      "max_consecutive_losses": 11,
+      "return_pct": -6.101660328003361,
+      "end_equity": 9389.833967199664,
+      "max_drawdown_pct": 11.363528981017456,
+      "adverse_mark_drawdown_pct": 11.363528981017456,
+      "sharpe_daily": -0.8370137594126519,
+      "annualized_return_pct": -7.379235130849171,
+      "exposure_pct": 54.08298005420808,
+      "fees": 228.253475616336,
+      "monthly": {
+        "2026-01": 2.9397009034998423,
+        "2026-02": 0.1779253186908747,
+        "2026-03": -1.6239798249220394,
+        "2026-04": 0.1373171750869595,
+        "2026-05": 2.7478053453900975,
+        "2026-06": 0.5680077228804592,
+        "2026-07": -1.1411435009341386,
+        "2026-08": -0.9620778061119384,
+        "2026-09": -5.356291927018297,
+        "2026-10": -3.466839430108992
+      },
+      "sides": {
+        "long": {
+          "trades": 16,
+          "win_rate": 0.25,
+          "net_pnl": -378.0136068248691,
+          "mean_net_pnl": -23.62585042655432,
+          "profit_factor": 0.690737247834343,
+          "max_consecutive_losses": 5
+        },
+        "short": {
+          "trades": 13,
+          "win_rate": 0.23076923076923078,
+          "net_pnl": -232.15242597546694,
+          "mean_net_pnl": -17.857878921189766,
+          "profit_factor": 0.7682194594246274,
+          "max_consecutive_losses": 6
+        }
+      }
+    }
+  },
+  "buy_hold": {
+    "return_pct": -8.13071637214371,
+    "max_drawdown_pct": 40.44180850115616
+  },
+  "funding_disabled": true,
+  "holdout_used_once": true
+}
