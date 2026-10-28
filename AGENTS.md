@@ -1,8 +1,8 @@
 # Project instructions
 
-This repository contains local/offline BTC research, not a live trading service.
+This repository contains offline BTC and NFI X8 research, not a live trading service.
 
-1. Read `RESEARCH_SCOPE.md` before changing the strategy. Current scope is BTC only, no pre-2024 data, with current bear-market scenarios prioritized. Earlier dates are warmup/comparison, not evidence of current effectiveness.
+1. Read `RESEARCH_SCOPE.md` before changing the strategy. The original BTC studies remain BTC only. The user explicitly authorized a separate multi-coin OKX USDT perpetual NFI X8 study on 2026-10-28; read `research/nfi/README.md` and run `python nfi_verify.py` for it. No pre-2024 data. Earlier dates are warmup/comparison, not evidence of current effectiveness.
 2. Restore the bundled datasets with `python cloud_data.py`. No exchange credentials or network are needed for existing-history tests and backtests.
 3. Run `python cloud_verify.py --backtest` to restore data, execute tests, and replay the current bear study. Python 3.10+ and its standard library are sufficient.
 4. Use closed higher-timeframe bars for regime and location decisions. Lower-timeframe data must not supply future information. Keep fees/slippage and report funding is disabled by user request.

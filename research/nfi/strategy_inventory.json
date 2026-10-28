@@ -1,0 +1,962 @@
+{
+  "upstream": {
+    "repository": "https://github.com/iterativv/NostalgiaForInfinity",
+    "commit": "05b95e189ac5d301da2169ddec3118368f1b5c8b",
+    "strategy_version": "v18.0.167",
+    "license": "GPL-3.0; unmodified source and full license included in upstream/",
+    "files": [
+      {
+        "path": "LICENSE",
+        "git_blob_sha": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+        "bytes": 35149
+      },
+      {
+        "path": "NostalgiaForInfinityX8.py",
+        "git_blob_sha": "416b6cc4eb06aeda078e53a47415c31a4bba0307",
+        "bytes": 3193417
+      },
+      {
+        "path": "README.md",
+        "git_blob_sha": "42d71404b39689d392170b387ff51aaedf1c3b8c",
+        "bytes": 5228
+      },
+      {
+        "path": "configs/blacklist-okx.json",
+        "git_blob_sha": "30a63978bf93f0e1cf48c44109f8d90d242c72cd",
+        "bytes": 13725
+      },
+      {
+        "path": "configs/exampleconfig.json",
+        "git_blob_sha": "51ec1d97b635b90bca968e3a1fbeaeca66212e44",
+        "bytes": 2495
+      },
+      {
+        "path": "configs/pairlist-backtest-static-okx-futures-usdt.json",
+        "git_blob_sha": "f61df64debdab260b0f39b0c3f78700db773fa70",
+        "bytes": 4550
+      },
+      {
+        "path": "configs/pairlist-static-okx-futures-usdt.json",
+        "git_blob_sha": "17d15915e10ec4c758a5f024560902f6a33d04a8",
+        "bytes": 4326
+      },
+      {
+        "path": "configs/pairlist-volume-okx-futures.json",
+        "git_blob_sha": "775c08c5ed36e54f3a8173dcb03cc9743479c5e1",
+        "bytes": 856
+      },
+      {
+        "path": "configs/recommended_config.json",
+        "git_blob_sha": "70f372ee8e55d2585848bcde28c3dd39e61a3ca8",
+        "bytes": 736
+      },
+      {
+        "path": "configs/trading_mode-futures.json",
+        "git_blob_sha": "3b3c9bb0403f871868ab56de164ca9c78f52717b",
+        "bytes": 128
+      },
+      {
+        "path": "docs/installation-and-setup.md",
+        "git_blob_sha": "52e25749271074bcb8e5e1ad57a9e53804209daa",
+        "bytes": 10797
+      },
+      {
+        "path": "docs/technical-architecture/architecture-overview.md",
+        "git_blob_sha": "be77370a53a03e77f53e7ba632350aecea733c9d",
+        "bytes": 16052
+      }
+    ]
+  },
+  "settings": {
+    "timeframe": "5m",
+    "info_timeframes": [
+      "15m",
+      "1h",
+      "4h",
+      "1d"
+    ],
+    "btc_info_timeframes": [
+      "4h"
+    ],
+    "startup_candle_count": 800,
+    "stoploss": -0.99,
+    "use_custom_stoploss": false,
+    "position_adjustment_enable": true,
+    "grinding_enable": true,
+    "derisk_enable": true,
+    "futures_mode_leverage": 3.0,
+    "futures_mode_leverage_rebuy_mode": 3.0,
+    "futures_mode_leverage_grind_mode": 3.0
+  },
+  "mode_tags": {
+    "long_normal_mode_tags": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "long_pump_mode_tags": [
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26"
+    ],
+    "long_quick_mode_tags": [
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "50",
+      "51",
+      "52",
+      "53"
+    ],
+    "long_rebuy_mode_tags": [
+      "61",
+      "62",
+      "63",
+      "64",
+      "65",
+      "68"
+    ],
+    "long_high_profit_mode_tags": [
+      "81",
+      "82"
+    ],
+    "long_rapid_mode_tags": [
+      "101",
+      "102",
+      "103",
+      "104",
+      "105",
+      "106",
+      "107",
+      "108",
+      "109",
+      "110"
+    ],
+    "long_grind_mode_tags": [
+      "120"
+    ],
+    "long_btc_mode_tags": [
+      "121"
+    ],
+    "long_top_coins_mode_tags": [
+      "141",
+      "142",
+      "143",
+      "144",
+      "145"
+    ],
+    "long_scalp_mode_tags": [
+      "161",
+      "162",
+      "163",
+      "164",
+      "165",
+      "166",
+      "167",
+      "168",
+      "169",
+      "170",
+      "171",
+      "172",
+      "173",
+      "174"
+    ],
+    "short_normal_mode_tags": [
+      "501",
+      "502",
+      "505",
+      "506"
+    ],
+    "short_pump_mode_tags": [
+      "521",
+      "522",
+      "523",
+      "524",
+      "525",
+      "526"
+    ],
+    "short_quick_mode_tags": [
+      "541",
+      "542",
+      "543",
+      "544",
+      "545",
+      "546",
+      "547",
+      "548",
+      "549",
+      "550"
+    ],
+    "short_rebuy_mode_tags": [
+      "561",
+      "562",
+      "563"
+    ],
+    "short_high_profit_mode_tags": [
+      "581",
+      "582"
+    ],
+    "short_rapid_mode_tags": [
+      "601",
+      "602",
+      "603",
+      "604",
+      "605",
+      "606",
+      "607",
+      "608",
+      "609",
+      "610"
+    ],
+    "short_grind_mode_tags": [
+      "620"
+    ],
+    "short_top_coins_mode_tags": [
+      "641",
+      "642"
+    ],
+    "short_scalp_mode_tags": [
+      "661",
+      "662",
+      "663",
+      "664",
+      "665",
+      "666",
+      "667",
+      "670",
+      "669",
+      "671"
+    ]
+  },
+  "methods": [
+    {
+      "name": "version",
+      "line": 72,
+      "end_line": 73
+    },
+    {
+      "name": "__init__",
+      "line": 1173,
+      "end_line": 1317
+    },
+    {
+      "name": "plot_config",
+      "line": 1322,
+      "end_line": 1337
+    },
+    {
+      "name": "get_ticker_indicator",
+      "line": 1341,
+      "end_line": 1342
+    },
+    {
+      "name": "mark_profit_target",
+      "line": 1346,
+      "end_line": 1362
+    },
+    {
+      "name": "exit_profit_target",
+      "line": 1366,
+      "end_line": 1679
+    },
+    {
+      "name": "filled_order_snapshot",
+      "line": 1683,
+      "end_line": 1697
+    },
+    {
+      "name": "_bad_trade_controller_ema_gap_and_adverse_move",
+      "line": 1700,
+      "end_line": 1729
+    },
+    {
+      "name": "_bad_trade_controller_exit_reason",
+      "line": 1731,
+      "end_line": 1764
+    },
+    {
+      "name": "_bad_trade_controller_derisk_hold",
+      "line": 1766,
+      "end_line": 1777
+    },
+    {
+      "name": "_bad_trade_controller_capitulation",
+      "line": 1779,
+      "end_line": 1787
+    },
+    {
+      "name": "_grind_entry_before_derisk",
+      "line": 1789,
+      "end_line": 1801
+    },
+    {
+      "name": "trade_order_state",
+      "line": 1803,
+      "end_line": 1812
+    },
+    {
+      "name": "cache_backtest_profit_snapshot",
+      "line": 1814,
+      "end_line": 1837
+    },
+    {
+      "name": "backtest_profit_snapshot",
+      "line": 1839,
+      "end_line": 1866
+    },
+    {
+      "name": "profit_or_order_snapshot",
+      "line": 1868,
+      "end_line": 1874
+    },
+    {
+      "name": "calc_total_profit",
+      "line": 1878,
+      "end_line": 1937
+    },
+    {
+      "name": "scale_stakes_for_min_stake",
+      "line": 1940,
+      "end_line": 1945
+    },
+    {
+      "name": "custom_exit",
+      "line": 1949,
+      "end_line": 2507
+    },
+    {
+      "name": "custom_stake_amount",
+      "line": 2511,
+      "end_line": 2643
+    },
+    {
+      "name": "order_filled",
+      "line": 2647,
+      "end_line": 2745
+    },
+    {
+      "name": "adjust_trade_position",
+      "line": 2749,
+      "end_line": 2952
+    },
+    {
+      "name": "notification_msg",
+      "line": 2954,
+      "end_line": 3087
+    },
+    {
+      "name": "btc_informative_pair",
+      "line": 3089,
+      "end_line": 3096
+    },
+    {
+      "name": "prepare_informative_merge",
+      "line": 3098,
+      "end_line": 3109
+    },
+    {
+      "name": "informative_pairs",
+      "line": 3113,
+      "end_line": 3128
+    },
+    {
+      "name": "chaikin_money_flow",
+      "line": 3131,
+      "end_line": 3147
+    },
+    {
+      "name": "fast_pct_change",
+      "line": 3150,
+      "end_line": 3163
+    },
+    {
+      "name": "obv_change_pct",
+      "line": 3166,
+      "end_line": 3174
+    },
+    {
+      "name": "stochrsi_k",
+      "line": 3177,
+      "end_line": 3193
+    },
+    {
+      "name": "calc_kst",
+      "line": 3196,
+      "end_line": 3208
+    },
+    {
+      "name": "validate_indicators",
+      "line": 3211,
+      "end_line": 3255
+    },
+    {
+      "name": "np_shift",
+      "line": 3258,
+      "end_line": 3262
+    },
+    {
+      "name": "informative_1d_indicators",
+      "line": 3266,
+      "end_line": 3449
+    },
+    {
+      "name": "informative_4h_indicators",
+      "line": 3453,
+      "end_line": 3669
+    },
+    {
+      "name": "informative_1h_indicators",
+      "line": 3673,
+      "end_line": 3904
+    },
+    {
+      "name": "informative_15m_indicators",
+      "line": 3908,
+      "end_line": 4070
+    },
+    {
+      "name": "run_index",
+      "line": 4073,
+      "end_line": 4078
+    },
+    {
+      "name": "base_tf_5m_indicators",
+      "line": 4082,
+      "end_line": 4522
+    },
+    {
+      "name": "btc_informative_1d_indicators",
+      "line": 4526,
+      "end_line": 4581
+    },
+    {
+      "name": "btc_informative_4h_indicators",
+      "line": 4585,
+      "end_line": 4641
+    },
+    {
+      "name": "btc_informative_1h_indicators",
+      "line": 4645,
+      "end_line": 4711
+    },
+    {
+      "name": "btc_informative_15m_indicators",
+      "line": 4715,
+      "end_line": 4781
+    },
+    {
+      "name": "btc_informative_5m_indicators",
+      "line": 4785,
+      "end_line": 4851
+    },
+    {
+      "name": "info_switcher",
+      "line": 4855,
+      "end_line": 4865
+    },
+    {
+      "name": "btc_info_switcher",
+      "line": 4869,
+      "end_line": 4881
+    },
+    {
+      "name": "populate_indicators",
+      "line": 4885,
+      "end_line": 5389
+    },
+    {
+      "name": "confirm_trade_entry",
+      "line": 5393,
+      "end_line": 5455
+    },
+    {
+      "name": "_handle_grind_mode",
+      "line": 5457,
+      "end_line": 5473
+    },
+    {
+      "name": "_handle_top_coins_mode",
+      "line": 5475,
+      "end_line": 5480
+    },
+    {
+      "name": "_handle_scalp_mode",
+      "line": 5482,
+      "end_line": 5487
+    },
+    {
+      "name": "confirm_trade_exit",
+      "line": 5491,
+      "end_line": 5535
+    },
+    {
+      "name": "check_entry_timeout",
+      "line": 5539,
+      "end_line": 5550
+    },
+    {
+      "name": "check_exit_timeout",
+      "line": 5554,
+      "end_line": 5568
+    },
+    {
+      "name": "bot_loop_start",
+      "line": 5572,
+      "end_line": 5579
+    },
+    {
+      "name": "leverage",
+      "line": 5583,
+      "end_line": 5618
+    },
+    {
+      "name": "correct_min_stake",
+      "line": 5622,
+      "end_line": 5627
+    },
+    {
+      "name": "is_backtest_mode",
+      "line": 5629,
+      "end_line": 5631
+    },
+    {
+      "name": "is_system_v3",
+      "line": 5633,
+      "end_line": 5635
+    },
+    {
+      "name": "is_system_v3_1",
+      "line": 5637,
+      "end_line": 5639
+    },
+    {
+      "name": "is_system_v3_2",
+      "line": 5641,
+      "end_line": 5643
+    },
+    {
+      "name": "is_system_v4",
+      "line": 5645,
+      "end_line": 5647
+    },
+    {
+      "name": "get_system_version_flags",
+      "line": 5649,
+      "end_line": 5656
+    },
+    {
+      "name": "has_valid_entry_conditions",
+      "line": 5658,
+      "end_line": 5672
+    },
+    {
+      "name": "update_signals_from_config",
+      "line": 5676,
+      "end_line": 5691
+    },
+    {
+      "name": "_set_profit_target",
+      "line": 5695,
+      "end_line": 5704
+    },
+    {
+      "name": "_remove_profit_target",
+      "line": 5708,
+      "end_line": 5713
+    },
+    {
+      "name": "get_hold_trades_config_file",
+      "line": 5717,
+      "end_line": 5740
+    },
+    {
+      "name": "load_hold_trades_config",
+      "line": 5744,
+      "end_line": 5754
+    },
+    {
+      "name": "_should_hold_trade",
+      "line": 5758,
+      "end_line": 5827
+    },
+    {
+      "name": "populate_exit_trend",
+      "line": 5831,
+      "end_line": 5835
+    },
+    {
+      "name": "populate_entry_trend",
+      "line": 5861,
+      "end_line": 34627
+    },
+    {
+      "name": "long_exit_normal",
+      "line": 34666,
+      "end_line": 34912
+    },
+    {
+      "name": "long_exit_pump",
+      "line": 34916,
+      "end_line": 35151
+    },
+    {
+      "name": "long_exit_quick",
+      "line": 35155,
+      "end_line": 35448
+    },
+    {
+      "name": "long_exit_rebuy",
+      "line": 35452,
+      "end_line": 35720
+    },
+    {
+      "name": "long_exit_high_profit",
+      "line": 35724,
+      "end_line": 35953
+    },
+    {
+      "name": "long_exit_rapid",
+      "line": 35957,
+      "end_line": 36258
+    },
+    {
+      "name": "long_exit_grind",
+      "line": 36262,
+      "end_line": 36284
+    },
+    {
+      "name": "long_exit_btc",
+      "line": 36288,
+      "end_line": 36310
+    },
+    {
+      "name": "long_exit_top_coins",
+      "line": 36314,
+      "end_line": 36531
+    },
+    {
+      "name": "long_exit_scalp",
+      "line": 36535,
+      "end_line": 36769
+    },
+    {
+      "name": "long_exit_signals",
+      "line": 36773,
+      "end_line": 36856
+    },
+    {
+      "name": "long_exit_main",
+      "line": 36860,
+      "end_line": 36959
+    },
+    {
+      "name": "long_exit_williams_r",
+      "line": 36963,
+      "end_line": 37021
+    },
+    {
+      "name": "long_exit_dec",
+      "line": 37025,
+      "end_line": 37217
+    },
+    {
+      "name": "long_exit_stoploss",
+      "line": 37221,
+      "end_line": 37356
+    },
+    {
+      "name": "long_grind_adjust_trade_position_v2",
+      "line": 37381,
+      "end_line": 39406
+    },
+    {
+      "name": "long_buyback_entry_v2",
+      "line": 39408,
+      "end_line": 39543
+    },
+    {
+      "name": "long_grind_entry_v2",
+      "line": 39545,
+      "end_line": 39853
+    },
+    {
+      "name": "long_buyback_exit_v2",
+      "line": 39855,
+      "end_line": 39875
+    },
+    {
+      "name": "long_grind_exit_v2",
+      "line": 39877,
+      "end_line": 39904
+    },
+    {
+      "name": "long_grind_adjust_trade_position_v3",
+      "line": 39908,
+      "end_line": 41475
+    },
+    {
+      "name": "long_grind_entry_v3",
+      "line": 41477,
+      "end_line": 42204
+    },
+    {
+      "name": "long_buyback_entry_v3",
+      "line": 42206,
+      "end_line": 42220
+    },
+    {
+      "name": "long_rebuy_entry_v3",
+      "line": 42222,
+      "end_line": 42235
+    },
+    {
+      "name": "long_grind_exit_v3",
+      "line": 42237,
+      "end_line": 42341
+    },
+    {
+      "name": "long_grind_adjust_trade_position_v4",
+      "line": 42345,
+      "end_line": 44066
+    },
+    {
+      "name": "long_grind_entry_v4",
+      "line": 44068,
+      "end_line": 44795
+    },
+    {
+      "name": "long_buyback_entry_v4",
+      "line": 44797,
+      "end_line": 44811
+    },
+    {
+      "name": "long_rebuy_entry_v4",
+      "line": 44813,
+      "end_line": 44826
+    },
+    {
+      "name": "long_grind_exit_v4",
+      "line": 44828,
+      "end_line": 44933
+    },
+    {
+      "name": "long_grind_adjust_trade_position",
+      "line": 44937,
+      "end_line": 47032
+    },
+    {
+      "name": "long_grind_entry",
+      "line": 47036,
+      "end_line": 47156
+    },
+    {
+      "name": "long_adjust_trade_position_no_derisk",
+      "line": 47160,
+      "end_line": 48573
+    },
+    {
+      "name": "long_rebuy_adjust_trade_position",
+      "line": 48577,
+      "end_line": 48773
+    },
+    {
+      "name": "long_rebuy_adjust_trade_position_v3",
+      "line": 48777,
+      "end_line": 48973
+    },
+    {
+      "name": "long_rebuy_adjust_trade_position_v4",
+      "line": 48977,
+      "end_line": 49168
+    },
+    {
+      "name": "short_exit_normal",
+      "line": 49209,
+      "end_line": 49455
+    },
+    {
+      "name": "short_exit_pump",
+      "line": 49459,
+      "end_line": 49697
+    },
+    {
+      "name": "short_exit_quick",
+      "line": 49701,
+      "end_line": 49982
+    },
+    {
+      "name": "short_exit_rebuy",
+      "line": 49986,
+      "end_line": 50266
+    },
+    {
+      "name": "short_exit_high_profit",
+      "line": 50270,
+      "end_line": 50491
+    },
+    {
+      "name": "short_exit_rapid",
+      "line": 50495,
+      "end_line": 50838
+    },
+    {
+      "name": "short_exit_grind",
+      "line": 50842,
+      "end_line": 50865
+    },
+    {
+      "name": "short_exit_top_coins",
+      "line": 50869,
+      "end_line": 51113
+    },
+    {
+      "name": "short_exit_scalp",
+      "line": 51117,
+      "end_line": 51402
+    },
+    {
+      "name": "short_exit_signals",
+      "line": 51406,
+      "end_line": 51489
+    },
+    {
+      "name": "short_exit_main",
+      "line": 51493,
+      "end_line": 51592
+    },
+    {
+      "name": "short_exit_williams_r",
+      "line": 51596,
+      "end_line": 51654
+    },
+    {
+      "name": "short_exit_dec",
+      "line": 51658,
+      "end_line": 51850
+    },
+    {
+      "name": "short_exit_stoploss",
+      "line": 51854,
+      "end_line": 51989
+    },
+    {
+      "name": "short_grind_adjust_trade_position_v2",
+      "line": 52015,
+      "end_line": 54014
+    },
+    {
+      "name": "short_buyback_entry_v2",
+      "line": 54016,
+      "end_line": 54152
+    },
+    {
+      "name": "short_grind_entry_v2",
+      "line": 54154,
+      "end_line": 54463
+    },
+    {
+      "name": "short_buyback_exit_v2",
+      "line": 54465,
+      "end_line": 54485
+    },
+    {
+      "name": "short_grind_exit_v2",
+      "line": 54487,
+      "end_line": 54507
+    },
+    {
+      "name": "short_grind_exit_v3",
+      "line": 54511,
+      "end_line": 54616
+    },
+    {
+      "name": "short_grind_adjust_trade_position_v3",
+      "line": 54620,
+      "end_line": 55997
+    },
+    {
+      "name": "short_grind_entry_v3",
+      "line": 55999,
+      "end_line": 56725
+    },
+    {
+      "name": "short_rebuy_entry_v3",
+      "line": 56727,
+      "end_line": 56742
+    },
+    {
+      "name": "short_grind_adjust_trade_position_v4",
+      "line": 56746,
+      "end_line": 58227
+    },
+    {
+      "name": "short_grind_entry_v4",
+      "line": 58229,
+      "end_line": 58955
+    },
+    {
+      "name": "short_rebuy_entry_v4",
+      "line": 58957,
+      "end_line": 58972
+    },
+    {
+      "name": "short_grind_exit_v4",
+      "line": 58976,
+      "end_line": 59087
+    },
+    {
+      "name": "short_grind_adjust_trade_position",
+      "line": 59091,
+      "end_line": 61104
+    },
+    {
+      "name": "short_grind_entry",
+      "line": 61108,
+      "end_line": 61226
+    },
+    {
+      "name": "short_adjust_trade_position_no_derisk",
+      "line": 61230,
+      "end_line": 62643
+    },
+    {
+      "name": "short_rebuy_adjust_trade_position",
+      "line": 62647,
+      "end_line": 62833
+    },
+    {
+      "name": "short_rebuy_adjust_trade_position_v3",
+      "line": 62837,
+      "end_line": 63030
+    },
+    {
+      "name": "short_rebuy_adjust_trade_position_v4",
+      "line": 63034,
+      "end_line": 63224
+    }
+  ],
+  "caveats": [
+    "Class defaults only; __init__ sets OKX startup_candle_count=480 and futures can_short=True.",
+    "Defined mode tags do not imply enabled entries; inspect config and populate_entry_trend.",
+    "Static source inventory is not proof of correctness or profitability."
+  ]
+}

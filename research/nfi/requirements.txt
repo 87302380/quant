@@ -1,0 +1,2 @@
+# Separate optional engine; stdlib BTC/data tooling does not require this.
+freqtrade==2026.9

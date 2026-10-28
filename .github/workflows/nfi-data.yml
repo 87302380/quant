@@ -1,0 +1,50 @@
+name: NFI X8 dataset verification
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'nfi_*.py'
+      - 'research/nfi/**'
+      - 'datasets/nfi/**'
+      - 'tests/test_nfi_data.py'
+      - '.github/workflows/nfi-data.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify-nfi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out research
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
+      - name: Set up Python
+        uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7
+        with:
+          python-version: '3.12'
+      - name: Test data tooling
+        run: python -m unittest discover -s tests -q
+      - name: Verify and restore native futures and mark data
+        run: python nfi_verify.py
+      - name: Install pinned research engine
+        run: python -m pip install -r research/nfi/requirements.txt
+      - name: Check X8 strategy import and Freqtrade data compatibility
+        run: |
+          python nfi_engine_verify.py
+          freqtrade list-data --datadir data/nfi/freqtrade --data-format-ohlcv jsongz --trading-mode futures --show-timerange
+      - name: Save verification record
+        if: always()
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7
+        with:
+          name: nfi-data-verification-${{ github.run_number }}
+          path: |
+            results/nfi/data_verification.json
+            results/nfi/engine_verification.json
+            results/nfi/engine_requirements.txt
+          retention-days: 30
+          if-no-files-found: warn

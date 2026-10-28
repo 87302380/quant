@@ -1,0 +1,7 @@
+{
+  "python": "3.12",
+  "freqtrade": "2026.9",
+  "funding": "Explicit fallback 0.0 for omitted data; not actual exchange funding",
+  "baseline": "Unmodified X8 signal and position management; original leverage defaults retained",
+  "research_only": true
+}

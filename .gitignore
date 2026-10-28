@@ -29,4 +29,10 @@ tests/*.csv
 upload_payload.json
 .cloud-check/
 .upload-state/
+datasets/nfi/*.json.gz
+datasets/nfi/*.manifest.json
+research/nfi/download_status.json
+research/nfi/mark_download_status.json
+research/nfi/user_data/
+/user_data/
 

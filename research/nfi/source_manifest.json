@@ -1,0 +1,68 @@
+{
+  "repository": "https://github.com/iterativv/NostalgiaForInfinity",
+  "commit": "05b95e189ac5d301da2169ddec3118368f1b5c8b",
+  "strategy_version": "v18.0.167",
+  "license": "GPL-3.0; unmodified source and full license included in upstream/",
+  "files": [
+    {
+      "path": "LICENSE",
+      "git_blob_sha": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+      "bytes": 35149
+    },
+    {
+      "path": "NostalgiaForInfinityX8.py",
+      "git_blob_sha": "416b6cc4eb06aeda078e53a47415c31a4bba0307",
+      "bytes": 3193417
+    },
+    {
+      "path": "README.md",
+      "git_blob_sha": "42d71404b39689d392170b387ff51aaedf1c3b8c",
+      "bytes": 5228
+    },
+    {
+      "path": "configs/blacklist-okx.json",
+      "git_blob_sha": "30a63978bf93f0e1cf48c44109f8d90d242c72cd",
+      "bytes": 13725
+    },
+    {
+      "path": "configs/exampleconfig.json",
+      "git_blob_sha": "51ec1d97b635b90bca968e3a1fbeaeca66212e44",
+      "bytes": 2495
+    },
+    {
+      "path": "configs/pairlist-backtest-static-okx-futures-usdt.json",
+      "git_blob_sha": "f61df64debdab260b0f39b0c3f78700db773fa70",
+      "bytes": 4550
+    },
+    {
+      "path": "configs/pairlist-static-okx-futures-usdt.json",
+      "git_blob_sha": "17d15915e10ec4c758a5f024560902f6a33d04a8",
+      "bytes": 4326
+    },
+    {
+      "path": "configs/pairlist-volume-okx-futures.json",
+      "git_blob_sha": "775c08c5ed36e54f3a8173dcb03cc9743479c5e1",
+      "bytes": 856
+    },
+    {
+      "path": "configs/recommended_config.json",
+      "git_blob_sha": "70f372ee8e55d2585848bcde28c3dd39e61a3ca8",
+      "bytes": 736
+    },
+    {
+      "path": "configs/trading_mode-futures.json",
+      "git_blob_sha": "3b3c9bb0403f871868ab56de164ca9c78f52717b",
+      "bytes": 128
+    },
+    {
+      "path": "docs/installation-and-setup.md",
+      "git_blob_sha": "52e25749271074bcb8e5e1ad57a9e53804209daa",
+      "bytes": 10797
+    },
+    {
+      "path": "docs/technical-architecture/architecture-overview.md",
+      "git_blob_sha": "be77370a53a03e77f53e7ba632350aecea733c9d",
+      "bytes": 16052
+    }
+  ]
+}

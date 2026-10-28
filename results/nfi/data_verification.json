@@ -1,0 +1,25 @@
+{
+  "started_at": "2026-10-28T16:16:42.723434+00:00",
+  "status": "success",
+  "funding": "not downloaded; omitted cost",
+  "source": {
+    "commit": "05b95e189ac5d301da2169ddec3118368f1b5c8b",
+    "version": "v18.0.167",
+    "files": 12
+  },
+  "cross_timeframe": {
+    "checked_higher_bars": 640080,
+    "price_tolerance": "exact",
+    "volume_tolerance": "max(1e-8 absolute, 1e-8 relative)",
+    "empty_bars": "Native zero-volume carry candles preserved; exclude their synthetic OHLC from trade aggregation unless entire group has no trades."
+  },
+  "pairs": 40,
+  "ohlcv_files": 200,
+  "mark_files": 40,
+  "ohlcv_rows": 2287422,
+  "mark_rows": 120960,
+  "bundle_bytes": 57134170,
+  "universe_sha256": "fcb660dda2e6b8ffe1314d88fee51a9f8f8390afae47d64618c4e31de0ca3b71",
+  "elapsed_seconds": 78.47,
+  "finished_at": "2026-10-28T16:18:01.189883+00:00"
+}

@@ -6,3 +6,5 @@
 *.txt text eol=lf
 *.gz binary
 
+*.zip binary
+research/nfi/upstream/** -text -whitespace
