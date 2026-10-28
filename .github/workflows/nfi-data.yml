@@ -35,8 +35,9 @@ jobs:
         run: python -m pip install -r research/nfi/requirements.txt
       - name: Check X8 strategy import and Freqtrade data compatibility
         run: |
+          freqtrade create-userdir --userdir research/nfi/user_data
           python nfi_engine_verify.py
-          freqtrade list-data --datadir data/nfi/freqtrade --data-format-ohlcv jsongz --trading-mode futures --show-timerange
+          freqtrade list-data --userdir research/nfi/user_data --datadir data/nfi/freqtrade --data-format-ohlcv jsongz --trading-mode futures --show-timerange
       - name: Save verification record
         if: always()
         uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7

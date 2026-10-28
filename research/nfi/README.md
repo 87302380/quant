@@ -69,9 +69,10 @@ python -m venv .venv
 # PowerShell: .venv/Scripts/Activate.ps1
 python -m pip install -r research/nfi/requirements.txt
 python nfi_verify.py
-freqtrade list-strategies --strategy-path research/nfi/upstream
-freqtrade list-data --datadir data/nfi/freqtrade --data-format-ohlcv jsongz --trading-mode futures --show-timerange
-freqtrade backtesting --config research/nfi/config.backtest.json --strategy-path research/nfi/upstream --strategy NostalgiaForInfinityX8 --datadir data/nfi/freqtrade --data-format-ohlcv jsongz --timerange 20260701-20261028 --fee 0.0005 --cache none --export trades --backtest-directory results/nfi/backtests
+freqtrade create-userdir --userdir research/nfi/user_data
+freqtrade list-strategies --userdir research/nfi/user_data --strategy-path research/nfi/upstream
+freqtrade list-data --userdir research/nfi/user_data --datadir data/nfi/freqtrade --data-format-ohlcv jsongz --trading-mode futures --show-timerange
+freqtrade backtesting --userdir research/nfi/user_data --config research/nfi/config.backtest.json --strategy-path research/nfi/upstream --strategy NostalgiaForInfinityX8 --datadir data/nfi/freqtrade --data-format-ohlcv jsongz --timerange 20260701-20261028 --fee 0.0005 --cache none --export trades --backtest-directory results/nfi/backtests
 ```
 
 手续费 `0.0005` 是单边 5 bps 的显式研究假设，不是用户账户真实费率。这个命令还需要交易所市场规格等公开网络访问；行情本身已在仓库。对云端区域访问限制应记录错误，不允许静默改用 Binance 或现货数据。仅凭数据校验通过，不能声称完整 X8 回测已通过；应查看对应引擎执行记录。
