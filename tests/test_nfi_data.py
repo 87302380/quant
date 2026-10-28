@@ -8,7 +8,8 @@ import zipfile
 from decimal import Decimal
 
 import nfi_data as data
-from nfi_mark import validate_mark
+from nfi_mark import validate_mark, mark_start
+from nfi_expand import eligible
 from nfi_verify import aggregate
 
 
@@ -27,6 +28,19 @@ class NfiDataTests(unittest.TestCase):
     def test_mark_format_and_confirm(self):
         validate_mark([['0','10','12','9','11','1']],0,3600000)
         with self.assertRaises(ValueError):validate_mark([['0','10','12','9','11','0']],0,3600000)
+
+    def test_new_contract_mark_history_starts_after_listing(self):
+        launch=data.millis('2026-08-01T00:15:00Z')
+        self.assertEqual(mark_start(launch),data.millis('2026-08-01T01:00:00Z'))
+        self.assertEqual(mark_start(data.millis('2024-01-01')),data.millis('2026-06-24'))
+
+    def test_universe_excludes_noncrypto_and_new_or_blacklisted_contracts(self):
+        now=data.millis('2026-10-29')
+        inst=dict(instId='BTC-USDT-SWAP',ctType='linear',settleCcy='USDT',state='live',instCategory='1',listTime=str(now-100*86400000))
+        self.assertIsNone(eligible(inst,now,[]))
+        self.assertEqual(eligible({**inst,'instCategory':'3'},now,[]),'not_crypto_category_1')
+        self.assertEqual(eligible({**inst,'listTime':str(now-59*86400000)},now,[]),'younger_than_60_days')
+        self.assertEqual(eligible(inst,now,['BTC/.*']),'upstream_blacklist')
 
     def test_deterministic_compression(self):
         with tempfile.TemporaryDirectory() as folder:

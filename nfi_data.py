@@ -148,7 +148,7 @@ def archive_bytes(name):
 
 
 def bundle():
-    """40 moderately sized Git objects, no LFS or external storage dependency."""
+    """One moderately sized Git object per instrument; no LFS dependency."""
     manifest = read(ARCHIVE/'manifest.json')
     mark = read(ARCHIVE/'mark_manifest.json')
     files = manifest['files']+mark['files']

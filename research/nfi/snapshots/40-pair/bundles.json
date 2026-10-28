@@ -1,0 +1,245 @@
+{
+  "format_version": 1,
+  "files": [
+    {
+      "instrument": "ETH-USDT-SWAP",
+      "file": "ETH-USDT-SWAP.zip",
+      "bytes": 1914453,
+      "sha256": "62ca175d22b2ae0fbedbc9f94c40596e7da650b5b739b268680652188b6aee23"
+    },
+    {
+      "instrument": "BTC-USDT-SWAP",
+      "file": "BTC-USDT-SWAP.zip",
+      "bytes": 1965984,
+      "sha256": "00299cddaba543ec12559c63e8d547bc73439800e696fa75a642a5f9e87152c6"
+    },
+    {
+      "instrument": "SOL-USDT-SWAP",
+      "file": "SOL-USDT-SWAP.zip",
+      "bytes": 1468363,
+      "sha256": "c5ba2f3018670d54933e1aacdc094b367e156e3c9357d97aad28822732c7c2e5"
+    },
+    {
+      "instrument": "PEPE-USDT-SWAP",
+      "file": "PEPE-USDT-SWAP.zip",
+      "bytes": 1471670,
+      "sha256": "aa94611de66a53268055aa0916fa73a7ce1ac3e8c41747bd2242fc55faa994de"
+    },
+    {
+      "instrument": "XRP-USDT-SWAP",
+      "file": "XRP-USDT-SWAP.zip",
+      "bytes": 1532398,
+      "sha256": "e0b185266758328553c886449326570ad568288285a4e9bfc3a04de4cf04fe71"
+    },
+    {
+      "instrument": "DOGE-USDT-SWAP",
+      "file": "DOGE-USDT-SWAP.zip",
+      "bytes": 1579628,
+      "sha256": "db5797588ddadc92c7bbd13a126d57bb6f6031e82118177837b3a3a078ab6441"
+    },
+    {
+      "instrument": "NEAR-USDT-SWAP",
+      "file": "NEAR-USDT-SWAP.zip",
+      "bytes": 1367737,
+      "sha256": "f977a97200e6d7928e612ce2fb00f6a0ede1f7cac6047478767cdd829fb5e0bf"
+    },
+    {
+      "instrument": "WLD-USDT-SWAP",
+      "file": "WLD-USDT-SWAP.zip",
+      "bytes": 1433220,
+      "sha256": "2a5e1ac99a3c876553c3e026545f5b49dfe85b3b7bb45e2f753dcae63414bdd9"
+    },
+    {
+      "instrument": "BCH-USDT-SWAP",
+      "file": "BCH-USDT-SWAP.zip",
+      "bytes": 1326705,
+      "sha256": "6ec0ede9e0bedcf068a5d920d7e8c1fd9f79a351630ea6d08e0080d3d7fa28da"
+    },
+    {
+      "instrument": "BNB-USDT-SWAP",
+      "file": "BNB-USDT-SWAP.zip",
+      "bytes": 1356150,
+      "sha256": "6478c7c1e587c2af47cb9768a85617d51e7e3c7ba95a53ca50eb3fc28fce8475"
+    },
+    {
+      "instrument": "SUI-USDT-SWAP",
+      "file": "SUI-USDT-SWAP.zip",
+      "bytes": 1410600,
+      "sha256": "2647bff82f47901221fc1583351de396aacfbeec8d0dbdacdfcf47820cb38e03"
+    },
+    {
+      "instrument": "UNI-USDT-SWAP",
+      "file": "UNI-USDT-SWAP.zip",
+      "bytes": 1316521,
+      "sha256": "78abd57d0a36f0f00d7f1c427ea27c0d7a94c8d521696e8f101ca297d9489020"
+    },
+    {
+      "instrument": "FIL-USDT-SWAP",
+      "file": "FIL-USDT-SWAP.zip",
+      "bytes": 1560712,
+      "sha256": "8d61630c12f07b4aaa28beb007eb7489c881302d1c4781a72211ed0405efdda6"
+    },
+    {
+      "instrument": "STRK-USDT-SWAP",
+      "file": "STRK-USDT-SWAP.zip",
+      "bytes": 1397980,
+      "sha256": "444572300f91889f858681dda99c89c0cfb7a2afa0b9c42a0d6f53445ac7ece1"
+    },
+    {
+      "instrument": "LINK-USDT-SWAP",
+      "file": "LINK-USDT-SWAP.zip",
+      "bytes": 1405135,
+      "sha256": "f9d934bd8fc927c5a7f72f47b24f08861099e261f567c7b0a493d46e7b691376"
+    },
+    {
+      "instrument": "AAVE-USDT-SWAP",
+      "file": "AAVE-USDT-SWAP.zip",
+      "bytes": 1532465,
+      "sha256": "e52ff143ea3eeb33a72ba9d6e67e29cc088760a02ae6241515eb40d85cecdf9d"
+    },
+    {
+      "instrument": "ARB-USDT-SWAP",
+      "file": "ARB-USDT-SWAP.zip",
+      "bytes": 1590718,
+      "sha256": "8a6e96095730a5e255c8e3709e458072297ac3d21665b00493bfef2483426301"
+    },
+    {
+      "instrument": "ADA-USDT-SWAP",
+      "file": "ADA-USDT-SWAP.zip",
+      "bytes": 1349817,
+      "sha256": "e6bd0df55b333fe32989b4d1c5162b775dda9717cdaa2ad3dbc3c8c1a9ffa30c"
+    },
+    {
+      "instrument": "ONDO-USDT-SWAP",
+      "file": "ONDO-USDT-SWAP.zip",
+      "bytes": 1334506,
+      "sha256": "72896ca23504dcf3b687a88f361cdcab1f497f2b6a4f60bb0707a8f5e9e60090"
+    },
+    {
+      "instrument": "LTC-USDT-SWAP",
+      "file": "LTC-USDT-SWAP.zip",
+      "bytes": 1266152,
+      "sha256": "5982f25a23f637ad3a7de2a6ed33c5ab8791d259c634538d708136f455f1d462"
+    },
+    {
+      "instrument": "ETHW-USDT-SWAP",
+      "file": "ETHW-USDT-SWAP.zip",
+      "bytes": 1272773,
+      "sha256": "14e75df583d3127ae2695f8de664b10b498d7b8ab940622cd6ca880ab1854027"
+    },
+    {
+      "instrument": "INJ-USDT-SWAP",
+      "file": "INJ-USDT-SWAP.zip",
+      "bytes": 1425612,
+      "sha256": "8cbbdb899113677701cec7b41a7c992bb71a13d8a5204d2d66cb26f7e494b05a"
+    },
+    {
+      "instrument": "DOT-USDT-SWAP",
+      "file": "DOT-USDT-SWAP.zip",
+      "bytes": 1357428,
+      "sha256": "23a23c1c94013249b12d5d3b757a2e0e67170508783f204f0fc826a4d5d1b1b1"
+    },
+    {
+      "instrument": "AVAX-USDT-SWAP",
+      "file": "AVAX-USDT-SWAP.zip",
+      "bytes": 1382525,
+      "sha256": "1f659b6056205c725b34099edb74f5cd401e89e10313fd184b08a7a31f734639"
+    },
+    {
+      "instrument": "TIA-USDT-SWAP",
+      "file": "TIA-USDT-SWAP.zip",
+      "bytes": 1323923,
+      "sha256": "7f72555cd96694143401b71e3ccc3f06194d66e28cc7f51e65134b123bdb5b0e"
+    },
+    {
+      "instrument": "TRX-USDT-SWAP",
+      "file": "TRX-USDT-SWAP.zip",
+      "bytes": 1423375,
+      "sha256": "b184835b19d8d0893dc05512aa26b5a9551f90bab860b8da20640864c9a5d8e9"
+    },
+    {
+      "instrument": "ZRO-USDT-SWAP",
+      "file": "ZRO-USDT-SWAP.zip",
+      "bytes": 1359739,
+      "sha256": "05d5460e5a65ca06d50ee53dc78a879a28941ec7d083a2cb2dd358550d6923fd"
+    },
+    {
+      "instrument": "SHIB-USDT-SWAP",
+      "file": "SHIB-USDT-SWAP.zip",
+      "bytes": 1481153,
+      "sha256": "762b052770a4860d927ca5bb18498fcc12804c3450f04f1acd0cc40e7b874399"
+    },
+    {
+      "instrument": "BAT-USDT-SWAP",
+      "file": "BAT-USDT-SWAP.zip",
+      "bytes": 1323101,
+      "sha256": "89d08d698564ea915965f259f42d73e058672673e877a2007e6675bc7424c0af"
+    },
+    {
+      "instrument": "OP-USDT-SWAP",
+      "file": "OP-USDT-SWAP.zip",
+      "bytes": 1444460,
+      "sha256": "d9a8bdbc278d1ce3ca0d60cc55b3384be3e4da3a8ae1f3c8defbcea3ef8b2074"
+    },
+    {
+      "instrument": "XLM-USDT-SWAP",
+      "file": "XLM-USDT-SWAP.zip",
+      "bytes": 1524393,
+      "sha256": "0049e7d780009126653ca02eb93bb938178309f549cd0aebbe266ebab9172f9b"
+    },
+    {
+      "instrument": "APT-USDT-SWAP",
+      "file": "APT-USDT-SWAP.zip",
+      "bytes": 1351291,
+      "sha256": "e5520bd53a0889a135e6e1bb099c8109ae765dd172d3ba1b372678925fec769d"
+    },
+    {
+      "instrument": "CRV-USDT-SWAP",
+      "file": "CRV-USDT-SWAP.zip",
+      "bytes": 1305595,
+      "sha256": "ddb6d8ed47c4fc20f8ed7289af0a1fd157ccb763658534554fe043dde10a1856"
+    },
+    {
+      "instrument": "HBAR-USDT-SWAP",
+      "file": "HBAR-USDT-SWAP.zip",
+      "bytes": 1437945,
+      "sha256": "661ac140bfb7ca4bb2c4f4d7f71dfa90d8c2d179848995ab6574599065ff2754"
+    },
+    {
+      "instrument": "SAND-USDT-SWAP",
+      "file": "SAND-USDT-SWAP.zip",
+      "bytes": 1356111,
+      "sha256": "368acfe7c432ad977418a68f45ffa43bbc3d96575a99f0ac8415f6aa47615f10"
+    },
+    {
+      "instrument": "ETC-USDT-SWAP",
+      "file": "ETC-USDT-SWAP.zip",
+      "bytes": 1424998,
+      "sha256": "1d4ff9b439d6f90cb24d32882c73915b9f9268ca29b2a860cb66638890c57413"
+    },
+    {
+      "instrument": "ICP-USDT-SWAP",
+      "file": "ICP-USDT-SWAP.zip",
+      "bytes": 1446444,
+      "sha256": "2b43d76c561821ac69562c1e96edd70839a9c1be59023466c648dd5ff40296b4"
+    },
+    {
+      "instrument": "WIF-USDT-SWAP",
+      "file": "WIF-USDT-SWAP.zip",
+      "bytes": 1254977,
+      "sha256": "1102b090e3ddc1e1d65f9e653370d60378c3bf3dcd6b5d4b481143b301ceb235"
+    },
+    {
+      "instrument": "ETHFI-USDT-SWAP",
+      "file": "ETHFI-USDT-SWAP.zip",
+      "bytes": 1352273,
+      "sha256": "7c872f29957ea7e23c8133b7176620d4e7e40f56de3271bab16dad53e2909e41"
+    },
+    {
+      "instrument": "RAY-USDT-SWAP",
+      "file": "RAY-USDT-SWAP.zip",
+      "bytes": 1305140,
+      "sha256": "0e76b2df3e1357871cc98d8cbd8cf0f2b2b14279f1325c0edffca3fa8d467f9e"
+    }
+  ]
+}

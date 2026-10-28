@@ -1,5 +1,5 @@
 {
-  "started_at": "2026-10-28T16:16:42.723434+00:00",
+  "started_at": "2026-10-28T17:14:33.092488+00:00",
   "status": "success",
   "funding": "not downloaded; omitted cost",
   "source": {
@@ -7,19 +7,27 @@
     "version": "v18.0.167",
     "files": 12
   },
+  "universe_selection": {
+    "eligible_candidates": 202,
+    "selected": 100,
+    "metric": "sum native volCcyQuote over 24 closed hourly bars",
+    "ranking_start": "2026-10-27T16:00:00+00:00",
+    "ranking_end_exclusive": "2026-10-28T16:00:00+00:00",
+    "original40_reused": 40
+  },
   "cross_timeframe": {
-    "checked_higher_bars": 640080,
+    "checked_higher_bars": 1594050,
     "price_tolerance": "exact",
     "volume_tolerance": "max(1e-8 absolute, 1e-8 relative)",
     "empty_bars": "Native zero-volume carry candles preserved; exclude their synthetic OHLC from trade aggregation unless entire group has no trades."
   },
-  "pairs": 40,
-  "ohlcv_files": 200,
-  "mark_files": 40,
-  "ohlcv_rows": 2287422,
-  "mark_rows": 120960,
-  "bundle_bytes": 57134170,
-  "universe_sha256": "fcb660dda2e6b8ffe1314d88fee51a9f8f8390afae47d64618c4e31de0ca3b71",
-  "elapsed_seconds": 78.47,
-  "finished_at": "2026-10-28T16:18:01.189883+00:00"
+  "pairs": 100,
+  "ohlcv_files": 500,
+  "mark_files": 100,
+  "ohlcv_rows": 5656027,
+  "mark_rows": 301238,
+  "bundle_bytes": 136032224,
+  "universe_sha256": "2e1e56367e0e8a94d8b33bd7784c3cff6e5d0df04b1da37284913a7c3b18880b",
+  "elapsed_seconds": 207.1,
+  "finished_at": "2026-10-28T17:18:00.195095+00:00"
 }

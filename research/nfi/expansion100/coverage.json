@@ -1,0 +1,906 @@
+{
+  "evaluation_start": "2026-07-01T00:00:00+00:00",
+  "end_exclusive": "2026-10-28T00:00:00+00:00",
+  "pairs": [
+    {
+      "instrument": "ETH-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "BTC-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "ZEC-USDT-SWAP",
+      "earliest_full_day": "2025-11-07T00:00:00+00:00",
+      "daily_bars_before_20260701": 236,
+      "daily_bars_at_data_end": 355,
+      "earliest_200_daily_bars": "2026-05-26T00:00:00+00:00",
+      "earliest_480_daily_bars": "2027-03-02T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "SOL-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "PEPE-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "XRP-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "DOGE-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "HYPE-USDT-SWAP",
+      "earliest_full_day": "2025-02-22T00:00:00+00:00",
+      "daily_bars_before_20260701": 494,
+      "daily_bars_at_data_end": 613,
+      "earliest_200_daily_bars": "2025-09-10T00:00:00+00:00",
+      "earliest_480_daily_bars": "2026-06-17T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "NEAR-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "WLD-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "BCH-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "PUMP-USDT-SWAP",
+      "earliest_full_day": "2025-07-15T00:00:00+00:00",
+      "daily_bars_before_20260701": 351,
+      "daily_bars_at_data_end": 470,
+      "earliest_200_daily_bars": "2026-01-31T00:00:00+00:00",
+      "earliest_480_daily_bars": "2026-11-07T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "CAP-USDT-SWAP",
+      "earliest_full_day": "2026-06-27T00:00:00+00:00",
+      "daily_bars_before_20260701": 4,
+      "daily_bars_at_data_end": 123,
+      "earliest_200_daily_bars": "2027-01-13T00:00:00+00:00",
+      "earliest_480_daily_bars": "2027-10-20T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "ENA-USDT-SWAP",
+      "earliest_full_day": "2025-09-18T00:00:00+00:00",
+      "daily_bars_before_20260701": 286,
+      "daily_bars_at_data_end": 405,
+      "earliest_200_daily_bars": "2026-04-06T00:00:00+00:00",
+      "earliest_480_daily_bars": "2027-01-11T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "BNB-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "SUI-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "UNI-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "FIL-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "IRYS-USDT-SWAP",
+      "earliest_full_day": "2026-05-28T00:00:00+00:00",
+      "daily_bars_before_20260701": 34,
+      "daily_bars_at_data_end": 153,
+      "earliest_200_daily_bars": "2026-12-14T00:00:00+00:00",
+      "earliest_480_daily_bars": "2027-09-20T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "STRK-USDT-SWAP",
+      "earliest_full_day": "2024-02-21T00:00:00+00:00",
+      "daily_bars_before_20260701": 861,
+      "daily_bars_at_data_end": 980,
+      "earliest_200_daily_bars": "2024-09-08T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-06-15T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "LINK-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "AAVE-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "ARB-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "ADA-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "ONDO-USDT-SWAP",
+      "earliest_full_day": "2024-08-07T00:00:00+00:00",
+      "daily_bars_before_20260701": 693,
+      "daily_bars_at_data_end": 812,
+      "earliest_200_daily_bars": "2025-02-23T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-11-30T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "HUMA-USDT-SWAP",
+      "earliest_full_day": "2025-05-27T00:00:00+00:00",
+      "daily_bars_before_20260701": 400,
+      "daily_bars_at_data_end": 519,
+      "earliest_200_daily_bars": "2025-12-13T00:00:00+00:00",
+      "earliest_480_daily_bars": "2026-09-19T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "LTC-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "TAO-USDT-SWAP",
+      "earliest_full_day": "2024-09-21T00:00:00+00:00",
+      "daily_bars_before_20260701": 648,
+      "daily_bars_at_data_end": 767,
+      "earliest_200_daily_bars": "2025-04-09T00:00:00+00:00",
+      "earliest_480_daily_bars": "2026-01-14T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "ETHW-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "XPL-USDT-SWAP",
+      "earliest_full_day": "2025-08-29T00:00:00+00:00",
+      "daily_bars_before_20260701": 306,
+      "daily_bars_at_data_end": 425,
+      "earliest_200_daily_bars": "2026-03-17T00:00:00+00:00",
+      "earliest_480_daily_bars": "2026-12-22T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "GRASS-USDT-SWAP",
+      "earliest_full_day": "2024-10-29T00:00:00+00:00",
+      "daily_bars_before_20260701": 610,
+      "daily_bars_at_data_end": 729,
+      "earliest_200_daily_bars": "2025-05-17T00:00:00+00:00",
+      "earliest_480_daily_bars": "2026-02-21T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "GRVT-USDT-SWAP",
+      "earliest_full_day": "2026-07-31T00:00:00+00:00",
+      "daily_bars_before_20260701": 0,
+      "daily_bars_at_data_end": 89,
+      "earliest_200_daily_bars": "2027-02-16T00:00:00+00:00",
+      "earliest_480_daily_bars": "2027-11-23T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "CHIP-USDT-SWAP",
+      "earliest_full_day": "2026-04-22T00:00:00+00:00",
+      "daily_bars_before_20260701": 70,
+      "daily_bars_at_data_end": 189,
+      "earliest_200_daily_bars": "2026-11-08T00:00:00+00:00",
+      "earliest_480_daily_bars": "2027-08-15T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "LAB-USDT-SWAP",
+      "earliest_full_day": "2025-11-02T00:00:00+00:00",
+      "daily_bars_before_20260701": 241,
+      "daily_bars_at_data_end": 360,
+      "earliest_200_daily_bars": "2026-05-21T00:00:00+00:00",
+      "earliest_480_daily_bars": "2027-02-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "INJ-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "DOT-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "AVAX-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "TIA-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "DASH-USDT-SWAP",
+      "earliest_full_day": "2025-11-07T00:00:00+00:00",
+      "daily_bars_before_20260701": 236,
+      "daily_bars_at_data_end": 355,
+      "earliest_200_daily_bars": "2026-05-26T00:00:00+00:00",
+      "earliest_480_daily_bars": "2027-03-02T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "PENGU-USDT-SWAP",
+      "earliest_full_day": "2024-12-18T00:00:00+00:00",
+      "daily_bars_before_20260701": 560,
+      "daily_bars_at_data_end": 679,
+      "earliest_200_daily_bars": "2025-07-06T00:00:00+00:00",
+      "earliest_480_daily_bars": "2026-04-12T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "VVV-USDT-SWAP",
+      "earliest_full_day": "2026-07-04T00:00:00+00:00",
+      "daily_bars_before_20260701": 0,
+      "daily_bars_at_data_end": 116,
+      "earliest_200_daily_bars": "2027-01-20T00:00:00+00:00",
+      "earliest_480_daily_bars": "2027-10-27T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "USELESS-USDT-SWAP",
+      "earliest_full_day": "2025-07-26T00:00:00+00:00",
+      "daily_bars_before_20260701": 340,
+      "daily_bars_at_data_end": 459,
+      "earliest_200_daily_bars": "2026-02-11T00:00:00+00:00",
+      "earliest_480_daily_bars": "2026-11-18T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "TRX-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "BAT-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "SHIB-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "ZRO-USDT-SWAP",
+      "earliest_full_day": "2024-06-21T00:00:00+00:00",
+      "daily_bars_before_20260701": 740,
+      "daily_bars_at_data_end": 859,
+      "earliest_200_daily_bars": "2025-01-07T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-10-14T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "ZAMA-USDT-SWAP",
+      "earliest_full_day": "2026-01-10T00:00:00+00:00",
+      "daily_bars_before_20260701": 172,
+      "daily_bars_at_data_end": 291,
+      "earliest_200_daily_bars": "2026-07-29T00:00:00+00:00",
+      "earliest_480_daily_bars": "2027-05-05T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "ACU-USDT-SWAP",
+      "earliest_full_day": "2026-01-24T00:00:00+00:00",
+      "daily_bars_before_20260701": 158,
+      "daily_bars_at_data_end": 277,
+      "earliest_200_daily_bars": "2026-08-12T00:00:00+00:00",
+      "earliest_480_daily_bars": "2027-05-19T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "XLM-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "OP-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "APT-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "ORDER-USDT-SWAP",
+      "earliest_full_day": "2025-10-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 273,
+      "daily_bars_at_data_end": 392,
+      "earliest_200_daily_bars": "2026-04-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2027-01-24T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "CRV-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "HBAR-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "UP-USDT-SWAP",
+      "earliest_full_day": "2026-04-09T00:00:00+00:00",
+      "daily_bars_before_20260701": 83,
+      "daily_bars_at_data_end": 202,
+      "earliest_200_daily_bars": "2026-10-26T00:00:00+00:00",
+      "earliest_480_daily_bars": "2027-08-02T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "SAND-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "ASTER-USDT-SWAP",
+      "earliest_full_day": "2025-09-23T00:00:00+00:00",
+      "daily_bars_before_20260701": 281,
+      "daily_bars_at_data_end": 400,
+      "earliest_200_daily_bars": "2026-04-11T00:00:00+00:00",
+      "earliest_480_daily_bars": "2027-01-16T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "ETC-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "BREV-USDT-SWAP",
+      "earliest_full_day": "2025-12-31T00:00:00+00:00",
+      "daily_bars_before_20260701": 182,
+      "daily_bars_at_data_end": 301,
+      "earliest_200_daily_bars": "2026-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2027-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "ICP-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "AERO-USDT-SWAP",
+      "earliest_full_day": "2025-07-04T00:00:00+00:00",
+      "daily_bars_before_20260701": 362,
+      "daily_bars_at_data_end": 481,
+      "earliest_200_daily_bars": "2026-01-20T00:00:00+00:00",
+      "earliest_480_daily_bars": "2026-10-27T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "SOON-USDT-SWAP",
+      "earliest_full_day": "2025-05-24T00:00:00+00:00",
+      "daily_bars_before_20260701": 403,
+      "daily_bars_at_data_end": 522,
+      "earliest_200_daily_bars": "2025-12-10T00:00:00+00:00",
+      "earliest_480_daily_bars": "2026-09-16T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "WIF-USDT-SWAP",
+      "earliest_full_day": "2024-04-16T00:00:00+00:00",
+      "daily_bars_before_20260701": 806,
+      "daily_bars_at_data_end": 925,
+      "earliest_200_daily_bars": "2024-11-02T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-08-09T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "ETHFI-USDT-SWAP",
+      "earliest_full_day": "2024-03-19T00:00:00+00:00",
+      "daily_bars_before_20260701": 834,
+      "daily_bars_at_data_end": 953,
+      "earliest_200_daily_bars": "2024-10-05T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-07-12T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "RAY-USDT-SWAP",
+      "earliest_full_day": "2024-03-13T00:00:00+00:00",
+      "daily_bars_before_20260701": 840,
+      "daily_bars_at_data_end": 959,
+      "earliest_200_daily_bars": "2024-09-29T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-07-06T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "CC-USDT-SWAP",
+      "earliest_full_day": "2025-11-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 242,
+      "daily_bars_at_data_end": 361,
+      "earliest_200_daily_bars": "2026-05-20T00:00:00+00:00",
+      "earliest_480_daily_bars": "2027-02-24T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "W-USDT-SWAP",
+      "earliest_full_day": "2024-04-04T00:00:00+00:00",
+      "daily_bars_before_20260701": 818,
+      "daily_bars_at_data_end": 937,
+      "earliest_200_daily_bars": "2024-10-21T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-07-28T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "ZK-USDT-SWAP",
+      "earliest_full_day": "2024-06-19T00:00:00+00:00",
+      "daily_bars_before_20260701": 742,
+      "daily_bars_at_data_end": 861,
+      "earliest_200_daily_bars": "2025-01-05T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-10-12T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "JTO-USDT-SWAP",
+      "earliest_full_day": "2024-01-09T00:00:00+00:00",
+      "daily_bars_before_20260701": 904,
+      "daily_bars_at_data_end": 1023,
+      "earliest_200_daily_bars": "2024-07-27T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-05-03T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "MEGA-USDT-SWAP",
+      "earliest_full_day": "2026-05-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 61,
+      "daily_bars_at_data_end": 180,
+      "earliest_200_daily_bars": "2026-11-17T00:00:00+00:00",
+      "earliest_480_daily_bars": "2027-08-24T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "BONK-USDT-SWAP",
+      "earliest_full_day": "2024-01-09T00:00:00+00:00",
+      "daily_bars_before_20260701": 904,
+      "daily_bars_at_data_end": 1023,
+      "earliest_200_daily_bars": "2024-07-27T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-05-03T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "IOST-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "ALGO-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "BILL-USDT-SWAP",
+      "earliest_full_day": "2026-05-07T00:00:00+00:00",
+      "daily_bars_before_20260701": 55,
+      "daily_bars_at_data_end": 174,
+      "earliest_200_daily_bars": "2026-11-23T00:00:00+00:00",
+      "earliest_480_daily_bars": "2027-08-30T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "POL-USDT-SWAP",
+      "earliest_full_day": "2024-09-25T00:00:00+00:00",
+      "daily_bars_before_20260701": 644,
+      "daily_bars_at_data_end": 763,
+      "earliest_200_daily_bars": "2025-04-13T00:00:00+00:00",
+      "earliest_480_daily_bars": "2026-01-18T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "MON-USDT-SWAP",
+      "earliest_full_day": "2025-10-11T00:00:00+00:00",
+      "daily_bars_before_20260701": 263,
+      "daily_bars_at_data_end": 382,
+      "earliest_200_daily_bars": "2026-04-29T00:00:00+00:00",
+      "earliest_480_daily_bars": "2027-02-03T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "FARTCOIN-USDT-SWAP",
+      "earliest_full_day": "2024-12-21T00:00:00+00:00",
+      "daily_bars_before_20260701": 557,
+      "daily_bars_at_data_end": 676,
+      "earliest_200_daily_bars": "2025-07-09T00:00:00+00:00",
+      "earliest_480_daily_bars": "2026-04-15T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "ALLO-USDT-SWAP",
+      "earliest_full_day": "2025-11-12T00:00:00+00:00",
+      "daily_bars_before_20260701": 231,
+      "daily_bars_at_data_end": 350,
+      "earliest_200_daily_bars": "2026-05-31T00:00:00+00:00",
+      "earliest_480_daily_bars": "2027-03-07T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "JUP-USDT-SWAP",
+      "earliest_full_day": "2024-02-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 881,
+      "daily_bars_at_data_end": 1000,
+      "earliest_200_daily_bars": "2024-08-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-05-26T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "LDO-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "ORDI-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "PEOPLE-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "RENDER-USDT-SWAP",
+      "earliest_full_day": "2024-08-09T00:00:00+00:00",
+      "daily_bars_before_20260701": 691,
+      "daily_bars_at_data_end": 810,
+      "earliest_200_daily_bars": "2025-02-25T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-12-02T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "ATOM-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "MET-USDT-SWAP",
+      "earliest_full_day": "2025-10-11T00:00:00+00:00",
+      "daily_bars_before_20260701": 263,
+      "daily_bars_at_data_end": 382,
+      "earliest_200_daily_bars": "2026-04-29T00:00:00+00:00",
+      "earliest_480_daily_bars": "2027-02-03T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "AUCTION-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "BABY-USDT-SWAP",
+      "earliest_full_day": "2025-04-11T00:00:00+00:00",
+      "daily_bars_before_20260701": 446,
+      "daily_bars_at_data_end": 565,
+      "earliest_200_daily_bars": "2025-10-28T00:00:00+00:00",
+      "earliest_480_daily_bars": "2026-08-04T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "PYTH-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "BOME-USDT-SWAP",
+      "earliest_full_day": "2024-08-16T00:00:00+00:00",
+      "daily_bars_before_20260701": 684,
+      "daily_bars_at_data_end": 803,
+      "earliest_200_daily_bars": "2025-03-04T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-12-09T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "KAITO-USDT-SWAP",
+      "earliest_full_day": "2025-02-21T00:00:00+00:00",
+      "daily_bars_before_20260701": 495,
+      "daily_bars_at_data_end": 614,
+      "earliest_200_daily_bars": "2025-09-09T00:00:00+00:00",
+      "earliest_480_daily_bars": "2026-06-16T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "GRAM-USDT-SWAP",
+      "earliest_full_day": "2026-06-18T00:00:00+00:00",
+      "daily_bars_before_20260701": 13,
+      "daily_bars_at_data_end": 132,
+      "earliest_200_daily_bars": "2027-01-04T00:00:00+00:00",
+      "earliest_480_daily_bars": "2027-10-11T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "MINA-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "MEW-USDT-SWAP",
+      "earliest_full_day": "2024-04-16T00:00:00+00:00",
+      "daily_bars_before_20260701": 806,
+      "daily_bars_at_data_end": 925,
+      "earliest_200_daily_bars": "2024-11-02T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-08-09T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "PNUT-USDT-SWAP",
+      "earliest_full_day": "2024-11-13T00:00:00+00:00",
+      "daily_bars_before_20260701": 595,
+      "daily_bars_at_data_end": 714,
+      "earliest_200_daily_bars": "2025-06-01T00:00:00+00:00",
+      "earliest_480_daily_bars": "2026-03-08T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "SEI-USDT-SWAP",
+      "earliest_full_day": "2025-11-15T00:00:00+00:00",
+      "daily_bars_before_20260701": 228,
+      "daily_bars_at_data_end": 347,
+      "earliest_200_daily_bars": "2026-06-03T00:00:00+00:00",
+      "earliest_480_daily_bars": "2027-03-10T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "0G-USDT-SWAP",
+      "earliest_full_day": "2025-09-23T00:00:00+00:00",
+      "daily_bars_before_20260701": 281,
+      "daily_bars_at_data_end": 400,
+      "earliest_200_daily_bars": "2026-04-11T00:00:00+00:00",
+      "earliest_480_daily_bars": "2027-01-16T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "AR-USDT-SWAP",
+      "earliest_full_day": "2024-01-01T00:00:00+00:00",
+      "daily_bars_before_20260701": 912,
+      "daily_bars_at_data_end": 1031,
+      "earliest_200_daily_bars": "2024-07-19T00:00:00+00:00",
+      "earliest_480_daily_bars": "2025-04-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "PIEVERSE-USDT-SWAP",
+      "earliest_full_day": "2025-11-17T00:00:00+00:00",
+      "daily_bars_before_20260701": 226,
+      "daily_bars_at_data_end": 345,
+      "earliest_200_daily_bars": "2026-06-05T00:00:00+00:00",
+      "earliest_480_daily_bars": "2027-03-12T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "VIRTUAL-USDT-SWAP",
+      "earliest_full_day": "2024-12-12T00:00:00+00:00",
+      "daily_bars_before_20260701": 566,
+      "daily_bars_at_data_end": 685,
+      "earliest_200_daily_bars": "2025-06-30T00:00:00+00:00",
+      "earliest_480_daily_bars": "2026-04-06T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    },
+    {
+      "instrument": "EIGEN-USDT-SWAP",
+      "earliest_full_day": "2024-10-02T00:00:00+00:00",
+      "daily_bars_before_20260701": 637,
+      "daily_bars_at_data_end": 756,
+      "earliest_200_daily_bars": "2025-04-20T00:00:00+00:00",
+      "earliest_480_daily_bars": "2026-01-25T00:00:00+00:00",
+      "warning": "Actual indicators determine readiness; never fabricate prelisting history or assume all 100 can trade on July 1."
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 ## 新增 NFI X8 多币种专项
 
-用户已授权研究 OKX USDT 永续的 NFI X8。先阅读 `research/nfi/README.md`，执行 `python nfi_verify.py`，从仓库内 40 个币种归档恢复 5m/15m/1h/4h/1d 行情及 1h 标记价格。没有资金费数据。NFI 使用独立的 Freqtrade 依赖与静态配置；原 BTC 入口不变。GitHub Actions 的 `NFI X8 dataset verification` 提供云端数据与引擎读取检查。
+用户已授权研究 OKX USDT 永续的 NFI X8，并于 2026-10-29 扩充到当前成交额前 100 币。先阅读 `research/nfi/README.md`，执行 `python nfi_verify.py`，从仓库归档恢复 5m/15m/1h/4h/1d 行情及 1h 标记价格。没有资金费数据。8 个新币不足 200 根日线，阅读 `research/nfi/expansion100/coverage.json`，不要假设全部同日具备交易条件。原 40 币配置保存在 `research/nfi/snapshots/40-pair/`。NFI 使用独立的 Freqtrade 依赖与静态配置；原 BTC 入口不变。GitHub Actions 的 `NFI X8 dataset verification` 提供云端数据与引擎读取检查。
 
 仓库只包含独立研究项目，旧 `D:/quant/freqtrade` 不属于此仓库。
 

@@ -15,11 +15,17 @@ def validate_mark(rows, start, end):
     validate([[*r[:5],'0','0','0',r[5]] for r in rows],start,end,3600000)
 
 
+def mark_start(list_time):
+    return max(millis('2026-06-24'),((int(list_time)+3599999)//3600000)*3600000)
+
+
 def download():
     universe = read(STUDY/'universe.json')
-    start, end = millis('2026-06-24'), millis(universe['end_exclusive'])
+    end = millis(universe['end_exclusive'])
     limiter = Limiter(3)
     def work(pair):
+        # Newly listed contracts have no prelisting mark history.
+        start=mark_start(pair['list_time'])
         inst = pair['instrument']
         name = f'{inst}_mark1h_{start}_{end}.json.gz'
         archive, sidecar = ARCHIVE/name, ARCHIVE/(name+'.manifest.json')

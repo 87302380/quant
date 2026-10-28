@@ -72,6 +72,9 @@ def main():
     data.write(path,result)  # Never expose a checked-in success record as this run's result.
     try:
         result['source']=verify_sources()
+        if data.read(data.STUDY/'universe.json').get('format_version',1)>=2:
+            from nfi_expand import verify_selection
+            result['universe_selection']=verify_selection()
         bundles=data.read(data.ARCHIVE/'bundles.json')['files']
         for item in bundles:
             blob=(data.ARCHIVE/item['file']).read_bytes()
