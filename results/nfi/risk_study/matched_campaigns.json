@@ -1,0 +1,95 @@
+{
+  "official_24h": {
+    "same_entry_matches": 61,
+    "old_win_now_loss": 0,
+    "old_loss_now_win": 0,
+    "missing_old_entries": [],
+    "new_entries": 0
+  },
+  "risk_stop3": {
+    "same_entry_matches": 61,
+    "old_win_now_loss": 14,
+    "old_loss_now_win": 0,
+    "missing_old_entries": [],
+    "new_entries": 5
+  },
+  "risk_stop6": {
+    "same_entry_matches": 61,
+    "old_win_now_loss": 4,
+    "old_loss_now_win": 0,
+    "missing_old_entries": [],
+    "new_entries": 2
+  },
+  "risk_stale12": {
+    "same_entry_matches": 61,
+    "old_win_now_loss": 9,
+    "old_loss_now_win": 0,
+    "missing_old_entries": [],
+    "new_entries": 0
+  },
+  "risk_trendgate": {
+    "same_entry_matches": 56,
+    "old_win_now_loss": 0,
+    "old_loss_now_win": 0,
+    "missing_old_entries": [
+      {
+        "pair": "WLD/USDT:USDT",
+        "open_date": "2026-10-25 08:55:00+00:00",
+        "profit_usdt": 241.27443405
+      },
+      {
+        "pair": "WLD/USDT:USDT",
+        "open_date": "2026-07-06 12:05:00+00:00",
+        "profit_usdt": 70.9267135
+      },
+      {
+        "pair": "WLD/USDT:USDT",
+        "open_date": "2026-07-24 22:00:00+00:00",
+        "profit_usdt": 56.8056822
+      },
+      {
+        "pair": "BOME/USDT:USDT",
+        "open_date": "2026-09-24 05:15:00+00:00",
+        "profit_usdt": 191.24275985
+      },
+      {
+        "pair": "PEOPLE/USDT:USDT",
+        "open_date": "2026-07-26 08:25:00+00:00",
+        "profit_usdt": 208.3009236
+      }
+    ],
+    "new_entries": 0
+  },
+  "risk_profitprotect": {
+    "same_entry_matches": 61,
+    "old_win_now_loss": 0,
+    "old_loss_now_win": 2,
+    "missing_old_entries": [],
+    "new_entries": 0
+  },
+  "official_1x_24h": {
+    "same_entry_matches": 61,
+    "old_win_now_loss": 0,
+    "old_loss_now_win": 0,
+    "missing_old_entries": [],
+    "new_entries": 0
+  },
+  "risk_overheat80": {
+    "same_entry_matches": 59,
+    "old_win_now_loss": 0,
+    "old_loss_now_win": 0,
+    "missing_old_entries": [
+      {
+        "pair": "OP/USDT:USDT",
+        "open_date": "2026-08-22 07:50:00+00:00",
+        "profit_usdt": -211.99982102
+      },
+      {
+        "pair": "XRP/USDT:USDT",
+        "open_date": "2026-08-22 08:05:00+00:00",
+        "profit_usdt": -208.12690245
+      }
+    ],
+    "new_entries": 0
+  }
+}

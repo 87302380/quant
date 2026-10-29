@@ -1,0 +1,3798 @@
+{
+  "source": "results/nfi/study/official_24h/backtest-result-2026-10-29_02-35-09.zip",
+  "scope": "All61 original-path campaigns, not a replacement backtest; closed5m marks and cumulative order cashflows incl. partial exits, actual fees and estimated fee to close remaining position. Price excursion uses intrabar extremes; P&L samples do not. Features use lastfullyclosed4h, talib warmup NaN explicit.",
+  "summary": {
+    "ever_adverse_3pct": {
+      "eventually_winning": 14,
+      "eventually_losing": 10
+    },
+    "ever_adverse_6pct": {
+      "eventually_winning": 4,
+      "eventually_losing": 4
+    }
+  },
+  "campaigns": [
+    {
+      "pair": "ALGO/USDT:USDT",
+      "side": "long",
+      "tag": "143",
+      "family": "long_top_coins",
+      "open_date": "2026-10-08 13:25:00+00:00",
+      "open_timestamp": 1791465900000,
+      "close_date": "2026-10-09 13:25:00+00:00",
+      "profit_usdt": -262.4703669,
+      "profit_ratio_pct": -13.752785521699431,
+      "entries": 1,
+      "initial_margin": 1907.535,
+      "max_adverse_price_pct": 6.069246435845221,
+      "min_sampled_pnl": {
+        "timestamp": 1791482400000,
+        "pnl_usdt": -346.3444089000012,
+        "pnl_initial_margin_pct": -18.156647657841205,
+        "hours": 4.583333333333333
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1791465900000,
+        "pnl_usdt": -4.790671200000732,
+        "pnl_initial_margin_pct": -0.2511446028513622,
+        "hours": 0.0
+      },
+      "at6h": {
+        "timestamp": 1791487500000,
+        "pnl_usdt": -191.64339810000104,
+        "pnl_initial_margin_pct": -10.04665173116095,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1791509100000,
+        "pnl_usdt": -200.03080230000097,
+        "pnl_initial_margin_pct": -10.486350305499032,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1791530700000,
+        "pnl_usdt": -139.4551053000012,
+        "pnl_initial_margin_pct": -7.310749490835094,
+        "hours": 18.0
+      },
+      "own4h_at_entry": {
+        "close": 0.13262,
+        "EMA12": 0.12309895450868366,
+        "EMA50": 0.12442011265106433,
+        "EMA200": 0.11218993003299689,
+        "RSI14": 64.58423586011179,
+        "ADX14": 28.65518113778809,
+        "ATR14_pct": 3.4595006230894643
+      },
+      "btc4h_at_entry": {
+        "close": 82463.9,
+        "EMA12": 83690.39245890772,
+        "EMA50": 84424.90225224961,
+        "EMA200": 81627.15832076939,
+        "RSI14": 29.028678387224645,
+        "ADX14": 29.55440870680509,
+        "ATR14_pct": 0.9807280621102523
+      }
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "side": "long",
+      "tag": "144",
+      "family": "long_top_coins",
+      "open_date": "2026-08-22 07:50:00+00:00",
+      "open_timestamp": 1787385000000,
+      "close_date": "2026-08-23 07:50:00+00:00",
+      "profit_usdt": -211.99982102,
+      "profit_ratio_pct": -12.19915218351842,
+      "entries": 1,
+      "initial_margin": 1736.9557400000003,
+      "max_adverse_price_pct": 6.442880346507874,
+      "min_sampled_pnl": {
+        "timestamp": 1787462100000,
+        "pnl_usdt": -307.40472470500094,
+        "pnl_initial_margin_pct": -17.69790200324856,
+        "hours": 21.416666666666668
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1787423100000,
+        "pnl_usdt": 53.06601975999985,
+        "pnl_initial_margin_pct": 3.0551164049810406,
+        "hours": 10.583333333333334
+      },
+      "at6h": {
+        "timestamp": 1787406600000,
+        "pnl_usdt": -83.22669979000074,
+        "pnl_initial_margin_pct": -4.791526800216609,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1787428200000,
+        "pnl_usdt": 16.877952844999463,
+        "pnl_initial_margin_pct": 0.971697347049238,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1787449800000,
+        "pnl_usdt": -88.86639853000106,
+        "pnl_initial_margin_pct": -5.116215484569632,
+        "hours": 18.0
+      },
+      "own4h_at_entry": {
+        "close": 0.1166,
+        "EMA12": 0.10095901470019876,
+        "EMA50": 0.09118633899056212,
+        "EMA200": 0.09092699300300727,
+        "RSI14": 83.5648204082173,
+        "ADX14": 55.37078458084476,
+        "ATR14_pct": 3.3072879652232468
+      },
+      "btc4h_at_entry": {
+        "close": 78402.1,
+        "EMA12": 74943.73995557294,
+        "EMA50": 68650.40169255648,
+        "EMA200": 65406.78034416232,
+        "RSI14": 93.13236924580406,
+        "ADX14": 68.37042059880108,
+        "ATR14_pct": 1.804230824785855
+      }
+    },
+    {
+      "pair": "XRP/USDT:USDT",
+      "side": "long",
+      "tag": "144",
+      "family": "long_top_coins",
+      "open_date": "2026-08-22 08:05:00+00:00",
+      "open_timestamp": 1787385900000,
+      "close_date": "2026-08-23 08:05:00+00:00",
+      "profit_usdt": -208.12690245,
+      "profit_ratio_pct": -9.585335083695698,
+      "entries": 3,
+      "initial_margin": 1736.665,
+      "max_adverse_price_pct": 6.482758620689655,
+      "min_sampled_pnl": {
+        "timestamp": 1787394300000,
+        "pnl_usdt": -325.6273142999992,
+        "pnl_initial_margin_pct": -18.750151255423425,
+        "hours": 2.3333333333333335
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1787386500000,
+        "pnl_usdt": 91.58418370000032,
+        "pnl_initial_margin_pct": 5.273566502463073,
+        "hours": 0.16666666666666666
+      },
+      "at6h": {
+        "timestamp": 1787407500000,
+        "pnl_usdt": -105.43296654999993,
+        "pnl_initial_margin_pct": -6.071001980808039,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1787429100000,
+        "pnl_usdt": -76.69414314999983,
+        "pnl_initial_margin_pct": -4.41617370937975,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1787450700000,
+        "pnl_usdt": -113.98618779999983,
+        "pnl_initial_margin_pct": -6.563510394923593,
+        "hours": 18.0
+      },
+      "own4h_at_entry": {
+        "close": 1.5635,
+        "EMA12": 1.370900466075574,
+        "EMA50": 1.156373809670034,
+        "EMA200": 1.08697411191254,
+        "RSI14": 88.85565794852602,
+        "ADX14": 72.49033020270738,
+        "ATR14_pct": 4.973326374239851
+      },
+      "btc4h_at_entry": {
+        "close": 77282.0,
+        "EMA12": 75303.47227010017,
+        "EMA50": 68988.89574382878,
+        "EMA200": 65524.94173377264,
+        "RSI14": 81.99579229370038,
+        "ADX14": 68.56468680558112,
+        "ATR14_pct": 1.919021350493056
+      }
+    },
+    {
+      "pair": "AR/USDT:USDT",
+      "side": "long",
+      "tag": "64",
+      "family": "long_rebuy",
+      "open_date": "2026-09-21 09:10:00+00:00",
+      "open_timestamp": 1789981800000,
+      "close_date": "2026-09-22 09:10:00+00:00",
+      "profit_usdt": -198.47115705,
+      "profit_ratio_pct": -22.72274223723349,
+      "entries": 2,
+      "initial_margin": 436.56,
+      "max_adverse_price_pct": 15.114379084967322,
+      "min_sampled_pnl": {
+        "timestamp": 1790055000000,
+        "pnl_usdt": -274.33020854999967,
+        "pnl_initial_margin_pct": -62.83906188152823,
+        "hours": 20.333333333333332
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1789983000000,
+        "pnl_usdt": 11.523899999999996,
+        "pnl_initial_margin_pct": 2.6397058823529402,
+        "hours": 0.3333333333333333
+      },
+      "at6h": {
+        "timestamp": 1790003400000,
+        "pnl_usdt": -72.16173624999996,
+        "pnl_initial_margin_pct": -16.529626225490187,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1790025000000,
+        "pnl_usdt": -105.19261964999953,
+        "pnl_initial_margin_pct": -24.09579889362276,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1790046600000,
+        "pnl_usdt": -106.87837634999953,
+        "pnl_initial_margin_pct": -24.481944371907534,
+        "hours": 18.0
+      },
+      "own4h_at_entry": {
+        "close": 4.921,
+        "EMA12": 4.429550617073953,
+        "EMA50": 3.494228754065546,
+        "EMA200": 2.7261191849017563,
+        "RSI14": 78.52188357599232,
+        "ADX14": 54.90757700821788,
+        "ATR14_pct": 6.85195047227451
+      },
+      "btc4h_at_entry": {
+        "close": 81700.0,
+        "EMA12": 80888.96921823539,
+        "EMA50": 79093.96597092252,
+        "EMA200": 76358.94023149116,
+        "RSI14": 70.68200780903486,
+        "ADX14": 38.870561750481656,
+        "ATR14_pct": 0.9947193652036647
+      }
+    },
+    {
+      "pair": "JTO/USDT:USDT",
+      "side": "short",
+      "tag": "562",
+      "family": "short_rebuy",
+      "open_date": "2026-09-04 20:45:00+00:00",
+      "open_timestamp": 1788554700000,
+      "close_date": "2026-09-05 20:45:00+00:00",
+      "profit_usdt": -59.0162287,
+      "profit_ratio_pct": -13.95694119425518,
+      "entries": 1,
+      "initial_margin": 423.0565333333334,
+      "max_adverse_price_pct": 5.839960238568587,
+      "min_sampled_pnl": {
+        "timestamp": 1788607500000,
+        "pnl_usdt": -73.8474406,
+        "pnl_initial_margin_pct": -17.455690854870774,
+        "hours": 14.666666666666666
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1788583800000,
+        "pnl_usdt": 11.984253800000037,
+        "pnl_initial_margin_pct": 2.8327783300198894,
+        "hours": 8.083333333333334
+      },
+      "at6h": {
+        "timestamp": 1788576300000,
+        "pnl_usdt": -0.006938800000040324,
+        "pnl_initial_margin_pct": -0.0016401590457351773,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1788597900000,
+        "pnl_usdt": -15.46926609999984,
+        "pnl_initial_margin_pct": -3.6565482107355485,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1788619500000,
+        "pnl_usdt": -52.389516999999934,
+        "pnl_initial_margin_pct": -12.383573558648093,
+        "hours": 18.0
+      },
+      "own4h_at_entry": {
+        "close": 0.4091,
+        "EMA12": 0.42524277800461285,
+        "EMA50": 0.45684445422964143,
+        "EMA200": 0.5213472871107949,
+        "RSI14": 35.38740103087289,
+        "ADX14": 30.0608153919212,
+        "ATR14_pct": 3.7973574373001187
+      },
+      "btc4h_at_entry": {
+        "close": 79749.7,
+        "EMA12": 79751.04628769358,
+        "EMA50": 78409.95443147444,
+        "EMA200": 72752.90476201152,
+        "RSI14": 54.6586059834231,
+        "ADX14": 24.795211428023567,
+        "ATR14_pct": 1.3878356167941341
+      }
+    },
+    {
+      "pair": "FIL/USDT:USDT",
+      "side": "long",
+      "tag": "143",
+      "family": "long_top_coins",
+      "open_date": "2026-09-19 22:25:00+00:00",
+      "open_timestamp": 1789856700000,
+      "close_date": "2026-09-20 22:25:00+00:00",
+      "profit_usdt": -41.05003805,
+      "profit_ratio_pct": -2.3403350173661464,
+      "entries": 1,
+      "initial_margin": 1753.1474333333333,
+      "max_adverse_price_pct": 4.975384937676752,
+      "min_sampled_pnl": {
+        "timestamp": 1789915500000,
+        "pnl_usdt": -228.81300959999942,
+        "pnl_initial_margin_pct": -13.051555462448905,
+        "hours": 16.333333333333332
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1789870500000,
+        "pnl_usdt": 109.27046410000128,
+        "pnl_initial_margin_pct": 6.232816591599528,
+        "hours": 3.8333333333333335
+      },
+      "at6h": {
+        "timestamp": 1789878300000,
+        "pnl_usdt": -5.810066849998842,
+        "pnl_initial_margin_pct": -0.33140777207493133,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1789899900000,
+        "pnl_usdt": -18.474431499999422,
+        "pnl_initial_margin_pct": -1.0537865297999043,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1789921500000,
+        "pnl_usdt": -81.79625474999959,
+        "pnl_initial_margin_pct": -4.665680318424613,
+        "hours": 18.0
+      },
+      "own4h_at_entry": {
+        "close": 1.0381,
+        "EMA12": 0.9424049570350669,
+        "EMA50": 0.8736019073988907,
+        "EMA200": 0.7998779455797006,
+        "RSI14": 73.647365721892,
+        "ADX14": 33.6617598829298,
+        "ATR14_pct": 4.337720346287097
+      },
+      "btc4h_at_entry": {
+        "close": 81340.0,
+        "EMA12": 80108.15921123483,
+        "EMA50": 78268.06837132767,
+        "EMA200": 75924.24394734389,
+        "RSI14": 74.35259594787807,
+        "ADX14": 39.74524132998176,
+        "ATR14_pct": 1.0658782568450573
+      }
+    },
+    {
+      "pair": "ETHW/USDT:USDT",
+      "side": "long",
+      "tag": "64",
+      "family": "long_rebuy",
+      "open_date": "2026-09-21 18:30:00+00:00",
+      "open_timestamp": 1790015400000,
+      "close_date": "2026-09-22 18:30:00+00:00",
+      "profit_usdt": -26.60454679,
+      "profit_ratio_pct": -6.0906665322858755,
+      "entries": 1,
+      "initial_margin": 436.5901666666666,
+      "max_adverse_price_pct": 4.779661016949155,
+      "min_sampled_pnl": {
+        "timestamp": 1790079600000,
+        "pnl_usdt": -57.66830713499995,
+        "pnl_initial_margin_pct": -13.20879661016948,
+        "hours": 17.833333333333332
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1790038500000,
+        "pnl_usdt": 23.09746977500009,
+        "pnl_initial_margin_pct": 5.290423728813581,
+        "hours": 6.416666666666667
+      },
+      "at6h": {
+        "timestamp": 1790037000000,
+        "pnl_usdt": 8.896893615000108,
+        "pnl_initial_margin_pct": 2.0378135593220588,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1790058600000,
+        "pnl_usdt": -18.616722694999886,
+        "pnl_initial_margin_pct": -4.264118644067771,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1790080200000,
+        "pnl_usdt": -49.68048304499999,
+        "pnl_initial_margin_pct": -11.379203389830508,
+        "hours": 18.0
+      },
+      "own4h_at_entry": {
+        "close": 0.2858,
+        "EMA12": 0.27675779875014567,
+        "EMA50": 0.2641228468682429,
+        "EMA200": 0.261041038494351,
+        "RSI14": 66.2508325642222,
+        "ADX14": 34.33370413191799,
+        "ATR14_pct": 2.781965685997657
+      },
+      "btc4h_at_entry": {
+        "close": 85887.6,
+        "EMA12": 82173.45725092593,
+        "EMA50": 79577.20880283928,
+        "EMA200": 76537.38743860996,
+        "RSI14": 85.1831202029355,
+        "ADX14": 43.19776064119339,
+        "ATR14_pct": 1.2283477505612563
+      }
+    },
+    {
+      "pair": "BONK/USDT:USDT",
+      "side": "short",
+      "tag": "562",
+      "family": "short_rebuy",
+      "open_date": "2026-07-23 18:00:00+00:00",
+      "open_timestamp": 1784829600000,
+      "close_date": "2026-07-24 18:00:00+00:00",
+      "profit_usdt": -20.4016856,
+      "profit_ratio_pct": -4.856428214107054,
+      "entries": 1,
+      "initial_margin": 420.3066666666666,
+      "max_adverse_price_pct": 3.0000000000000027,
+      "min_sampled_pnl": {
+        "timestamp": 1784877000000,
+        "pnl_usdt": -33.452207600000214,
+        "pnl_initial_margin_pct": -7.959000000000052,
+        "hours": 13.166666666666666
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1784851200000,
+        "pnl_usdt": 11.789601999999784,
+        "pnl_initial_margin_pct": 2.804999999999949,
+        "hours": 6.0
+      },
+      "at6h": {
+        "timestamp": 1784851200000,
+        "pnl_usdt": 11.789601999999784,
+        "pnl_initial_margin_pct": 2.804999999999949,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1784872800000,
+        "pnl_usdt": -21.27172040000011,
+        "pnl_initial_margin_pct": -5.061000000000027,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1784894400000,
+        "pnl_usdt": -15.616494200000396,
+        "pnl_initial_margin_pct": -3.7155000000000946,
+        "hours": 18.0
+      },
+      "own4h_at_entry": {
+        "close": 2.973e-06,
+        "EMA12": 2.996005039573804e-06,
+        "EMA50": 3.17856835950025e-06,
+        "EMA200": 3.889424417844278e-06,
+        "RSI14": 45.12305886438154,
+        "ADX14": 18.303821609211248,
+        "ATR14_pct": 3.650001377474515
+      },
+      "btc4h_at_entry": {
+        "close": 64927.6,
+        "EMA12": 65631.45939056527,
+        "EMA50": 64996.887082331355,
+        "EMA200": 64228.21143489962,
+        "RSI14": 43.23646293034669,
+        "ADX14": 24.38523889734943,
+        "ATR14_pct": 0.9410646570502073
+      }
+    },
+    {
+      "pair": "LTC/USDT:USDT",
+      "side": "short",
+      "tag": "562",
+      "family": "short_rebuy",
+      "open_date": "2026-10-17 13:15:00+00:00",
+      "open_timestamp": 1792242900000,
+      "close_date": "2026-10-18 13:15:00+00:00",
+      "profit_usdt": -20.20137,
+      "profit_ratio_pct": -3.8570046444542068,
+      "entries": 1,
+      "initial_margin": 524.0200000000001,
+      "max_adverse_price_pct": 1.505922165820639,
+      "min_sampled_pnl": {
+        "timestamp": 1792329000000,
+        "pnl_usdt": -20.999768999999876,
+        "pnl_initial_margin_pct": -4.0074365482233265,
+        "hours": 23.916666666666668
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1792274100000,
+        "pnl_usdt": 31.69456500000002,
+        "pnl_initial_margin_pct": 6.04835025380711,
+        "hours": 8.666666666666666
+      },
+      "at6h": {
+        "timestamp": 1792264500000,
+        "pnl_usdt": -2.9027249999999096,
+        "pnl_initial_margin_pct": -0.5539340101522668,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1792286100000,
+        "pnl_usdt": 3.484467000000105,
+        "pnl_initial_margin_pct": 0.6649492385787,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1792307700000,
+        "pnl_usdt": -1.0397939999998296,
+        "pnl_initial_margin_pct": -0.19842639593905373,
+        "hours": 18.0
+      },
+      "own4h_at_entry": {
+        "close": 59.58,
+        "EMA12": 59.97784398315381,
+        "EMA50": 61.90716896288216,
+        "EMA200": 62.26189029276451,
+        "RSI14": 42.35590271137827,
+        "ADX14": 32.88968584604594,
+        "ATR14_pct": 1.8004748915150408
+      },
+      "btc4h_at_entry": {
+        "close": 81549.4,
+        "EMA12": 81804.6926108769,
+        "EMA50": 82567.82262652498,
+        "EMA200": 81995.60010485194,
+        "RSI14": 43.73652305714888,
+        "ADX14": 30.308764905517428,
+        "ATR14_pct": 1.0048268763693495
+      }
+    },
+    {
+      "pair": "RENDER/USDT:USDT",
+      "side": "short",
+      "tag": "562",
+      "family": "short_rebuy",
+      "open_date": "2026-08-07 14:50:00+00:00",
+      "open_timestamp": 1786114200000,
+      "close_date": "2026-08-08 14:50:00+00:00",
+      "profit_usdt": -17.126513,
+      "profit_ratio_pct": -3.9707401447094823,
+      "entries": 1,
+      "initial_margin": 431.53366666666665,
+      "max_adverse_price_pct": 1.7570664629488197,
+      "min_sampled_pnl": {
+        "timestamp": 1786117800000,
+        "pnl_usdt": -19.105502000000165,
+        "pnl_initial_margin_pct": -4.427349121466807,
+        "hours": 1.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1786148100000,
+        "pnl_usdt": 1.6738824999998423,
+        "pnl_initial_margin_pct": 0.38789152024442486,
+        "hours": 9.416666666666666
+      },
+      "at6h": {
+        "timestamp": 1786135800000,
+        "pnl_usdt": -8.221062500000258,
+        "pnl_initial_margin_pct": -1.905080213903803,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1786157400000,
+        "pnl_usdt": -6.242073500000192,
+        "pnl_initial_margin_pct": -1.446485867074147,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1786179000000,
+        "pnl_usdt": -15.147524000000033,
+        "pnl_initial_margin_pct": -3.5101604278074943,
+        "hours": 18.0
+      },
+      "own4h_at_entry": {
+        "close": 1.331,
+        "EMA12": 1.3345410950203245,
+        "EMA50": 1.3629459976975722,
+        "EMA200": 1.462060845202875,
+        "RSI14": 44.38660171772925,
+        "ADX14": 15.240680146524879,
+        "ATR14_pct": 1.4367092587910544
+      },
+      "btc4h_at_entry": {
+        "close": 64997.8,
+        "EMA12": 64449.53445241698,
+        "EMA50": 64066.748826874755,
+        "EMA200": 64100.182190473904,
+        "RSI14": 63.831066428142606,
+        "ADX14": 19.444674814318688,
+        "ATR14_pct": 0.8436648859942769
+      }
+    },
+    {
+      "pair": "SOL/USDT:USDT",
+      "side": "short",
+      "tag": "562",
+      "family": "short_rebuy",
+      "open_date": "2026-07-29 02:05:00+00:00",
+      "open_timestamp": 1785290700000,
+      "close_date": "2026-07-30 02:05:00+00:00",
+      "profit_usdt": -16.682406,
+      "profit_ratio_pct": -3.8722191284321408,
+      "entries": 1,
+      "initial_margin": 431.03839999999997,
+      "max_adverse_price_pct": 1.859447634673228,
+      "min_sampled_pnl": {
+        "timestamp": 1785351300000,
+        "pnl_usdt": -24.819272400000074,
+        "pnl_initial_margin_pct": -5.758018867924545,
+        "hours": 16.833333333333332
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1785359100000,
+        "pnl_usdt": 11.089072799999926,
+        "pnl_initial_margin_pct": 2.572641509433945,
+        "hours": 19.0
+      },
+      "at6h": {
+        "timestamp": 1785312300000,
+        "pnl_usdt": -20.397062400000003,
+        "pnl_initial_margin_pct": -4.732075471698114,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1785333900000,
+        "pnl_usdt": -11.72953080000004,
+        "pnl_initial_margin_pct": -2.7212264150943493,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1785355500000,
+        "pnl_usdt": 8.612635200000067,
+        "pnl_initial_margin_pct": 1.9981132075471855,
+        "hours": 18.0
+      },
+      "own4h_at_entry": {
+        "close": 73.78,
+        "EMA12": 74.36922161630167,
+        "EMA50": 75.36964773160449,
+        "EMA200": 75.95915647115854,
+        "RSI14": 41.68072864176312,
+        "ADX14": 20.83647346084223,
+        "ATR14_pct": 1.4972924411660644
+      },
+      "btc4h_at_entry": {
+        "close": 63900.2,
+        "EMA12": 64056.57158594499,
+        "EMA50": 64519.95365108468,
+        "EMA200": 64277.82529065844,
+        "RSI14": 43.39448087275262,
+        "ADX14": 25.34798050358146,
+        "ATR14_pct": 0.9683703925936302
+      }
+    },
+    {
+      "pair": "CRV/USDT:USDT",
+      "side": "short",
+      "tag": "562",
+      "family": "short_rebuy",
+      "open_date": "2026-10-17 13:10:00+00:00",
+      "open_timestamp": 1792242600000,
+      "close_date": "2026-10-18 13:10:00+00:00",
+      "profit_usdt": -9.0464408,
+      "profit_ratio_pct": -1.7216892469903589,
+      "entries": 1,
+      "initial_margin": 525.7026666666667,
+      "max_adverse_price_pct": 3.698224852070986,
+      "min_sampled_pnl": {
+        "timestamp": 1792266900000,
+        "pnl_usdt": -56.196604099999796,
+        "pnl_initial_margin_pct": -10.689807692307653,
+        "hours": 6.75
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1792256700000,
+        "pnl_usdt": 8.6932246000003,
+        "pnl_initial_margin_pct": 1.6536390532544951,
+        "hours": 3.9166666666666665
+      },
+      "at6h": {
+        "timestamp": 1792264200000,
+        "pnl_usdt": -15.582107000000024,
+        "pnl_initial_margin_pct": -2.964053254437874,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1792285800000,
+        "pnl_usdt": -38.92377199999972,
+        "pnl_initial_margin_pct": -7.404142011834266,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1792307400000,
+        "pnl_usdt": -21.650939899999877,
+        "pnl_initial_margin_pct": -4.118476331360923,
+        "hours": 18.0
+      },
+      "own4h_at_entry": {
+        "close": 0.3414,
+        "EMA12": 0.3460118791074422,
+        "EMA50": 0.3506146303970674,
+        "EMA200": 0.35090099389128276,
+        "RSI14": 45.6778630083747,
+        "ADX14": 15.684305487746226,
+        "ATR14_pct": 3.1665860109083765
+      },
+      "btc4h_at_entry": {
+        "close": 81549.4,
+        "EMA12": 81804.6926108769,
+        "EMA50": 82567.82262652498,
+        "EMA200": 81995.60010485194,
+        "RSI14": 43.73652305714888,
+        "ADX14": 30.308764905517428,
+        "ATR14_pct": 1.0048268763693495
+      }
+    },
+    {
+      "pair": "BCH/USDT:USDT",
+      "side": "long",
+      "tag": "141",
+      "family": "long_top_coins",
+      "open_date": "2026-09-10 13:20:00+00:00",
+      "open_timestamp": 1789046400000,
+      "close_date": "2026-09-11 13:20:00+00:00",
+      "profit_usdt": -2.839804,
+      "profit_ratio_pct": -0.16846026789323443,
+      "entries": 1,
+      "initial_margin": 1684.8986666666667,
+      "max_adverse_price_pct": 4.208680403331866,
+      "min_sampled_pnl": {
+        "timestamp": 1789082100000,
+        "pnl_usdt": -120.22907999999958,
+        "pnl_initial_margin_pct": -7.135686102586559,
+        "hours": 9.916666666666666
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1789047000000,
+        "pnl_usdt": 41.45803600000044,
+        "pnl_initial_margin_pct": 2.4605655414292236,
+        "hours": 0.16666666666666666
+      },
+      "at6h": {
+        "timestamp": 1789068000000,
+        "pnl_usdt": -40.49296799999975,
+        "pnl_initial_margin_pct": -2.403288031565088,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1789089600000,
+        "pnl_usdt": -58.21210399999982,
+        "pnl_initial_margin_pct": -3.4549320473476435,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1789111200000,
+        "pnl_usdt": -40.49296799999975,
+        "pnl_initial_margin_pct": -2.403288031565088,
+        "hours": 18.0
+      },
+      "own4h_at_entry": {
+        "close": 245.1,
+        "EMA12": 252.89679044878434,
+        "EMA50": 254.30075061962262,
+        "EMA200": 244.0640997123634,
+        "RSI14": 33.31257896141479,
+        "ADX14": 16.18410294425841,
+        "ATR14_pct": 2.230233025051954
+      },
+      "btc4h_at_entry": {
+        "close": 77805.1,
+        "EMA12": 78440.63947556964,
+        "EMA50": 78781.64637629685,
+        "EMA200": 74574.38792652066,
+        "RSI14": 37.3466051742923,
+        "ADX14": 19.798760001127757,
+        "ATR14_pct": 0.9602169587574914
+      }
+    },
+    {
+      "pair": "HBAR/USDT:USDT",
+      "side": "short",
+      "tag": "562",
+      "family": "short_rebuy",
+      "open_date": "2026-07-12 06:30:00+00:00",
+      "open_timestamp": 1783837800000,
+      "close_date": "2026-07-13 06:30:00+00:00",
+      "profit_usdt": -0.1400615,
+      "profit_ratio_pct": -0.033374697416816194,
+      "entries": 1,
+      "initial_margin": 419.8736666666667,
+      "max_adverse_price_pct": 1.6138584542493284,
+      "min_sampled_pnl": {
+        "timestamp": 1783902300000,
+        "pnl_usdt": -16.933454000000015,
+        "pnl_initial_margin_pct": -4.032987859046495,
+        "hours": 17.916666666666668
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1783913700000,
+        "pnl_usdt": 14.041025500000044,
+        "pnl_initial_margin_pct": 3.344107195735871,
+        "hours": 21.083333333333332
+      },
+      "at6h": {
+        "timestamp": 1783859400000,
+        "pnl_usdt": -7.417198249999947,
+        "pnl_initial_margin_pct": -1.7665309446253945,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1783881000000,
+        "pnl_usdt": -1.4462142499998722,
+        "pnl_initial_margin_pct": -0.3444403316552849,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1783902600000,
+        "pnl_usdt": -16.373674249999944,
+        "pnl_initial_margin_pct": -3.8996668640805314,
+        "hours": 18.0
+      },
+      "own4h_at_entry": {
+        "close": 0.06851,
+        "EMA12": 0.06957117896175043,
+        "EMA50": 0.07105629300429789,
+        "EMA200": 0.07559504606447695,
+        "RSI14": 39.11442026964539,
+        "ADX14": 20.953126834571282,
+        "ATR14_pct": 2.0181754365735483
+      },
+      "btc4h_at_entry": {
+        "close": 64197.2,
+        "EMA12": 63952.84320321462,
+        "EMA50": 63102.64167807088,
+        "EMA200": 63777.922145453405,
+        "RSI14": 58.515740744006706,
+        "ADX14": 17.24312106619195,
+        "ATR14_pct": 0.9723359132410512
+      }
+    },
+    {
+      "pair": "ETHFI/USDT:USDT",
+      "side": "long",
+      "tag": "64",
+      "family": "long_rebuy",
+      "open_date": "2026-07-05 09:25:00+00:00",
+      "open_timestamp": 1783243500000,
+      "close_date": "2026-07-05 16:30:00+00:00",
+      "profit_usdt": 4.3794669,
+      "profit_ratio_pct": 1.0607957669910562,
+      "entries": 1,
+      "initial_margin": 412.641,
+      "max_adverse_price_pct": 0.621266427718048,
+      "min_sampled_pnl": {
+        "timestamp": 1783251900000,
+        "pnl_usdt": -5.377052400000094,
+        "pnl_initial_margin_pct": -1.3030824372760086,
+        "hours": 2.3333333333333335
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1783254300000,
+        "pnl_usdt": 30.988155899999843,
+        "pnl_initial_margin_pct": 7.509713261648707,
+        "hours": 3.0
+      },
+      "at6h": {
+        "timestamp": 1783265100000,
+        "pnl_usdt": 24.48380969999993,
+        "pnl_initial_margin_pct": 5.933440860215036,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1783269000000,
+        "pnl_usdt": 4.3794669,
+        "pnl_initial_margin_pct": 1.061326164874552,
+        "hours": 7.083333333333333
+      },
+      "at18h": {
+        "timestamp": 1783269000000,
+        "pnl_usdt": 4.3794669,
+        "pnl_initial_margin_pct": 1.061326164874552,
+        "hours": 7.083333333333333
+      },
+      "own4h_at_entry": {
+        "close": 0.4304,
+        "EMA12": 0.3968370582992497,
+        "EMA50": 0.3589697157900441,
+        "EMA200": 0.3512581502060116,
+        "RSI14": 72.94548175991412,
+        "ADX14": 48.8560970035477,
+        "ATR14_pct": 4.130515247116792
+      },
+      "btc4h_at_entry": {
+        "close": 62990.0,
+        "EMA12": 62527.336059294255,
+        "EMA50": 61405.890394501206,
+        "EMA200": 63983.67536176679,
+        "RSI14": 64.94570266090336,
+        "ADX14": 33.18829994388418,
+        "ATR14_pct": 1.0870872778906306
+      }
+    },
+    {
+      "pair": "PYTH/USDT:USDT",
+      "side": "long",
+      "tag": "64",
+      "family": "long_rebuy",
+      "open_date": "2026-07-01 07:15:00+00:00",
+      "open_timestamp": 1782890100000,
+      "close_date": "2026-07-01 15:45:00+00:00",
+      "profit_usdt": 5.1336196,
+      "profit_ratio_pct": 1.2442001564905338,
+      "entries": 1,
+      "initial_margin": 412.3978,
+      "max_adverse_price_pct": 3.7094281298299947,
+      "min_sampled_pnl": {
+        "timestamp": 1782894900000,
+        "pnl_usdt": -44.87726245000019,
+        "pnl_initial_margin_pct": -10.882032457496182,
+        "hours": 1.3333333333333333
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1782916800000,
+        "pnl_usdt": 31.572493549999873,
+        "pnl_initial_margin_pct": 7.655834621329181,
+        "hours": 7.416666666666667
+      },
+      "at6h": {
+        "timestamp": 1782911700000,
+        "pnl_usdt": -1.2371933999998983,
+        "pnl_initial_margin_pct": -0.29999999999997534,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1782920700000,
+        "pnl_usdt": 5.133619599999898,
+        "pnl_initial_margin_pct": 1.2448222565687543,
+        "hours": 8.5
+      },
+      "at18h": {
+        "timestamp": 1782920700000,
+        "pnl_usdt": 5.133619599999898,
+        "pnl_initial_margin_pct": 1.2448222565687543,
+        "hours": 8.5
+      },
+      "own4h_at_entry": {
+        "close": 0.03982,
+        "EMA12": 0.0372082765285769,
+        "EMA50": 0.035565488655568585,
+        "EMA200": 0.03709330251107959,
+        "RSI14": 66.40955093077021,
+        "ADX14": 34.857364061845566,
+        "ATR14_pct": 5.001384954232333
+      },
+      "btc4h_at_entry": {
+        "close": 59168.3,
+        "EMA12": 59301.34494699335,
+        "EMA50": 60577.75604296321,
+        "EMA200": 64648.630695906206,
+        "RSI14": 43.46438297930894,
+        "ADX14": 46.73099791825985,
+        "ATR14_pct": 1.442210226296005
+      }
+    },
+    {
+      "pair": "SUI/USDT:USDT",
+      "side": "long",
+      "tag": "64",
+      "family": "long_rebuy",
+      "open_date": "2026-10-02 08:55:00+00:00",
+      "open_timestamp": 1790931300000,
+      "close_date": "2026-10-02 14:10:00+00:00",
+      "profit_usdt": 5.5132895,
+      "profit_ratio_pct": 1.2215992012454724,
+      "entries": 1,
+      "initial_margin": 451.09183333333334,
+      "max_adverse_price_pct": 1.235299094678055,
+      "min_sampled_pnl": {
+        "timestamp": 1790942700000,
+        "pnl_usdt": -13.140878750000049,
+        "pnl_initial_margin_pct": -2.913127168119141,
+        "hours": 3.1666666666666665
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1790948400000,
+        "pnl_usdt": 32.636221249999906,
+        "pnl_initial_margin_pct": 7.2349395041881515,
+        "hours": 4.75
+      },
+      "at6h": {
+        "timestamp": 1790950200000,
+        "pnl_usdt": 5.5132894999998365,
+        "pnl_initial_margin_pct": 1.222210000846059,
+        "hours": 5.25
+      },
+      "at12h": {
+        "timestamp": 1790950200000,
+        "pnl_usdt": 5.5132894999998365,
+        "pnl_initial_margin_pct": 1.222210000846059,
+        "hours": 5.25
+      },
+      "at18h": {
+        "timestamp": 1790950200000,
+        "pnl_usdt": 5.5132894999998365,
+        "pnl_initial_margin_pct": 1.222210000846059,
+        "hours": 5.25
+      },
+      "own4h_at_entry": {
+        "close": 1.1836,
+        "EMA12": 1.1711105813772231,
+        "EMA50": 1.1254300262455432,
+        "EMA200": 0.9358785833856997,
+        "RSI14": 54.036254093108006,
+        "ADX14": 22.8385325136958,
+        "ATR14_pct": 3.7198091363839683
+      },
+      "btc4h_at_entry": {
+        "close": 86080.0,
+        "EMA12": 84520.05407143229,
+        "EMA50": 83793.20804413415,
+        "EMA200": 80201.74495407793,
+        "RSI14": 69.19568222734597,
+        "ADX14": 26.77015917860684,
+        "ATR14_pct": 1.0830290912415792
+      }
+    },
+    {
+      "pair": "RAY/USDT:USDT",
+      "side": "long",
+      "tag": "101",
+      "family": "long_rapid",
+      "open_date": "2026-09-09 19:45:00+00:00",
+      "open_timestamp": 1788983100000,
+      "close_date": "2026-09-09 20:45:00+00:00",
+      "profit_usdt": 6.240531,
+      "profit_ratio_pct": 0.37040585138740534,
+      "entries": 1,
+      "initial_margin": 1683.9399999999998,
+      "max_adverse_price_pct": 1.501597444089453,
+      "min_sampled_pnl": {
+        "timestamp": 1788986400000,
+        "pnl_usdt": -47.39813624999967,
+        "pnl_initial_margin_pct": -2.814716453674102,
+        "hours": 0.9166666666666666
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1788985200000,
+        "pnl_usdt": 194.17751549999943,
+        "pnl_initial_margin_pct": 11.531142172523928,
+        "hours": 0.5833333333333334
+      },
+      "at6h": {
+        "timestamp": 1788986700000,
+        "pnl_usdt": 6.24053099999948,
+        "pnl_initial_margin_pct": 0.3705910543130682,
+        "hours": 1.0
+      },
+      "at12h": {
+        "timestamp": 1788986700000,
+        "pnl_usdt": 6.24053099999948,
+        "pnl_initial_margin_pct": 0.3705910543130682,
+        "hours": 1.0
+      },
+      "at18h": {
+        "timestamp": 1788986700000,
+        "pnl_usdt": 6.24053099999948,
+        "pnl_initial_margin_pct": 0.3705910543130682,
+        "hours": 1.0
+      },
+      "own4h_at_entry": {
+        "close": 1.3779,
+        "EMA12": 1.2283732960036942,
+        "EMA50": 1.0443267709707535,
+        "EMA200": 0.8283565358573712,
+        "RSI14": 69.62668405056566,
+        "ADX14": 56.82372917846994,
+        "ATR14_pct": 7.043985769387468
+      },
+      "btc4h_at_entry": {
+        "close": 78569.3,
+        "EMA12": 78895.56002882736,
+        "EMA50": 78928.38324008083,
+        "EMA200": 74392.34373616795,
+        "RSI14": 44.36502325133692,
+        "ADX14": 19.26433321945253,
+        "ATR14_pct": 1.0157949664051422
+      }
+    },
+    {
+      "pair": "ONDO/USDT:USDT",
+      "side": "long",
+      "tag": "142",
+      "family": "long_top_coins",
+      "open_date": "2026-07-18 09:30:00+00:00",
+      "open_timestamp": 1784367000000,
+      "close_date": "2026-07-19 00:10:00+00:00",
+      "profit_usdt": 6.661039,
+      "profit_ratio_pct": 0.396519718647792,
+      "entries": 1,
+      "initial_margin": 1679.0363333333335,
+      "max_adverse_price_pct": 2.0040662213186233,
+      "min_sampled_pnl": {
+        "timestamp": 1784389200000,
+        "pnl_usdt": -92.77321900000105,
+        "pnl_initial_margin_pct": -5.525384838803431,
+        "hours": 6.166666666666667
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1784406900000,
+        "pnl_usdt": 109.0198339999992,
+        "pnl_initial_margin_pct": 6.493000290444331,
+        "hours": 11.083333333333334
+      },
+      "at6h": {
+        "timestamp": 1784388600000,
+        "pnl_usdt": -66.4523860000003,
+        "pnl_initial_margin_pct": -3.9577693871623763,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1784410200000,
+        "pnl_usdt": 41.755482999998506,
+        "pnl_initial_margin_pct": 2.486871914028374,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1784419800000,
+        "pnl_usdt": 6.661038999999333,
+        "pnl_initial_margin_pct": 0.3967179785070761,
+        "hours": 14.666666666666666
+      },
+      "own4h_at_entry": {
+        "close": 0.3666,
+        "EMA12": 0.3685784083273641,
+        "EMA50": 0.3446276879391109,
+        "EMA200": 0.3366193780875899,
+        "RSI14": 57.156279218947034,
+        "ADX14": 45.80936764827193,
+        "ATR14_pct": 3.5352177350396383
+      },
+      "btc4h_at_entry": {
+        "close": 63980.8,
+        "EMA12": 63893.96807328963,
+        "EMA50": 63721.27553727471,
+        "EMA200": 63801.13924439372,
+        "RSI14": 50.88655053841974,
+        "ADX14": 20.317223075528098,
+        "ATR14_pct": 1.0030698374422315
+      }
+    },
+    {
+      "pair": "ETHW/USDT:USDT",
+      "side": "short",
+      "tag": "562",
+      "family": "short_rebuy",
+      "open_date": "2026-07-24 21:15:00+00:00",
+      "open_timestamp": 1784927700000,
+      "close_date": "2026-07-25 21:15:00+00:00",
+      "profit_usdt": 7.35419538,
+      "profit_ratio_pct": 1.7540621529234044,
+      "entries": 1,
+      "initial_margin": 419.4762600000001,
+      "max_adverse_price_pct": 1.624625908507893,
+      "min_sampled_pnl": {
+        "timestamp": 1785001800000,
+        "pnl_usdt": -20.636833139999727,
+        "pnl_initial_margin_pct": -4.919666524155556,
+        "hours": 20.583333333333332
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1785013500000,
+        "pnl_usdt": 7.35419538000026,
+        "pnl_initial_margin_pct": 1.753185121847005,
+        "hours": 23.833333333333332
+      },
+      "at6h": {
+        "timestamp": 1784949300000,
+        "pnl_usdt": -9.332763929999876,
+        "pnl_initial_margin_pct": -2.2248610517314793,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1784970900000,
+        "pnl_usdt": 4.6627503300002315,
+        "pnl_initial_margin_pct": 1.1115647712698284,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1784992500000,
+        "pnl_usdt": -2.8732958099996693,
+        "pnl_initial_margin_pct": -0.6849722103462229,
+        "hours": 18.0
+      },
+      "own4h_at_entry": {
+        "close": 0.2354,
+        "EMA12": 0.23780741908533637,
+        "EMA50": 0.24181973546110286,
+        "EMA200": 0.24530598998254616,
+        "RSI14": 38.64131046996532,
+        "ADX14": 14.275469117563196,
+        "ATR14_pct": 1.4606428098593496
+      },
+      "btc4h_at_entry": {
+        "close": 64196.2,
+        "EMA12": 65026.6706131095,
+        "EMA50": 64959.39989953269,
+        "EMA200": 64271.08930075806,
+        "RSI14": 37.759285825436926,
+        "ADX14": 20.36076368893537,
+        "ATR14_pct": 0.9831791139814676
+      }
+    },
+    {
+      "pair": "ONDO/USDT:USDT",
+      "side": "long",
+      "tag": "64",
+      "family": "long_rebuy",
+      "open_date": "2026-09-07 03:30:00+00:00",
+      "open_timestamp": 1788751800000,
+      "close_date": "2026-09-07 09:55:00+00:00",
+      "profit_usdt": 9.5915015,
+      "profit_ratio_pct": 2.2824227572897624,
+      "entries": 1,
+      "initial_margin": 420.0233333333333,
+      "max_adverse_price_pct": 1.4621409921671047,
+      "min_sampled_pnl": {
+        "timestamp": 1788766800000,
+        "pnl_usdt": -9.809792999999766,
+        "pnl_initial_margin_pct": -2.33553524804172,
+        "hours": 4.166666666666667
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1788772800000,
+        "pnl_usdt": 36.88484800000008,
+        "pnl_initial_margin_pct": 8.781618798955634,
+        "hours": 5.833333333333333
+      },
+      "at6h": {
+        "timestamp": 1788773400000,
+        "pnl_usdt": 28.663960500000172,
+        "pnl_initial_margin_pct": 6.824373368146255,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1788774900000,
+        "pnl_usdt": 9.591501500000064,
+        "pnl_initial_margin_pct": 2.2835639686684224,
+        "hours": 6.416666666666667
+      },
+      "at18h": {
+        "timestamp": 1788774900000,
+        "pnl_usdt": 9.591501500000064,
+        "pnl_initial_margin_pct": 2.2835639686684224,
+        "hours": 6.416666666666667
+      },
+      "own4h_at_entry": {
+        "close": 0.3875,
+        "EMA12": 0.3740924620150432,
+        "EMA50": 0.36262215670031445,
+        "EMA200": 0.35885438752489385,
+        "RSI14": 70.11618668655942,
+        "ADX14": 28.82495609468938,
+        "ATR14_pct": 2.1564544628212294
+      },
+      "btc4h_at_entry": {
+        "close": 80300.1,
+        "EMA12": 79846.25338325105,
+        "EMA50": 78971.77065493094,
+        "EMA200": 73609.56001299525,
+        "RSI14": 59.16408038126235,
+        "ADX14": 13.68701606663931,
+        "ATR14_pct": 0.8813139689045748
+      }
+    },
+    {
+      "pair": "INJ/USDT:USDT",
+      "side": "short",
+      "tag": "562",
+      "family": "short_rebuy",
+      "open_date": "2026-07-27 21:40:00+00:00",
+      "open_timestamp": 1785188400000,
+      "close_date": "2026-07-27 22:55:00+00:00",
+      "profit_usdt": 11.6937184,
+      "profit_ratio_pct": 2.716678556942766,
+      "entries": 1,
+      "initial_margin": 430.65706666666665,
+      "max_adverse_price_pct": 0.5650899958141276,
+      "min_sampled_pnl": {
+        "timestamp": 1785189300000,
+        "pnl_usdt": -7.784815999999786,
+        "pnl_initial_margin_pct": -1.8076601088320976,
+        "hours": 0.25
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1785192900000,
+        "pnl_usdt": 11.693718400000089,
+        "pnl_initial_margin_pct": 2.7153202176643156,
+        "hours": 1.25
+      },
+      "at6h": {
+        "timestamp": 1785192900000,
+        "pnl_usdt": 11.693718400000089,
+        "pnl_initial_margin_pct": 2.7153202176643156,
+        "hours": 1.25
+      },
+      "at12h": {
+        "timestamp": 1785192900000,
+        "pnl_usdt": 11.693718400000089,
+        "pnl_initial_margin_pct": 2.7153202176643156,
+        "hours": 1.25
+      },
+      "at18h": {
+        "timestamp": 1785192900000,
+        "pnl_usdt": 11.693718400000089,
+        "pnl_initial_margin_pct": 2.7153202176643156,
+        "hours": 1.25
+      },
+      "own4h_at_entry": {
+        "close": 4.833,
+        "EMA12": 4.939893935689599,
+        "EMA50": 5.075632815129201,
+        "EMA200": 5.013713327823716,
+        "RSI14": 37.297240537455565,
+        "ADX14": 23.246549035646126,
+        "ATR14_pct": 2.40129161450733
+      },
+      "btc4h_at_entry": {
+        "close": 64957.1,
+        "EMA12": 64827.41250913159,
+        "EMA50": 64794.90574647394,
+        "EMA200": 64322.61607996115,
+        "RSI14": 52.036099681253546,
+        "ADX14": 17.498920819279327,
+        "ATR14_pct": 0.80926807016418
+      }
+    },
+    {
+      "pair": "BOME/USDT:USDT",
+      "side": "long",
+      "tag": "64",
+      "family": "long_rebuy",
+      "open_date": "2026-09-21 19:25:00+00:00",
+      "open_timestamp": 1790018700000,
+      "close_date": "2026-09-22 03:00:00+00:00",
+      "profit_usdt": 11.9021162,
+      "profit_ratio_pct": 2.7254061760663335,
+      "entries": 1,
+      "initial_margin": 436.49156666666664,
+      "max_adverse_price_pct": 0.4856680316160378,
+      "min_sampled_pnl": {
+        "timestamp": 1790027700000,
+        "pnl_usdt": -6.793531299999907,
+        "pnl_initial_margin_pct": -1.5563946290829234,
+        "hours": 2.5
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1790037900000,
+        "pnl_usdt": 42.31370280000021,
+        "pnl_initial_margin_pct": 9.694048185887107,
+        "hours": 5.333333333333333
+      },
+      "at6h": {
+        "timestamp": 1790040300000,
+        "pnl_usdt": 30.59776369999995,
+        "pnl_initial_margin_pct": 7.009932387391666,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1790046000000,
+        "pnl_usdt": 11.90211620000002,
+        "pnl_initial_margin_pct": 2.7267688791543705,
+        "hours": 7.583333333333333
+      },
+      "at18h": {
+        "timestamp": 1790046000000,
+        "pnl_usdt": 11.90211620000002,
+        "pnl_initial_margin_pct": 2.7267688791543705,
+        "hours": 7.583333333333333
+      },
+      "own4h_at_entry": {
+        "close": 0.001057,
+        "EMA12": 0.0009862566351627644,
+        "EMA50": 0.0009344992093835173,
+        "EMA200": 0.0008905535080811905,
+        "RSI14": 69.45341663511377,
+        "ADX14": 35.926890819639496,
+        "ATR14_pct": 4.044159918691804
+      },
+      "btc4h_at_entry": {
+        "close": 85887.6,
+        "EMA12": 82173.45725092593,
+        "EMA50": 79577.20880283928,
+        "EMA200": 76537.38743860996,
+        "RSI14": 85.1831202029355,
+        "ADX14": 43.19776064119339,
+        "ATR14_pct": 1.2283477505612563
+      }
+    },
+    {
+      "pair": "BAT/USDT:USDT",
+      "side": "long",
+      "tag": "64",
+      "family": "long_rebuy",
+      "open_date": "2026-10-13 22:40:00+00:00",
+      "open_timestamp": 1791931200000,
+      "close_date": "2026-10-14 01:00:00+00:00",
+      "profit_usdt": 13.1870611,
+      "profit_ratio_pct": 2.6190063784968283,
+      "entries": 1,
+      "initial_margin": 503.2622666666667,
+      "max_adverse_price_pct": 1.5356075440585482,
+      "min_sampled_pnl": {
+        "timestamp": 1791939300000,
+        "pnl_usdt": -3.0650087999999407,
+        "pnl_initial_margin_pct": -0.6090281356281445,
+        "hours": 2.25
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1791938700000,
+        "pnl_usdt": 46.624334100000176,
+        "pnl_initial_margin_pct": 9.264420797691471,
+        "hours": 2.0833333333333335
+      },
+      "at6h": {
+        "timestamp": 1791939600000,
+        "pnl_usdt": 13.187061100000227,
+        "pnl_initial_margin_pct": 2.620315881686121,
+        "hours": 2.3333333333333335
+      },
+      "at12h": {
+        "timestamp": 1791939600000,
+        "pnl_usdt": 13.187061100000227,
+        "pnl_initial_margin_pct": 2.620315881686121,
+        "hours": 2.3333333333333335
+      },
+      "at18h": {
+        "timestamp": 1791939600000,
+        "pnl_usdt": 13.187061100000227,
+        "pnl_initial_margin_pct": 2.620315881686121,
+        "hours": 2.3333333333333335
+      },
+      "own4h_at_entry": {
+        "close": 0.2002,
+        "EMA12": 0.1693002223975117,
+        "EMA50": 0.13715302231354734,
+        "EMA200": 0.1034134320276556,
+        "RSI14": 75.31766937205406,
+        "ADX14": 63.71889507192816,
+        "ATR14_pct": 7.6698596995720125
+      },
+      "btc4h_at_entry": {
+        "close": 83255.9,
+        "EMA12": 83220.44036193287,
+        "EMA50": 83423.33385016446,
+        "EMA200": 81986.81321593063,
+        "RSI14": 50.22459967223358,
+        "ADX14": 21.471753168170462,
+        "ATR14_pct": 1.0029192134916018
+      }
+    },
+    {
+      "pair": "BAT/USDT:USDT",
+      "side": "long",
+      "tag": "64",
+      "family": "long_rebuy",
+      "open_date": "2026-10-03 06:15:00+00:00",
+      "open_timestamp": 1791008100000,
+      "close_date": "2026-10-04 06:15:00+00:00",
+      "profit_usdt": 14.7145527,
+      "profit_ratio_pct": 3.1142218299717137,
+      "entries": 1,
+      "initial_margin": 472.2592,
+      "max_adverse_price_pct": 4.371921182266025,
+      "min_sampled_pnl": {
+        "timestamp": 1791078000000,
+        "pnl_usdt": -61.58227980000021,
+        "pnl_initial_margin_pct": -13.039932266009895,
+        "hours": 19.416666666666668
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1791094200000,
+        "pnl_usdt": 16.0224983999999,
+        "pnl_initial_margin_pct": 3.392733990147762,
+        "hours": 23.916666666666668
+      },
+      "at6h": {
+        "timestamp": 1791029700000,
+        "pnl_usdt": -50.24675040000014,
+        "pnl_initial_margin_pct": -10.639655172413821,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1791051300000,
+        "pnl_usdt": -38.91122100000006,
+        "pnl_initial_margin_pct": -8.239378078817746,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1791072900000,
+        "pnl_usdt": -48.64815010000007,
+        "pnl_initial_margin_pct": -10.301154556650262,
+        "hours": 18.0
+      },
+      "own4h_at_entry": {
+        "close": 0.09906,
+        "EMA12": 0.09360028722542847,
+        "EMA50": 0.09087484423271862,
+        "EMA200": 0.08211448508934681,
+        "RSI14": 65.70196852909292,
+        "ADX14": 24.071200079409927,
+        "ATR14_pct": 3.5307601348273314
+      },
+      "btc4h_at_entry": {
+        "close": 84662.0,
+        "EMA12": 84726.06180848613,
+        "EMA50": 84008.39647022357,
+        "EMA200": 80436.00625033546,
+        "RSI14": 52.37344493947141,
+        "ADX14": 26.905961012219777,
+        "ATR14_pct": 1.1140822578608256
+      }
+    },
+    {
+      "pair": "JUP/USDT:USDT",
+      "side": "short",
+      "tag": "562",
+      "family": "short_rebuy",
+      "open_date": "2026-08-11 14:50:00+00:00",
+      "open_timestamp": 1786459800000,
+      "close_date": "2026-08-11 15:05:00+00:00",
+      "profit_usdt": 16.81671,
+      "profit_ratio_pct": 3.9057343797949393,
+      "entries": 1,
+      "initial_margin": 430.78000000000003,
+      "max_adverse_price_pct": -1.1102230246251565e-14,
+      "min_sampled_pnl": {
+        "timestamp": 1786459800000,
+        "pnl_usdt": -1.2923399999997565,
+        "pnl_initial_margin_pct": -0.2999999999999435,
+        "hours": 0.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1786460700000,
+        "pnl_usdt": 16.816710000000153,
+        "pnl_initial_margin_pct": 3.9037815126050774,
+        "hours": 0.25
+      },
+      "at6h": {
+        "timestamp": 1786460700000,
+        "pnl_usdt": 16.816710000000153,
+        "pnl_initial_margin_pct": 3.9037815126050774,
+        "hours": 0.25
+      },
+      "at12h": {
+        "timestamp": 1786460700000,
+        "pnl_usdt": 16.816710000000153,
+        "pnl_initial_margin_pct": 3.9037815126050774,
+        "hours": 0.25
+      },
+      "at18h": {
+        "timestamp": 1786460700000,
+        "pnl_usdt": 16.816710000000153,
+        "pnl_initial_margin_pct": 3.9037815126050774,
+        "hours": 0.25
+      },
+      "own4h_at_entry": {
+        "close": 0.1803,
+        "EMA12": 0.181844517346803,
+        "EMA50": 0.18502626873700917,
+        "EMA200": 0.19313576633138982,
+        "RSI14": 43.301489720051464,
+        "ADX14": 14.760790290299227,
+        "ATR14_pct": 1.7703971164755534
+      },
+      "btc4h_at_entry": {
+        "close": 64356.3,
+        "EMA12": 64450.56261716224,
+        "EMA50": 64449.63615381402,
+        "EMA200": 64237.37681520194,
+        "RSI14": 46.17031860442757,
+        "ADX14": 23.527671534612075,
+        "ATR14_pct": 0.6420643338392557
+      }
+    },
+    {
+      "pair": "ETHW/USDT:USDT",
+      "side": "short",
+      "tag": "562",
+      "family": "short_rebuy",
+      "open_date": "2026-09-14 12:55:00+00:00",
+      "open_timestamp": 1789390500000,
+      "close_date": "2026-09-15 12:55:00+00:00",
+      "profit_usdt": 18.4448727,
+      "profit_ratio_pct": 4.298085438478957,
+      "entries": 1,
+      "initial_margin": 429.35628,
+      "max_adverse_price_pct": 2.1201413427561766,
+      "min_sampled_pnl": {
+        "timestamp": 1789418100000,
+        "pnl_usdt": -26.080738979999747,
+        "pnl_initial_margin_pct": -6.074381625441637,
+        "hours": 7.666666666666667
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1789459200000,
+        "pnl_usdt": 29.070302760000228,
+        "pnl_initial_margin_pct": 6.770671378091925,
+        "hours": 19.083333333333332
+      },
+      "at6h": {
+        "timestamp": 1789412100000,
+        "pnl_usdt": -18.997118939999794,
+        "pnl_initial_margin_pct": -4.424558303886878,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1789433700000,
+        "pnl_usdt": -3.8179331399996674,
+        "pnl_initial_margin_pct": -0.8892226148409119,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1789455300000,
+        "pnl_usdt": 26.034465600000246,
+        "pnl_initial_margin_pct": 6.063604240282742,
+        "hours": 18.0
+      },
+      "own4h_at_entry": {
+        "close": 0.2567,
+        "EMA12": 0.2594283722637384,
+        "EMA50": 0.2628203430323317,
+        "EMA200": 0.26157208494967193,
+        "RSI14": 44.753414688358106,
+        "ADX14": 19.42192083552569,
+        "ATR14_pct": 2.259048584253716
+      },
+      "btc4h_at_entry": {
+        "close": 77749.9,
+        "EMA12": 77364.54199217256,
+        "EMA50": 77827.09354318715,
+        "EMA200": 75137.03689487457,
+        "RSI14": 53.278271362268825,
+        "ADX14": 15.377631049649947,
+        "ATR14_pct": 0.8973132140662732
+      }
+    },
+    {
+      "pair": "JUP/USDT:USDT",
+      "side": "long",
+      "tag": "145",
+      "family": "long_top_coins",
+      "open_date": "2026-10-08 14:55:00+00:00",
+      "open_timestamp": 1791471300000,
+      "close_date": "2026-10-09 10:55:00+00:00",
+      "profit_usdt": 19.945335,
+      "profit_ratio_pct": 1.0452277367627545,
+      "entries": 1,
+      "initial_margin": 1907.2750000000003,
+      "max_adverse_price_pct": 7.910238429172523,
+      "min_sampled_pnl": {
+        "timestamp": 1791483000000,
+        "pnl_usdt": -450.0845325000012,
+        "pnl_initial_margin_pct": -23.598302945301604,
+        "hours": 3.25
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1791532800000,
+        "pnl_usdt": 161.1147149999989,
+        "pnl_initial_margin_pct": 8.447377279102325,
+        "hours": 17.083333333333332
+      },
+      "at6h": {
+        "timestamp": 1791492900000,
+        "pnl_usdt": -209.4549075000012,
+        "pnl_initial_margin_pct": -10.981893408134704,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1791514500000,
+        "pnl_usdt": -106.78626750000096,
+        "pnl_initial_margin_pct": -5.598892005610147,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1791536100000,
+        "pnl_usdt": 112.98878999999926,
+        "pnl_initial_margin_pct": 5.924095371668964,
+        "hours": 18.0
+      },
+      "own4h_at_entry": {
+        "close": 0.3697,
+        "EMA12": 0.3513731895843276,
+        "EMA50": 0.3366764192508495,
+        "EMA200": 0.2944144827967802,
+        "RSI14": 62.54739527630269,
+        "ADX14": 25.46488813155725,
+        "ATR14_pct": 3.9192450426327845
+      },
+      "btc4h_at_entry": {
+        "close": 82463.9,
+        "EMA12": 83690.39245890772,
+        "EMA50": 84424.90225224961,
+        "EMA200": 81627.15832076939,
+        "RSI14": 29.028678387224645,
+        "ADX14": 29.55440870680509,
+        "ATR14_pct": 0.9807280621102523
+      }
+    },
+    {
+      "pair": "ZK/USDT:USDT",
+      "side": "long",
+      "tag": "65",
+      "family": "long_rebuy",
+      "open_date": "2026-10-15 15:15:00+00:00",
+      "open_timestamp": 1792077300000,
+      "close_date": "2026-10-16 05:35:00+00:00",
+      "profit_usdt": 21.4862394,
+      "profit_ratio_pct": 4.1894077175850635,
+      "entries": 1,
+      "initial_margin": 512.6142666666666,
+      "max_adverse_price_pct": 7.788039193602881,
+      "min_sampled_pnl": {
+        "timestamp": 1792116000000,
+        "pnl_usdt": -116.57169709999998,
+        "pnl_initial_margin_pct": -22.740626759770244,
+        "hours": 10.75
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1792128900000,
+        "pnl_usdt": 21.486239399999977,
+        "pnl_initial_margin_pct": 4.191502421443852,
+        "hours": 14.333333333333334
+      },
+      "at6h": {
+        "timestamp": 1792098900000,
+        "pnl_usdt": -53.298749399999814,
+        "pnl_initial_margin_pct": -10.397437774524123,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1792120500000,
+        "pnl_usdt": -94.75940869999971,
+        "pnl_initial_margin_pct": -18.485519202612853,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1792128900000,
+        "pnl_usdt": 21.486239399999977,
+        "pnl_initial_margin_pct": 4.191502421443852,
+        "hours": 14.333333333333334
+      },
+      "own4h_at_entry": {
+        "close": 0.016659,
+        "EMA12": 0.015945746615778605,
+        "EMA50": 0.01483250681334573,
+        "EMA200": 0.012670311219162017,
+        "RSI14": 60.15617531471135,
+        "ADX14": 31.363421910536744,
+        "ATR14_pct": 6.837108250406726
+      },
+      "btc4h_at_entry": {
+        "close": 80946.6,
+        "EMA12": 82062.79168242634,
+        "EMA50": 82989.42570953534,
+        "EMA200": 82005.85428640955,
+        "RSI14": 36.40263117406978,
+        "ADX14": 31.703123219971328,
+        "ATR14_pct": 1.1645066926844245
+      }
+    },
+    {
+      "pair": "SAND/USDT:USDT",
+      "side": "long",
+      "tag": "65",
+      "family": "long_rebuy",
+      "open_date": "2026-10-07 05:25:00+00:00",
+      "open_timestamp": 1791350700000,
+      "close_date": "2026-10-07 15:45:00+00:00",
+      "profit_usdt": 22.62269625,
+      "profit_ratio_pct": 4.751049040667748,
+      "entries": 1,
+      "initial_margin": 475.9241666666667,
+      "max_adverse_price_pct": 6.808682755831197,
+      "min_sampled_pnl": {
+        "timestamp": 1791381000000,
+        "pnl_usdt": -88.77907500000006,
+        "pnl_initial_margin_pct": -18.654038020763124,
+        "hours": 8.416666666666666
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1791387900000,
+        "pnl_usdt": 22.622696249999912,
+        "pnl_initial_margin_pct": 4.753424565188063,
+        "hours": 10.333333333333334
+      },
+      "at6h": {
+        "timestamp": 1791372300000,
+        "pnl_usdt": -43.37179000000023,
+        "pnl_initial_margin_pct": -9.113172441688063,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1791387900000,
+        "pnl_usdt": 22.622696249999912,
+        "pnl_initial_margin_pct": 4.753424565188063,
+        "hours": 10.333333333333334
+      },
+      "at18h": {
+        "timestamp": 1791387900000,
+        "pnl_usdt": 22.622696249999912,
+        "pnl_initial_margin_pct": 4.753424565188063,
+        "hours": 10.333333333333334
+      },
+      "own4h_at_entry": {
+        "close": 0.06848,
+        "EMA12": 0.06800770587077463,
+        "EMA50": 0.06205257696200264,
+        "EMA200": 0.0487071209233615,
+        "RSI14": 53.76338322478056,
+        "ADX14": 24.2835891557147,
+        "ATR14_pct": 5.676198572605376
+      },
+      "btc4h_at_entry": {
+        "close": 84120.0,
+        "EMA12": 85395.8848211713,
+        "EMA50": 84881.8235495865,
+        "EMA200": 81492.35378067025,
+        "RSI14": 38.78043946628998,
+        "ADX14": 21.285845330106504,
+        "ATR14_pct": 0.9788207816458268
+      }
+    },
+    {
+      "pair": "BOME/USDT:USDT",
+      "side": "long",
+      "tag": "163",
+      "family": "long_scalp",
+      "open_date": "2026-08-13 08:50:00+00:00",
+      "open_timestamp": 1786611000000,
+      "close_date": "2026-08-13 10:50:00+00:00",
+      "profit_usdt": 25.7385925,
+      "profit_ratio_pct": 1.4896368015369263,
+      "entries": 1,
+      "initial_margin": 1726.9799999999998,
+      "max_adverse_price_pct": 0.8696780893042599,
+      "min_sampled_pnl": {
+        "timestamp": 1786611900000,
+        "pnl_usdt": -18.624214999999914,
+        "pnl_initial_margin_pct": -1.0784267912772538,
+        "hours": 0.25
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1786617000000,
+        "pnl_usdt": 80.18385625000016,
+        "pnl_initial_margin_pct": 4.643010124610602,
+        "hours": 1.6666666666666667
+      },
+      "at6h": {
+        "timestamp": 1786618200000,
+        "pnl_usdt": 25.738592500000305,
+        "pnl_initial_margin_pct": 1.4903816199377125,
+        "hours": 2.0
+      },
+      "at12h": {
+        "timestamp": 1786618200000,
+        "pnl_usdt": 25.738592500000305,
+        "pnl_initial_margin_pct": 1.4903816199377125,
+        "hours": 2.0
+      },
+      "at18h": {
+        "timestamp": 1786618200000,
+        "pnl_usdt": 25.738592500000305,
+        "pnl_initial_margin_pct": 1.4903816199377125,
+        "hours": 2.0
+      },
+      "own4h_at_entry": {
+        "close": 0.000825,
+        "EMA12": 0.0007849226441155161,
+        "EMA50": 0.0007117362780661836,
+        "EMA200": 0.000573989853369229,
+        "RSI14": 64.23940971037173,
+        "ADX14": 38.46633134330158,
+        "ATR14_pct": 4.821593272742489
+      },
+      "btc4h_at_entry": {
+        "close": 63835.2,
+        "EMA12": 63783.25542089953,
+        "EMA50": 64167.07953163967,
+        "EMA200": 64176.766414985985,
+        "RSI14": 46.20270890646401,
+        "ADX14": 25.34123694965781,
+        "ATR14_pct": 0.7047279300429388
+      }
+    },
+    {
+      "pair": "XLM/USDT:USDT",
+      "side": "short",
+      "tag": "562",
+      "family": "short_rebuy",
+      "open_date": "2026-08-04 09:20:00+00:00",
+      "open_timestamp": 1785835200000,
+      "close_date": "2026-08-05 00:50:00+00:00",
+      "profit_usdt": 31.2115221,
+      "profit_ratio_pct": 7.262572151035799,
+      "entries": 1,
+      "initial_margin": 429.97350000000006,
+      "max_adverse_price_pct": 0.6001765225066125,
+      "min_sampled_pnl": {
+        "timestamp": 1785840900000,
+        "pnl_usdt": -7.668708299999789,
+        "pnl_initial_margin_pct": -1.7835304501323426,
+        "hours": 1.5833333333333333
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1785891000000,
+        "pnl_usdt": 31.21152210000014,
+        "pnl_initial_margin_pct": 7.258940864960314,
+        "hours": 15.5
+      },
+      "at6h": {
+        "timestamp": 1785856800000,
+        "pnl_usdt": 5.088867300000136,
+        "pnl_initial_margin_pct": 1.1835304501324235,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1785878400000,
+        "pnl_usdt": 1.9754113500002588,
+        "pnl_initial_margin_pct": 0.4594263018535465,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1785891000000,
+        "pnl_usdt": 31.21152210000014,
+        "pnl_initial_margin_pct": 7.258940864960314,
+        "hours": 15.5
+      },
+      "own4h_at_entry": {
+        "close": 0.17117,
+        "EMA12": 0.17169436229291135,
+        "EMA50": 0.17368061957711517,
+        "EMA200": 0.18192829673180888,
+        "RSI14": 45.791004417287716,
+        "ADX14": 11.897226194707414,
+        "ATR14_pct": 1.2587151935295784
+      },
+      "btc4h_at_entry": {
+        "close": 63666.2,
+        "EMA12": 63395.01255343245,
+        "EMA50": 63672.471861912825,
+        "EMA200": 64040.45310686032,
+        "RSI14": 52.87449331804035,
+        "ADX14": 19.344127867400623,
+        "ATR14_pct": 0.9656443245146742
+      }
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "side": "long",
+      "tag": "145",
+      "family": "long_top_coins",
+      "open_date": "2026-09-25 14:05:00+00:00",
+      "open_timestamp": 1790345100000,
+      "close_date": "2026-09-25 15:55:00+00:00",
+      "profit_usdt": 32.2929892,
+      "profit_ratio_pct": 1.7928415082311764,
+      "entries": 1,
+      "initial_margin": 1800.3181333333334,
+      "max_adverse_price_pct": 0.059426533947426474,
+      "min_sampled_pnl": {
+        "timestamp": 1790345100000,
+        "pnl_usdt": -4.999955000000687,
+        "pnl_initial_margin_pct": -0.2777261922448755,
+        "hours": 0.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1790348400000,
+        "pnl_usdt": 185.47475999999992,
+        "pnl_initial_margin_pct": 10.302332491457431,
+        "hours": 0.9166666666666666
+      },
+      "at6h": {
+        "timestamp": 1790351700000,
+        "pnl_usdt": 32.29298920000022,
+        "pnl_initial_margin_pct": 1.7937379289853042,
+        "hours": 1.8333333333333333
+      },
+      "at12h": {
+        "timestamp": 1790351700000,
+        "pnl_usdt": 32.29298920000022,
+        "pnl_initial_margin_pct": 1.7937379289853042,
+        "hours": 1.8333333333333333
+      },
+      "at18h": {
+        "timestamp": 1790351700000,
+        "pnl_usdt": 32.29298920000022,
+        "pnl_initial_margin_pct": 1.7937379289853042,
+        "hours": 1.8333333333333333
+      },
+      "own4h_at_entry": {
+        "close": 0.1386,
+        "EMA12": 0.13117444529137398,
+        "EMA50": 0.12288184960588837,
+        "EMA200": 0.1077797136316135,
+        "RSI14": 63.841130783031275,
+        "ADX14": 30.78686289867138,
+        "ATR14_pct": 4.179147935040241
+      },
+      "btc4h_at_entry": {
+        "close": 84540.1,
+        "EMA12": 84404.1096056055,
+        "EMA50": 82780.42690683542,
+        "EMA200": 78288.02892528643,
+        "RSI14": 54.38083232310332,
+        "ADX14": 25.035276378769417,
+        "ATR14_pct": 1.2187496839599516
+      }
+    },
+    {
+      "pair": "TIA/USDT:USDT",
+      "side": "long",
+      "tag": "141 142",
+      "family": "long_top_coins",
+      "open_date": "2026-10-14 05:55:00+00:00",
+      "open_timestamp": 1791957300000,
+      "close_date": "2026-10-14 09:00:00+00:00",
+      "profit_usdt": 33.672,
+      "profit_ratio_pct": 1.668264736657574,
+      "entries": 1,
+      "initial_margin": 2017.3760000000002,
+      "max_adverse_price_pct": 0.18241517694271847,
+      "min_sampled_pnl": {
+        "timestamp": 1791957300000,
+        "pnl_usdt": -9.362471999999578,
+        "pnl_initial_margin_pct": -0.4640915724188042,
+        "hours": 0.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1791965400000,
+        "pnl_usdt": 158.3616240000004,
+        "pnl_initial_margin_pct": 7.849881430135007,
+        "hours": 2.25
+      },
+      "at6h": {
+        "timestamp": 1791968400000,
+        "pnl_usdt": 33.6719999999991,
+        "pnl_initial_margin_pct": 1.6690988690258584,
+        "hours": 3.0833333333333335
+      },
+      "at12h": {
+        "timestamp": 1791968400000,
+        "pnl_usdt": 33.6719999999991,
+        "pnl_initial_margin_pct": 1.6690988690258584,
+        "hours": 3.0833333333333335
+      },
+      "at18h": {
+        "timestamp": 1791968400000,
+        "pnl_usdt": 33.6719999999991,
+        "pnl_initial_margin_pct": 1.6690988690258584,
+        "hours": 3.0833333333333335
+      },
+      "own4h_at_entry": {
+        "close": 0.5737,
+        "EMA12": 0.5765261837816889,
+        "EMA50": 0.5354063839737258,
+        "EMA200": 0.4652101934713581,
+        "RSI14": 53.586394453197194,
+        "ADX14": 23.807505920027257,
+        "ATR14_pct": 5.3478804048701996
+      },
+      "btc4h_at_entry": {
+        "close": 83666.0,
+        "EMA12": 83278.07386860282,
+        "EMA50": 83422.046664454,
+        "EMA200": 82014.84836920048,
+        "RSI14": 53.928548516868716,
+        "ADX14": 21.23967681711259,
+        "ATR14_pct": 0.9625305060869142
+      }
+    },
+    {
+      "pair": "APT/USDT:USDT",
+      "side": "short",
+      "tag": "562",
+      "family": "short_rebuy",
+      "open_date": "2026-08-14 01:10:00+00:00",
+      "open_timestamp": 1786669800000,
+      "close_date": "2026-08-14 23:50:00+00:00",
+      "profit_usdt": 33.744019,
+      "profit_ratio_pct": 7.800015814416829,
+      "entries": 1,
+      "initial_margin": 432.83116666666666,
+      "max_adverse_price_pct": 0.0,
+      "min_sampled_pnl": {
+        "timestamp": 1786669800000,
+        "pnl_usdt": -1.2984934999999749,
+        "pnl_initial_margin_pct": -0.2999999999999942,
+        "hours": 0.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1786719900000,
+        "pnl_usdt": 52.66697575,
+        "pnl_initial_margin_pct": 12.168018342024816,
+        "hours": 13.916666666666666
+      },
+      "at6h": {
+        "timestamp": 1786691400000,
+        "pnl_usdt": 25.333816000000166,
+        "pnl_initial_margin_pct": 5.85304801294735,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1786713000000,
+        "pnl_usdt": 47.06017375000019,
+        "pnl_initial_margin_pct": 10.87263981298332,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1786734600000,
+        "pnl_usdt": 34.44486925000027,
+        "pnl_initial_margin_pct": 7.958038122639874,
+        "hours": 18.0
+      },
+      "own4h_at_entry": {
+        "close": 0.5597,
+        "EMA12": 0.5653458743323936,
+        "EMA50": 0.5784046975274039,
+        "EMA200": 0.5968076027691603,
+        "RSI14": 34.050393263817604,
+        "ADX14": 31.336720942286167,
+        "ATR14_pct": 1.3858202923055518
+      },
+      "btc4h_at_entry": {
+        "close": 63456.8,
+        "EMA12": 63607.471293630835,
+        "EMA50": 64056.922803457855,
+        "EMA200": 64147.17624698505,
+        "RSI14": 41.40896131110533,
+        "ADX14": 24.253029525794545,
+        "ATR14_pct": 0.7443360009923757
+      }
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "side": "long",
+      "tag": "141",
+      "family": "long_top_coins",
+      "open_date": "2026-09-15 18:50:00+00:00",
+      "open_timestamp": 1789498200000,
+      "close_date": "2026-09-15 20:30:00+00:00",
+      "profit_usdt": 44.51612781,
+      "profit_ratio_pct": 2.586151368760064,
+      "entries": 1,
+      "initial_margin": 1720.4669999999999,
+      "max_adverse_price_pct": 0.11640211640211451,
+      "min_sampled_pnl": {
+        "timestamp": 1789498200000,
+        "pnl_usdt": -5.161400999999693,
+        "pnl_initial_margin_pct": -0.2999999999999822,
+        "hours": 0.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1789499100000,
+        "pnl_usdt": 165.70746183000054,
+        "pnl_initial_margin_pct": 9.631539682539714,
+        "hours": 0.25
+      },
+      "at6h": {
+        "timestamp": 1789504200000,
+        "pnl_usdt": 44.51612781000003,
+        "pnl_initial_margin_pct": 2.587444444444446,
+        "hours": 1.6666666666666667
+      },
+      "at12h": {
+        "timestamp": 1789504200000,
+        "pnl_usdt": 44.51612781000003,
+        "pnl_initial_margin_pct": 2.587444444444446,
+        "hours": 1.6666666666666667
+      },
+      "at18h": {
+        "timestamp": 1789504200000,
+        "pnl_usdt": 44.51612781000003,
+        "pnl_initial_margin_pct": 2.587444444444446,
+        "hours": 1.6666666666666667
+      },
+      "own4h_at_entry": {
+        "close": 0.10098,
+        "EMA12": 0.09915483768924545,
+        "EMA50": 0.09895641504692655,
+        "EMA200": 0.09748007203853085,
+        "RSI14": 56.64154386220385,
+        "ADX14": 18.024540396814547,
+        "ATR14_pct": 3.160905393284331
+      },
+      "btc4h_at_entry": {
+        "close": 76474.0,
+        "EMA12": 77374.5843219362,
+        "EMA50": 77767.6880453146,
+        "EMA200": 75305.81776389947,
+        "RSI14": 39.024311782619705,
+        "ADX14": 16.88098692724138,
+        "ATR14_pct": 1.086452033726884
+      }
+    },
+    {
+      "pair": "XLM/USDT:USDT",
+      "side": "short",
+      "tag": "562",
+      "family": "short_rebuy",
+      "open_date": "2026-10-23 19:10:00+00:00",
+      "open_timestamp": 1792782600000,
+      "close_date": "2026-10-24 09:35:00+00:00",
+      "profit_usdt": 52.36376535,
+      "profit_ratio_pct": 9.992429918980022,
+      "entries": 1,
+      "initial_margin": 524.2965,
+      "max_adverse_price_pct": 0.11976047904191933,
+      "min_sampled_pnl": {
+        "timestamp": 1792789800000,
+        "pnl_usdt": -3.0985519500002168,
+        "pnl_initial_margin_pct": -0.5909923011121029,
+        "hours": 2.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1792834500000,
+        "pnl_usdt": 52.36376535000006,
+        "pnl_initial_margin_pct": 9.98743370402054,
+        "hours": 14.416666666666666
+      },
+      "at6h": {
+        "timestamp": 1792804200000,
+        "pnl_usdt": 23.3761787999999,
+        "pnl_initial_margin_pct": 4.45857998289134,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1792825800000,
+        "pnl_usdt": 28.671124949999967,
+        "pnl_initial_margin_pct": 5.468494439692038,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1792834500000,
+        "pnl_usdt": 52.36376535000006,
+        "pnl_initial_margin_pct": 9.98743370402054,
+        "hours": 14.416666666666666
+      },
+      "own4h_at_entry": {
+        "close": 0.17703,
+        "EMA12": 0.17812561566310503,
+        "EMA50": 0.1812804988129955,
+        "EMA200": 0.19198535933882327,
+        "RSI14": 43.837710349137424,
+        "ADX14": 22.658480604398676,
+        "ATR14_pct": 1.6113135578607531
+      },
+      "btc4h_at_entry": {
+        "close": 81651.1,
+        "EMA12": 81999.46377786936,
+        "EMA50": 82303.51634555534,
+        "EMA200": 82058.48349165001,
+        "RSI14": 44.05964243397008,
+        "ADX14": 18.338923076766633,
+        "ATR14_pct": 0.9687510365962924
+      }
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "side": "long",
+      "tag": "2",
+      "family": "long_normal",
+      "open_date": "2026-07-24 22:00:00+00:00",
+      "open_timestamp": 1784930400000,
+      "close_date": "2026-07-24 22:10:00+00:00",
+      "profit_usdt": 56.8056822,
+      "profit_ratio_pct": 3.3839094500159925,
+      "entries": 1,
+      "initial_margin": 1677.8609,
+      "max_adverse_price_pct": 0.4097161252560766,
+      "min_sampled_pnl": {
+        "timestamp": 1784930400000,
+        "pnl_usdt": -5.033582699999949,
+        "pnl_initial_margin_pct": -0.299999999999997,
+        "hours": 0.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1784931000000,
+        "pnl_usdt": 56.80568220000035,
+        "pnl_initial_margin_pct": 3.385601404741022,
+        "hours": 0.16666666666666666
+      },
+      "at6h": {
+        "timestamp": 1784931000000,
+        "pnl_usdt": 56.80568220000035,
+        "pnl_initial_margin_pct": 3.385601404741022,
+        "hours": 0.16666666666666666
+      },
+      "at12h": {
+        "timestamp": 1784931000000,
+        "pnl_usdt": 56.80568220000035,
+        "pnl_initial_margin_pct": 3.385601404741022,
+        "hours": 0.16666666666666666
+      },
+      "at18h": {
+        "timestamp": 1784931000000,
+        "pnl_usdt": 56.80568220000035,
+        "pnl_initial_margin_pct": 3.385601404741022,
+        "hours": 0.16666666666666666
+      },
+      "own4h_at_entry": {
+        "close": 0.3681,
+        "EMA12": 0.3776450289739113,
+        "EMA50": 0.3818688076257382,
+        "EMA200": 0.4110812473146957,
+        "RSI14": 38.7690073678225,
+        "ADX14": 15.585713302507278,
+        "ATR14_pct": 2.687552605314194
+      },
+      "btc4h_at_entry": {
+        "close": 64196.2,
+        "EMA12": 65026.6706131095,
+        "EMA50": 64959.39989953269,
+        "EMA200": 64271.08930075806,
+        "RSI14": 37.759285825436926,
+        "ADX14": 20.36076368893537,
+        "ATR14_pct": 0.9831791139814676
+      }
+    },
+    {
+      "pair": "DOT/USDT:USDT",
+      "side": "long",
+      "tag": "141 142",
+      "family": "long_top_coins",
+      "open_date": "2026-10-02 18:50:00+00:00",
+      "open_timestamp": 1790967000000,
+      "close_date": "2026-10-02 19:05:00+00:00",
+      "profit_usdt": 58.8361767,
+      "profit_ratio_pct": 3.255780493618205,
+      "entries": 1,
+      "initial_margin": 1806.2266,
+      "max_adverse_price_pct": 0.04394059231918046,
+      "min_sampled_pnl": {
+        "timestamp": 1790967000000,
+        "pnl_usdt": -6.370603599999702,
+        "pnl_initial_margin_pct": -0.3527023464276134,
+        "hours": 0.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1790967900000,
+        "pnl_usdt": 58.836176700000685,
+        "pnl_initial_margin_pct": 3.2574083838650525,
+        "hours": 0.25
+      },
+      "at6h": {
+        "timestamp": 1790967900000,
+        "pnl_usdt": 58.836176700000685,
+        "pnl_initial_margin_pct": 3.2574083838650525,
+        "hours": 0.25
+      },
+      "at12h": {
+        "timestamp": 1790967900000,
+        "pnl_usdt": 58.836176700000685,
+        "pnl_initial_margin_pct": 3.2574083838650525,
+        "hours": 0.25
+      },
+      "at18h": {
+        "timestamp": 1790967900000,
+        "pnl_usdt": 58.836176700000685,
+        "pnl_initial_margin_pct": 3.2574083838650525,
+        "hours": 0.25
+      },
+      "own4h_at_entry": {
+        "close": 1.2144,
+        "EMA12": 1.2083113366963079,
+        "EMA50": 1.1960535315648206,
+        "EMA200": 1.0866733725873474,
+        "RSI14": 51.7264437267968,
+        "ADX14": 14.129736608712781,
+        "ATR14_pct": 3.2549372999167945
+      },
+      "btc4h_at_entry": {
+        "close": 85296.0,
+        "EMA12": 84880.7594239249,
+        "EMA50": 83949.37589925647,
+        "EMA200": 80313.23744774735,
+        "RSI14": 58.24239127616817,
+        "ADX14": 29.957214956503297,
+        "ATR14_pct": 1.1669247933139137
+      }
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "side": "long",
+      "tag": "141",
+      "family": "long_top_coins",
+      "open_date": "2026-10-08 15:25:00+00:00",
+      "open_timestamp": 1791473100000,
+      "close_date": "2026-10-09 10:40:00+00:00",
+      "profit_usdt": 60.2060027,
+      "profit_ratio_pct": 3.1541956949082564,
+      "entries": 1,
+      "initial_margin": 1907.8053666666667,
+      "max_adverse_price_pct": 5.61844000823214,
+      "min_sampled_pnl": {
+        "timestamp": 1791482700000,
+        "pnl_usdt": -318.8881554000005,
+        "pnl_initial_margin_pct": -16.714920765589657,
+        "hours": 2.6666666666666665
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1791532800000,
+        "pnl_usdt": 181.46904085000043,
+        "pnl_initial_margin_pct": 9.51192632228856,
+        "hours": 16.583333333333332
+      },
+      "at6h": {
+        "timestamp": 1791494700000,
+        "pnl_usdt": -82.24863435000003,
+        "pnl_initial_margin_pct": -4.311164848734309,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1791516300000,
+        "pnl_usdt": 56.67406954999964,
+        "pnl_initial_margin_pct": 2.970642107429493,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1791537900000,
+        "pnl_usdt": 123.78079939999967,
+        "pnl_initial_margin_pct": 6.488125128627272,
+        "hours": 18.0
+      },
+      "own4h_at_entry": {
+        "close": 0.5178,
+        "EMA12": 0.5285447355702793,
+        "EMA50": 0.5378497778212797,
+        "EMA200": 0.4763373544426344,
+        "RSI14": 39.843178575989974,
+        "ADX14": 21.34139416475924,
+        "ATR14_pct": 3.653739181681566
+      },
+      "btc4h_at_entry": {
+        "close": 82463.9,
+        "EMA12": 83690.39245890772,
+        "EMA50": 84424.90225224961,
+        "EMA200": 81627.15832076939,
+        "RSI14": 29.028678387224645,
+        "ADX14": 29.55440870680509,
+        "ATR14_pct": 0.9807280621102523
+      }
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "side": "long",
+      "tag": "141 142",
+      "family": "long_top_coins",
+      "open_date": "2026-10-15 02:25:00+00:00",
+      "open_timestamp": 1792031100000,
+      "close_date": "2026-10-15 02:35:00+00:00",
+      "profit_usdt": 64.3553456,
+      "profit_ratio_pct": 3.1797904530856487,
+      "entries": 1,
+      "initial_margin": 2022.8749333333335,
+      "max_adverse_price_pct": 0.6020210707374796,
+      "min_sampled_pnl": {
+        "timestamp": 1792031100000,
+        "pnl_usdt": -6.06862480000009,
+        "pnl_initial_margin_pct": -0.30000000000000443,
+        "hours": 0.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1792031700000,
+        "pnl_usdt": 64.35534559999924,
+        "pnl_initial_margin_pct": 3.1813803483121528,
+        "hours": 0.16666666666666666
+      },
+      "at6h": {
+        "timestamp": 1792031700000,
+        "pnl_usdt": 64.35534559999924,
+        "pnl_initial_margin_pct": 3.1813803483121528,
+        "hours": 0.16666666666666666
+      },
+      "at12h": {
+        "timestamp": 1792031700000,
+        "pnl_usdt": 64.35534559999924,
+        "pnl_initial_margin_pct": 3.1813803483121528,
+        "hours": 0.16666666666666666
+      },
+      "at18h": {
+        "timestamp": 1792031700000,
+        "pnl_usdt": 64.35534559999924,
+        "pnl_initial_margin_pct": 3.1813803483121528,
+        "hours": 0.16666666666666666
+      },
+      "own4h_at_entry": {
+        "close": 0.4946,
+        "EMA12": 0.5071826337792059,
+        "EMA50": 0.5236422034228684,
+        "EMA200": 0.4908747382091883,
+        "RSI14": 39.86843544030519,
+        "ADX14": 28.48769587083298,
+        "ATR14_pct": 3.8503237569600413
+      },
+      "btc4h_at_entry": {
+        "close": 81641.4,
+        "EMA12": 82684.18612042876,
+        "EMA50": 83229.50242327238,
+        "EMA200": 82033.25483822633,
+        "RSI14": 38.0228192976197,
+        "ADX14": 25.273273866633176,
+        "ATR14_pct": 1.0707506663469142
+      }
+    },
+    {
+      "pair": "RAY/USDT:USDT",
+      "side": "long",
+      "tag": "64",
+      "family": "long_rebuy",
+      "open_date": "2026-09-11 17:50:00+00:00",
+      "open_timestamp": 1789149000000,
+      "close_date": "2026-09-11 21:30:00+00:00",
+      "profit_usdt": 66.6960844,
+      "profit_ratio_pct": 15.630056352042104,
+      "entries": 1,
+      "initial_margin": 426.5036,
+      "max_adverse_price_pct": 3.8046884793782265,
+      "min_sampled_pnl": {
+        "timestamp": 1789152900000,
+        "pnl_usdt": -47.13097359999993,
+        "pnl_initial_margin_pct": -11.050545317788627,
+        "hours": 1.0833333333333333
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1789162200000,
+        "pnl_usdt": 66.69608439999985,
+        "pnl_initial_margin_pct": 15.63787138021809,
+        "hours": 3.6666666666666665
+      },
+      "at6h": {
+        "timestamp": 1789162200000,
+        "pnl_usdt": 66.69608439999985,
+        "pnl_initial_margin_pct": 15.63787138021809,
+        "hours": 3.6666666666666665
+      },
+      "at12h": {
+        "timestamp": 1789162200000,
+        "pnl_usdt": 66.69608439999985,
+        "pnl_initial_margin_pct": 15.63787138021809,
+        "hours": 3.6666666666666665
+      },
+      "at18h": {
+        "timestamp": 1789162200000,
+        "pnl_usdt": 66.69608439999985,
+        "pnl_initial_margin_pct": 15.63787138021809,
+        "hours": 3.6666666666666665
+      },
+      "own4h_at_entry": {
+        "close": 1.6121,
+        "EMA12": 1.4498490549729517,
+        "EMA50": 1.1929874619302518,
+        "EMA200": 0.8954579125191936,
+        "RSI14": 68.15978851228928,
+        "ADX14": 56.305723213790806,
+        "ATR14_pct": 8.065221929315173
+      },
+      "btc4h_at_entry": {
+        "close": 77687.8,
+        "EMA12": 77545.75213628994,
+        "EMA50": 78371.0788653811,
+        "EMA200": 74744.62650324823,
+        "RSI14": 45.310511221979425,
+        "ADX14": 26.38394569861076,
+        "ATR14_pct": 1.2745096869419759
+      }
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "side": "long",
+      "tag": "145",
+      "family": "long_top_coins",
+      "open_date": "2026-07-06 12:05:00+00:00",
+      "open_timestamp": 1783339500000,
+      "close_date": "2026-07-06 17:45:00+00:00",
+      "profit_usdt": 70.9267135,
+      "profit_ratio_pct": 4.292688060319816,
+      "entries": 1,
+      "initial_margin": 1651.4423333333334,
+      "max_adverse_price_pct": 0.7167572911517595,
+      "min_sampled_pnl": {
+        "timestamp": 1783343100000,
+        "pnl_usdt": -31.87985750000004,
+        "pnl_initial_margin_pct": -1.9304251112209612,
+        "hours": 1.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1783354500000,
+        "pnl_usdt": 196.98715174999984,
+        "pnl_initial_margin_pct": 11.92818833415718,
+        "hours": 4.166666666666667
+      },
+      "at6h": {
+        "timestamp": 1783359900000,
+        "pnl_usdt": 70.92671350000013,
+        "pnl_initial_margin_pct": 4.2948344043499835,
+        "hours": 5.666666666666667
+      },
+      "at12h": {
+        "timestamp": 1783359900000,
+        "pnl_usdt": 70.92671350000013,
+        "pnl_initial_margin_pct": 4.2948344043499835,
+        "hours": 5.666666666666667
+      },
+      "at18h": {
+        "timestamp": 1783359900000,
+        "pnl_usdt": 70.92671350000013,
+        "pnl_initial_margin_pct": 4.2948344043499835,
+        "hours": 5.666666666666667
+      },
+      "own4h_at_entry": {
+        "close": 0.4127,
+        "EMA12": 0.4163728571420487,
+        "EMA50": 0.4291243598475477,
+        "EMA200": 0.45900793794102085,
+        "RSI14": 47.62792778228718,
+        "ADX14": 23.363259853471142,
+        "ATR14_pct": 3.7957134553484937
+      },
+      "btc4h_at_entry": {
+        "close": 62448.9,
+        "EMA12": 62804.76732040271,
+        "EMA50": 61778.35421436546,
+        "EMA200": 63912.343884572176,
+        "RSI14": 52.37768455876104,
+        "ADX14": 33.1682103655617,
+        "ATR14_pct": 1.1067110325505076
+      }
+    },
+    {
+      "pair": "RAY/USDT:USDT",
+      "side": "long",
+      "tag": "64",
+      "family": "long_rebuy",
+      "open_date": "2026-10-06 14:45:00+00:00",
+      "open_timestamp": 1791297900000,
+      "close_date": "2026-10-06 16:15:00+00:00",
+      "profit_usdt": 71.7516228,
+      "profit_ratio_pct": 15.162177418425804,
+      "entries": 1,
+      "initial_margin": 472.9912,
+      "max_adverse_price_pct": 0.2972923527259419,
+      "min_sampled_pnl": {
+        "timestamp": 1791298200000,
+        "pnl_usdt": -1.9379139999998776,
+        "pnl_initial_margin_pct": -0.40971459934135723,
+        "hours": 0.08333333333333333
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1791303300000,
+        "pnl_usdt": 71.75162279999991,
+        "pnl_initial_margin_pct": 15.169758507134997,
+        "hours": 1.5
+      },
+      "at6h": {
+        "timestamp": 1791303300000,
+        "pnl_usdt": 71.75162279999991,
+        "pnl_initial_margin_pct": 15.169758507134997,
+        "hours": 1.5
+      },
+      "at12h": {
+        "timestamp": 1791303300000,
+        "pnl_usdt": 71.75162279999991,
+        "pnl_initial_margin_pct": 15.169758507134997,
+        "hours": 1.5
+      },
+      "at18h": {
+        "timestamp": 1791303300000,
+        "pnl_usdt": 71.75162279999991,
+        "pnl_initial_margin_pct": 15.169758507134997,
+        "hours": 1.5
+      },
+      "own4h_at_entry": {
+        "close": 2.2024,
+        "EMA12": 2.1271272570817836,
+        "EMA50": 2.0296350650442014,
+        "EMA200": 1.6734339626108425,
+        "RSI14": 60.66623321365348,
+        "ADX14": 28.03074485779338,
+        "ATR14_pct": 3.4349036337392493
+      },
+      "btc4h_at_entry": {
+        "close": 86208.4,
+        "EMA12": 85659.21573509145,
+        "EMA50": 84826.99552339902,
+        "EMA200": 81340.39570254141,
+        "RSI14": 60.29620194799657,
+        "ADX14": 22.65606366960088,
+        "ATR14_pct": 0.8913103307377221
+      }
+    },
+    {
+      "pair": "SAND/USDT:USDT",
+      "side": "long",
+      "tag": "64",
+      "family": "long_rebuy",
+      "open_date": "2026-10-02 21:00:00+00:00",
+      "open_timestamp": 1790974800000,
+      "close_date": "2026-10-02 23:30:00+00:00",
+      "profit_usdt": 97.04440435,
+      "profit_ratio_pct": 21.177192990184636,
+      "entries": 1,
+      "initial_margin": 458.0206,
+      "max_adverse_price_pct": 0.01632386549135223,
+      "min_sampled_pnl": {
+        "timestamp": 1790974800000,
+        "pnl_usdt": -1.1498739499999968,
+        "pnl_initial_margin_pct": -0.2510528893241913,
+        "hours": 0.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1790983800000,
+        "pnl_usdt": 97.04440435000006,
+        "pnl_initial_margin_pct": 21.187781586679737,
+        "hours": 2.5
+      },
+      "at6h": {
+        "timestamp": 1790983800000,
+        "pnl_usdt": 97.04440435000006,
+        "pnl_initial_margin_pct": 21.187781586679737,
+        "hours": 2.5
+      },
+      "at12h": {
+        "timestamp": 1790983800000,
+        "pnl_usdt": 97.04440435000006,
+        "pnl_initial_margin_pct": 21.187781586679737,
+        "hours": 2.5
+      },
+      "at18h": {
+        "timestamp": 1790983800000,
+        "pnl_usdt": 97.04440435000006,
+        "pnl_initial_margin_pct": 21.187781586679737,
+        "hours": 2.5
+      },
+      "own4h_at_entry": {
+        "close": 0.06166,
+        "EMA12": 0.05325089093103482,
+        "EMA50": 0.04627615683156749,
+        "EMA200": 0.04196105649913185,
+        "RSI14": 70.41417927392153,
+        "ADX14": 30.356730744529262,
+        "ATR14_pct": 6.2313075689167485
+      },
+      "btc4h_at_entry": {
+        "close": 84255.5,
+        "EMA12": 84784.56566639799,
+        "EMA50": 83961.3807659523,
+        "EMA200": 80352.46394080459,
+        "RSI14": 49.13064462713534,
+        "ADX14": 28.812045717593694,
+        "ATR14_pct": 1.2369283422926587
+      }
+    },
+    {
+      "pair": "SAND/USDT:USDT",
+      "side": "long",
+      "tag": "21 141 142",
+      "family": "long_pump+long_top_coins",
+      "open_date": "2026-10-02 18:40:00+00:00",
+      "open_timestamp": 1790966400000,
+      "close_date": "2026-10-02 20:40:00+00:00",
+      "profit_usdt": 99.0213408,
+      "profit_ratio_pct": 5.478942709496317,
+      "entries": 1,
+      "initial_margin": 1806.4042666666667,
+      "max_adverse_price_pct": 0.2327127659574657,
+      "min_sampled_pnl": {
+        "timestamp": 1790966400000,
+        "pnl_usdt": -4.518863200000322,
+        "pnl_initial_margin_pct": -0.25015791223406036,
+        "hours": 0.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1790971800000,
+        "pnl_usdt": 266.4863663999998,
+        "pnl_initial_margin_pct": 14.752310505319137,
+        "hours": 1.5
+      },
+      "at6h": {
+        "timestamp": 1790973600000,
+        "pnl_usdt": 99.02134080000023,
+        "pnl_initial_margin_pct": 5.4816821808510765,
+        "hours": 2.0
+      },
+      "at12h": {
+        "timestamp": 1790973600000,
+        "pnl_usdt": 99.02134080000023,
+        "pnl_initial_margin_pct": 5.4816821808510765,
+        "hours": 2.0
+      },
+      "at18h": {
+        "timestamp": 1790973600000,
+        "pnl_usdt": 99.02134080000023,
+        "pnl_initial_margin_pct": 5.4816821808510765,
+        "hours": 2.0
+      },
+      "own4h_at_entry": {
+        "close": 0.0622,
+        "EMA12": 0.051721962009404786,
+        "EMA50": 0.045648244865509016,
+        "EMA200": 0.041763077167464836,
+        "RSI14": 71.55140026286915,
+        "ADX14": 27.714498968789385,
+        "ATR14_pct": 5.84233730619799
+      },
+      "btc4h_at_entry": {
+        "close": 85296.0,
+        "EMA12": 84880.7594239249,
+        "EMA50": 83949.37589925647,
+        "EMA200": 80313.23744774735,
+        "RSI14": 58.24239127616817,
+        "ADX14": 29.957214956503297,
+        "ATR14_pct": 1.1669247933139137
+      }
+    },
+    {
+      "pair": "LDO/USDT:USDT",
+      "side": "long",
+      "tag": "161",
+      "family": "long_scalp",
+      "open_date": "2026-07-09 07:30:00+00:00",
+      "open_timestamp": 1783582200000,
+      "close_date": "2026-07-09 09:25:00+00:00",
+      "profit_usdt": 102.6104535,
+      "profit_ratio_pct": 6.166475861506395,
+      "entries": 1,
+      "initial_margin": 1663.1732000000002,
+      "max_adverse_price_pct": 0.0312695434646848,
+      "min_sampled_pnl": {
+        "timestamp": 1783582200000,
+        "pnl_usdt": -3.4300996999999884,
+        "pnl_initial_margin_pct": -0.2062382739212,
+        "hours": 0.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1783588500000,
+        "pnl_usdt": 150.95247039999964,
+        "pnl_initial_margin_pct": 9.076172607879903,
+        "hours": 1.75
+      },
+      "at6h": {
+        "timestamp": 1783589100000,
+        "pnl_usdt": 102.61045349999925,
+        "pnl_initial_margin_pct": 6.169559099437103,
+        "hours": 1.9166666666666667
+      },
+      "at12h": {
+        "timestamp": 1783589100000,
+        "pnl_usdt": 102.61045349999925,
+        "pnl_initial_margin_pct": 6.169559099437103,
+        "hours": 1.9166666666666667
+      },
+      "at18h": {
+        "timestamp": 1783589100000,
+        "pnl_usdt": 102.61045349999925,
+        "pnl_initial_margin_pct": 6.169559099437103,
+        "hours": 1.9166666666666667
+      },
+      "own4h_at_entry": {
+        "close": 0.3255,
+        "EMA12": 0.310886445821029,
+        "EMA50": 0.2826307914224031,
+        "EMA200": 0.27802080021531705,
+        "RSI14": 69.00762157861737,
+        "ADX14": 44.39214911725013,
+        "ATR14_pct": 4.321526789783172
+      },
+      "btc4h_at_entry": {
+        "close": 61936.8,
+        "EMA12": 62568.942392678175,
+        "EMA50": 62300.151087163096,
+        "EMA200": 63772.38992277497,
+        "RSI14": 43.11912797835601,
+        "ADX14": 19.169655552630015,
+        "ATR14_pct": 1.3488192487579158
+      }
+    },
+    {
+      "pair": "ZK/USDT:USDT",
+      "side": "long",
+      "tag": "65",
+      "family": "long_rebuy",
+      "open_date": "2026-10-15 04:20:00+00:00",
+      "open_timestamp": 1792038000000,
+      "close_date": "2026-10-15 04:35:00+00:00",
+      "profit_usdt": 102.69221169,
+      "profit_ratio_pct": 20.190808548184652,
+      "entries": 1,
+      "initial_margin": 508.35453666666666,
+      "max_adverse_price_pct": 0.4770037100288671,
+      "min_sampled_pnl": {
+        "timestamp": 1792038000000,
+        "pnl_usdt": -1.7045937999998668,
+        "pnl_initial_margin_pct": -0.33531594134618425,
+        "hours": 0.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1792038900000,
+        "pnl_usdt": 102.6922116849999,
+        "pnl_initial_margin_pct": 20.200903951475162,
+        "hours": 0.25
+      },
+      "at6h": {
+        "timestamp": 1792038900000,
+        "pnl_usdt": 102.6922116849999,
+        "pnl_initial_margin_pct": 20.200903951475162,
+        "hours": 0.25
+      },
+      "at12h": {
+        "timestamp": 1792038900000,
+        "pnl_usdt": 102.6922116849999,
+        "pnl_initial_margin_pct": 20.200903951475162,
+        "hours": 0.25
+      },
+      "at18h": {
+        "timestamp": 1792038900000,
+        "pnl_usdt": 102.6922116849999,
+        "pnl_initial_margin_pct": 20.200903951475162,
+        "hours": 0.25
+      },
+      "own4h_at_entry": {
+        "close": 0.015806,
+        "EMA12": 0.015565894033608136,
+        "EMA50": 0.014658607339238752,
+        "EMA200": 0.012584376898698636,
+        "RSI14": 55.77251753644133,
+        "ADX14": 27.980636145634378,
+        "ATR14_pct": 5.925650181277514
+      },
+      "btc4h_at_entry": {
+        "close": 80882.1,
+        "EMA12": 82406.94210190125,
+        "EMA50": 83137.4474262813,
+        "EMA200": 82021.80056122906,
+        "RSI14": 33.43743848669574,
+        "ADX14": 27.577205261979206,
+        "ATR14_pct": 1.1562143141237458
+      }
+    },
+    {
+      "pair": "APT/USDT:USDT",
+      "side": "long",
+      "tag": "145",
+      "family": "long_top_coins",
+      "open_date": "2026-09-09 22:10:00+00:00",
+      "open_timestamp": 1788991800000,
+      "close_date": "2026-09-10 22:10:00+00:00",
+      "profit_usdt": 131.5904418,
+      "profit_ratio_pct": 7.805308290811642,
+      "entries": 1,
+      "initial_margin": 1685.0670666666667,
+      "max_adverse_price_pct": 3.929366846961513,
+      "min_sampled_pnl": {
+        "timestamp": 1789045200000,
+        "pnl_usdt": -129.64387570000113,
+        "pnl_initial_margin_pct": -7.693692332166787,
+        "hours": 14.833333333333334
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1789073400000,
+        "pnl_usdt": 161.33096409999868,
+        "pnl_initial_margin_pct": 9.574156856506443,
+        "hours": 22.666666666666668
+      },
+      "at6h": {
+        "timestamp": 1789013400000,
+        "pnl_usdt": -26.757744500000918,
+        "pnl_initial_margin_pct": -1.5879335030226442,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1789035000000,
+        "pnl_usdt": -84.63119330000086,
+        "pnl_initial_margin_pct": -5.022422844416213,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1789056600000,
+        "pnl_usdt": -38.81471300000102,
+        "pnl_initial_margin_pct": -2.303452115812978,
+        "hours": 18.0
+      },
+      "own4h_at_entry": {
+        "close": 0.6435,
+        "EMA12": 0.6437536036738882,
+        "EMA50": 0.614100114103727,
+        "EMA200": 0.5894302513662089,
+        "RSI14": 57.543956213036275,
+        "ADX14": 35.0612198201345,
+        "ATR14_pct": 3.427892310254309
+      },
+      "btc4h_at_entry": {
+        "close": 78196.3,
+        "EMA12": 78787.98156285392,
+        "EMA50": 78899.674093411,
+        "EMA200": 74430.19404725086,
+        "RSI14": 40.89556783202284,
+        "ADX14": 19.111815003805184,
+        "ATR14_pct": 1.019388652935608
+      }
+    },
+    {
+      "pair": "PYTH/USDT:USDT",
+      "side": "long",
+      "tag": "102",
+      "family": "long_rapid",
+      "open_date": "2026-10-13 15:50:00+00:00",
+      "open_timestamp": 1791906600000,
+      "close_date": "2026-10-13 17:10:00+00:00",
+      "profit_usdt": 148.721265,
+      "profit_ratio_pct": 7.46800680897462,
+      "entries": 1,
+      "initial_margin": 1990.45,
+      "max_adverse_price_pct": 0.3352675693101381,
+      "min_sampled_pnl": {
+        "timestamp": 1791906600000,
+        "pnl_usdt": -8.280194999999392,
+        "pnl_initial_margin_pct": -0.41599613152801584,
+        "hours": 0.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1791911100000,
+        "pnl_usdt": 199.51585499999933,
+        "pnl_initial_margin_pct": 10.023655705996097,
+        "hours": 1.25
+      },
+      "at6h": {
+        "timestamp": 1791911400000,
+        "pnl_usdt": 148.72126500000053,
+        "pnl_initial_margin_pct": 7.471740812379137,
+        "hours": 1.3333333333333333
+      },
+      "at12h": {
+        "timestamp": 1791911400000,
+        "pnl_usdt": 148.72126500000053,
+        "pnl_initial_margin_pct": 7.471740812379137,
+        "hours": 1.3333333333333333
+      },
+      "at18h": {
+        "timestamp": 1791911400000,
+        "pnl_usdt": 148.72126500000053,
+        "pnl_initial_margin_pct": 7.471740812379137,
+        "hours": 1.3333333333333333
+      },
+      "own4h_at_entry": {
+        "close": 0.08244,
+        "EMA12": 0.08281680591959814,
+        "EMA50": 0.07975403754518257,
+        "EMA200": 0.07090163783194696,
+        "RSI14": 52.381510292532,
+        "ADX14": 21.725279204008032,
+        "ATR14_pct": 5.27515323288081
+      },
+      "btc4h_at_entry": {
+        "close": 83326.8,
+        "EMA12": 83181.55554683186,
+        "EMA50": 83431.70943118607,
+        "EMA200": 81959.80388719511,
+        "RSI14": 50.91119685172825,
+        "ADX14": 20.777624208131797,
+        "ATR14_pct": 1.0236186599150754
+      }
+    },
+    {
+      "pair": "ARB/USDT:USDT",
+      "side": "long",
+      "tag": "145",
+      "family": "long_top_coins",
+      "open_date": "2026-09-02 10:05:00+00:00",
+      "open_timestamp": 1788343500000,
+      "close_date": "2026-09-02 16:10:00+00:00",
+      "profit_usdt": 149.53262365,
+      "profit_ratio_pct": 8.962347291207129,
+      "entries": 1,
+      "initial_margin": 1667.6199866666666,
+      "max_adverse_price_pct": 6.02956893480584,
+      "min_sampled_pnl": {
+        "timestamp": 1788350100000,
+        "pnl_usdt": -260.63216136999915,
+        "pnl_initial_margin_pct": -15.628990024937606,
+        "hours": 1.8333333333333333
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1788365100000,
+        "pnl_usdt": 281.80074650000125,
+        "pnl_initial_margin_pct": 16.898379052369155,
+        "hours": 6.0
+      },
+      "at6h": {
+        "timestamp": 1788365100000,
+        "pnl_usdt": 281.80074650000125,
+        "pnl_initial_margin_pct": 16.898379052369155,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1788365400000,
+        "pnl_usdt": 149.53262364500057,
+        "pnl_initial_margin_pct": 8.966828464552938,
+        "hours": 6.083333333333333
+      },
+      "at18h": {
+        "timestamp": 1788365400000,
+        "pnl_usdt": 149.53262364500057,
+        "pnl_initial_margin_pct": 8.966828464552938,
+        "hours": 6.083333333333333
+      },
+      "own4h_at_entry": {
+        "close": 0.11458,
+        "EMA12": 0.10652022042420899,
+        "EMA50": 0.09606010090342708,
+        "EMA200": 0.08815208656585136,
+        "RSI14": 75.14011060595799,
+        "ADX14": 33.10852622752451,
+        "ATR14_pct": 4.539936473871419
+      },
+      "btc4h_at_entry": {
+        "close": 77449.2,
+        "EMA12": 77877.93283134594,
+        "EMA50": 77585.53603925915,
+        "EMA200": 71701.61593877598,
+        "RSI14": 41.62185158108091,
+        "ADX14": 16.87336815763468,
+        "ATR14_pct": 1.1322523689263901
+      }
+    },
+    {
+      "pair": "ARB/USDT:USDT",
+      "side": "long",
+      "tag": "64",
+      "family": "long_rebuy",
+      "open_date": "2026-09-17 21:45:00+00:00",
+      "open_timestamp": 1789681500000,
+      "close_date": "2026-09-18 01:50:00+00:00",
+      "profit_usdt": 153.57494345,
+      "profit_ratio_pct": 35.53850318047266,
+      "entries": 1,
+      "initial_margin": 431.92082000000005,
+      "max_adverse_price_pct": 2.3642682162593354,
+      "min_sampled_pnl": {
+        "timestamp": 1789683300000,
+        "pnl_usdt": -26.603362330000127,
+        "pnl_initial_margin_pct": -6.159314647068906,
+        "hours": 0.5
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1789696200000,
+        "pnl_usdt": 153.57494344999992,
+        "pnl_initial_margin_pct": 35.55627243206287,
+        "hours": 4.083333333333333
+      },
+      "at6h": {
+        "timestamp": 1789696200000,
+        "pnl_usdt": 153.57494344999992,
+        "pnl_initial_margin_pct": 35.55627243206287,
+        "hours": 4.083333333333333
+      },
+      "at12h": {
+        "timestamp": 1789696200000,
+        "pnl_usdt": 153.57494344999992,
+        "pnl_initial_margin_pct": 35.55627243206287,
+        "hours": 4.083333333333333
+      },
+      "at18h": {
+        "timestamp": 1789696200000,
+        "pnl_usdt": 153.57494344999992,
+        "pnl_initial_margin_pct": 35.55627243206287,
+        "hours": 4.083333333333333
+      },
+      "own4h_at_entry": {
+        "close": 0.17533,
+        "EMA12": 0.16257497052980244,
+        "EMA50": 0.15056028495339913,
+        "EMA200": 0.12602521378983542,
+        "RSI14": 71.90222054198452,
+        "ADX14": 39.39236091122047,
+        "ATR14_pct": 5.232289138941442
+      },
+      "btc4h_at_entry": {
+        "close": 76555.3,
+        "EMA12": 76449.58957256992,
+        "EMA50": 77131.59804582024,
+        "EMA200": 75410.78450725088,
+        "RSI14": 47.65658956411693,
+        "ADX14": 27.348440608218528,
+        "ATR14_pct": 1.1286276739620806
+      }
+    },
+    {
+      "pair": "AVAX/USDT:USDT",
+      "side": "long",
+      "tag": "6 141",
+      "family": "long_normal+long_top_coins",
+      "open_date": "2026-10-08 15:25:00+00:00",
+      "open_timestamp": 1791473100000,
+      "close_date": "2026-10-09 10:45:00+00:00",
+      "profit_usdt": 186.16952915,
+      "profit_ratio_pct": 9.754180590457825,
+      "entries": 1,
+      "initial_margin": 1907.6588666666669,
+      "max_adverse_price_pct": 2.303224514320057,
+      "min_sampled_pnl": {
+        "timestamp": 1791481800000,
+        "pnl_usdt": -120.28566660000082,
+        "pnl_initial_margin_pct": -6.305407570598881,
+        "hours": 2.4166666666666665
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1791533400000,
+        "pnl_usdt": 258.3440238499989,
+        "pnl_initial_margin_pct": 13.542464450230264,
+        "hours": 16.75
+      },
+      "at6h": {
+        "timestamp": 1791494700000,
+        "pnl_usdt": 61.86901049999887,
+        "pnl_initial_margin_pct": 3.2431904666532554,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1791516300000,
+        "pnl_usdt": 174.713260149999,
+        "pnl_initial_margin_pct": 9.158516923693117,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1791537900000,
+        "pnl_usdt": 222.25677649999963,
+        "pnl_initial_margin_pct": 11.650761065491666,
+        "hours": 18.0
+      },
+      "own4h_at_entry": {
+        "close": 10.731,
+        "EMA12": 11.058295297092148,
+        "EMA50": 11.021668890768929,
+        "EMA200": 9.805132778921546,
+        "RSI14": 40.73574269952269,
+        "ADX14": 14.5237424422554,
+        "ATR14_pct": 2.6449358678333366
+      },
+      "btc4h_at_entry": {
+        "close": 82463.9,
+        "EMA12": 83690.39245890772,
+        "EMA50": 84424.90225224961,
+        "EMA200": 81627.15832076939,
+        "RSI14": 29.028678387224645,
+        "ADX14": 29.55440870680509,
+        "ATR14_pct": 0.9807280621102523
+      }
+    },
+    {
+      "pair": "BOME/USDT:USDT",
+      "side": "short",
+      "tag": "542",
+      "family": "short_quick",
+      "open_date": "2026-09-24 05:15:00+00:00",
+      "open_timestamp": 1790226900000,
+      "close_date": "2026-09-24 08:45:00+00:00",
+      "profit_usdt": 191.24275985,
+      "profit_ratio_pct": 11.18267003476075,
+      "entries": 1,
+      "initial_margin": 1711.0263333333332,
+      "max_adverse_price_pct": 5.4747647562018775,
+      "min_sampled_pnl": {
+        "timestamp": 1790231400000,
+        "pnl_usdt": -266.08889169999935,
+        "pnl_initial_margin_pct": -15.551420017108605,
+        "hours": 1.25
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1790239500000,
+        "pnl_usdt": 191.24275985,
+        "pnl_initial_margin_pct": 11.17707869974337,
+        "hours": 3.5
+      },
+      "at6h": {
+        "timestamp": 1790239500000,
+        "pnl_usdt": 191.24275985,
+        "pnl_initial_margin_pct": 11.17707869974337,
+        "hours": 3.5
+      },
+      "at12h": {
+        "timestamp": 1790239500000,
+        "pnl_usdt": 191.24275985,
+        "pnl_initial_margin_pct": 11.17707869974337,
+        "hours": 3.5
+      },
+      "at18h": {
+        "timestamp": 1790239500000,
+        "pnl_usdt": 191.24275985,
+        "pnl_initial_margin_pct": 11.17707869974337,
+        "hours": 3.5
+      },
+      "own4h_at_entry": {
+        "close": 0.0010813,
+        "EMA12": 0.0010647097854962423,
+        "EMA50": 0.000999362047838843,
+        "EMA200": 0.0009168403557881715,
+        "RSI14": 56.53108315910848,
+        "ADX14": 41.90876384055241,
+        "ATR14_pct": 5.010403595587301
+      },
+      "btc4h_at_entry": {
+        "close": 83899.0,
+        "EMA12": 84825.41675455838,
+        "EMA50": 82233.03461469235,
+        "EMA200": 77793.42568083118,
+        "RSI14": 50.659452242255945,
+        "ADX14": 41.51101953894788,
+        "ATR14_pct": 1.215173129337493
+      }
+    },
+    {
+      "pair": "SUI/USDT:USDT",
+      "side": "long",
+      "tag": "141",
+      "family": "long_top_coins",
+      "open_date": "2026-10-08 15:25:00+00:00",
+      "open_timestamp": 1791473100000,
+      "close_date": "2026-10-09 05:35:00+00:00",
+      "profit_usdt": 206.2763781,
+      "profit_ratio_pct": 10.807674351328304,
+      "entries": 1,
+      "initial_margin": 1907.6564,
+      "max_adverse_price_pct": 3.51267660150959,
+      "min_sampled_pnl": {
+        "timestamp": 1791481800000,
+        "pnl_usdt": -186.7250229000009,
+        "pnl_initial_margin_pct": -9.788189471647039,
+        "hours": 2.4166666666666665
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1791524100000,
+        "pnl_usdt": 206.27637810000033,
+        "pnl_initial_margin_pct": 10.813078188503985,
+        "hours": 14.166666666666666
+      },
+      "at6h": {
+        "timestamp": 1791494700000,
+        "pnl_usdt": 74.53788029999944,
+        "pnl_initial_margin_pct": 3.907301141861786,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1791516300000,
+        "pnl_usdt": 122.14086689999944,
+        "pnl_initial_margin_pct": 6.402665957035,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1791524100000,
+        "pnl_usdt": 206.27637810000033,
+        "pnl_initial_margin_pct": 10.813078188503985,
+        "hours": 14.166666666666666
+      },
+      "own4h_at_entry": {
+        "close": 1.1162,
+        "EMA12": 1.141066469096063,
+        "EMA50": 1.1577874767613234,
+        "EMA200": 1.0091815879066925,
+        "RSI14": 37.76215729277155,
+        "ADX14": 23.02956075753242,
+        "ATR14_pct": 2.5800757966083983
+      },
+      "btc4h_at_entry": {
+        "close": 82463.9,
+        "EMA12": 83690.39245890772,
+        "EMA50": 84424.90225224961,
+        "EMA200": 81627.15832076939,
+        "RSI14": 29.028678387224645,
+        "ADX14": 29.55440870680509,
+        "ATR14_pct": 0.9807280621102523
+      }
+    },
+    {
+      "pair": "PEOPLE/USDT:USDT",
+      "side": "short",
+      "tag": "542",
+      "family": "short_quick",
+      "open_date": "2026-07-26 08:25:00+00:00",
+      "open_timestamp": 1785054300000,
+      "close_date": "2026-07-26 09:20:00+00:00",
+      "profit_usdt": 208.3009236,
+      "profit_ratio_pct": 12.344066770227219,
+      "entries": 1,
+      "initial_margin": 1688.302,
+      "max_adverse_price_pct": 0.0,
+      "min_sampled_pnl": {
+        "timestamp": 1785054300000,
+        "pnl_usdt": -5.873109899999393,
+        "pnl_initial_margin_pct": -0.3478708133970932,
+        "hours": 0.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1785057600000,
+        "pnl_usdt": 208.3009235999997,
+        "pnl_initial_margin_pct": 12.337894736842088,
+        "hours": 0.9166666666666666
+      },
+      "at6h": {
+        "timestamp": 1785057600000,
+        "pnl_usdt": 208.3009235999997,
+        "pnl_initial_margin_pct": 12.337894736842088,
+        "hours": 0.9166666666666666
+      },
+      "at12h": {
+        "timestamp": 1785057600000,
+        "pnl_usdt": 208.3009235999997,
+        "pnl_initial_margin_pct": 12.337894736842088,
+        "hours": 0.9166666666666666
+      },
+      "at18h": {
+        "timestamp": 1785057600000,
+        "pnl_usdt": 208.3009235999997,
+        "pnl_initial_margin_pct": 12.337894736842088,
+        "hours": 0.9166666666666666
+      },
+      "own4h_at_entry": {
+        "close": 0.006152,
+        "EMA12": 0.005524749409587198,
+        "EMA50": 0.005376159926219808,
+        "EMA200": 0.005445296833672091,
+        "RSI14": 78.8014700519733,
+        "ADX14": 24.243064413830407,
+        "ATR14_pct": 2.6469247987476145
+      },
+      "btc4h_at_entry": {
+        "close": 64348.6,
+        "EMA12": 64439.954078068695,
+        "EMA50": 64737.35227891174,
+        "EMA200": 64266.14003893705,
+        "RSI14": 43.275153996748145,
+        "ADX14": 21.718958387865815,
+        "ATR14_pct": 0.6913309069504571
+      }
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "side": "long",
+      "tag": "141",
+      "family": "long_top_coins",
+      "open_date": "2026-10-25 08:55:00+00:00",
+      "open_timestamp": 1792918500000,
+      "close_date": "2026-10-25 15:40:00+00:00",
+      "profit_usdt": 241.27443405,
+      "profit_ratio_pct": 11.446440350282494,
+      "entries": 1,
+      "initial_margin": 2106.8022,
+      "max_adverse_price_pct": 1.0194834617127335,
+      "min_sampled_pnl": {
+        "timestamp": 1792919100000,
+        "pnl_usdt": -13.476326849999674,
+        "pnl_initial_margin_pct": -0.6396579066606098,
+        "hours": 0.16666666666666666
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1792942800000,
+        "pnl_usdt": 241.2744340499995,
+        "pnl_initial_margin_pct": 11.45216357045761,
+        "hours": 6.75
+      },
+      "at6h": {
+        "timestamp": 1792940100000,
+        "pnl_usdt": 158.26575914999984,
+        "pnl_initial_margin_pct": 7.512131853194373,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1792942800000,
+        "pnl_usdt": 241.2744340499995,
+        "pnl_initial_margin_pct": 11.45216357045761,
+        "hours": 6.75
+      },
+      "at18h": {
+        "timestamp": 1792942800000,
+        "pnl_usdt": 241.2744340499995,
+        "pnl_initial_margin_pct": 11.45216357045761,
+        "hours": 6.75
+      },
+      "own4h_at_entry": {
+        "close": 0.4656,
+        "EMA12": 0.48539310856142887,
+        "EMA50": 0.5161395571799515,
+        "EMA200": 0.5033881767532076,
+        "RSI14": 31.902707514477076,
+        "ADX14": 29.581176736343316,
+        "ATR14_pct": 3.9411790619015505
+      },
+      "btc4h_at_entry": {
+        "close": 80648.0,
+        "EMA12": 80910.34467663651,
+        "EMA50": 81773.07427372743,
+        "EMA200": 81929.96530122671,
+        "RSI14": 41.337201934428094,
+        "ADX14": 28.11561829983081,
+        "ATR14_pct": 0.927932700880455
+      }
+    },
+    {
+      "pair": "STRK/USDT:USDT",
+      "side": "long",
+      "tag": "6",
+      "family": "long_normal",
+      "open_date": "2026-10-02 18:40:00+00:00",
+      "open_timestamp": 1790966400000,
+      "close_date": "2026-10-03 00:35:00+00:00",
+      "profit_usdt": 249.6799932,
+      "profit_ratio_pct": 13.813852324198306,
+      "entries": 1,
+      "initial_margin": 1806.55772,
+      "max_adverse_price_pct": 2.2345026429601345,
+      "min_sampled_pnl": {
+        "timestamp": 1790968800000,
+        "pnl_usdt": -90.01905231000036,
+        "pnl_initial_margin_pct": -4.982904853435868,
+        "hours": 0.6666666666666666
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1790987700000,
+        "pnl_usdt": 249.67999319999984,
+        "pnl_initial_margin_pct": 13.820759250360394,
+        "hours": 5.916666666666667
+      },
+      "at6h": {
+        "timestamp": 1790987700000,
+        "pnl_usdt": 249.67999319999984,
+        "pnl_initial_margin_pct": 13.820759250360394,
+        "hours": 5.916666666666667
+      },
+      "at12h": {
+        "timestamp": 1790987700000,
+        "pnl_usdt": 249.67999319999984,
+        "pnl_initial_margin_pct": 13.820759250360394,
+        "hours": 5.916666666666667
+      },
+      "at18h": {
+        "timestamp": 1790987700000,
+        "pnl_usdt": 249.67999319999984,
+        "pnl_initial_margin_pct": 13.820759250360394,
+        "hours": 5.916666666666667
+      },
+      "own4h_at_entry": {
+        "close": 0.04426,
+        "EMA12": 0.04302550298788615,
+        "EMA50": 0.041695456873677546,
+        "EMA200": 0.035989042086596174,
+        "RSI14": 58.90947399196901,
+        "ADX14": 20.93997483941442,
+        "ATR14_pct": 3.81007000289183
+      },
+      "btc4h_at_entry": {
+        "close": 85296.0,
+        "EMA12": 84880.7594239249,
+        "EMA50": 83949.37589925647,
+        "EMA200": 80313.23744774735,
+        "RSI14": 58.24239127616817,
+        "ADX14": 29.957214956503297,
+        "ATR14_pct": 1.1669247933139137
+      }
+    },
+    {
+      "pair": "ARB/USDT:USDT",
+      "side": "long",
+      "tag": "141",
+      "family": "long_top_coins",
+      "open_date": "2026-10-08 15:25:00+00:00",
+      "open_timestamp": 1791473100000,
+      "close_date": "2026-10-09 03:45:00+00:00",
+      "profit_usdt": 292.19659224,
+      "profit_ratio_pct": 15.30841658184136,
+      "entries": 1,
+      "initial_margin": 1907.7777600000002,
+      "max_adverse_price_pct": 3.4084137766654976,
+      "min_sampled_pnl": {
+        "timestamp": 1791481800000,
+        "pnl_usdt": -168.31807524000138,
+        "pnl_initial_margin_pct": -8.822729710404076,
+        "hours": 2.4166666666666665
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1791517200000,
+        "pnl_usdt": 292.53746171999956,
+        "pnl_initial_margin_pct": 15.333938148015706,
+        "hours": 12.25
+      },
+      "at6h": {
+        "timestamp": 1791494700000,
+        "pnl_usdt": 148.69054115999938,
+        "pnl_initial_margin_pct": 7.793913121201253,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1791516300000,
+        "pnl_usdt": 266.29051175999956,
+        "pnl_initial_margin_pct": 13.958151590990322,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1791517500000,
+        "pnl_usdt": 292.1965922399984,
+        "pnl_initial_margin_pct": 15.3160707901322,
+        "hours": 12.333333333333334
+      },
+      "own4h_at_entry": {
+        "close": 0.18412,
+        "EMA12": 0.18881223770386885,
+        "EMA50": 0.198333929479613,
+        "EMA200": 0.18323934324789404,
+        "RSI14": 34.27302478773642,
+        "ADX14": 26.841483497312943,
+        "ATR14_pct": 3.194782274430762
+      },
+      "btc4h_at_entry": {
+        "close": 82463.9,
+        "EMA12": 83690.39245890772,
+        "EMA50": 84424.90225224961,
+        "EMA200": 81627.15832076939,
+        "RSI14": 29.028678387224645,
+        "ADX14": 29.55440870680509,
+        "ATR14_pct": 0.9807280621102523
+      }
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "side": "long",
+      "tag": "2",
+      "family": "long_normal",
+      "open_date": "2026-10-15 02:25:00+00:00",
+      "open_timestamp": 1792031100000,
+      "close_date": "2026-10-15 15:35:00+00:00",
+      "profit_usdt": 296.719632,
+      "profit_ratio_pct": 14.660223964556824,
+      "entries": 1,
+      "initial_margin": 2022.9660000000001,
+      "max_adverse_price_pct": 3.3656027832400626,
+      "min_sampled_pnl": {
+        "timestamp": 1792072500000,
+        "pnl_usdt": -198.75250800000043,
+        "pnl_initial_margin_pct": -9.824807139615812,
+        "hours": 11.5
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1792078500000,
+        "pnl_usdt": 296.7196319999998,
+        "pnl_initial_margin_pct": 14.667554076539092,
+        "hours": 13.166666666666666
+      },
+      "at6h": {
+        "timestamp": 1792052700000,
+        "pnl_usdt": -97.3642274999992,
+        "pnl_initial_margin_pct": -4.812944335198871,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1792074300000,
+        "pnl_usdt": -35.8889804999998,
+        "pnl_initial_margin_pct": -1.7740772954167199,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1792078500000,
+        "pnl_usdt": 296.7196319999998,
+        "pnl_initial_margin_pct": 14.667554076539092,
+        "hours": 13.166666666666666
+      },
+      "own4h_at_entry": {
+        "close": 0.14081,
+        "EMA12": 0.14404350640421607,
+        "EMA50": 0.1379860674723992,
+        "EMA200": 0.12661775881960724,
+        "RSI14": 49.52820417511894,
+        "ADX14": 22.06644822564491,
+        "ATR14_pct": 4.647803603488747
+      },
+      "btc4h_at_entry": {
+        "close": 81641.4,
+        "EMA12": 82684.18612042876,
+        "EMA50": 83229.50242327238,
+        "EMA200": 82033.25483822633,
+        "RSI14": 38.0228192976197,
+        "ADX14": 25.273273866633176,
+        "ATR14_pct": 1.0707506663469142
+      }
+    },
+    {
+      "pair": "ICP/USDT:USDT",
+      "side": "long",
+      "tag": "142",
+      "family": "long_top_coins",
+      "open_date": "2026-09-23 14:20:00+00:00",
+      "open_timestamp": 1790173200000,
+      "close_date": "2026-09-24 14:20:00+00:00",
+      "profit_usdt": 348.79237642,
+      "profit_ratio_pct": 20.37263733038003,
+      "entries": 1,
+      "initial_margin": 1711.20735,
+      "max_adverse_price_pct": 4.009514101257217,
+      "min_sampled_pnl": {
+        "timestamp": 1790179200000,
+        "pnl_usdt": -151.58575935000033,
+        "pnl_initial_margin_pct": -8.858409785932741,
+        "hours": 1.6666666666666667
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1790259600000,
+        "pnl_usdt": 348.7923764249998,
+        "pnl_initial_margin_pct": 20.3828236493374,
+        "hours": 24.0
+      },
+      "at6h": {
+        "timestamp": 1790194800000,
+        "pnl_usdt": -90.56403547499968,
+        "pnl_initial_margin_pct": -5.292405708460737,
+        "hours": 6.0
+      },
+      "at12h": {
+        "timestamp": 1790216400000,
+        "pnl_usdt": -57.43795680000082,
+        "pnl_initial_margin_pct": -3.356574923547449,
+        "hours": 12.0
+      },
+      "at18h": {
+        "timestamp": 1790238000000,
+        "pnl_usdt": 68.09244659999943,
+        "pnl_initial_margin_pct": 3.9792048929663277,
+        "hours": 18.0
+      },
+      "own4h_at_entry": {
+        "close": 3.162,
+        "EMA12": 3.00690277176895,
+        "EMA50": 2.858000807138641,
+        "EMA200": 2.64651612672054,
+        "RSI14": 70.70001359324894,
+        "ADX14": 35.98524081443318,
+        "ATR14_pct": 3.0416981079483754
+      },
+      "btc4h_at_entry": {
+        "close": 85619.4,
+        "EMA12": 85457.17129478465,
+        "EMA50": 81897.24305254447,
+        "EMA200": 77533.22518727298,
+        "RSI14": 65.14779582294203,
+        "ADX14": 51.42035519753462,
+        "ATR14_pct": 1.1759804994437157
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "official_24h": {
+    "scope": "Whole-campaign USDT results, including partial exits and fees; changing stakes/compounding affect the cash-weighted payoff; no funding; exploratory history",
+    "wins": 47,
+    "losses": 14,
+    "average_win_usdt": 87.32433811361702,
+    "average_loss_usdt": 78.15552441857143,
+    "realized_payoff_ratio": 1.1173149788611345,
+    "profit_factor": 3.75098600046238,
+    "expectancy_usdt_per_campaign": 49.34535327016393,
+    "descriptive_breakeven_winrate": 0.4722962856182512,
+    "configured_minimal_roi": {},
+    "configured_trailing_stop": false,
+    "configured_stoploss": -0.99
+  },
+  "baseline100_24h": {
+    "scope": "Whole-campaign USDT results, including partial exits and fees; changing stakes/compounding affect the cash-weighted payoff; no funding; exploratory history",
+    "wins": 108,
+    "losses": 28,
+    "average_win_usdt": 108.62776111787036,
+    "average_loss_usdt": 188.4609796307143,
+    "realized_payoff_ratio": 0.5763939109874331,
+    "profit_factor": 2.2232336566658133,
+    "expectancy_usdt_per_campaign": 47.46243214022059,
+    "descriptive_breakeven_winrate": 0.6343592125229746,
+    "configured_minimal_roi": {},
+    "configured_trailing_stop": false,
+    "configured_stoploss": -0.99
+  }
+}

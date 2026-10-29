@@ -1,0 +1,31 @@
+{
+  "created_at": "2026-10-29T02:54:58.575606+00:00",
+  "base": "official_24h: same57 pairs, original3x,6 slots,5bps fills,24h deadline",
+  "scope": "Examine all61 campaigns including14 losses. Existing history already observed; all new controls exploratory, not independent OOS. No profit-picked coin/tag removal.",
+  "controls": {
+    "stop3": "Hard stop3% adverse price from first filled entry; both directions; adds cannot move stop away; actual engine intrabar stop and gap rules, exit veto overridden for risk stop.",
+    "stop6": "Same hard stop6%, fixed coarse sensitivity, not a parameter sweep.",
+    "stale12": "After12h exit a campaign only when total P&L including partial realized exits and fees is negative. Still24h unconditional cap.",
+    "trendgate": "Only enter longs when lastclosed own4h EMA12>EMA200 and close>EMA200; shorts mirror. No forward candles. Existing exits and24h cap unchanged."
+  },
+  "diagnosis": "Closed5m campaign ledger paths, MAE/MFE,6h/12h P&L, entry own/BTC closed4h features; compare winners as well as losers",
+  "validation": "Real Freqtrade full unified-wallet replay, floating drawdown, original losses saved, maxholding<=24h, path/accounting reconciliation. Record costs, errors and failed variants. July-Aug and Sep-Oct are descriptive time splits only.",
+  "adaptive_control": {
+    "added_at": "2026-10-29T03:00:15.700753+00:00",
+    "rationale": "Original loss-path diagnosis showed positive unrealized gains subsequently reversed. Explicitly post-diagnosis exploratory hypothesis.",
+    "rule": "Closed5m favorable first-entry price move>=2%; thereafter original first-entry price plus0.15% long /minus0.15% short protective stop; current-open gap exit if newly armed protection already crossed. No initial hard stop. Not a guaranteed whole-campaign breakeven after DCA/fees.",
+    "name": "risk_profitprotect",
+    "no_oos_claim": true
+  },
+  "risk_scaling_control": {
+    "added_at": "2026-10-29T03:02:47.491073+00:00",
+    "name": "official_1x_24h",
+    "rule": "Same57-pair24h control at1x for all three leverage modes; measure absolute risk reduction, not signal improvement."
+  },
+  "overheat_hypothesis": {
+    "added_at": "2026-10-29T03:05:27.360014+00:00",
+    "name": "risk_overheat80",
+    "rule": "lastclosed own4h RSI14>=80 blocks long; <=20 blocks short; otherwise original24h behavior",
+    "selection_warning": "Explicitly added AFTER diagnosing OP/XRP entry RSI83.6/88.9 and observing no baseline long winner>=80. Uses conventional80/20 but has in-sample selection bias. Cannot call validation/OOS or robust optimum."
+  }
+}

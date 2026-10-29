@@ -1,0 +1,44 @@
+{
+  "created_at": "2026-10-29T01:35:22.022262+00:00",
+  "source": "NFI X8 v18.0.167 / upstream commit 05b95e189ac5d301da2169ddec3118368f1b5c8b",
+  "engine": "freqtrade==2026.9",
+  "base": {
+    "wallet": 10000,
+    "slots": 6,
+    "leverage": "original 3x",
+    "fee_per_side": 0.0005,
+    "funding": 0,
+    "range": "20260701-20261028",
+    "data": "native OKX futures and marks; no pre-2024"
+  },
+  "stages": [
+    "Unchanged upstream baseline on supplied 100-pair universe",
+    "Official-static intersection with supplied universe (40-80 recommended range); original parameter defaults",
+    "Mechanism controls on same pair universe: 1x leverage, no position adjustment, 12 slots",
+    "Cost stress: double per-side fee; describe execution and missing funding separately",
+    "Attribution by campaign, direction, tag family, pair, exit reason, calendar month; realized and mark-to-market drawdown; DCA and capital exposure"
+  ],
+  "selection": "Do not select best coins/tags using full-period profits. Any tuned changes are exploratory. July-August development and September-October temporal comparison, with known present-day universe bias. No claim of independent OOS.",
+  "success": "Net portfolio profit including forced end exits, costs disclosed, risk and concentration reported; high win rate alone is insufficient.",
+  "forbidden": [
+    "Live trading",
+    "Changing pinned upstream source",
+    "Synthetic prelisting candles",
+    "Substitution of venue/spot",
+    "Ignoring open losers"
+  ],
+  "additional_control": "Replay documented age>=60 days and 3 closed daily range 0.03-0.95 on static official intersection; fixed official thresholds, not optimized. Does not restore historical volume ranking.",
+  "holding_limit_control": {
+    "confirmed_by_user": true,
+    "recorded_at": "2026-10-29T02:34:58.724572+00:00",
+    "hours": 24,
+    "clock": "first entry, not latest add or partial exit",
+    "losses": "same unconditional deadline",
+    "variants": [
+      "official_24h",
+      "baseline100_24h"
+    ],
+    "unchanged": "signal generation, universe, leverage, fees and pre-deadline management",
+    "validation": "all completed campaigns <=1440 minutes; audit all forced exits, order cashflows and whole-wallet P&L; not removal of long-duration trades"
+  }
+}

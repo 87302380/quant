@@ -1,0 +1,49 @@
+{
+  "definition": "Own-pair last CLOSED 4h close<EMA200 and EMA50<EMA200 at entry; descriptive same-path attribution, not a persistent one-way crash stress test",
+  "groups": {
+    "official": {
+      "other_long": {
+        "n": 43,
+        "net_profit": 4758.34973077,
+        "wins": 43
+      },
+      "down_long": {
+        "n": 2,
+        "net_profit": 127.9521991,
+        "wins": 2
+      },
+      "down_short": {
+        "n": 12,
+        "net_profit": 299.54967526999997,
+        "wins": 12
+      },
+      "other_short": {
+        "n": 4,
+        "net_profit": 501.5366617,
+        "wins": 4
+      }
+    },
+    "100pairs": {
+      "other_long": {
+        "n": 84,
+        "net_profit": 10612.478133999999,
+        "wins": 84
+      },
+      "down_long": {
+        "n": 12,
+        "net_profit": 2053.27425018,
+        "wins": 12
+      },
+      "down_short": {
+        "n": 24,
+        "net_profit": -1260.1321042099996,
+        "wins": 23
+      },
+      "other_short": {
+        "n": 10,
+        "net_profit": -1937.61758751,
+        "wins": 8
+      }
+    }
+  }
+}

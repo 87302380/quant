@@ -1,0 +1,10 @@
+{
+  "BTC": {
+    "return_pct": 38.01321067979884,
+    "scope": "Unleveraged buy-and-hold price return; no fees or funding; descriptive benchmark"
+  },
+  "ETH": {
+    "return_pct": 49.51316057427961,
+    "scope": "Unleveraged buy-and-hold price return; no fees or funding; descriptive benchmark"
+  }
+}

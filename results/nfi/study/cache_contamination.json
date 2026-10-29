@@ -1,0 +1,14 @@
+{
+  "source": "data/nfi/causality-runtime2/nfix8-profit_max-okx-USDT.json",
+  "scope": "Public research strategy profit-target cache, not credentials",
+  "cache_after_full_then_sliced_check": {
+    "PYTH/USDT:USDT": {
+      "rate": 0.08020000000000001,
+      "profit": 0.03315441650548044,
+      "sell_reason": "exit_profit_long_rapid_max",
+      "time_profit_reached": "2026-10-13T17:05:00+00:00"
+    }
+  },
+  "first_checked_trade": "PYTH 2026-07-01 07:15-15:45 UTC",
+  "cause": "Future-dated target persisted across separate replays in the same lookahead-analysis userdir; isolated replay removes discrepancy."
+}

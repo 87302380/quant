@@ -1,0 +1,462 @@
+{
+  "evaluation_start": "2026-01-01T00:00:00+00:00",
+  "pairs": [
+    {
+      "instrument": "ETH-USDT-SWAP",
+      "pair": "ETH/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "BTC-USDT-SWAP",
+      "pair": "BTC/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "SOL-USDT-SWAP",
+      "pair": "SOL/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "PEPE-USDT-SWAP",
+      "pair": "PEPE/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "XRP-USDT-SWAP",
+      "pair": "XRP/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "DOGE-USDT-SWAP",
+      "pair": "DOGE/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "NEAR-USDT-SWAP",
+      "pair": "NEAR/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "WLD-USDT-SWAP",
+      "pair": "WLD/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "BCH-USDT-SWAP",
+      "pair": "BCH/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "BNB-USDT-SWAP",
+      "pair": "BNB/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "SUI-USDT-SWAP",
+      "pair": "SUI/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "UNI-USDT-SWAP",
+      "pair": "UNI/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "FIL-USDT-SWAP",
+      "pair": "FIL/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "STRK-USDT-SWAP",
+      "pair": "STRK/USDT:USDT",
+      "daily_bars_before_evaluation": 680,
+      "daily_first_open": "2024-02-21T00:00:00+00:00",
+      "200_daily_available": "2024-09-08T00:00:00+00:00",
+      "480_daily_available": "2025-06-15T00:00:00+00:00"
+    },
+    {
+      "instrument": "LINK-USDT-SWAP",
+      "pair": "LINK/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "AAVE-USDT-SWAP",
+      "pair": "AAVE/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "ARB-USDT-SWAP",
+      "pair": "ARB/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "ADA-USDT-SWAP",
+      "pair": "ADA/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "ONDO-USDT-SWAP",
+      "pair": "ONDO/USDT:USDT",
+      "daily_bars_before_evaluation": 512,
+      "daily_first_open": "2024-08-07T00:00:00+00:00",
+      "200_daily_available": "2025-02-23T00:00:00+00:00",
+      "480_daily_available": "2025-11-30T00:00:00+00:00"
+    },
+    {
+      "instrument": "LTC-USDT-SWAP",
+      "pair": "LTC/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "ETHW-USDT-SWAP",
+      "pair": "ETHW/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "INJ-USDT-SWAP",
+      "pair": "INJ/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "DOT-USDT-SWAP",
+      "pair": "DOT/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "AVAX-USDT-SWAP",
+      "pair": "AVAX/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "TIA-USDT-SWAP",
+      "pair": "TIA/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "TRX-USDT-SWAP",
+      "pair": "TRX/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "BAT-USDT-SWAP",
+      "pair": "BAT/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "SHIB-USDT-SWAP",
+      "pair": "SHIB/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "ZRO-USDT-SWAP",
+      "pair": "ZRO/USDT:USDT",
+      "daily_bars_before_evaluation": 559,
+      "daily_first_open": "2024-06-21T00:00:00+00:00",
+      "200_daily_available": "2025-01-07T00:00:00+00:00",
+      "480_daily_available": "2025-10-14T00:00:00+00:00"
+    },
+    {
+      "instrument": "XLM-USDT-SWAP",
+      "pair": "XLM/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "OP-USDT-SWAP",
+      "pair": "OP/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "APT-USDT-SWAP",
+      "pair": "APT/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "CRV-USDT-SWAP",
+      "pair": "CRV/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "HBAR-USDT-SWAP",
+      "pair": "HBAR/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "SAND-USDT-SWAP",
+      "pair": "SAND/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "ETC-USDT-SWAP",
+      "pair": "ETC/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "ICP-USDT-SWAP",
+      "pair": "ICP/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "WIF-USDT-SWAP",
+      "pair": "WIF/USDT:USDT",
+      "daily_bars_before_evaluation": 625,
+      "daily_first_open": "2024-04-16T00:00:00+00:00",
+      "200_daily_available": "2024-11-02T00:00:00+00:00",
+      "480_daily_available": "2025-08-09T00:00:00+00:00"
+    },
+    {
+      "instrument": "ETHFI-USDT-SWAP",
+      "pair": "ETHFI/USDT:USDT",
+      "daily_bars_before_evaluation": 653,
+      "daily_first_open": "2024-03-19T00:00:00+00:00",
+      "200_daily_available": "2024-10-05T00:00:00+00:00",
+      "480_daily_available": "2025-07-12T00:00:00+00:00"
+    },
+    {
+      "instrument": "RAY-USDT-SWAP",
+      "pair": "RAY/USDT:USDT",
+      "daily_bars_before_evaluation": 659,
+      "daily_first_open": "2024-03-13T00:00:00+00:00",
+      "200_daily_available": "2024-09-29T00:00:00+00:00",
+      "480_daily_available": "2025-07-06T00:00:00+00:00"
+    },
+    {
+      "instrument": "W-USDT-SWAP",
+      "pair": "W/USDT:USDT",
+      "daily_bars_before_evaluation": 637,
+      "daily_first_open": "2024-04-04T00:00:00+00:00",
+      "200_daily_available": "2024-10-21T00:00:00+00:00",
+      "480_daily_available": "2025-07-28T00:00:00+00:00"
+    },
+    {
+      "instrument": "ZK-USDT-SWAP",
+      "pair": "ZK/USDT:USDT",
+      "daily_bars_before_evaluation": 561,
+      "daily_first_open": "2024-06-19T00:00:00+00:00",
+      "200_daily_available": "2025-01-05T00:00:00+00:00",
+      "480_daily_available": "2025-10-12T00:00:00+00:00"
+    },
+    {
+      "instrument": "JTO-USDT-SWAP",
+      "pair": "JTO/USDT:USDT",
+      "daily_bars_before_evaluation": 723,
+      "daily_first_open": "2024-01-09T00:00:00+00:00",
+      "200_daily_available": "2024-07-27T00:00:00+00:00",
+      "480_daily_available": "2025-05-03T00:00:00+00:00"
+    },
+    {
+      "instrument": "BONK-USDT-SWAP",
+      "pair": "BONK/USDT:USDT",
+      "daily_bars_before_evaluation": 723,
+      "daily_first_open": "2024-01-09T00:00:00+00:00",
+      "200_daily_available": "2024-07-27T00:00:00+00:00",
+      "480_daily_available": "2025-05-03T00:00:00+00:00"
+    },
+    {
+      "instrument": "IOST-USDT-SWAP",
+      "pair": "IOST/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "ALGO-USDT-SWAP",
+      "pair": "ALGO/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "JUP-USDT-SWAP",
+      "pair": "JUP/USDT:USDT",
+      "daily_bars_before_evaluation": 700,
+      "daily_first_open": "2024-02-01T00:00:00+00:00",
+      "200_daily_available": "2024-08-19T00:00:00+00:00",
+      "480_daily_available": "2025-05-26T00:00:00+00:00"
+    },
+    {
+      "instrument": "LDO-USDT-SWAP",
+      "pair": "LDO/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "ORDI-USDT-SWAP",
+      "pair": "ORDI/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "PEOPLE-USDT-SWAP",
+      "pair": "PEOPLE/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "RENDER-USDT-SWAP",
+      "pair": "RENDER/USDT:USDT",
+      "daily_bars_before_evaluation": 510,
+      "daily_first_open": "2024-08-09T00:00:00+00:00",
+      "200_daily_available": "2025-02-25T00:00:00+00:00",
+      "480_daily_available": "2025-12-02T00:00:00+00:00"
+    },
+    {
+      "instrument": "ATOM-USDT-SWAP",
+      "pair": "ATOM/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "PYTH-USDT-SWAP",
+      "pair": "PYTH/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "BOME-USDT-SWAP",
+      "pair": "BOME/USDT:USDT",
+      "daily_bars_before_evaluation": 503,
+      "daily_first_open": "2024-08-16T00:00:00+00:00",
+      "200_daily_available": "2025-03-04T00:00:00+00:00",
+      "480_daily_available": "2025-12-09T00:00:00+00:00"
+    },
+    {
+      "instrument": "MINA-USDT-SWAP",
+      "pair": "MINA/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    },
+    {
+      "instrument": "MEW-USDT-SWAP",
+      "pair": "MEW/USDT:USDT",
+      "daily_bars_before_evaluation": 625,
+      "daily_first_open": "2024-04-16T00:00:00+00:00",
+      "200_daily_available": "2024-11-02T00:00:00+00:00",
+      "480_daily_available": "2025-08-09T00:00:00+00:00"
+    },
+    {
+      "instrument": "AR-USDT-SWAP",
+      "pair": "AR/USDT:USDT",
+      "daily_bars_before_evaluation": 731,
+      "daily_first_open": "2024-01-01T00:00:00+00:00",
+      "200_daily_available": "2024-07-19T00:00:00+00:00",
+      "480_daily_available": "2025-04-25T00:00:00+00:00"
+    }
+  ],
+  "warning": "Indicator-specific readiness is not proven by candle count alone"
+}

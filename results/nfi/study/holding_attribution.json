@@ -1,0 +1,584 @@
+{
+  "official": {
+    "duration": {
+      "0-6h": {
+        "n": 24,
+        "profit": 2149.65
+      },
+      "6-12h": {
+        "n": 7,
+        "profit": 509.62
+      },
+      "12-24h": {
+        "n": 11,
+        "profit": 1405.84
+      },
+      "24-48h": {
+        "n": 11,
+        "profit": 1339.17
+      },
+      "48-168h": {
+        "n": 8,
+        "profit": 283.12
+      },
+      "168-1000000000.0h": {
+        "n": 0,
+        "profit": 0
+      }
+    },
+    "family": {
+      "long_normal": {
+        "n": 3,
+        "profit": 701.18,
+        "median_hours": 5.916666666666667,
+        "over24_profit": 0,
+        "over24_n": 0
+      },
+      "long_normal+long_top_coins": {
+        "n": 1,
+        "profit": 216.22,
+        "median_hours": 19.333333333333332,
+        "over24_profit": 0,
+        "over24_n": 0
+      },
+      "long_pump+long_top_coins": {
+        "n": 1,
+        "profit": 114.24,
+        "median_hours": 2.0,
+        "over24_profit": 0,
+        "over24_n": 0
+      },
+      "long_rapid": {
+        "n": 2,
+        "profit": 185.19,
+        "median_hours": 1.1666666666666665,
+        "over24_profit": 0,
+        "over24_n": 0
+      },
+      "long_rebuy": {
+        "n": 16,
+        "profit": 804.31,
+        "median_hours": 6.75,
+        "over24_profit": 140.84,
+        "over24_n": 3
+      },
+      "long_scalp": {
+        "n": 2,
+        "profit": 128.75,
+        "median_hours": 1.9583333333333335,
+        "over24_profit": 0,
+        "over24_n": 0
+      },
+      "long_top_coins": {
+        "n": 20,
+        "profit": 2736.42,
+        "median_hours": 14.416666666666666,
+        "over24_profit": 1265.69,
+        "over24_n": 7
+      },
+      "short_quick": {
+        "n": 2,
+        "profit": 427.43,
+        "median_hours": 2.2083333333333335,
+        "over24_profit": 0,
+        "over24_n": 0
+      },
+      "short_rebuy": {
+        "n": 14,
+        "profit": 373.65,
+        "median_hours": 39.58333333333333,
+        "over24_profit": 215.76,
+        "over24_n": 9
+      }
+    },
+    "over24": [
+      {
+        "pair": "HBAR/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 46.17,
+        "profit": 18.70585675
+      },
+      {
+        "pair": "BONK/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 92.75,
+        "profit": 49.9709891
+      },
+      {
+        "pair": "ETHW/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 73.83,
+        "profit": 17.10897102
+      },
+      {
+        "pair": "SOL/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 87.5,
+        "profit": 24.23271375
+      },
+      {
+        "pair": "RENDER/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 65.42,
+        "profit": 4.703388
+      },
+      {
+        "pair": "XRP/USDT:USDT",
+        "side": "long",
+        "tag": "144 ",
+        "hours": 30.83,
+        "profit": 26.19818435
+      },
+      {
+        "pair": "OP/USDT:USDT",
+        "side": "long",
+        "tag": "144 ",
+        "hours": 39.83,
+        "profit": 51.50782667
+      },
+      {
+        "pair": "JTO/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 123.67,
+        "profit": 2.7778524
+      },
+      {
+        "pair": "APT/USDT:USDT",
+        "side": "long",
+        "tag": "145 ",
+        "hours": 31.33,
+        "profit": 103.1271969
+      },
+      {
+        "pair": "BCH/USDT:USDT",
+        "side": "long",
+        "tag": "141 ",
+        "hours": 26.58,
+        "profit": 77.6660625
+      },
+      {
+        "pair": "ETHW/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 29.92,
+        "profit": 62.3171583
+      },
+      {
+        "pair": "FIL/USDT:USDT",
+        "side": "long",
+        "tag": "143 ",
+        "hours": 35.08,
+        "profit": 327.38594538
+      },
+      {
+        "pair": "ETHW/USDT:USDT",
+        "side": "long",
+        "tag": "64 ",
+        "hours": 40.58,
+        "profit": 30.21489324
+      },
+      {
+        "pair": "ICP/USDT:USDT",
+        "side": "long",
+        "tag": "142 ",
+        "hours": 24.33,
+        "profit": 515.97737576
+      },
+      {
+        "pair": "AR/USDT:USDT",
+        "side": "long",
+        "tag": "64 ",
+        "hours": 96.17,
+        "profit": 4.7528235
+      },
+      {
+        "pair": "BAT/USDT:USDT",
+        "side": "long",
+        "tag": "64 ",
+        "hours": 25.42,
+        "profit": 105.8709769
+      },
+      {
+        "pair": "ALGO/USDT:USDT",
+        "side": "long",
+        "tag": "143 ",
+        "hours": 76.67,
+        "profit": 163.82366715
+      },
+      {
+        "pair": "LTC/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 33.0,
+        "profit": 20.19984
+      },
+      {
+        "pair": "CRV/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 154.08,
+        "profit": 15.7446688
+      }
+    ]
+  },
+  "100pairs": {
+    "duration": {
+      "0-6h": {
+        "n": 59,
+        "profit": 7614.62
+      },
+      "6-12h": {
+        "n": 18,
+        "profit": 1746.06
+      },
+      "12-24h": {
+        "n": 18,
+        "profit": 350.96
+      },
+      "24-48h": {
+        "n": 15,
+        "profit": 2147.82
+      },
+      "48-168h": {
+        "n": 15,
+        "profit": 998.51
+      },
+      "168-1000000000.0h": {
+        "n": 5,
+        "profit": -3389.97
+      }
+    },
+    "family": {
+      "long_normal": {
+        "n": 14,
+        "profit": 3297.47,
+        "median_hours": 2.541666666666667,
+        "over24_profit": 554.56,
+        "over24_n": 2
+      },
+      "long_normal+long_quick": {
+        "n": 1,
+        "profit": 22.09,
+        "median_hours": 1.4166666666666667,
+        "over24_profit": 0,
+        "over24_n": 0
+      },
+      "long_pump+long_top_coins": {
+        "n": 1,
+        "profit": 122.26,
+        "median_hours": 2.0,
+        "over24_profit": 0,
+        "over24_n": 0
+      },
+      "long_quick": {
+        "n": 9,
+        "profit": 1908.18,
+        "median_hours": 1.1666666666666667,
+        "over24_profit": 0,
+        "over24_n": 0
+      },
+      "long_quick+long_rebuy": {
+        "n": 1,
+        "profit": 102.87,
+        "median_hours": 10.083333333333334,
+        "over24_profit": 0,
+        "over24_n": 0
+      },
+      "long_rapid": {
+        "n": 3,
+        "profit": 314.57,
+        "median_hours": 1.1666666666666667,
+        "over24_profit": 0,
+        "over24_n": 0
+      },
+      "long_rebuy": {
+        "n": 39,
+        "profit": 2182.02,
+        "median_hours": 6.416666666666667,
+        "over24_profit": 572.03,
+        "over24_n": 6
+      },
+      "long_scalp": {
+        "n": 5,
+        "profit": 717.56,
+        "median_hours": 1.0,
+        "over24_profit": 0,
+        "over24_n": 0
+      },
+      "long_top_coins": {
+        "n": 23,
+        "profit": 3998.72,
+        "median_hours": 13.583333333333334,
+        "over24_profit": 1539.71,
+        "over24_n": 7
+      },
+      "short_quick": {
+        "n": 6,
+        "profit": -358.08,
+        "median_hours": 8.333333333333332,
+        "over24_profit": 126.34,
+        "over24_n": 1
+      },
+      "short_rebuy": {
+        "n": 28,
+        "profit": -2839.67,
+        "median_hours": 50.875,
+        "over24_profit": -3036.29,
+        "over24_n": 19
+      }
+    },
+    "over24": [
+      {
+        "pair": "KAITO/USDT:USDT",
+        "side": "long",
+        "tag": "64 ",
+        "hours": 96.25,
+        "profit": 1.4214904
+      },
+      {
+        "pair": "HBAR/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 46.17,
+        "profit": 20.06992995
+      },
+      {
+        "pair": "CC/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 55.58,
+        "profit": 85.90409985
+      },
+      {
+        "pair": "HUMA/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 72.5,
+        "profit": 10.060141
+      },
+      {
+        "pair": "SEI/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 68.75,
+        "profit": 17.0092971
+      },
+      {
+        "pair": "PNUT/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 37.25,
+        "profit": 8.373775
+      },
+      {
+        "pair": "PIEVERSE/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 204.42,
+        "profit": 34.765619
+      },
+      {
+        "pair": "BONK/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 92.75,
+        "profit": 52.2527955
+      },
+      {
+        "pair": "ETHW/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 73.83,
+        "profit": 17.88761626
+      },
+      {
+        "pair": "SOL/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 87.5,
+        "profit": 23.3231385
+      },
+      {
+        "pair": "PUMP/USDT:USDT",
+        "side": "long",
+        "tag": "64 ",
+        "hours": 35.83,
+        "profit": 9.278122
+      },
+      {
+        "pair": "RENDER/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 65.42,
+        "profit": 4.853596
+      },
+      {
+        "pair": "ZEC/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 325.83,
+        "profit": 10.6992296
+      },
+      {
+        "pair": "CC/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 81.42,
+        "profit": 87.1807902
+      },
+      {
+        "pair": "XRP/USDT:USDT",
+        "side": "long",
+        "tag": "144 ",
+        "hours": 30.83,
+        "profit": 31.320152899999997
+      },
+      {
+        "pair": "OP/USDT:USDT",
+        "side": "long",
+        "tag": "144 ",
+        "hours": 39.83,
+        "profit": 61.53651
+      },
+      {
+        "pair": "JTO/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 123.67,
+        "profit": 3.6146896
+      },
+      {
+        "pair": "KAITO/USDT:USDT",
+        "side": "short",
+        "tag": "542 ",
+        "hours": 1343.83,
+        "profit": 126.33558770000029
+      },
+      {
+        "pair": "APT/USDT:USDT",
+        "side": "long",
+        "tag": "145 ",
+        "hours": 31.33,
+        "profit": 135.3731414
+      },
+      {
+        "pair": "BCH/USDT:USDT",
+        "side": "long",
+        "tag": "141 ",
+        "hours": 26.58,
+        "profit": 102.5846055
+      },
+      {
+        "pair": "ETHW/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 29.92,
+        "profit": 84.66293241
+      },
+      {
+        "pair": "BABY/USDT:USDT",
+        "side": "long",
+        "tag": "6 ",
+        "hours": 86.58,
+        "profit": 90.13606238999998
+      },
+      {
+        "pair": "FIL/USDT:USDT",
+        "side": "long",
+        "tag": "143 ",
+        "hours": 35.08,
+        "profit": 408.05231064
+      },
+      {
+        "pair": "ETHW/USDT:USDT",
+        "side": "long",
+        "tag": "64 ",
+        "hours": 40.58,
+        "profit": 37.66763176
+      },
+      {
+        "pair": "ICP/USDT:USDT",
+        "side": "long",
+        "tag": "142 ",
+        "hours": 24.33,
+        "profit": 623.23747126
+      },
+      {
+        "pair": "CHIP/USDT:USDT",
+        "side": "long",
+        "tag": "6 ",
+        "hours": 26.25,
+        "profit": 464.427054
+      },
+      {
+        "pair": "AR/USDT:USDT",
+        "side": "long",
+        "tag": "64 ",
+        "hours": 96.17,
+        "profit": 5.9299776
+      },
+      {
+        "pair": "PUMP/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 334.33,
+        "profit": -1686.7798255100001
+      },
+      {
+        "pair": "BAT/USDT:USDT",
+        "side": "long",
+        "tag": "64 ",
+        "hours": 25.42,
+        "profit": 113.25292225
+      },
+      {
+        "pair": "CAP/USDT:USDT",
+        "side": "long",
+        "tag": "64 ",
+        "hours": 70.33,
+        "profit": 404.480772
+      },
+      {
+        "pair": "ALGO/USDT:USDT",
+        "side": "long",
+        "tag": "143 ",
+        "hours": 76.67,
+        "profit": 177.6097318
+      },
+      {
+        "pair": "LTC/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 33.0,
+        "profit": 21.588579
+      },
+      {
+        "pair": "CRV/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 154.08,
+        "profit": 16.846499
+      },
+      {
+        "pair": "GRAM/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 46.17,
+        "profit": 26.395294
+      },
+      {
+        "pair": "AERO/USDT:USDT",
+        "side": "short",
+        "tag": "562 ",
+        "hours": 1679.67,
+        "profit": -1874.9946295199995
+      }
+    ]
+  }
+}

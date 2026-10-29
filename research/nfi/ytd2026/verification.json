@@ -1,0 +1,21 @@
+{
+  "started_at": "2026-10-29T03:56:02.181359+00:00",
+  "status": "success",
+  "funding": "Not downloaded by user request",
+  "upstream_source": {
+    "commit": "05b95e189ac5d301da2169ddec3118368f1b5c8b",
+    "version": "v18.0.167",
+    "files": 12
+  },
+  "pairs": 57,
+  "files": 342,
+  "ohlcv_rows": 7573109,
+  "mark_rows": 421515,
+  "checked_higher_bars": 2230524,
+  "evaluation_start": "2026-01-01T00:00:00+00:00",
+  "end_exclusive": "2026-10-29T03:15:00+00:00",
+  "universe_sha256": "0a246c48bfacceff127e0f0760e26ecd829b2d2d6f333a5338c0559ece69d7af",
+  "data_manifest_sha256": "5cf41fbcc5cd373b2d06fca7d77e8bd9023bb59dfeb639d43b000668f2aede5b",
+  "elapsed_seconds": 244.89,
+  "finished_at": "2026-10-29T04:00:07.074159+00:00"
+}

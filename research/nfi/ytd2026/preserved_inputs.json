@@ -1,0 +1,9 @@
+{
+  "research/nfi/universe.json": "2e1e56367e0e8a94d8b33bd7784c3cff6e5d0df04b1da37284913a7c3b18880b",
+  "datasets/nfi/manifest.json": "1a62966df3e390c372c9f5c520a33cafe34c218ce3e63e64bc1b48defac7ad7e",
+  "datasets/nfi/mark_manifest.json": "5e954a4a96df5f1dbc60216fb896a6393f63eaebb9313b0eba560d3e9abd563c",
+  "datasets/nfi/bundles.json": "8d6a48a8d64c0859db723e969cca96a6c5c79c9163f8379ea7156688726c1f83",
+  "research/nfi/config.backtest.json": "2734a4ba691568af8f6068b5656ccf16d6d2e4829a91238ca035d0db400afd20",
+  "research/nfi/study/official.json": "6edce4b10ba63c05250980ae3eea5e9ceef0fa77a3eb9c37da7439317aa63c42",
+  "research/nfi/upstream/NostalgiaForInfinityX8.py": "c0c6ee100533a2600c198b541f70deb70f106a5e1e60f50f73b1c602830249c4"
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "full_trade": {
+      "pair": "PYTH/USDT:USDT",
+      "open_date": "2026-07-01 07:15:00+00:00",
+      "close_date": "2026-07-01 15:45:00+00:00",
+      "open_rate": 0.03882,
+      "close_rate": 0.03902,
+      "profit_abs": 31.1190452,
+      "exit_reason": "exit_profit_long_rebuy_t_0_1_m ( 64 )"
+    },
+    "entry_slice": [
+      {
+        "pair": "PYTH/USDT:USDT",
+        "open_date": "2026-07-01 07:15:00+00:00",
+        "close_date": "2026-07-01 07:20:00+00:00",
+        "open_rate": 0.03882,
+        "close_rate": 0.03884,
+        "profit_abs": -3.6377677,
+        "exit_reason": "force_exit"
+      }
+    ],
+    "exit_slice": [
+      {
+        "pair": "PYTH/USDT:USDT",
+        "open_date": "2026-07-01 07:15:00+00:00",
+        "close_date": "2026-07-01 15:50:00+00:00",
+        "open_rate": 0.03882,
+        "close_rate": 0.03905,
+        "profit_abs": 36.91184735,
+        "exit_reason": "force_exit"
+      }
+    ]
+  }
+]

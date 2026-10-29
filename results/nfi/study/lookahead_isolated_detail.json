@@ -1,0 +1,101 @@
+[
+  {
+    "full_trade": {
+      "pair": "PYTH/USDT:USDT",
+      "open_date": "2026-07-01 07:15:00+00:00",
+      "close_date": "2026-07-01 15:45:00+00:00",
+      "open_rate": 0.03882,
+      "close_rate": 0.03902,
+      "profit_abs": 31.1190452,
+      "exit_reason": "exit_profit_long_rebuy_t_0_1_m ( 64 )"
+    },
+    "entry_slice": [
+      {
+        "pair": "PYTH/USDT:USDT",
+        "open_date": "2026-07-01 07:15:00+00:00",
+        "close_date": "2026-07-01 07:20:00+00:00",
+        "open_rate": 0.03882,
+        "close_rate": 0.03884,
+        "profit_abs": -3.6377677,
+        "exit_reason": "force_exit"
+      }
+    ],
+    "exit_slice": [
+      {
+        "pair": "PYTH/USDT:USDT",
+        "open_date": "2026-07-01 07:15:00+00:00",
+        "close_date": "2026-07-01 15:45:00+00:00",
+        "open_rate": 0.03882,
+        "close_rate": 0.03902,
+        "profit_abs": 31.1190452,
+        "exit_reason": "exit_profit_long_rebuy_t_0_1_m ( 64 )"
+      }
+    ]
+  },
+  {
+    "full_trade": {
+      "pair": "ETHFI/USDT:USDT",
+      "open_date": "2026-07-05 09:25:00+00:00",
+      "close_date": "2026-07-05 16:30:00+00:00",
+      "open_rate": 0.4185,
+      "close_rate": 0.4204,
+      "profit_abs": 26.53293655,
+      "exit_reason": "exit_profit_long_rebuy_t_0_1_m ( 64 )"
+    },
+    "entry_slice": [
+      {
+        "pair": "ETHFI/USDT:USDT",
+        "open_date": "2026-07-05 09:25:00+00:00",
+        "close_date": "2026-07-05 09:30:00+00:00",
+        "open_rate": 0.4185,
+        "close_rate": 0.4191,
+        "profit_abs": 3.2472852,
+        "exit_reason": "force_exit"
+      }
+    ],
+    "exit_slice": [
+      {
+        "pair": "ETHFI/USDT:USDT",
+        "open_date": "2026-07-05 09:25:00+00:00",
+        "close_date": "2026-07-05 16:30:00+00:00",
+        "open_rate": 0.4185,
+        "close_rate": 0.4204,
+        "profit_abs": 26.53293655,
+        "exit_reason": "exit_profit_long_rebuy_t_0_1_m ( 64 )"
+      }
+    ]
+  },
+  {
+    "full_trade": {
+      "pair": "WLD/USDT:USDT",
+      "open_date": "2026-07-06 12:05:00+00:00",
+      "close_date": "2026-07-06 17:45:00+00:00",
+      "open_rate": 0.4046,
+      "close_rate": 0.4108,
+      "profit_abs": 429.4816681,
+      "exit_reason": "exit_profit_long_tc_t_1_1_m ( 145 )"
+    },
+    "entry_slice": [
+      {
+        "pair": "WLD/USDT:USDT",
+        "open_date": "2026-07-06 12:05:00+00:00",
+        "close_date": "2026-07-06 12:10:00+00:00",
+        "open_rate": 0.4046,
+        "close_rate": 0.4078,
+        "profit_abs": 207.1518886,
+        "exit_reason": "force_exit"
+      }
+    ],
+    "exit_slice": [
+      {
+        "pair": "WLD/USDT:USDT",
+        "open_date": "2026-07-06 12:05:00+00:00",
+        "close_date": "2026-07-06 17:45:00+00:00",
+        "open_rate": 0.4046,
+        "close_rate": 0.4108,
+        "profit_abs": 429.4816681,
+        "exit_reason": "exit_profit_long_tc_t_1_1_m ( 145 )"
+      }
+    ]
+  }
+]
