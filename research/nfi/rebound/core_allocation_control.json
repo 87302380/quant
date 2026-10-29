@@ -1,0 +1,10 @@
+{
+  "reason": "Prior1.25allocationcontrol preservesexpanded13shorts, so badnewshorts confound comparison tostrongerincumbent.",
+  "change": "Same1.25bullstate initiallongmargin onincumbent native4shorts. All other entry/exit/stake/leverage rules unchanged. No newfactor search.",
+  "runs": [
+    "YTD5bps",
+    "freshJuly5bps",
+    "freshJuly10bps"
+  ],
+  "interpretation": "Any increasefunduse isexposurechange, not new signalalpha. Finalmatchedallocationcontrol, no additionalparametersearch."
+}

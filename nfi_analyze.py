@@ -168,7 +168,7 @@ def analyze(path, datadir=None, strict_deadline=True):
         str(bps): {'profit_usdt': result['profit_usdt'] - audit['turnover_usdt'] * bps / 10000,
                    'return_pct': 100 * (result['profit_usdt'] - audit['turnover_usdt'] * bps / 10000) / s['starting_balance']}
         for bps in (2, 5, 10)}
-    if s['strategy_name'] == 'NFI24Hour' or s['strategy_name'].startswith(('NFIRisk', 'NFIYtd','NFIOpt','NFIShort')):
+    if s['strategy_name'] == 'NFI24Hour' or s['strategy_name'].startswith(('NFIRisk', 'NFIYtd','NFIOpt','NFIShort','NFIRebound')):
         violations = [t for t in ts if t['close_timestamp'] > t['open_timestamp'] + 86_400_000]
         late_adds = [o for t in ts for o in filled_orders(t)
                      if o['ft_is_entry'] and o['order_filled_timestamp'] >= t['open_timestamp'] + 86_400_000]

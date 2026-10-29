@@ -1,0 +1,11 @@
+{
+  "goal": "Improve after-fee return specifically in rebound windows while retaining whole-YTD risk audit. Fixed57pairs,3x,6slots,24h,noadds.",
+  "state": "LastclosedBTC4h: bull ifclose>EMA50 andEMA12>EMA50; bear ifbothreverse; elsemixed. No calendar regime labels in trading.",
+  "variants": {
+    "fast": "All13shorts inbear,original4inmixed,no shorts inbull",
+    "soft": "All expandedshortsignals retained; initialshortmargin factor1bear,.5mixed,.25bull",
+    "long_bias": "fast plus longinitialmargin1.25x inbull; exposureincrease disclosed",
+    "local": "All13shorts allowed only ownclosed4hEMA12<EMA50 andRSI14<50; alternative toBTC-only gate"
+  },
+  "validation": "ComparewholeYTDandcontinuousJulOct; then restartJuly1withsame10000wallet forincumbent and chosenwinner. This is descriptive seenhistory, not newOOS. Fee5bps andwinner10bps replay. Preserveallfailedvariants."
+}

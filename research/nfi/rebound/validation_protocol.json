@@ -1,0 +1,6 @@
+{
+  "reference": "incumbent freshJuly41.3265% at5bps,41.1047% at10bps; fixed10000wallet,3x,6slots,24h.",
+  "negative_check": "Cooldown continuousJulOct42.50% butfreshJuly35.60%; path/state dependence disproves robust recentedge.",
+  "allocation_check": "Allocation-onlycontinuousJulOct40.80% vsreference41.37%;freshJuly replay requested to isolatefundingpath.",
+  "final_candidate": "style_gate pending. FreshJuly5bps and10bps replays willbe compared to matchedbaseline;seenhistory,notOOS. No furtherparametersearch afterthis semanticcontrol."
+}
