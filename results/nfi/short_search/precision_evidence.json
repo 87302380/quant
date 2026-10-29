@@ -1,0 +1,36 @@
+[
+  {
+    "pair": "SAND/USDT:USDT",
+    "trade_id": 164,
+    "open": "2026-02-09 19:05:00+00:00",
+    "time": "2026-02-10 19:05:00+00:00",
+    "duration_min": 1440.0,
+    "exit_reason": "research_time_limit_24h",
+    "flag": true,
+    "price_precision": 1e-05,
+    "precision_mode": 4,
+    "open_price": 0.08477000000000001,
+    "low": 0.08477000000000001,
+    "high": 0.08497,
+    "result_created": true,
+    "last_order_rate": 0.08477,
+    "last_order_time": "2026-02-10 19:05:00+00:00"
+  },
+  {
+    "pair": "SAND/USDT:USDT",
+    "trade_id": 164,
+    "open": "2026-02-09 19:05:00+00:00",
+    "time": "2026-02-10 19:10:00+00:00",
+    "duration_min": 1445.0,
+    "exit_reason": "research_time_limit_24h",
+    "flag": true,
+    "price_precision": 1e-05,
+    "precision_mode": 4,
+    "open_price": 0.08495000000000001,
+    "low": 0.08485000000000001,
+    "high": 0.08506000000000001,
+    "result_created": true,
+    "last_order_rate": 0.08495,
+    "last_order_time": "2026-02-10 19:10:00+00:00"
+  }
+]

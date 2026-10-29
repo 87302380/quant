@@ -1,0 +1,17 @@
+{
+  "objective": "Test whether better short rules improve total after-fee wallet return beyond184.0125% frozen long+native-short incumbent; 57pairs,3x,6slots,24h, samewallet.",
+  "variants": {
+    "long_control": "NFIShortLongControl",
+    "pullback": "NFIShortPullback",
+    "breakdown": "NFIShortBreakdown",
+    "mirror": "NFIShortMirror"
+  },
+  "long_core": "Unchanged NFIOptWeightedNoAdds long rules/management. Native short entries removed. Long signal priority on conflicting bars.",
+  "entry_hypotheses": {
+    "pullback": "4hEMA12<EMA200,RSI4h25-50,dailyROC9<0; last30m RSI peak>=60 and touches1hEMA20,5mclose crossesbelowEMA20",
+    "breakdown": "Same bearstate; closed5m breaks previous12bar low with1.2x20bar volume; RSI5m>25, no more5% below1hEMA20",
+    "mirror": "Compute enabled NFI long rules on inverse OHLC for allTFs andBTC; select normal/topcoin tags; use only resulting signals, execute on realshort market. Same observed volume activity weights; not exact inverse-contract economics."
+  },
+  "new_short_management": "No adds; half ordinary initial margin slot, capped by1% planned available realizedequity risk to frozen2xclosed1hATR14 stop,min1%price;2Rprice target;unconditional24h exit. Hard stops permitted only for newshorts. Realgap/execution may exceed plan.",
+  "bias": "Exploratory seenhistory, fixed thresholds,noOOSclaim,fundingexcluded. Preserveallresults."
+}

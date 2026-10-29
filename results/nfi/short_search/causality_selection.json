@@ -1,0 +1,32 @@
+[
+  {
+    "pair":"LTC\/USDT:USDT",
+    "enter_tag":"544 ",
+    "open_date":"2026-01-03T22:05:00.000Z",
+    "close_date":"2026-01-04T22:05:00.000Z"
+  },
+  {
+    "pair":"JUP\/USDT:USDT",
+    "enter_tag":"543 ",
+    "open_date":"2026-01-09T15:30:00.000Z",
+    "close_date":"2026-01-09T18:20:00.000Z"
+  },
+  {
+    "pair":"AAVE\/USDT:USDT",
+    "enter_tag":"543 ",
+    "open_date":"2026-01-09T15:30:00.000Z",
+    "close_date":"2026-01-09T18:30:00.000Z"
+  },
+  {
+    "pair":"BOME\/USDT:USDT",
+    "enter_tag":"506 ",
+    "open_date":"2026-01-12T21:55:00.000Z",
+    "close_date":"2026-01-13T21:55:00.000Z"
+  },
+  {
+    "pair":"LDO\/USDT:USDT",
+    "enter_tag":"505 ",
+    "open_date":"2026-01-16T11:30:00.000Z",
+    "close_date":"2026-01-16T15:30:00.000Z"
+  }
+]

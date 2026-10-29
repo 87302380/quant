@@ -1,0 +1,10 @@
+{
+  "declared_before": "FirstbatchPnL notyetavailable. Duringreplay nativeRENDER/SAND/OP entrycancellationsobserved duefree slots.",
+  "hypothesis": "Add atmost2 simultaneous newshorts to each originalentry/exit variant; reserve capacity for unchanged profitable longcore. Same stake sizing, indicators and exitparameters.",
+  "variants": [
+    "pullback_slots",
+    "breakdown_slots",
+    "mirror_slots"
+  ],
+  "bias": "Adaptive seenhistory mechanism based on observed execution constraint, not an independent holdout; no parametergrid."
+}

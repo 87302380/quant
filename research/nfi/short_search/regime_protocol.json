@@ -1,0 +1,9 @@
+{
+  "declared_after": "Expanded precision444.89%, shortJanJun+17305.72,shortJulOct-1390.63; combinedJulOct37.39% vsincumbent41.37%. BTCJunend58604 toOct81309.9.",
+  "rule": "Keep original4short switches always; allow additional9native short conditions only when lastclosedBTC4h belowEMA200 andEMA200 declinesover6closed4hbars. Keep native long/coremanagement/noadds/24h andstakes unchanged. Mixedtags stripped onlynewshorttags when gatefalse.",
+  "runs": [
+    "gated_precision at5bps",
+    "gated_precision at10bps"
+  ],
+  "bias": "Adaptive seenhistory regime hypothesis, no thresholdgrid and no independentvalidation. Declared before reruns. Finalresearchround, preservefailed ungated and customvariants."
+}

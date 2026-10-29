@@ -1,0 +1,29 @@
+{
+  "status": "passed",
+  "successful_engine_replays": 15,
+  "unit_tests": 73,
+  "lookahead_samples": 5,
+  "lookahead_scope": "five-pair subset;notexhaustive",
+  "qualified_corrected_replays": [
+    "incumbent_precision",
+    "long_precision",
+    "expanded_precision",
+    "gated_precision",
+    "expanded_precision_fee10",
+    "gated_precision_fee10"
+  ],
+  "legacy_deadline_failed": {
+    "pullback": 23,
+    "breakdown": 33,
+    "mirror": 1,
+    "pullback_slots": 5,
+    "breakdown_slots": 14,
+    "expanded_native": 4,
+    "breakdown_rr1": 9
+  },
+  "ledger_tolerance_usdt": 0.01,
+  "reserved_short_slots_max": 2,
+  "candidate_started": false,
+  "live_orders": false,
+  "funding_excluded": true
+}

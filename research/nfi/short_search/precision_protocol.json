@@ -1,0 +1,14 @@
+{
+  "cause": "Read-only deadline trace proves engine low=0.08477000000000001, limit=0.08477: identical decimal price rejected due1binaryULP; delayedexit5minutes. Not marketliquidity evidence.",
+  "change": "Treat mathematically boundary-equal rates within4ULPs as filled. No fillprice change, no tick-scale extension. Entry and exit matching both use same correction.",
+  "comparison": "Rerun incumbent and purelong controls with same correction; compare candidate only within corrected protocol. Old variants retained as failed/legacy execution diagnostics, not silently relabeled.",
+  "new_hypothesis": "Additionally apply closedBTC4h belowEMA200 andEMA200 falling over24h tocap2breakdown; no new thresholdgrid.",
+  "variants": [
+    "incumbent_precision",
+    "expanded_precision",
+    "long_precision",
+    "expanded_precision_fee10"
+  ],
+  "funding": "excluded byuser; fee5bps remains",
+  "execution_update": "Native expansion legacy output447.45%,shortnet16131.33,4deadlineviolations. Prioritize matched incumbent/native expansion/purelong corrected reruns and doublefees. Proposed regime-only candidate deferred, not claimed tested."
+}

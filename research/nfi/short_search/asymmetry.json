@@ -1,0 +1,52 @@
+{
+  "long_entry_signal_params": {
+    "enabled_count": 32,
+    "defined_count": 54,
+    "enabled": [
+      "long_entry_condition_1_enable",
+      "long_entry_condition_2_enable",
+      "long_entry_condition_3_enable",
+      "long_entry_condition_4_enable",
+      "long_entry_condition_5_enable",
+      "long_entry_condition_6_enable",
+      "long_entry_condition_21_enable",
+      "long_entry_condition_41_enable",
+      "long_entry_condition_42_enable",
+      "long_entry_condition_43_enable",
+      "long_entry_condition_44_enable",
+      "long_entry_condition_45_enable",
+      "long_entry_condition_46_enable",
+      "long_entry_condition_47_enable",
+      "long_entry_condition_61_enable",
+      "long_entry_condition_62_enable",
+      "long_entry_condition_63_enable",
+      "long_entry_condition_64_enable",
+      "long_entry_condition_65_enable",
+      "long_entry_condition_101_enable",
+      "long_entry_condition_102_enable",
+      "long_entry_condition_103_enable",
+      "long_entry_condition_104_enable",
+      "long_entry_condition_120_enable",
+      "long_entry_condition_141_enable",
+      "long_entry_condition_142_enable",
+      "long_entry_condition_143_enable",
+      "long_entry_condition_144_enable",
+      "long_entry_condition_145_enable",
+      "long_entry_condition_161_enable",
+      "long_entry_condition_162_enable",
+      "long_entry_condition_163_enable"
+    ]
+  },
+  "short_entry_signal_params": {
+    "enabled_count": 4,
+    "defined_count": 25,
+    "enabled": [
+      "short_entry_condition_501_enable",
+      "short_entry_condition_502_enable",
+      "short_entry_condition_542_enable",
+      "short_entry_condition_562_enable"
+    ]
+  },
+  "source_sha256": "c0c6ee100533a2600c198b541f70deb70f106a5e1e60f50f73b1c602830249c4",
+  "scope": "Default switches, not all generate trades. Config snapshot has no signal-switch overrides. New research classes inherit original defaults."
+}

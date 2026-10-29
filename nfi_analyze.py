@@ -140,7 +140,7 @@ def equity_audit(s, datadir=None):
     return metrics, frame
 
 
-def analyze(path, datadir=None):
+def analyze(path, datadir=None, strict_deadline=True):
     s = load_result(path)
     ts = s['trades']
     audit, frame = equity_audit(s, datadir)
@@ -168,14 +168,16 @@ def analyze(path, datadir=None):
         str(bps): {'profit_usdt': result['profit_usdt'] - audit['turnover_usdt'] * bps / 10000,
                    'return_pct': 100 * (result['profit_usdt'] - audit['turnover_usdt'] * bps / 10000) / s['starting_balance']}
         for bps in (2, 5, 10)}
-    if s['strategy_name'] == 'NFI24Hour' or s['strategy_name'].startswith(('NFIRisk', 'NFIYtd','NFIOpt')):
+    if s['strategy_name'] == 'NFI24Hour' or s['strategy_name'].startswith(('NFIRisk', 'NFIYtd','NFIOpt','NFIShort')):
         violations = [t for t in ts if t['close_timestamp'] > t['open_timestamp'] + 86_400_000]
         late_adds = [o for t in ts for o in filled_orders(t)
                      if o['ft_is_entry'] and o['order_filled_timestamp'] >= t['open_timestamp'] + 86_400_000]
-        if violations or late_adds:
+        if strict_deadline and (violations or late_adds):
             raise ValueError(f'Deadline violated: {len(violations)} overdue campaigns, {len(late_adds)} late adds')
         timed = [t for t in ts if t['exit_reason'] == 'research_time_limit_24h']
-        result['deadline_audit'] = {'hours': 24, 'overdue_campaigns': 0, 'late_adds': 0,
+        result['deadline_audit'] = {'hours': 24, 'overdue_campaigns': len(violations), 'late_adds': len(late_adds),
+                                    'qualified':not violations and not late_adds,
+                                    'max_excess_minutes':max((t['trade_duration']-1440 for t in violations),default=0),
                                     'deadline_exits': len(timed),
                                     'deadline_profit_usdt': sum(t['profit_abs'] for t in timed),
                                     'deadline_losing_exits': sum(t['profit_abs'] < 0 for t in timed)}
