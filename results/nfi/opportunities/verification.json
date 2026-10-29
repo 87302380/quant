@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "engine_replays": 16,
+  "unit_tests": 183,
+  "extra_risk_entries_independently_audited": 4679,
+  "control_exact": true,
+  "fixed_cap_nonbinding_exact": true,
+  "sources_orders_ledgers_verified": true,
+  "compression_posthoc": true,
+  "independent_oos": false,
+  "funding_excluded": true
+}

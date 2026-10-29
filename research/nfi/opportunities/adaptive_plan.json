@@ -1,0 +1,14 @@
+{
+  "recorded_utc": "2026-10-29T20:31:12.026077+00:00",
+  "sources": {
+    "NFIShortOPMore.py": "0449cc2aa4bc4bbb18e772becd1ea6af114c21b7b5667fa971d113ade0e7a54e",
+    "NFIShortOPMoreFixed.py": "7d4202ccd94fa690f4fc96a90e6e76937b80885959290fac416e6f358687164a"
+  },
+  "reason": "Initial6 finished: all5 added modules negative extraPnL. Weekly-high8 dominates711breakouttrades, PF0.925. In isolated breakout cohort16616trades PF1.387 net245.57,16915trades PF2.246 net276.14. Positive subgroups motivated explicit posthoc compression selection; substantial selection bias.",
+  "variants": {
+    "compression": "Native166squeeze+169insidebar, shared economic theme compression breakout; same quarterstake/.5%risk/2ATR2R/max2new/24h",
+    "context": "All8native with already-defined closed1h/4h trend, positive1hRSvsBTC, knownbreadth and no currentrawshock. Original signals untouched, no new thresholds."
+  },
+  "selection_amendment": "Extend raw qualification toall8; ifnonequalify, replace originally planned native negative fixed diagnostic with compression diagnostic because all initial addedPnLnegative. Native raw failure retained; do not claim fallbackchoice predeclared before observing. Fixedcontrol+selectedfixed always run, remaining cost/wallet/order tests follow allocation_plan unchanged.",
+  "independent_oos": false
+}

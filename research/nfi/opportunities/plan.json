@@ -1,0 +1,21 @@
+{
+  "recorded_utc": "2026-10-29T20:10:44.492739+00:00",
+  "sources": {
+    "NFIShortOpportunities.py": "4ebd2346b28c52c8899262fa4da10c902a9f343bcbdb9cac079d72ff5ae367ac",
+    "op_features.py": "55348b6a4fb5002618bfd7b6d2de1134b8960ee4c78e2804838a9449f2234216"
+  },
+  "base": "NFIShortBRClimax research candidate, original core also retained as reference; no live promotion",
+  "variants": {
+    "control": "climax unchanged",
+    "pullback": "enable native48volume-pullback/165fib-pullback/167bull-engulf-trend",
+    "breakout": "enable native7ADXbirth/8weeklybreak/166squeeze/169insidebar/171volume-break",
+    "native": "union8newnative",
+    "retest": "new closed5m breakout/retest with1h+4h risingtrend and1hBTCrelative positive; no current breadth shock",
+    "combined": "native8plusnewretest"
+  },
+  "execution": "Same-candle original long/short has priority. Extra entries explicitly tagged, max2 actualopen/pendingextras within global6. Current newpositions can still crowd future original signals. All first-entry24h, no positiveadds foranytrade; extra no partialreductions.",
+  "extra_risk": "0.5% tradable realizedwallet plannedloss includingfees, min2closed1hATR or1%price distance, max99%; stop frozenfirstfill; targetfirst+2distance evaluated5m callbackopen, not optimisticintrabarTP. Initialmargin <=quarter ordinaryproposedslot and nativeceiling; fixed3x. No widening nativeoriginal stops.",
+  "retest": "Prior12bar highbreak withvolume>prior20median; knownpriorbreak then retestwithin12bars/1h, low<=frozenlevel, greenclosewithin0.5closed5mATRabovelevel;1hEMA20>50, EMA50rising6bars;4hclose>EMA50andEMA50rising3bars;1hBTCrelative positive. Exacttimestamps, no staledatafill.",
+  "validation": "Select highest annualreturn abovecontrol, positiveactualextra PnL, MTMDD<=originalcore13.3163266626, Ulcer<=originalcore3.51914292982, dailyES>=originalcore-2.63561957572; if none selectnative negative diagnostic. Rerunfee10 andfreshJuly; append fixedreverseorder pairedcontrol if any candidate passes. No parameter scan.",
+  "limitations": "Allhistory alreadyexamined, nativeexperimentalsignals notclaimedofficialrecommendation, sourceconditionswithownriskexitwrapper, currentstatic57survivorshipbias, fundingexcluded."
+}

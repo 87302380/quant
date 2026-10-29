@@ -1,0 +1,11 @@
+{
+  "raw_eligible": [
+    "compression"
+  ],
+  "raw_selected": "compression",
+  "fixed_candidate": "compression_fixed",
+  "fixed_qualified": true,
+  "stress_qualified": true,
+  "reverse_tested": true,
+  "warning": "Qualification thresholds retained; compression selected posthoc per adaptive_plan.json. All history examined, no OOS. Fixed pair checks ordinary proposal cap; it does not remove wallet/path effects."
+}

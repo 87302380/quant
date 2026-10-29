@@ -1,0 +1,8 @@
+{
+  "recorded_utc": "2026-10-29T20:20:34.729397+00:00",
+  "source_sha256": "7147eb1201bae20cc8fbc1e88ef86bc65394a1cc866b8429177eed1b379cf795",
+  "reason": "Unlimited slot allocation can implicitly enlarge ordinary original proposals when new quarter-sized positions occupy full slots. Isolate this automatic allocation effect without using hindsight winning trades or an original replay equity feed.",
+  "paired_check": "Afterinitial6, choose highestreturn qualifyingvariant or native negative diagnostic. Runcontrol_fixed andselected_fixed with ordinary proposedstake cappedcurrenttradableREALIZEDwallet/6 forALLentries. Existing multipliers and extraquarter/riskcaps remain.",
+  "qualification": "Fixedcandidate actualextra PnL>0 and totalreturn>fixedcontrol, DD<=originalcore13.3163266626, Ulcer<=originalcore3.51914292982, ES>=originalcore-2.63561957572. Ifpasses rerun BOTHfixedcontrol andfixedcandidate fee10 andfreshJuly. Onlythen pairedfixedreverseorder if candidate still positive understress.",
+  "warning": "Allhistoryexamined, notOOS; no larger existing-position multipliers. This is separate explicitly changed allocation reference, not relabelled baseline."
+}

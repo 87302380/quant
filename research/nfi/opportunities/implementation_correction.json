@@ -1,0 +1,5 @@
+{
+  "source_sha256": "c5a67a70782fddf7d641ccc09ac4b88049183cf267632799220d1d6d86aee0bc",
+  "change": "Pandas3 Copy-on-Write shallow dataframe copies for read-only indicator sharing and isolated signal-column writes. Financial formulas unchanged.",
+  "failed_source_sha256": "4ebd2346b28c52c8899262fa4da10c902a9f343bcbdb9cac079d72ff5ae367ac"
+}

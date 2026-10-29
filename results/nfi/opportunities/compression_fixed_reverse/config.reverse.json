@@ -1,0 +1,153 @@
+{
+  "dry_run": true,
+  "dry_run_wallet": 10000,
+  "grinding_enable": true,
+  "max_open_trades": 6,
+  "stake_currency": "USDT",
+  "stake_amount": "unlimited",
+  "tradable_balance_ratio": 0.99,
+  "fiat_display_currency": "",
+  "force_entry_enable": false,
+  "initial_state": "stopped",
+  "timeframe": "5m",
+  "unfilledtimeout": {
+    "entry": 3,
+    "exit": 2,
+    "exit_timeout_count": 0,
+    "unit": "minutes"
+  },
+  "order_types": {
+    "entry": "limit",
+    "exit": "limit",
+    "emergency_exit": "limit",
+    "force_entry": "limit",
+    "force_exit": "limit",
+    "stoploss": "limit",
+    "stoploss_on_exchange": false,
+    "stoploss_on_exchange_interval": 60,
+    "stoploss_on_exchange_limit_ratio": 0.99
+  },
+  "entry_pricing": {
+    "price_side": "other",
+    "use_order_book": false,
+    "order_book_top": 1,
+    "price_last_balance": 0,
+    "check_depth_of_market": {
+      "enabled": false,
+      "bids_to_ask_delta": 1
+    }
+  },
+  "exit_pricing": {
+    "price_side": "other",
+    "use_order_book": false,
+    "order_book_top": 1,
+    "price_last_balance": 0
+  },
+  "exchange": {
+    "name": "okx",
+    "key": "",
+    "secret": "",
+    "password": "",
+    "pair_whitelist": [
+      "AR/USDT:USDT",
+      "MEW/USDT:USDT",
+      "MINA/USDT:USDT",
+      "BOME/USDT:USDT",
+      "PYTH/USDT:USDT",
+      "ATOM/USDT:USDT",
+      "RENDER/USDT:USDT",
+      "PEOPLE/USDT:USDT",
+      "ORDI/USDT:USDT",
+      "LDO/USDT:USDT",
+      "JUP/USDT:USDT",
+      "ALGO/USDT:USDT",
+      "IOST/USDT:USDT",
+      "BONK/USDT:USDT",
+      "JTO/USDT:USDT",
+      "ZK/USDT:USDT",
+      "W/USDT:USDT",
+      "RAY/USDT:USDT",
+      "ETHFI/USDT:USDT",
+      "WIF/USDT:USDT",
+      "ICP/USDT:USDT",
+      "ETC/USDT:USDT",
+      "SAND/USDT:USDT",
+      "HBAR/USDT:USDT",
+      "CRV/USDT:USDT",
+      "APT/USDT:USDT",
+      "OP/USDT:USDT",
+      "XLM/USDT:USDT",
+      "ZRO/USDT:USDT",
+      "SHIB/USDT:USDT",
+      "BAT/USDT:USDT",
+      "TRX/USDT:USDT",
+      "TIA/USDT:USDT",
+      "AVAX/USDT:USDT",
+      "DOT/USDT:USDT",
+      "INJ/USDT:USDT",
+      "ETHW/USDT:USDT",
+      "LTC/USDT:USDT",
+      "ONDO/USDT:USDT",
+      "ADA/USDT:USDT",
+      "ARB/USDT:USDT",
+      "AAVE/USDT:USDT",
+      "LINK/USDT:USDT",
+      "STRK/USDT:USDT",
+      "FIL/USDT:USDT",
+      "UNI/USDT:USDT",
+      "SUI/USDT:USDT",
+      "BNB/USDT:USDT",
+      "BCH/USDT:USDT",
+      "WLD/USDT:USDT",
+      "NEAR/USDT:USDT",
+      "DOGE/USDT:USDT",
+      "XRP/USDT:USDT",
+      "PEPE/USDT:USDT",
+      "SOL/USDT:USDT",
+      "BTC/USDT:USDT",
+      "ETH/USDT:USDT"
+    ],
+    "pair_blacklist": [],
+    "ccxt_config": {
+      "enableRateLimit": true,
+      "headers": {
+        "User-Agent": "ccxt/4.5.90"
+      },
+      "options": {
+        "fetchMarkets": {
+          "types": [
+            "swap"
+          ]
+        }
+      }
+    },
+    "ccxt_async_config": {
+      "enableRateLimit": true,
+      "aiohttp_trust_env": true,
+      "headers": {
+        "User-Agent": "ccxt/4.5.90"
+      },
+      "options": {
+        "fetchMarkets": {
+          "types": [
+            "swap"
+          ]
+        }
+      },
+      "cafile": "/etc/ssl/certs/ca-certificates.crt"
+    }
+  },
+  "internals": {
+    "process_throttle_secs": 5
+  },
+  "strategy": "NFI24Hour",
+  "trading_mode": "futures",
+  "margin_mode": "isolated",
+  "dataformat_ohlcv": "jsongz",
+  "futures_funding_rate": 0.0,
+  "pairlists": [
+    {
+      "method": "StaticPairList"
+    }
+  ]
+}

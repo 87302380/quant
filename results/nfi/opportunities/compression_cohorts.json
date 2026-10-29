@@ -1,0 +1,563 @@
+{
+  "by_exit": {
+    "research_op_long_target": {
+      "trades": 23,
+      "wins": 23,
+      "losses": 0,
+      "profit_usdt": 3980.61026841,
+      "profit_factor": null,
+      "active_days": 18,
+      "unique_pair_dates": 23,
+      "median_holding_hours": 8.75
+    },
+    "research_time_limit_24h": {
+      "trades": 33,
+      "wins": 20,
+      "losses": 13,
+      "profit_usdt": 636.88370267,
+      "profit_factor": 2.848779849963084,
+      "active_days": 30,
+      "unique_pair_dates": 33,
+      "median_holding_hours": 24.0
+    },
+    "stop_loss": {
+      "trades": 32,
+      "wins": 0,
+      "losses": 32,
+      "profit_usdt": -2920.11166232,
+      "profit_factor": 0.0,
+      "active_days": 27,
+      "unique_pair_dates": 32,
+      "median_holding_hours": 6.666666666666667
+    }
+  },
+  "by_entry_month": {
+    "2026-01": {
+      "trades": 5,
+      "wins": 3,
+      "losses": 2,
+      "profit_usdt": 43.706895810000006,
+      "profit_factor": 2.1245366761228626,
+      "active_days": 4,
+      "unique_pair_dates": 5,
+      "median_holding_hours": 19.75
+    },
+    "2026-02": {
+      "trades": 5,
+      "wins": 3,
+      "losses": 2,
+      "profit_usdt": 77.0365913,
+      "profit_factor": 1.65624853702661,
+      "active_days": 4,
+      "unique_pair_dates": 5,
+      "median_holding_hours": 3.25
+    },
+    "2026-03": {
+      "trades": 8,
+      "wins": 2,
+      "losses": 6,
+      "profit_usdt": 33.84153261,
+      "profit_factor": 1.2114591186005685,
+      "active_days": 6,
+      "unique_pair_dates": 8,
+      "median_holding_hours": 22.208333333333336
+    },
+    "2026-04": {
+      "trades": 5,
+      "wins": 0,
+      "losses": 5,
+      "profit_usdt": -240.79616755,
+      "profit_factor": 0.0,
+      "active_days": 4,
+      "unique_pair_dates": 5,
+      "median_holding_hours": 6.916666666666667
+    },
+    "2026-05": {
+      "trades": 4,
+      "wins": 3,
+      "losses": 1,
+      "profit_usdt": -55.40636205,
+      "profit_factor": 0.3336055536738088,
+      "active_days": 3,
+      "unique_pair_dates": 4,
+      "median_holding_hours": 24.0
+    },
+    "2026-06": {
+      "trades": 4,
+      "wins": 2,
+      "losses": 2,
+      "profit_usdt": -24.194383000000002,
+      "profit_factor": 0.8003741139787101,
+      "active_days": 3,
+      "unique_pair_dates": 4,
+      "median_holding_hours": 18.125
+    },
+    "2026-07": {
+      "trades": 11,
+      "wins": 3,
+      "losses": 8,
+      "profit_usdt": -194.15342669999995,
+      "profit_factor": 0.6223550758047759,
+      "active_days": 8,
+      "unique_pair_dates": 11,
+      "median_holding_hours": 18.833333333333332
+    },
+    "2026-08": {
+      "trades": 13,
+      "wins": 10,
+      "losses": 3,
+      "profit_usdt": 782.72232973,
+      "profit_factor": 4.077878498003004,
+      "active_days": 10,
+      "unique_pair_dates": 13,
+      "median_holding_hours": 21.833333333333332
+    },
+    "2026-09": {
+      "trades": 22,
+      "wins": 14,
+      "losses": 8,
+      "profit_usdt": 1733.89988727,
+      "profit_factor": 3.525848507934727,
+      "active_days": 16,
+      "unique_pair_dates": 22,
+      "median_holding_hours": 17.416666666666668
+    },
+    "2026-10": {
+      "trades": 11,
+      "wins": 3,
+      "losses": 8,
+      "profit_usdt": -459.27458865999984,
+      "profit_factor": 0.5618793857443602,
+      "active_days": 9,
+      "unique_pair_dates": 11,
+      "median_holding_hours": 8.583333333333334
+    }
+  },
+  "by_pair": {
+    "AAVE/USDT:USDT": {
+      "trades": 3,
+      "wins": 3,
+      "losses": 0,
+      "profit_usdt": 246.1569995,
+      "profit_factor": null,
+      "active_days": 3,
+      "unique_pair_dates": 3,
+      "median_holding_hours": 21.166666666666668
+    },
+    "ADA/USDT:USDT": {
+      "trades": 2,
+      "wins": 1,
+      "losses": 1,
+      "profit_usdt": 43.768637,
+      "profit_factor": 1.915800113255591,
+      "active_days": 2,
+      "unique_pair_dates": 2,
+      "median_holding_hours": 22.625
+    },
+    "ALGO/USDT:USDT": {
+      "trades": 2,
+      "wins": 1,
+      "losses": 1,
+      "profit_usdt": 66.76885189999999,
+      "profit_factor": 1.803055650063853,
+      "active_days": 2,
+      "unique_pair_dates": 2,
+      "median_holding_hours": 12.583333333333334
+    },
+    "AR/USDT:USDT": {
+      "trades": 2,
+      "wins": 1,
+      "losses": 1,
+      "profit_usdt": 114.3266883,
+      "profit_factor": 6.953499850876991,
+      "active_days": 2,
+      "unique_pair_dates": 2,
+      "median_holding_hours": 16.25
+    },
+    "ARB/USDT:USDT": {
+      "trades": 1,
+      "wins": 1,
+      "losses": 0,
+      "profit_usdt": 283.92446197,
+      "profit_factor": null,
+      "active_days": 1,
+      "unique_pair_dates": 1,
+      "median_holding_hours": 1.6666666666666667
+    },
+    "ATOM/USDT:USDT": {
+      "trades": 3,
+      "wins": 2,
+      "losses": 1,
+      "profit_usdt": 207.2647865,
+      "profit_factor": 5.754026476375436,
+      "active_days": 3,
+      "unique_pair_dates": 3,
+      "median_holding_hours": 21.833333333333332
+    },
+    "BAT/USDT:USDT": {
+      "trades": 1,
+      "wins": 0,
+      "losses": 1,
+      "profit_usdt": -79.554792,
+      "profit_factor": 0.0,
+      "active_days": 1,
+      "unique_pair_dates": 1,
+      "median_holding_hours": 6.333333333333333
+    },
+    "BCH/USDT:USDT": {
+      "trades": 2,
+      "wins": 0,
+      "losses": 2,
+      "profit_usdt": -120.1041595,
+      "profit_factor": 0.0,
+      "active_days": 2,
+      "unique_pair_dates": 2,
+      "median_holding_hours": 11.541666666666666
+    },
+    "BNB/USDT:USDT": {
+      "trades": 3,
+      "wins": 2,
+      "losses": 1,
+      "profit_usdt": 78.386788,
+      "profit_factor": 6.645544928682733,
+      "active_days": 3,
+      "unique_pair_dates": 3,
+      "median_holding_hours": 13.0
+    },
+    "BOME/USDT:USDT": {
+      "trades": 3,
+      "wins": 1,
+      "losses": 2,
+      "profit_usdt": -115.84509220000001,
+      "profit_factor": 0.593438157519026,
+      "active_days": 3,
+      "unique_pair_dates": 3,
+      "median_holding_hours": 8.583333333333334
+    },
+    "BONK/USDT:USDT": {
+      "trades": 1,
+      "wins": 0,
+      "losses": 1,
+      "profit_usdt": -114.350467,
+      "profit_factor": 0.0,
+      "active_days": 1,
+      "unique_pair_dates": 1,
+      "median_holding_hours": 5.333333333333333
+    },
+    "BTC/USDT:USDT": {
+      "trades": 2,
+      "wins": 1,
+      "losses": 1,
+      "profit_usdt": -4.127410279999999,
+      "profit_factor": 0.7642152377635048,
+      "active_days": 2,
+      "unique_pair_dates": 2,
+      "median_holding_hours": 24.0
+    },
+    "CRV/USDT:USDT": {
+      "trades": 5,
+      "wins": 2,
+      "losses": 3,
+      "profit_usdt": -56.20503009999999,
+      "profit_factor": 0.7770991170983048,
+      "active_days": 5,
+      "unique_pair_dates": 5,
+      "median_holding_hours": 24.0
+    },
+    "DOGE/USDT:USDT": {
+      "trades": 2,
+      "wins": 1,
+      "losses": 1,
+      "profit_usdt": 18.02306335,
+      "profit_factor": 1.5217721942009133,
+      "active_days": 2,
+      "unique_pair_dates": 2,
+      "median_holding_hours": 2.2916666666666665
+    },
+    "DOT/USDT:USDT": {
+      "trades": 2,
+      "wins": 1,
+      "losses": 1,
+      "profit_usdt": -114.82114945,
+      "profit_factor": 0.059733349967200665,
+      "active_days": 2,
+      "unique_pair_dates": 2,
+      "median_holding_hours": 12.75
+    },
+    "ETC/USDT:USDT": {
+      "trades": 1,
+      "wins": 1,
+      "losses": 0,
+      "profit_usdt": 11.4167064,
+      "profit_factor": null,
+      "active_days": 1,
+      "unique_pair_dates": 1,
+      "median_holding_hours": 24.0
+    },
+    "ETH/USDT:USDT": {
+      "trades": 1,
+      "wins": 1,
+      "losses": 0,
+      "profit_usdt": 22.97957896,
+      "profit_factor": null,
+      "active_days": 1,
+      "unique_pair_dates": 1,
+      "median_holding_hours": 24.0
+    },
+    "ETHFI/USDT:USDT": {
+      "trades": 1,
+      "wins": 1,
+      "losses": 0,
+      "profit_usdt": 260.22458175,
+      "profit_factor": null,
+      "active_days": 1,
+      "unique_pair_dates": 1,
+      "median_holding_hours": 9.833333333333334
+    },
+    "ETHW/USDT:USDT": {
+      "trades": 1,
+      "wins": 0,
+      "losses": 1,
+      "profit_usdt": -50.41540679,
+      "profit_factor": 0.0,
+      "active_days": 1,
+      "unique_pair_dates": 1,
+      "median_holding_hours": 7.416666666666667
+    },
+    "FIL/USDT:USDT": {
+      "trades": 3,
+      "wins": 1,
+      "losses": 2,
+      "profit_usdt": 108.36370260999999,
+      "profit_factor": 1.599855707968037,
+      "active_days": 3,
+      "unique_pair_dates": 3,
+      "median_holding_hours": 5.5
+    },
+    "ICP/USDT:USDT": {
+      "trades": 1,
+      "wins": 0,
+      "losses": 1,
+      "profit_usdt": -113.61516953,
+      "profit_factor": 0.0,
+      "active_days": 1,
+      "unique_pair_dates": 1,
+      "median_holding_hours": 6.416666666666667
+    },
+    "INJ/USDT:USDT": {
+      "trades": 1,
+      "wins": 0,
+      "losses": 1,
+      "profit_usdt": -112.327544,
+      "profit_factor": 0.0,
+      "active_days": 1,
+      "unique_pair_dates": 1,
+      "median_holding_hours": 12.25
+    },
+    "JUP/USDT:USDT": {
+      "trades": 1,
+      "wins": 0,
+      "losses": 1,
+      "profit_usdt": -59.4457395,
+      "profit_factor": 0.0,
+      "active_days": 1,
+      "unique_pair_dates": 1,
+      "median_holding_hours": 24.0
+    },
+    "LDO/USDT:USDT": {
+      "trades": 1,
+      "wins": 1,
+      "losses": 0,
+      "profit_usdt": 285.740707,
+      "profit_factor": null,
+      "active_days": 1,
+      "unique_pair_dates": 1,
+      "median_holding_hours": 16.666666666666668
+    },
+    "LTC/USDT:USDT": {
+      "trades": 1,
+      "wins": 1,
+      "losses": 0,
+      "profit_usdt": 66.586239,
+      "profit_factor": null,
+      "active_days": 1,
+      "unique_pair_dates": 1,
+      "median_holding_hours": 3.5833333333333335
+    },
+    "MINA/USDT:USDT": {
+      "trades": 4,
+      "wins": 1,
+      "losses": 3,
+      "profit_usdt": -97.89941615000001,
+      "profit_factor": 0.6458404593405732,
+      "active_days": 4,
+      "unique_pair_dates": 4,
+      "median_holding_hours": 11.916666666666668
+    },
+    "NEAR/USDT:USDT": {
+      "trades": 2,
+      "wins": 1,
+      "losses": 1,
+      "profit_usdt": 76.15817419999999,
+      "profit_factor": 5.2714194414031725,
+      "active_days": 2,
+      "unique_pair_dates": 2,
+      "median_holding_hours": 18.125
+    },
+    "ONDO/USDT:USDT": {
+      "trades": 3,
+      "wins": 2,
+      "losses": 1,
+      "profit_usdt": 223.09463700000003,
+      "profit_factor": 2.937833779480125,
+      "active_days": 3,
+      "unique_pair_dates": 3,
+      "median_holding_hours": 8.0
+    },
+    "ORDI/USDT:USDT": {
+      "trades": 3,
+      "wins": 3,
+      "losses": 0,
+      "profit_usdt": 147.42979545,
+      "profit_factor": null,
+      "active_days": 3,
+      "unique_pair_dates": 3,
+      "median_holding_hours": 24.0
+    },
+    "RAY/USDT:USDT": {
+      "trades": 1,
+      "wins": 1,
+      "losses": 0,
+      "profit_usdt": 363.5021565,
+      "profit_factor": null,
+      "active_days": 1,
+      "unique_pair_dates": 1,
+      "median_holding_hours": 6.166666666666667
+    },
+    "RENDER/USDT:USDT": {
+      "trades": 1,
+      "wins": 1,
+      "losses": 0,
+      "profit_usdt": 99.891828,
+      "profit_factor": null,
+      "active_days": 1,
+      "unique_pair_dates": 1,
+      "median_holding_hours": 24.0
+    },
+    "SAND/USDT:USDT": {
+      "trades": 1,
+      "wins": 0,
+      "losses": 1,
+      "profit_usdt": -50.1795665,
+      "profit_factor": 0.0,
+      "active_days": 1,
+      "unique_pair_dates": 1,
+      "median_holding_hours": 19.583333333333332
+    },
+    "STRK/USDT:USDT": {
+      "trades": 1,
+      "wins": 1,
+      "losses": 0,
+      "profit_usdt": 129.04275983,
+      "profit_factor": null,
+      "active_days": 1,
+      "unique_pair_dates": 1,
+      "median_holding_hours": 1.5833333333333333
+    },
+    "SUI/USDT:USDT": {
+      "trades": 3,
+      "wins": 3,
+      "losses": 0,
+      "profit_usdt": 238.19865380000002,
+      "profit_factor": null,
+      "active_days": 3,
+      "unique_pair_dates": 3,
+      "median_holding_hours": 24.0
+    },
+    "TIA/USDT:USDT": {
+      "trades": 1,
+      "wins": 0,
+      "losses": 1,
+      "profit_usdt": -95.9575872,
+      "profit_factor": 0.0,
+      "active_days": 1,
+      "unique_pair_dates": 1,
+      "median_holding_hours": 18.833333333333332
+    },
+    "TRX/USDT:USDT": {
+      "trades": 6,
+      "wins": 3,
+      "losses": 3,
+      "profit_usdt": 19.564050550000005,
+      "profit_factor": 1.3036510623661826,
+      "active_days": 6,
+      "unique_pair_dates": 6,
+      "median_holding_hours": 24.0
+    },
+    "UNI/USDT:USDT": {
+      "trades": 5,
+      "wins": 3,
+      "losses": 2,
+      "profit_usdt": 494.090599,
+      "profit_factor": 3.995321967970766,
+      "active_days": 5,
+      "unique_pair_dates": 5,
+      "median_holding_hours": 10.916666666666666
+    },
+    "W/USDT:USDT": {
+      "trades": 1,
+      "wins": 0,
+      "losses": 1,
+      "profit_usdt": -160.33633951,
+      "profit_factor": 0.0,
+      "active_days": 1,
+      "unique_pair_dates": 1,
+      "median_holding_hours": 1.75
+    },
+    "WLD/USDT:USDT": {
+      "trades": 3,
+      "wins": 0,
+      "losses": 3,
+      "profit_usdt": -222.5648067,
+      "profit_factor": 0.0,
+      "active_days": 3,
+      "unique_pair_dates": 3,
+      "median_holding_hours": 19.166666666666668
+    },
+    "XLM/USDT:USDT": {
+      "trades": 2,
+      "wins": 1,
+      "losses": 1,
+      "profit_usdt": -17.815934400000003,
+      "profit_factor": 0.3013543830040824,
+      "active_days": 2,
+      "unique_pair_dates": 2,
+      "median_holding_hours": 24.0
+    },
+    "XRP/USDT:USDT": {
+      "trades": 2,
+      "wins": 0,
+      "losses": 2,
+      "profit_usdt": -46.798919299999994,
+      "profit_factor": 0.0,
+      "active_days": 2,
+      "unique_pair_dates": 2,
+      "median_holding_hours": 14.583333333333334
+    },
+    "ZRO/USDT:USDT": {
+      "trades": 3,
+      "wins": 0,
+      "losses": 3,
+      "profit_usdt": -275.15760769999997,
+      "profit_factor": 0.0,
+      "active_days": 3,
+      "unique_pair_dates": 3,
+      "median_holding_hours": 2.4166666666666665
+    }
+  },
+  "top_5_winner_profit_usdt": 1537.54339693,
+  "total_extra_net_usdt": 1697.38230876,
+  "warning": "Posthoc compression selection after subgroup outcomes. Cohorts are description only, not filters. Entry month uses UTC; active-day counts use Asia/Shanghai.",
+  "average_win_usdt": 115.39494502860465,
+  "average_loss_usdt": 72.54667394377778
+}
