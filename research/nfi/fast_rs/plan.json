@@ -1,0 +1,32 @@
+{
+  "fixed": {
+    "universe": 57,
+    "leverage": 3,
+    "slots": 6,
+    "no_adds": true,
+    "deadline_hours": 24,
+    "fee": 0.0005,
+    "funding": 0,
+    "base": "NFIShortATRGated: original long exits, short 2x1hATR/2R and fee-aware 1% planned risk capped by original initial margin; BTC4h bear gate covers all shorts"
+  },
+  "variants": {
+    "control": "same engine/data pipeline, no RS filters",
+    "both15": "long positive / short negative 15m log relative return",
+    "both60": "long positive / short negative 1h log relative return",
+    "both240": "long positive / short negative 4h log relative return",
+    "short60": "only filter shorts, isolate direction",
+    "long60": "only filter longs, isolate direction",
+    "confirm": "1h and 4h relative return signs agree",
+    "beta60": "1h residual with 7-day beta fit ending before measured hour",
+    "momentum60": "1h relative sign plus same-direction absolute coin return"
+  },
+  "benchmark": "BTC exempt from self-relative filtering in every case",
+  "availability": "closed synchronous 5m bars; gaps invalidate lookbacks; beta no fitting within score horizon",
+  "interpretation": [
+    "fixed horizons, no threshold grid",
+    "no position multipliers or new entry triggers",
+    "each horizon is a rolling return updated each 5m, not one native HTF bar",
+    "seen history, not independent OOS",
+    "filters select among NFI entries; no cross-sectional top-k ordering claim"
+  ]
+}

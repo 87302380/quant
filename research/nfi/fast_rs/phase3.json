@@ -1,0 +1,11 @@
+{
+  "reason": "both-side filters across three horizons are confounded by deletion of mean-reversion long winners; complete short-only horizon comparison rather than infer short15/short240 from combined filters",
+  "adaptive_seen_history": true,
+  "variants": [
+    "short15",
+    "short240"
+  ],
+  "unchanged": "same initially fixed 15m/1h/4h windows and strict sign, no thresholds or sizing scan",
+  "completed_expected_replays": 18,
+  "qualification_if_material_improvement": "If a new short horizon beats control full-period return with no higher sampled DD, rerun that candidate fee10 and fresh July; declare adaptive selection, not OOS."
+}

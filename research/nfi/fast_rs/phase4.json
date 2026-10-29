@@ -1,0 +1,12 @@
+{
+  "trigger": "short240 continuous July-Oct31.975% vs control30.008%, despite lower full-period207.999% vs239.256%; recent rebound context remains relevant",
+  "adaptive_seen_history": true,
+  "variant": "short240",
+  "checks": [
+    "fresh July10000 wallet",
+    "full-period fee10"
+  ],
+  "reason": "do not mistake continuous prior capital for recent selection advantage; quantify tradeoff rather than call overall winner",
+  "expected_total_replays": 20,
+  "not_oos": true
+}

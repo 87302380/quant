@@ -1,0 +1,15 @@
+{
+  "fresh_july_same_10000_wallet": [
+    "both60",
+    "short60",
+    "confirm"
+  ],
+  "full_ytd_fee10": [
+    "both60",
+    "short60",
+    "confirm"
+  ],
+  "references": "new control must match old NFIShortATRGated; prior gated_july and gated_fee10 reused only after matched full-period control audit",
+  "independent_oos": false,
+  "reason": "fixed simple hour, short-only ablation and dual-horizon confirmation selected before current result inspection; other windows and beta are exploratory controls"
+}

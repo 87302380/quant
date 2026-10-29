@@ -1,0 +1,171 @@
+{
+  "status": "passed",
+  "engine_replays": 20,
+  "unit_tests": 106,
+  "control_matches_previous_gated_exactly": true,
+  "funding_excluded": true,
+  "independent_oos": false,
+  "snapshot_not_live": true,
+  "records": {
+    "beta60": {
+      "archive_sha256": "fb8a1e76590d9a468c94b3afedeeda01ff079de70e9bf85d563672d97cf139ae",
+      "campaigns": 159,
+      "qualified": true,
+      "fee": 0.0005,
+      "class_ast_matches": true,
+      "source_sha_matches_execution": true
+    },
+    "both15": {
+      "archive_sha256": "93ba23067bd22ad558875ea986a7e661f46744b0e7f4cfe0775af110e471df5b",
+      "campaigns": 184,
+      "qualified": true,
+      "fee": 0.0005,
+      "class_ast_matches": true,
+      "source_sha_matches_execution": true
+    },
+    "both240": {
+      "archive_sha256": "bb7d182bd10d7dded22473e6b9e7810bda4e8ccec541115333e89b33d5ae15b0",
+      "campaigns": 165,
+      "qualified": true,
+      "fee": 0.0005,
+      "class_ast_matches": true,
+      "source_sha_matches_execution": true
+    },
+    "both60": {
+      "archive_sha256": "d916ace5cf25369c7c09173f496427cc4b2619f90c1ad26496cb36c6c42858e6",
+      "campaigns": 164,
+      "qualified": true,
+      "fee": 0.0005,
+      "class_ast_matches": true,
+      "source_sha_matches_execution": true
+    },
+    "both60_fee10": {
+      "archive_sha256": "b077e6b3a9f9b9190f25a02a1467eb4234254bbe7688670e323c502a102a7cd5",
+      "campaigns": 164,
+      "qualified": true,
+      "fee": 0.001,
+      "class_ast_matches": true,
+      "source_sha_matches_execution": true
+    },
+    "both60_july": {
+      "archive_sha256": "0625a93d3f7be5695b7ec936a45cb13f8525d5ff0a4012b858fa702b6dcd989d",
+      "campaigns": 29,
+      "qualified": true,
+      "fee": 0.0005,
+      "class_ast_matches": true,
+      "source_sha_matches_execution": true
+    },
+    "confirm": {
+      "archive_sha256": "b541682793762083f867b4900f91189cf0560f3373b9bf16e7b9a19197bbe60b",
+      "campaigns": 135,
+      "qualified": true,
+      "fee": 0.0005,
+      "class_ast_matches": true,
+      "source_sha_matches_execution": true
+    },
+    "confirm_fee10": {
+      "archive_sha256": "e18b2bd60d79382018d7cc36d7b4104fc131c88e8d568b8155045fa288cd7766",
+      "campaigns": 135,
+      "qualified": true,
+      "fee": 0.001,
+      "class_ast_matches": true,
+      "source_sha_matches_execution": true
+    },
+    "confirm_july": {
+      "archive_sha256": "b9b3e574ecc7f997efbc03416320c17e779f5ebb504a7d440a5e1e70488a9fa5",
+      "campaigns": 26,
+      "qualified": true,
+      "fee": 0.0005,
+      "class_ast_matches": true,
+      "source_sha_matches_execution": true
+    },
+    "control": {
+      "archive_sha256": "0b01dbbc51e8da4c6d7e53f023ec39238b7e51d8e47dc2bd3033b400e7a53ec9",
+      "campaigns": 302,
+      "qualified": true,
+      "fee": 0.0005,
+      "class_ast_matches": true,
+      "source_sha_matches_execution": true
+    },
+    "improving_long": {
+      "archive_sha256": "1b635636086ae24b1407e68ed98f0c6a4aa2a0953ed048d826a05243cf3247ec",
+      "campaigns": 254,
+      "qualified": true,
+      "fee": 0.0005,
+      "class_ast_matches": true,
+      "source_sha_matches_execution": true
+    },
+    "long60": {
+      "archive_sha256": "d812c0154aba10a27c7e46970b173499dc1a9b0a1ba3ff877f5b8529a30ffa7a",
+      "campaigns": 217,
+      "qualified": true,
+      "fee": 0.0005,
+      "class_ast_matches": true,
+      "source_sha_matches_execution": true
+    },
+    "momentum60": {
+      "archive_sha256": "cdacccddbe4ec1fbf4174060ad0eb4a1e772d97fbbc284233af9e643521e07cb",
+      "campaigns": 154,
+      "qualified": true,
+      "fee": 0.0005,
+      "class_ast_matches": true,
+      "source_sha_matches_execution": true
+    },
+    "short15": {
+      "archive_sha256": "e5ebcb67fc865de1958acffa2a7824ac23695047822502829626fab521b1372c",
+      "campaigns": 258,
+      "qualified": true,
+      "fee": 0.0005,
+      "class_ast_matches": true,
+      "source_sha_matches_execution": true
+    },
+    "short240": {
+      "archive_sha256": "a1476b5a5bbb84b5071f280d7dc0265787077e39f402cb3bfd8f9569b9047b14",
+      "campaigns": 241,
+      "qualified": true,
+      "fee": 0.0005,
+      "class_ast_matches": true,
+      "source_sha_matches_execution": true
+    },
+    "short240_fee10": {
+      "archive_sha256": "9d986966558b98692280d96c5c4834acce33c3bb45f6b780a7b1442c00e18256",
+      "campaigns": 241,
+      "qualified": true,
+      "fee": 0.001,
+      "class_ast_matches": true,
+      "source_sha_matches_execution": true
+    },
+    "short240_july": {
+      "archive_sha256": "40603fd2bfb4d116220e8e11e0fe0a6ae3e53d66fa4797e62e8f151d7386339f",
+      "campaigns": 71,
+      "qualified": true,
+      "fee": 0.0005,
+      "class_ast_matches": true,
+      "source_sha_matches_execution": true
+    },
+    "short60": {
+      "archive_sha256": "735f85deec8fe03a6d1e5d1455a95beddf44b05f0e115000166f31d28d95ad99",
+      "campaigns": 252,
+      "qualified": true,
+      "fee": 0.0005,
+      "class_ast_matches": true,
+      "source_sha_matches_execution": true
+    },
+    "short60_fee10": {
+      "archive_sha256": "fd9e2b6721cda5470ddf9f0b4f3fcab97ca796cbcbdda3c66f03539896d94f15",
+      "campaigns": 252,
+      "qualified": true,
+      "fee": 0.001,
+      "class_ast_matches": true,
+      "source_sha_matches_execution": true
+    },
+    "short60_july": {
+      "archive_sha256": "9e8831d0f688af6f5535d20b1534de99974f8483ea2e9ad4de8d3177ffcb570a",
+      "campaigns": 70,
+      "qualified": true,
+      "fee": 0.0005,
+      "class_ast_matches": true,
+      "source_sha_matches_execution": true
+    }
+  }
+}

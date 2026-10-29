@@ -114,3 +114,7 @@ python nfi_verify.py
 ## 固定风险空头实验（2026-10-29）
 
 按用户最新要求取消增加仓位方向，研究ATR退出、BTC熊态门控及个币相对弱势。方案见[atr_short/plan.json](atr_short/plan.json)，报告见[固定风险空头实验](../../results/nfi/atr_short/REPORT.md)，入口`python nfi_atr_short.py`。所有变体沿用24h期限和实际引擎，未启动实盘。
+
+## 小周期相对BTC强弱（2026-10-29）
+
+使用已收盘5m滚动计算15m/1h/4h强弱，测试多空分方向过滤和Beta残差，不增加初始仓位。方案见[fast_rs/plan.json](fast_rs/plan.json)，报告见[fast_rs研究](../../results/nfi/fast_rs/REPORT.md)，入口`python nfi_fast_rs.py`。

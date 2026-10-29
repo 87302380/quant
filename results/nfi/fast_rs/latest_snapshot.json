@@ -1,0 +1,578 @@
+{
+  "asof_shanghai": "2026-10-29 11:10:00+08:00",
+  "asof_utc": "2026-10-29 03:10:00+00:00",
+  "frozen_history_not_live": true,
+  "warning": "Historical observation only; strength alone does not trigger an NFI order. Raw same-window relative ranking equals coin USDT return ranking; beta-adjusted values can rank differently.",
+  "unavailable": [],
+  "ranked_ex_btc": [
+    {
+      "pair": "BOME/USDT:USDT",
+      "coin_1h_return_pct": 0.9491634491634158,
+      "btc_ratio_15m_return_pct": -0.06525585964455302,
+      "btc_ratio_60m_return_pct": 1.1039936483064166,
+      "btc_ratio_240m_return_pct": -0.9665804700377524,
+      "beta_estimate": 1.8099945786608682,
+      "beta_adjusted_1h_log_return_pct": 1.2220814017445318,
+      "relative_1h_rank": 1
+    },
+    {
+      "pair": "W/USDT:USDT",
+      "coin_1h_return_pct": 0.760487366096963,
+      "btc_ratio_15m_return_pct": -0.034602785350472474,
+      "btc_ratio_60m_return_pct": 0.9150281843821482,
+      "btc_ratio_240m_return_pct": -0.6077326578282818,
+      "beta_estimate": 1.7244859416140383,
+      "beta_adjusted_1h_log_return_pct": 1.0218996540877388,
+      "relative_1h_rank": 2
+    },
+    {
+      "pair": "IOST/USDT:USDT",
+      "coin_1h_return_pct": 0.6623376623376636,
+      "btc_ratio_15m_return_pct": 0.7189983988417912,
+      "btc_ratio_60m_return_pct": 0.8167279440789125,
+      "btc_ratio_240m_return_pct": -0.35740598514677074,
+      "beta_estimate": 1.127671187318301,
+      "beta_adjusted_1h_log_return_pct": 0.8329772644858716,
+      "relative_1h_rank": 3
+    },
+    {
+      "pair": "ATOM/USDT:USDT",
+      "coin_1h_return_pct": 0.5671077504726002,
+      "btc_ratio_15m_return_pct": 0.40777210164458916,
+      "btc_ratio_60m_return_pct": 0.7213519738839467,
+      "btc_ratio_240m_return_pct": -1.026852963507545,
+      "beta_estimate": 1.4342604001225105,
+      "beta_adjusted_1h_log_return_pct": 0.7853160893647771,
+      "relative_1h_rank": 4
+    },
+    {
+      "pair": "AAVE/USDT:USDT",
+      "coin_1h_return_pct": 0.526601099667018,
+      "btc_ratio_15m_return_pct": 0.06113237869477875,
+      "btc_ratio_60m_return_pct": 0.6807831962355402,
+      "btc_ratio_240m_return_pct": -1.8431303599855742,
+      "beta_estimate": 1.850584759309856,
+      "beta_adjusted_1h_log_return_pct": 0.8088343374697682,
+      "relative_1h_rank": 5
+    },
+    {
+      "pair": "ONDO/USDT:USDT",
+      "coin_1h_return_pct": 0.4451038575667721,
+      "btc_ratio_15m_return_pct": 0.17827308968916147,
+      "btc_ratio_60m_return_pct": 0.5991609582087027,
+      "btc_ratio_240m_return_pct": -1.8836161324681227,
+      "beta_estimate": 1.9021776008150546,
+      "beta_adjusted_1h_log_return_pct": 0.7356380931617933,
+      "relative_1h_rank": 6
+    },
+    {
+      "pair": "ZRO/USDT:USDT",
+      "coin_1h_return_pct": 0.39508611642694896,
+      "btc_ratio_15m_return_pct": -0.312962982031364,
+      "btc_ratio_60m_return_pct": 0.5490665026459288,
+      "btc_ratio_240m_return_pct": -1.5769398105881498,
+      "beta_estimate": 2.1622406356309507,
+      "beta_adjusted_1h_log_return_pct": 0.7256860554637765,
+      "relative_1h_rank": 7
+    },
+    {
+      "pair": "WIF/USDT:USDT",
+      "coin_1h_return_pct": 0.3941441441441266,
+      "btc_ratio_15m_return_pct": 0.14262976186935747,
+      "btc_ratio_60m_return_pct": 0.5481230856185326,
+      "btc_ratio_240m_return_pct": -1.4422844749317854,
+      "beta_estimate": 1.8099521031108219,
+      "beta_adjusted_1h_log_return_pct": 0.6707571279246637,
+      "relative_1h_rank": 8
+    },
+    {
+      "pair": "XLM/USDT:USDT",
+      "coin_1h_return_pct": 0.3346080305927409,
+      "btc_ratio_15m_return_pct": 0.030299274194797433,
+      "btc_ratio_60m_return_pct": 0.48849565889522545,
+      "btc_ratio_240m_return_pct": -1.0757915199687824,
+      "beta_estimate": 1.3340805023373223,
+      "beta_adjusted_1h_log_return_pct": 0.5385065413591467,
+      "relative_1h_rank": 9
+    },
+    {
+      "pair": "TRX/USDT:USDT",
+      "coin_1h_return_pct": 0.3219144800777439,
+      "btc_ratio_15m_return_pct": 0.04544207283755241,
+      "btc_ratio_60m_return_pct": 0.47578263972009377,
+      "btc_ratio_240m_return_pct": 1.9520060582895566,
+      "beta_estimate": 0.1092679284853857,
+      "beta_adjusted_1h_log_return_pct": 0.3381435116340136,
+      "relative_1h_rank": 10
+    },
+    {
+      "pair": "PEOPLE/USDT:USDT",
+      "coin_1h_return_pct": 0.30748663101603885,
+      "btc_ratio_15m_return_pct": 0.1504317392959356,
+      "btc_ratio_60m_return_pct": 0.4613326620278275,
+      "btc_ratio_240m_return_pct": -1.3650218464961954,
+      "beta_estimate": 1.785269308635294,
+      "beta_adjusted_1h_log_return_pct": 0.5806197453187245,
+      "relative_1h_rank": 11
+    },
+    {
+      "pair": "BONK/USDT:USDT",
+      "coin_1h_return_pct": 0.29459901800322447,
+      "btc_ratio_15m_return_pct": -0.16519968204141044,
+      "btc_ratio_60m_return_pct": 0.448425282712638,
+      "btc_ratio_240m_return_pct": -1.7939812809558622,
+      "beta_estimate": 2.010751703131989,
+      "beta_adjusted_1h_log_return_pct": 0.6023275518853813,
+      "relative_1h_rank": 12
+    },
+    {
+      "pair": "MINA/USDT:USDT",
+      "coin_1h_return_pct": 0.2538876547127988,
+      "btc_ratio_15m_return_pct": 0.26835329436183514,
+      "btc_ratio_60m_return_pct": 0.40765147860279116,
+      "btc_ratio_240m_return_pct": -1.267916140884476,
+      "beta_estimate": 1.7730643596354119,
+      "beta_adjusted_1h_log_return_pct": 0.5253002991047924,
+      "relative_1h_rank": 13
+    },
+    {
+      "pair": "LDO/USDT:USDT",
+      "coin_1h_return_pct": 0.21905805038335982,
+      "btc_ratio_15m_return_pct": 0.386864640403874,
+      "btc_ratio_60m_return_pct": 0.37276845456792673,
+      "btc_ratio_240m_return_pct": -1.7527564145797232,
+      "beta_estimate": 1.8583014153948272,
+      "beta_adjusted_1h_log_return_pct": 0.5036160318868493,
+      "relative_1h_rank": 14
+    },
+    {
+      "pair": "ADA/USDT:USDT",
+      "coin_1h_return_pct": 0.20283975659230574,
+      "btc_ratio_15m_return_pct": 0.23320048976112911,
+      "btc_ratio_60m_return_pct": 0.35652528606200007,
+      "btc_ratio_240m_return_pct": -2.2909831214080376,
+      "beta_estimate": 1.738422369813832,
+      "beta_adjusted_1h_log_return_pct": 0.4690595842516673,
+      "relative_1h_rank": 15
+    },
+    {
+      "pair": "ORDI/USDT:USDT",
+      "coin_1h_return_pct": 0.19618834080716946,
+      "btc_ratio_15m_return_pct": 0.33903476578181285,
+      "btc_ratio_60m_return_pct": 0.34986366870613844,
+      "btc_ratio_240m_return_pct": -1.1129703036452994,
+      "beta_estimate": 1.6080576831766267,
+      "beta_adjusted_1h_log_return_pct": 0.4424421213231694,
+      "relative_1h_rank": 16
+    },
+    {
+      "pair": "BCH/USDT:USDT",
+      "coin_1h_return_pct": 0.19180904344115934,
+      "btc_ratio_15m_return_pct": -0.06535908382752434,
+      "btc_ratio_60m_return_pct": 0.34547765461796714,
+      "btc_ratio_240m_return_pct": -1.0871844620566744,
+      "beta_estimate": 1.5057806463601948,
+      "beta_adjusted_1h_log_return_pct": 0.4223966389503949,
+      "relative_1h_rank": 17
+    },
+    {
+      "pair": "BNB/USDT:USDT",
+      "coin_1h_return_pct": 0.1753610966091917,
+      "btc_ratio_15m_return_pct": 0.023616241332587436,
+      "btc_ratio_60m_return_pct": 0.32900448084209555,
+      "btc_ratio_240m_return_pct": 0.6115385604414691,
+      "beta_estimate": 0.9188031235085576,
+      "beta_adjusted_1h_log_return_pct": 0.3160204615201447,
+      "relative_1h_rank": 18
+    },
+    {
+      "pair": "SOL/USDT:USDT",
+      "coin_1h_return_pct": 0.17052863878019142,
+      "btc_ratio_15m_return_pct": -0.0797670749116334,
+      "btc_ratio_60m_return_pct": 0.32416461125867896,
+      "btc_ratio_240m_return_pct": -0.7895401279714847,
+      "beta_estimate": 1.342769440597128,
+      "beta_adjusted_1h_log_return_pct": 0.37617212153633295,
+      "relative_1h_rank": 19
+    },
+    {
+      "pair": "HBAR/USDT:USDT",
+      "coin_1h_return_pct": 0.1640240568616575,
+      "btc_ratio_15m_return_pct": -0.1740388014027468,
+      "btc_ratio_60m_return_pct": 0.3176500529750185,
+      "btc_ratio_240m_return_pct": -0.5302506588026186,
+      "beta_estimate": 1.3984362854737866,
+      "beta_adjusted_1h_log_return_pct": 0.3782097316379283,
+      "relative_1h_rank": 20
+    },
+    {
+      "pair": "ETHFI/USDT:USDT",
+      "coin_1h_return_pct": 0.13704888076747537,
+      "btc_ratio_15m_return_pct": 0.39671062684752045,
+      "btc_ratio_60m_return_pct": 0.2906335038595663,
+      "btc_ratio_240m_return_pct": -2.206871860479247,
+      "beta_estimate": 1.9491760578483823,
+      "beta_adjusted_1h_log_return_pct": 0.43567978675453833,
+      "relative_1h_rank": 21
+    },
+    {
+      "pair": "ETC/USDT:USDT",
+      "coin_1h_return_pct": 0.10859237138589896,
+      "btc_ratio_15m_return_pct": -0.13219748921257998,
+      "btc_ratio_60m_return_pct": 0.26213334947030553,
+      "btc_ratio_240m_return_pct": -1.3787638967845004,
+      "beta_estimate": 1.3290462466532849,
+      "beta_adjusted_1h_log_return_pct": 0.3122189957434526,
+      "relative_1h_rank": 22
+    },
+    {
+      "pair": "ARB/USDT:USDT",
+      "coin_1h_return_pct": 0.08501852189225251,
+      "btc_ratio_15m_return_pct": 0.11534355608211445,
+      "btc_ratio_60m_return_pct": 0.23852334372051037,
+      "btc_ratio_240m_return_pct": -2.8122933811415782,
+      "beta_estimate": 2.0165643040840964,
+      "beta_adjusted_1h_log_return_pct": 0.3940348493830369,
+      "relative_1h_rank": 23
+    },
+    {
+      "pair": "STRK/USDT:USDT",
+      "coin_1h_return_pct": 0.06621054954753267,
+      "btc_ratio_15m_return_pct": -0.12389850050667278,
+      "btc_ratio_60m_return_pct": 0.21968652475632275,
+      "btc_ratio_240m_return_pct": -1.6630835324761468,
+      "beta_estimate": 1.801314044189228,
+      "beta_adjusted_1h_log_return_pct": 0.34225249449266243,
+      "relative_1h_rank": 24
+    },
+    {
+      "pair": "DOGE/USDT:USDT",
+      "coin_1h_return_pct": 0.051361068310200764,
+      "btc_ratio_15m_return_pct": 0.017463357439476388,
+      "btc_ratio_60m_return_pct": 0.20481426821250398,
+      "btc_ratio_240m_return_pct": -0.7332138587422934,
+      "beta_estimate": 1.3541105268012408,
+      "beta_adjusted_1h_log_return_pct": 0.2588747007965904,
+      "relative_1h_rank": 25
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "coin_1h_return_pct": 0.0,
+      "btc_ratio_15m_return_pct": 0.03952290713850793,
+      "btc_ratio_60m_return_pct": 0.15337442515902694,
+      "btc_ratio_240m_return_pct": -2.437058278400329,
+      "beta_estimate": 1.8182277665187994,
+      "beta_adjusted_1h_log_return_pct": 0.27865599956260323,
+      "relative_1h_rank": 26
+    },
+    {
+      "pair": "RENDER/USDT:USDT",
+      "coin_1h_return_pct": 0.0,
+      "btc_ratio_15m_return_pct": -0.09266360137274351,
+      "btc_ratio_60m_return_pct": 0.15337442515902694,
+      "btc_ratio_240m_return_pct": -2.7258336222222117,
+      "beta_estimate": 1.8847061629959225,
+      "beta_adjusted_1h_log_return_pct": 0.2888442742995572,
+      "relative_1h_rank": 27
+    },
+    {
+      "pair": "BAT/USDT:USDT",
+      "coin_1h_return_pct": -0.021615390157794387,
+      "btc_ratio_15m_return_pct": 0.7710492760800917,
+      "btc_ratio_60m_return_pct": 0.13172588252083214,
+      "btc_ratio_240m_return_pct": -0.0796984250179202,
+      "beta_estimate": 1.2231543119059676,
+      "beta_adjusted_1h_log_return_pct": 0.16583914411965056,
+      "relative_1h_rank": 28
+    },
+    {
+      "pair": "SAND/USDT:USDT",
+      "coin_1h_return_pct": -0.021706099413934126,
+      "btc_ratio_15m_return_pct": 0.35712447330457175,
+      "btc_ratio_60m_return_pct": 0.13163503413989225,
+      "btc_ratio_240m_return_pct": -1.7144471414712883,
+      "beta_estimate": 1.557578171689277,
+      "beta_adjusted_1h_log_return_pct": 0.21700118818115352,
+      "relative_1h_rank": 29
+    },
+    {
+      "pair": "FIL/USDT:USDT",
+      "coin_1h_return_pct": -0.022781637999770423,
+      "btc_ratio_15m_return_pct": 0.16724891381720763,
+      "btc_ratio_60m_return_pct": 0.13055784595293254,
+      "btc_ratio_240m_return_pct": -2.4379710721381582,
+      "beta_estimate": 1.8884107421939145,
+      "beta_adjusted_1h_log_return_pct": 0.26662779331309766,
+      "relative_1h_rank": 30
+    },
+    {
+      "pair": "PEPE/USDT:USDT",
+      "coin_1h_return_pct": -0.034089997593620094,
+      "btc_ratio_15m_return_pct": -0.919739134139563,
+      "btc_ratio_60m_return_pct": 0.11923214222756089,
+      "btc_ratio_240m_return_pct": 0.00048031985478909725,
+      "beta_estimate": 1.9588728806823552,
+      "beta_adjusted_1h_log_return_pct": 0.26611502796243747,
+      "relative_1h_rank": 31
+    },
+    {
+      "pair": "SHIB/USDT:USDT",
+      "coin_1h_return_pct": -0.04117768169653669,
+      "btc_ratio_15m_return_pct": 0.1953998300424922,
+      "btc_ratio_60m_return_pct": 0.11213358742989436,
+      "btc_ratio_240m_return_pct": -0.7507083847094651,
+      "beta_estimate": 1.3156636450365322,
+      "beta_adjusted_1h_log_return_pct": 0.1604484047955753,
+      "relative_1h_rank": 32
+    },
+    {
+      "pair": "ETH/USDT:USDT",
+      "coin_1h_return_pct": -0.05456860486269118,
+      "btc_ratio_15m_return_pct": 0.02379791803656761,
+      "btc_ratio_60m_return_pct": 0.09872212601231029,
+      "btc_ratio_240m_return_pct": -0.5078285033741772,
+      "beta_estimate": 1.3328956766533229,
+      "beta_adjusted_1h_log_return_pct": 0.1496919960897223,
+      "relative_1h_rank": 33
+    },
+    {
+      "pair": "AVAX/USDT:USDT",
+      "coin_1h_return_pct": -0.06942034015969517,
+      "btc_ratio_15m_return_pct": -0.13158076162058807,
+      "btc_ratio_60m_return_pct": 0.08384761195166837,
+      "btc_ratio_240m_return_pct": -2.340727691742016,
+      "beta_estimate": 1.5659065350439005,
+      "beta_adjusted_1h_log_return_pct": 0.1705415758467967,
+      "relative_1h_rank": 34
+    },
+    {
+      "pair": "ICP/USDT:USDT",
+      "coin_1h_return_pct": -0.07846214201646429,
+      "btc_ratio_15m_return_pct": -0.0089590850179941,
+      "btc_ratio_60m_return_pct": 0.07479194228327742,
+      "btc_ratio_240m_return_pct": -2.154679443821462,
+      "beta_estimate": 1.6562559919320967,
+      "beta_adjusted_1h_log_return_pct": 0.17533976350921315,
+      "relative_1h_rank": 35
+    },
+    {
+      "pair": "TIA/USDT:USDT",
+      "coin_1h_return_pct": -0.09512937595129248,
+      "btc_ratio_15m_return_pct": 0.37437444846108764,
+      "btc_ratio_60m_return_pct": 0.05809914507421179,
+      "btc_ratio_240m_return_pct": -3.054895500222301,
+      "beta_estimate": 1.7143709986659756,
+      "beta_adjusted_1h_log_return_pct": 0.1675645778443236,
+      "relative_1h_rank": 36
+    },
+    {
+      "pair": "APT/USDT:USDT",
+      "coin_1h_return_pct": -0.16568760355476359,
+      "btc_ratio_15m_return_pct": 0.01520947192080571,
+      "btc_ratio_60m_return_pct": -0.01256730080524856,
+      "btc_ratio_240m_return_pct": -3.7405322520776894,
+      "beta_estimate": 2.031922018884712,
+      "beta_adjusted_1h_log_return_pct": 0.14558110666604052,
+      "relative_1h_rank": 37
+    },
+    {
+      "pair": "SUI/USDT:USDT",
+      "coin_1h_return_pct": -0.17613386173491183,
+      "btc_ratio_15m_return_pct": -0.03584374934995679,
+      "btc_ratio_60m_return_pct": -0.023029580873831237,
+      "btc_ratio_240m_return_pct": -2.298186963341041,
+      "beta_estimate": 1.8390612214973077,
+      "beta_adjusted_1h_log_return_pct": 0.10555971104250178,
+      "relative_1h_rank": 38
+    },
+    {
+      "pair": "DOT/USDT:USDT",
+      "coin_1h_return_pct": -0.19551348013994804,
+      "btc_ratio_15m_return_pct": -0.07272915229010825,
+      "btc_ratio_60m_return_pct": -0.042438922657194164,
+      "btc_ratio_240m_return_pct": -2.681271332511358,
+      "beta_estimate": 1.7320219845599227,
+      "beta_adjusted_1h_log_return_pct": 0.06973950912406045,
+      "relative_1h_rank": 39
+    },
+    {
+      "pair": "XRP/USDT:USDT",
+      "coin_1h_return_pct": -0.2465711203575339,
+      "btc_ratio_15m_return_pct": -0.016039653819806318,
+      "btc_ratio_60m_return_pct": -0.09357487223696354,
+      "btc_ratio_240m_return_pct": -0.720917814600475,
+      "beta_estimate": 1.2800959696545666,
+      "beta_adjusted_1h_log_return_pct": -0.050692033357686586,
+      "relative_1h_rank": 40
+    },
+    {
+      "pair": "LINK/USDT:USDT",
+      "coin_1h_return_pct": -0.2630194634403305,
+      "btc_ratio_15m_return_pct": 0.06548404354906237,
+      "btc_ratio_60m_return_pct": -0.11004844287141151,
+      "btc_ratio_240m_return_pct": -2.091987175334639,
+      "beta_estimate": 1.6007305101460576,
+      "beta_adjusted_1h_log_return_pct": -0.01804292886403553,
+      "relative_1h_rank": 41
+    },
+    {
+      "pair": "CRV/USDT:USDT",
+      "coin_1h_return_pct": -0.2762430939226442,
+      "btc_ratio_15m_return_pct": 0.15360318701352182,
+      "btc_ratio_60m_return_pct": -0.12329235502096263,
+      "btc_ratio_240m_return_pct": -2.411333547474327,
+      "beta_estimate": 1.4906888889005474,
+      "beta_adjusted_1h_log_return_pct": -0.04816695148950577,
+      "relative_1h_rank": 42
+    },
+    {
+      "pair": "NEAR/USDT:USDT",
+      "coin_1h_return_pct": -0.3133393017009761,
+      "btc_ratio_15m_return_pct": -0.014597628531503993,
+      "btc_ratio_60m_return_pct": -0.1604454588947304,
+      "btc_ratio_240m_return_pct": -4.436914905625093,
+      "beta_estimate": 2.561061682931833,
+      "beta_adjusted_1h_log_return_pct": 0.07866920547310602,
+      "relative_1h_rank": 43
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "coin_1h_return_pct": -0.36005760921747015,
+      "btc_ratio_15m_return_pct": -0.21010038760331667,
+      "btc_ratio_60m_return_pct": -0.20723542034682185,
+      "btc_ratio_240m_return_pct": -3.4465603687997164,
+      "beta_estimate": 2.1352490761227303,
+      "beta_adjusted_1h_log_return_pct": -0.0334656656125231,
+      "relative_1h_rank": 44
+    },
+    {
+      "pair": "JUP/USDT:USDT",
+      "coin_1h_return_pct": -0.40816326530611485,
+      "btc_ratio_15m_return_pct": -0.19281663496695217,
+      "btc_ratio_60m_return_pct": -0.25541485820896154,
+      "btc_ratio_240m_return_pct": -3.3838390577617865,
+      "beta_estimate": 1.853318258911343,
+      "beta_adjusted_1h_log_return_pct": -0.12496466456894113,
+      "relative_1h_rank": 45
+    },
+    {
+      "pair": "AR/USDT:USDT",
+      "coin_1h_return_pct": -0.410196308233209,
+      "btc_ratio_15m_return_pct": -0.05791086625863124,
+      "btc_ratio_60m_return_pct": -0.2574510193039583,
+      "btc_ratio_240m_return_pct": -2.6744616110621298,
+      "beta_estimate": 2.045051389239423,
+      "beta_adjusted_1h_log_return_pct": -0.0976216301722007,
+      "relative_1h_rank": 46
+    },
+    {
+      "pair": "LTC/USDT:USDT",
+      "coin_1h_return_pct": -0.4638378285518311,
+      "btc_ratio_15m_return_pct": -0.19363630193136608,
+      "btc_ratio_60m_return_pct": -0.3111748119960156,
+      "btc_ratio_240m_return_pct": -0.4189953372911796,
+      "beta_estimate": 1.341582904399706,
+      "beta_adjusted_1h_log_return_pct": -0.25931002138376996,
+      "relative_1h_rank": 47
+    },
+    {
+      "pair": "UNI/USDT:USDT",
+      "coin_1h_return_pct": -0.5558722919042138,
+      "btc_ratio_15m_return_pct": 0.00163319043661186,
+      "btc_ratio_60m_return_pct": -0.40335043267751325,
+      "btc_ratio_240m_return_pct": -2.041164884514803,
+      "beta_estimate": 2.0823825472940984,
+      "beta_adjusted_1h_log_return_pct": -0.23828346183721788,
+      "relative_1h_rank": 48
+    },
+    {
+      "pair": "ALGO/USDT:USDT",
+      "coin_1h_return_pct": -0.6710737179487312,
+      "btc_ratio_15m_return_pct": 0.030299274194797433,
+      "btc_ratio_60m_return_pct": -0.5187285482470014,
+      "btc_ratio_240m_return_pct": -2.812881145767606,
+      "beta_estimate": 1.5501767252047183,
+      "beta_adjusted_1h_log_return_pct": -0.43576022154005667,
+      "relative_1h_rank": 49
+    },
+    {
+      "pair": "ETHW/USDT:USDT",
+      "coin_1h_return_pct": -0.7209499575911884,
+      "btc_ratio_15m_return_pct": 0.588887715158956,
+      "btc_ratio_60m_return_pct": -0.5686812852853014,
+      "btc_ratio_240m_return_pct": -0.737948734963513,
+      "beta_estimate": 1.4131653065557301,
+      "beta_adjusted_1h_log_return_pct": -0.5069839888190775,
+      "relative_1h_rank": 50
+    },
+    {
+      "pair": "ZK/USDT:USDT",
+      "coin_1h_return_pct": -0.7489024705174075,
+      "btc_ratio_15m_return_pct": 0.19540879432422528,
+      "btc_ratio_60m_return_pct": -0.5966766702175385,
+      "btc_ratio_240m_return_pct": -3.2380042796370736,
+      "beta_estimate": 1.630168413874933,
+      "beta_adjusted_1h_log_return_pct": -0.501886223900479,
+      "relative_1h_rank": 51
+    },
+    {
+      "pair": "RAY/USDT:USDT",
+      "coin_1h_return_pct": -0.8583443746759586,
+      "btc_ratio_15m_return_pct": -0.05100728582834672,
+      "btc_ratio_60m_return_pct": -0.7062864302674758,
+      "btc_ratio_240m_return_pct": -3.0955556920133374,
+      "beta_estimate": 1.9146603469846633,
+      "beta_adjusted_1h_log_return_pct": -0.5686144058165071,
+      "relative_1h_rank": 52
+    },
+    {
+      "pair": "MEW/USDT:USDT",
+      "coin_1h_return_pct": -0.8936970837253162,
+      "btc_ratio_15m_return_pct": -0.11192390012866894,
+      "btc_ratio_60m_return_pct": -0.7416933613311159,
+      "btc_ratio_240m_return_pct": -3.0887199517254107,
+      "beta_estimate": 1.4532106575434922,
+      "beta_adjusted_1h_log_return_pct": -0.6749999105273867,
+      "relative_1h_rank": 53
+    },
+    {
+      "pair": "PYTH/USDT:USDT",
+      "coin_1h_return_pct": -1.108771929824545,
+      "btc_ratio_15m_return_pct": 0.3578938752636279,
+      "btc_ratio_60m_return_pct": -0.9570980772392111,
+      "btc_ratio_240m_return_pct": -3.143680237217933,
+      "beta_estimate": 1.8585988694216984,
+      "beta_adjusted_1h_log_return_pct": -0.830121472845263,
+      "relative_1h_rank": 54
+    },
+    {
+      "pair": "JTO/USDT:USDT",
+      "coin_1h_return_pct": -1.1744555908979735,
+      "btc_ratio_15m_return_pct": -0.09337814825103627,
+      "btc_ratio_60m_return_pct": -1.0228824802502345,
+      "btc_ratio_240m_return_pct": -4.877630377621191,
+      "beta_estimate": 1.975455508232232,
+      "beta_adjusted_1h_log_return_pct": -0.8786545600346732,
+      "relative_1h_rank": 55
+    },
+    {
+      "pair": "INJ/USDT:USDT",
+      "coin_1h_return_pct": -1.5726540161164475,
+      "btc_ratio_15m_return_pct": 0.33502733820888203,
+      "btc_ratio_60m_return_pct": -1.4216916400143795,
+      "btc_ratio_240m_return_pct": -5.394447837417242,
+      "beta_estimate": 1.9536638143184388,
+      "beta_adjusted_1h_log_return_pct": -1.2857389078271113,
+      "relative_1h_rank": 56
+    }
+  ],
+  "benchmark": {
+    "pair": "BTC/USDT:USDT",
+    "coin_1h_return_pct": -0.1531395482571963,
+    "btc_ratio_15m_return_pct": 0.0,
+    "btc_ratio_60m_return_pct": 0.0,
+    "btc_ratio_240m_return_pct": 0.0,
+    "beta_estimate": 1.0000000000000002,
+    "beta_adjusted_1h_log_return_pct": 4.336808689942018e-17
+  }
+}

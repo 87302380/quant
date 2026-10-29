@@ -1,0 +1,8 @@
+{
+  "trigger": "after first controls, 1h long sign would block 76 original winners and 11 original losers; both60 return 79.90 vs control239.26",
+  "adaptive_seen_history": true,
+  "variant": "improving_long",
+  "rule": "retain all native short framework; only long filter requires last closed 15m RS greater than previous nonoverlapping 15m RS; BTC exempt",
+  "purpose": "test early relative recovery rather than already positive momentum; no threshold or horizon grid",
+  "not_oos": true
+}
