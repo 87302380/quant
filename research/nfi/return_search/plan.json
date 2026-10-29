@@ -1,0 +1,24 @@
+{
+  "objective": "Maximize after-fee return with max24h campaign; fixed57coin universe,3x leverage,6slots,10000USDT unified wallet. No increase in leverage. All retrospective.",
+  "variants": {
+    "long_only": "NFIOptLongOnly",
+    "no_short_rebuy": "NFIOptNoShortRebuy",
+    "no_adds": "NFIOptNoAdds",
+    "overheat_long": "NFIOptOverheatLong",
+    "relative_strength": "NFIOptRelativeStrength",
+    "weighted": "NFIOptWeighted",
+    "campaign_trail": "NFIOptCampaignTrail",
+    "size_only": "NFIOptSizeOnly"
+  },
+  "hypotheses": {
+    "long_only": "Remove all shorts from baseline",
+    "no_short_rebuy": "Only remove short-rebuy tag entries from baseline",
+    "no_adds": "Disallow positive adjustments; retain original reductions/exits",
+    "overheat_long": "Combine RSI80/20 gate with long-only",
+    "relative_strength": "RSI80/20 gate plus closed4h24h relative performance vsBTC directional filter; BTC exempt",
+    "weighted": "RSI80/20 plus 1.5x initial margin for long normal/topcoins,0.5x shortrebuy; same wallet and leverage; exposure changes disclosed",
+    "campaign_trail": "RSI80/20 plus closed-price campaign net-profit trailing at60% peak after3% of initialmargin; original exits still active",
+    "size_only": "Pure initial ATR sizing control vs priorbudget: no ATRstop, original adds/exits"
+  },
+  "selection": "Predeclare eight mechanisms; no parameter grid. Preserve every result and baseline comparison. No OOS claim; monthly stability and costs reported. No liveorders."
+}

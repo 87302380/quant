@@ -1,0 +1,8 @@
+{
+  "declared_after": "First batch: long_only102.22%,no_short_rebuy110.02%,no_adds121.07%,overheat_long110.62%; remaining four pending",
+  "variants": {
+    "overheat_no_adds": "Combine RSI80/20 with disallowing positive positionadjustments",
+    "trend_runner": "On RSI gate, delay only profitable exit_profit signals while lastclosed5m close/EMA20 slope and4h EMA12/EMA50 agree; armed trade exits when trend fails; original other exits and24h deadline retained"
+  },
+  "bias": "Adaptive second-stage exploratory hypotheses; no independent validation claim; no parameter sweep"
+}

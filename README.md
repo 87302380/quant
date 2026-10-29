@@ -118,6 +118,8 @@ config.example.json 的合约面值、最小张数、步长、tick 仅为研究�
 
 ## NFI X8 最新研究与年初至今数据（2026-10-29）
 
+- [收益优先：11项机制及3次成本重跑](results/nfi/return_search/REPORT.md)：最佳历史收益184.01%、含浮亏回撤16.56%，双倍手续费收益175.92%；保留全部失败方案，未启用实盘。
+
 - [首轮组合研究](results/nfi/study/REPORT.md)：原版、币池、杠杆、成本与仓位管理对照，含浮动权益审计。
 - [24小时持仓上限验证](results/nfi/study/DEADLINE_24H.md)：首次入场计时，所有候选均须满足24小时上限。
 - [61笔交易的亏损诊断与优化实测](results/nfi/risk_study/REPORT.md)：保留紧止损等失败结果，明确事后80/20过热假设的样本内偏差。

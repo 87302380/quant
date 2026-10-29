@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "new_engine_runs": 14,
+  "mechanisms": 11,
+  "cost_replays": 3,
+  "unit_tests": 63,
+  "native_data_verify": "passed",
+  "cloud_verify_backtest": "passed",
+  "ledger_tolerance_usdt": 0.01,
+  "deadline_violations": 0,
+  "late_adds": 0,
+  "candidate": "NFIOptWeightedNoAdds",
+  "candidate_started": false,
+  "live_orders": false
+}

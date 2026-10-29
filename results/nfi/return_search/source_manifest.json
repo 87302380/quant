@@ -1,0 +1,20 @@
+{
+  "nfi_optimize.py": "2dad9a7fa8455dbd75ccf03218f27efacd88ca448e792cf6d4defaf5ac07a288",
+  "nfi_optimize_report.py": "b566727ad9b382f08a2101c22e7c6d4e82fd37a0c243b02b97efba0882d2022f",
+  "nfi_analyze.py": "bcba61859e15c72026584856180f69f9b3ae04708b9fd3ae34bb428db12e43bb",
+  "research/nfi/study/NFI24Hour.py": "e0acb12c80df4ea69b5067e1c2873e16de13c7a08bad53015772ebdac0b442b4",
+  "research/nfi/risk_study/NFIRiskControls.py": "dd6f0a6d567a81c172a1c67a1ba830b0bda56230cb36f85e69f7a17bee1772ef",
+  "research/nfi/ytd_research/NFIYtdRisk.py": "f11f78ec122a211dad9b49f253341f7ef5a89f35fd095219df4e05c80e83859c",
+  "research/nfi/upstream/NostalgiaForInfinityX8.py": "c0c6ee100533a2600c198b541f70deb70f106a5e1e60f50f73b1c602830249c4",
+  "research/nfi/ytd2026/config.backtest.json": "e39c0ea65319bbf559fa5def4608c2d08f79834e79fb5959f01345ce3039bb0c",
+  "research/nfi/ytd2026/universe.json": "0a246c48bfacceff127e0f0760e26ecd829b2d2d6f333a5338c0559ece69d7af",
+  "datasets/nfi_ytd2026/manifest.json": "5cf41fbcc5cd373b2d06fca7d77e8bd9023bb59dfeb639d43b000668f2aede5b",
+  "research/nfi/return_search/phase3.json": "b465e30eb756a374c1b4ed0909193200b9af567a4cd591c0b72c10222e7ec25e",
+  "research/nfi/return_search/test_optimize.py": "9b0ffe9d06a4129bbe65dd6f8a4d39ce097c99938ed61bbd5ba39d2801890f08",
+  "research/nfi/return_search/plan.json": "1915b033eb67a356e84e876da07f13dd3b8a547fda9fbafca0000e5c68a26e6d",
+  "research/nfi/return_search/paper.candidate.json": "03084fc67162153d653623aacc0bcbd0aa1dfa5b87e11e0f5d81430d77c95ced",
+  "research/nfi/return_search/FORWARD.md": "73e44302805d1918be602b088e209c9eecf15d8f85e77380c06e97a38638c60c",
+  "research/nfi/return_search/phase2.json": "14450453a7748fbc23bfcad6383b9016dc88482e0b65cf68393731faff59e5ed",
+  "research/nfi/return_search/NFIExtensions.py": "a6a49aa755152c5fed1252c6a06214968671f1acbf332274913f6d6f1b621624",
+  "research/nfi/return_search/NFIOptimize.py": "f76fffeb07f26961471dcc21ca4874f1687bb5b7db9b8076cf33be92b01189c9"
+}

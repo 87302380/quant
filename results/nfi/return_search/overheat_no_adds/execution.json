@@ -1,0 +1,40 @@
+{
+  "started_at": "2026-10-29T06:45:46.746992+00:00",
+  "status": "success",
+  "command": [
+    "/workspace/quant/.venv/bin/freqtrade",
+    "backtesting",
+    "--userdir",
+    "/workspace/quant/data/nfi_ytd2026/runtime/overheat_no_addsz0p9sn86",
+    "--config",
+    "/workspace/quant/research/nfi/ytd2026/config.backtest.json",
+    "--strategy-path",
+    "/workspace/quant/research/nfi/return_search",
+    "--strategy",
+    "NFIOptOverheatNoAdds",
+    "--datadir",
+    "/workspace/quant/data/nfi_ytd2026/freqtrade",
+    "--data-format-ohlcv",
+    "jsongz",
+    "--timerange",
+    "1767225600-1793243700",
+    "--fee",
+    "0.0005",
+    "--cache",
+    "none",
+    "--export",
+    "trades",
+    "--breakdown",
+    "month",
+    "--backtest-directory",
+    "/workspace/quant/results/nfi/return_search/overheat_no_adds"
+  ],
+  "source_sha256": "f76fffeb07f26961471dcc21ca4874f1687bb5b7db9b8076cf33be92b01189c9",
+  "config_sha256": "e39c0ea65319bbf559fa5def4608c2d08f79834e79fb5959f01345ce3039bb0c",
+  "strategy_sources_sha256": {
+    "research/nfi/return_search/NFIExtensions.py": "f72789ba45d54861a6f706cc128a0fb8f3a07610dd02c9e7300e62d6215aa12b",
+    "research/nfi/return_search/NFIOptimize.py": "f76fffeb07f26961471dcc21ca4874f1687bb5b7db9b8076cf33be92b01189c9"
+  },
+  "returncode": 0,
+  "finished_at": "2026-10-29T06:47:51.203106+00:00"
+}

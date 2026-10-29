@@ -1,0 +1,40 @@
+{
+  "started_at": "2026-10-29T06:51:02.345719+00:00",
+  "status": "success",
+  "command": [
+    "/workspace/quant/.venv/bin/freqtrade",
+    "backtesting",
+    "--userdir",
+    "/workspace/quant/data/nfi_ytd2026/runtime/weighted_no_addst0i6b4i2",
+    "--config",
+    "/workspace/quant/research/nfi/ytd2026/config.backtest.json",
+    "--strategy-path",
+    "/workspace/quant/research/nfi/return_search",
+    "--strategy",
+    "NFIOptWeightedNoAdds",
+    "--datadir",
+    "/workspace/quant/data/nfi_ytd2026/freqtrade",
+    "--data-format-ohlcv",
+    "jsongz",
+    "--timerange",
+    "1767225600-1793243700",
+    "--fee",
+    "0.001",
+    "--cache",
+    "none",
+    "--export",
+    "trades",
+    "--breakdown",
+    "month",
+    "--backtest-directory",
+    "/workspace/quant/results/nfi/return_search/weighted_no_adds_fee10"
+  ],
+  "source_sha256": "f76fffeb07f26961471dcc21ca4874f1687bb5b7db9b8076cf33be92b01189c9",
+  "config_sha256": "e39c0ea65319bbf559fa5def4608c2d08f79834e79fb5959f01345ce3039bb0c",
+  "strategy_sources_sha256": {
+    "research/nfi/return_search/NFIExtensions.py": "a6a49aa755152c5fed1252c6a06214968671f1acbf332274913f6d6f1b621624",
+    "research/nfi/return_search/NFIOptimize.py": "f76fffeb07f26961471dcc21ca4874f1687bb5b7db9b8076cf33be92b01189c9"
+  },
+  "returncode": 0,
+  "finished_at": "2026-10-29T06:53:09.894136+00:00"
+}

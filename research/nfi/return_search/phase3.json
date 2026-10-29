@@ -1,0 +1,9 @@
+{
+  "declared_after": "All ten mechanisms completed. weighted169.33%,no_adds121.07%,overheat_no_adds130.51%; weighted/baseline fee10 cost checks running.",
+  "hypothesis": "Combine already promising weighted allocation and removal of adds; same fixed1.5/.5 weights,3x,6slots,24h. No parameter search.",
+  "runs": [
+    "weighted_no_adds at5bps",
+    "weighted_no_adds at10bps"
+  ],
+  "bias": "Adaptive exploratory combination on already examined history. Preserve earlier strategy ZIP snapshots. No independent validation claim."
+}
