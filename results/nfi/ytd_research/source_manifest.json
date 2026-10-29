@@ -1,0 +1,16 @@
+{
+  "nfi_ytd_study.py": "967773985141802adef7ac7b3b09e45fa2864b7c631e0a694c02ec0193326502",
+  "nfi_ytd_analysis.py": "f6c7e91960742d2b3e0b8d0a5758907ffd1bbbf455bfd5339a9cc3c3fdc38847",
+  "nfi_ytd_losses.py": "98959ff49c8a5ee1adc9ba1ffd664829d927170c0598f95c7f53fdbaf89ef568",
+  "nfi_ytd_plot.py": "c16844e7edfe23f3d983f722303c4dc8faf42aa461872ab6da60b767b1bd7227",
+  "nfi_analyze.py": "3187e5941b203638e0dfbbbeddc0911bdf15e26c09b09ec6e8fe7887367d8f6a",
+  "nfi_loss_diagnosis.py": "9fad70a30ceae66eab749cc74c1fcf19a35c49ed42dc42494becf38e73e22adf",
+  "research/nfi/study/NFI24Hour.py": "e0acb12c80df4ea69b5067e1c2873e16de13c7a08bad53015772ebdac0b442b4",
+  "research/nfi/risk_study/NFIRiskControls.py": "dd6f0a6d567a81c172a1c67a1ba830b0bda56230cb36f85e69f7a17bee1772ef",
+  "research/nfi/upstream/NostalgiaForInfinityX8.py": "c0c6ee100533a2600c198b541f70deb70f106a5e1e60f50f73b1c602830249c4",
+  "research/nfi/ytd_research/NFIYtdRisk.py": "f11f78ec122a211dad9b49f253341f7ef5a89f35fd095219df4e05c80e83859c",
+  "research/nfi/ytd_research/plan.json": "4cae5c9b8962808921eca7911f51c89af46d3d9d0cbc05ab00c068c2c3e05d8d",
+  "research/nfi/ytd_research/paper.config.json": "793efc1e3bdcc995931e0f8ea633832887129b15b6ba54dfa5266aca4f82a12b",
+  "research/nfi/ytd2026/config.backtest.json": "e39c0ea65319bbf559fa5def4608c2d08f79834e79fb5959f01345ce3039bb0c",
+  "research/nfi/ytd2026/universe.json": "0a246c48bfacceff127e0f0760e26ecd829b2d2d6f333a5338c0559ece69d7af"
+}

@@ -9,13 +9,14 @@ from nfi_analyze import load_result, filled_orders, family
 
 ROOT = Path(__file__).resolve().parent
 CACHE = {}
+DATA = ROOT/'data/nfi/freqtrade/futures'
 
 
 def candles(pair, tf):
-    key = pair, tf
+    key = str(DATA), pair, tf
     if key not in CACHE:
         name = pair.replace('/', '_').replace(':', '_') + f'-{tf}-futures.json.gz'
-        rows = json.loads(gzip.decompress((ROOT/'data/nfi/freqtrade/futures'/name).read_bytes()))
+        rows = json.loads(gzip.decompress((DATA/name).read_bytes()))
         CACHE[key] = rows
     return CACHE[key]
 

@@ -1,0 +1,1334 @@
+[
+  {
+    "pair": "MINA/USDT:USDT",
+    "trade_id": 1,
+    "time": "2026-01-12T13:10:00+00:00",
+    "budget": 49.5,
+    "planned_stop_loss": 49.49855856489876,
+    "stop": 0.08587275492943641,
+    "is_short": true
+  },
+  {
+    "pair": "ICP/USDT:USDT",
+    "trade_id": 2,
+    "time": "2026-01-13T20:25:00+00:00",
+    "budget": 49.25514306279601,
+    "planned_stop_loss": 49.25480033697852,
+    "stop": 3.245950035633926,
+    "is_short": false
+  },
+  {
+    "pair": "ICP/USDT:USDT",
+    "trade_id": 3,
+    "time": "2026-01-15T08:30:00+00:00",
+    "budget": 49.303899434889,
+    "planned_stop_loss": 49.30350680103959,
+    "stop": 3.811003385107494,
+    "is_short": false
+  },
+  {
+    "pair": "WLD/USDT:USDT",
+    "trade_id": 4,
+    "time": "2026-01-18T01:10:00+00:00",
+    "budget": 49.316796927188996,
+    "planned_stop_loss": 49.291846219632134,
+    "stop": 0.5736168428203193,
+    "is_short": true
+  },
+  {
+    "pair": "LTC/USDT:USDT",
+    "trade_id": 5,
+    "time": "2026-01-19T00:25:00+00:00",
+    "budget": 49.547207053179,
+    "planned_stop_loss": 49.520192501315705,
+    "stop": 66.13181195318498,
+    "is_short": false
+  },
+  {
+    "pair": "MINA/USDT:USDT",
+    "trade_id": 6,
+    "time": "2026-01-19T08:35:00+00:00",
+    "budget": 49.65488606637901,
+    "planned_stop_loss": 49.65065521671875,
+    "stop": 0.0769013286360859,
+    "is_short": false
+  },
+  {
+    "pair": "SAND/USDT:USDT",
+    "trade_id": 7,
+    "time": "2026-01-20T16:45:00+00:00",
+    "budget": 49.729693455436504,
+    "planned_stop_loss": 49.61646084784394,
+    "stop": 0.12209147545511291,
+    "is_short": false
+  },
+  {
+    "pair": "SOL/USDT:USDT",
+    "trade_id": 8,
+    "time": "2026-01-23T07:00:00+00:00",
+    "budget": 49.846377330436496,
+    "planned_stop_loss": 47.023590301351305,
+    "stop": 132.12327775737018,
+    "is_short": true
+  },
+  {
+    "pair": "FIL/USDT:USDT",
+    "trade_id": 9,
+    "time": "2026-01-25T12:20:00+00:00",
+    "budget": 49.8344078591865,
+    "planned_stop_loss": 49.82968797396279,
+    "stop": 1.336881006017022,
+    "is_short": true
+  },
+  {
+    "pair": "SOL/USDT:USDT",
+    "trade_id": 10,
+    "time": "2026-01-25T15:55:00+00:00",
+    "budget": 49.8344078591865,
+    "planned_stop_loss": 32.7444426452339,
+    "stop": 128.69374420100777,
+    "is_short": true
+  },
+  {
+    "pair": "SUI/USDT:USDT",
+    "trade_id": 11,
+    "time": "2026-01-31T14:40:00+00:00",
+    "budget": 50.0903990852265,
+    "planned_stop_loss": 50.04220113697579,
+    "stop": 1.0746541916374577,
+    "is_short": false
+  },
+  {
+    "pair": "ARB/USDT:USDT",
+    "trade_id": 12,
+    "time": "2026-01-31T14:45:00+00:00",
+    "budget": 50.0903990852265,
+    "planned_stop_loss": 50.08939527509051,
+    "stop": 0.1302911789095306,
+    "is_short": false
+  },
+  {
+    "pair": "NEAR/USDT:USDT",
+    "trade_id": 13,
+    "time": "2026-01-31T17:35:00+00:00",
+    "budget": 50.1852087805365,
+    "planned_stop_loss": 50.17747680615378,
+    "stop": 1.083268043799789,
+    "is_short": false
+  },
+  {
+    "pair": "ETC/USDT:USDT",
+    "trade_id": 14,
+    "time": "2026-01-31T17:35:00+00:00",
+    "budget": 50.1852087805365,
+    "planned_stop_loss": 50.132882317357144,
+    "stop": 8.871229151943384,
+    "is_short": false
+  },
+  {
+    "pair": "RAY/USDT:USDT",
+    "trade_id": 15,
+    "time": "2026-01-31T18:25:00+00:00",
+    "budget": 50.18520878053644,
+    "planned_stop_loss": 50.16416408971554,
+    "stop": 0.6786473626666522,
+    "is_short": false
+  },
+  {
+    "pair": "JUP/USDT:USDT",
+    "trade_id": 16,
+    "time": "2026-02-01T20:30:00+00:00",
+    "budget": 50.56264922232151,
+    "planned_stop_loss": 50.43414713874478,
+    "stop": 0.1903981646727543,
+    "is_short": true
+  },
+  {
+    "pair": "HBAR/USDT:USDT",
+    "trade_id": 17,
+    "time": "2026-02-05T15:35:00+00:00",
+    "budget": 50.3143128208215,
+    "planned_stop_loss": 50.26371868531021,
+    "stop": 0.07429510260205865,
+    "is_short": false
+  },
+  {
+    "pair": "SAND/USDT:USDT",
+    "trade_id": 18,
+    "time": "2026-02-05T15:35:00+00:00",
+    "budget": 50.3143128208215,
+    "planned_stop_loss": 50.26422134976599,
+    "stop": 0.07666872484308639,
+    "is_short": false
+  },
+  {
+    "pair": "BOME/USDT:USDT",
+    "trade_id": 19,
+    "time": "2026-02-05T15:35:00+00:00",
+    "budget": 50.3143128208215,
+    "planned_stop_loss": 50.30650439685451,
+    "stop": 0.0003547186673257144,
+    "is_short": false
+  },
+  {
+    "pair": "UNI/USDT:USDT",
+    "trade_id": 20,
+    "time": "2026-02-05T17:55:00+00:00",
+    "budget": 50.406366989484006,
+    "planned_stop_loss": 50.13642303654535,
+    "stop": 3.002820636199976,
+    "is_short": false
+  },
+  {
+    "pair": "SUI/USDT:USDT",
+    "trade_id": 21,
+    "time": "2026-02-05T20:30:00+00:00",
+    "budget": 50.406366989484006,
+    "planned_stop_loss": 50.37057892441163,
+    "stop": 0.791960693384951,
+    "is_short": false
+  },
+  {
+    "pair": "AAVE/USDT:USDT",
+    "trade_id": 22,
+    "time": "2026-02-05T20:55:00+00:00",
+    "budget": 50.406366989484,
+    "planned_stop_loss": 50.31885490712244,
+    "stop": 93.12361871939541,
+    "is_short": false
+  },
+  {
+    "pair": "BOME/USDT:USDT",
+    "trade_id": 23,
+    "time": "2026-02-08T20:55:00+00:00",
+    "budget": 50.204071066149,
+    "planned_stop_loss": 50.18088962337242,
+    "stop": 0.000438616813039442,
+    "is_short": true
+  },
+  {
+    "pair": "TIA/USDT:USDT",
+    "trade_id": 24,
+    "time": "2026-02-08T21:35:00+00:00",
+    "budget": 50.204071066149,
+    "planned_stop_loss": 50.179249668580155,
+    "stop": 0.35470684153419924,
+    "is_short": true
+  },
+  {
+    "pair": "JTO/USDT:USDT",
+    "trade_id": 25,
+    "time": "2026-02-08T21:35:00+00:00",
+    "budget": 50.204071066149,
+    "planned_stop_loss": 50.19808263153874,
+    "stop": 0.27470708271713157,
+    "is_short": true
+  },
+  {
+    "pair": "ZRO/USDT:USDT",
+    "trade_id": 26,
+    "time": "2026-02-10T22:40:00+00:00",
+    "budget": 50.2928513236215,
+    "planned_stop_loss": 50.11811974278601,
+    "stop": 1.6810504192150268,
+    "is_short": false
+  },
+  {
+    "pair": "LDO/USDT:USDT",
+    "trade_id": 27,
+    "time": "2026-02-18T18:20:00+00:00",
+    "budget": 50.3494782940215,
+    "planned_stop_loss": 50.336752908531935,
+    "stop": 0.3485888099420829,
+    "is_short": true
+  },
+  {
+    "pair": "ZRO/USDT:USDT",
+    "trade_id": 28,
+    "time": "2026-02-23T00:25:00+00:00",
+    "budget": 50.539384070851504,
+    "planned_stop_loss": 50.430637427711076,
+    "stop": 1.732515502908578,
+    "is_short": true
+  },
+  {
+    "pair": "LINK/USDT:USDT",
+    "trade_id": 29,
+    "time": "2026-02-23T00:40:00+00:00",
+    "budget": 50.539384070851504,
+    "planned_stop_loss": 42.45767669755105,
+    "stop": 8.89066804837221,
+    "is_short": true
+  },
+  {
+    "pair": "AAVE/USDT:USDT",
+    "trade_id": 30,
+    "time": "2026-02-23T00:40:00+00:00",
+    "budget": 50.53938407085148,
+    "planned_stop_loss": 50.49445867753866,
+    "stop": 122.49698773277862,
+    "is_short": true
+  },
+  {
+    "pair": "OP/USDT:USDT",
+    "trade_id": 31,
+    "time": "2026-02-26T16:55:00+00:00",
+    "budget": 51.001924206024,
+    "planned_stop_loss": 50.99445910263512,
+    "stop": 0.10753769775387308,
+    "is_short": false
+  },
+  {
+    "pair": "OP/USDT:USDT",
+    "trade_id": 31,
+    "time": "2026-02-26T19:35:00+00:00",
+    "budget": 51.001924206024,
+    "planned_stop_loss": 0.0,
+    "stop": 0.10753769775387308,
+    "is_short": false
+  },
+  {
+    "pair": "SUI/USDT:USDT",
+    "trade_id": 32,
+    "time": "2026-03-05T16:10:00+00:00",
+    "budget": 51.063433131744006,
+    "planned_stop_loss": 51.0398916823641,
+    "stop": 0.8608669038281922,
+    "is_short": false
+  },
+  {
+    "pair": "SUI/USDT:USDT",
+    "trade_id": 32,
+    "time": "2026-03-05T16:35:00+00:00",
+    "budget": 51.063433131744006,
+    "planned_stop_loss": 0.0,
+    "stop": 0.8608669038281922,
+    "is_short": false
+  },
+  {
+    "pair": "XRP/USDT:USDT",
+    "trade_id": 33,
+    "time": "2026-03-07T14:05:00+00:00",
+    "budget": 51.144688089594005,
+    "planned_stop_loss": 51.097077390689265,
+    "stop": 1.4112897512764826,
+    "is_short": true
+  },
+  {
+    "pair": "ARB/USDT:USDT",
+    "trade_id": 34,
+    "time": "2026-03-07T14:10:00+00:00",
+    "budget": 51.144688089594005,
+    "planned_stop_loss": 51.13998468551415,
+    "stop": 0.10324474064276112,
+    "is_short": true
+  },
+  {
+    "pair": "SAND/USDT:USDT",
+    "trade_id": 35,
+    "time": "2026-03-07T14:10:00+00:00",
+    "budget": 51.14468808959401,
+    "planned_stop_loss": 51.116293158694134,
+    "stop": 0.08339823331659554,
+    "is_short": true
+  },
+  {
+    "pair": "ETHFI/USDT:USDT",
+    "trade_id": 36,
+    "time": "2026-03-19T06:35:00+00:00",
+    "budget": 51.327439412980496,
+    "planned_stop_loss": 51.2981642633946,
+    "stop": 0.5367954980948935,
+    "is_short": false
+  },
+  {
+    "pair": "UNI/USDT:USDT",
+    "trade_id": 37,
+    "time": "2026-03-27T04:05:00+00:00",
+    "budget": 51.073544838393,
+    "planned_stop_loss": 50.7752011313039,
+    "stop": 3.6512934404183697,
+    "is_short": true
+  },
+  {
+    "pair": "AAVE/USDT:USDT",
+    "trade_id": 38,
+    "time": "2026-03-27T04:10:00+00:00",
+    "budget": 51.073544838393,
+    "planned_stop_loss": 51.05907965031088,
+    "stop": 109.99193592149226,
+    "is_short": true
+  },
+  {
+    "pair": "ETH/USDT:USDT",
+    "trade_id": 39,
+    "time": "2026-03-27T08:40:00+00:00",
+    "budget": 51.073544838393,
+    "planned_stop_loss": 51.05246294581957,
+    "stop": 2116.1885252018537,
+    "is_short": true
+  },
+  {
+    "pair": "PEOPLE/USDT:USDT",
+    "trade_id": 40,
+    "time": "2026-03-27T10:55:00+00:00",
+    "budget": 51.20431142577301,
+    "planned_stop_loss": 51.20280057948935,
+    "stop": 0.006611248513840974,
+    "is_short": true
+  },
+  {
+    "pair": "IOST/USDT:USDT",
+    "trade_id": 41,
+    "time": "2026-03-28T23:15:00+00:00",
+    "budget": 51.37257871765801,
+    "planned_stop_loss": 44.28333279717549,
+    "stop": 0.0010696600351414417,
+    "is_short": true
+  },
+  {
+    "pair": "INJ/USDT:USDT",
+    "trade_id": 42,
+    "time": "2026-04-05T12:35:00+00:00",
+    "budget": 51.482906198658,
+    "planned_stop_loss": 39.140979524004706,
+    "stop": 2.8390869677120394,
+    "is_short": true
+  },
+  {
+    "pair": "BOME/USDT:USDT",
+    "trade_id": 43,
+    "time": "2026-04-19T22:30:00+00:00",
+    "budget": 51.289359317163,
+    "planned_stop_loss": 51.195400137730616,
+    "stop": 0.0004287902002731069,
+    "is_short": false
+  },
+  {
+    "pair": "RAY/USDT:USDT",
+    "trade_id": 44,
+    "time": "2026-04-26T11:20:00+00:00",
+    "budget": 51.338926181763,
+    "planned_stop_loss": 51.337418361806385,
+    "stop": 0.7015525252909537,
+    "is_short": false
+  },
+  {
+    "pair": "LDO/USDT:USDT",
+    "trade_id": 45,
+    "time": "2026-04-27T06:05:00+00:00",
+    "budget": 51.338926181763,
+    "planned_stop_loss": 51.32308157366475,
+    "stop": 0.36530180584149285,
+    "is_short": false
+  },
+  {
+    "pair": "DOGE/USDT:USDT",
+    "trade_id": 46,
+    "time": "2026-04-29T18:10:00+00:00",
+    "budget": 51.130379615733,
+    "planned_stop_loss": 51.0937943665931,
+    "stop": 0.0962725399905574,
+    "is_short": false
+  },
+  {
+    "pair": "ETC/USDT:USDT",
+    "trade_id": 47,
+    "time": "2026-05-04T15:55:00+00:00",
+    "budget": 51.384837297123,
+    "planned_stop_loss": 34.180333666207616,
+    "stop": 8.431216409645472,
+    "is_short": false
+  },
+  {
+    "pair": "FIL/USDT:USDT",
+    "trade_id": 48,
+    "time": "2026-05-06T09:40:00+00:00",
+    "budget": 51.575249982663,
+    "planned_stop_loss": 51.573635852461734,
+    "stop": 1.019525574833506,
+    "is_short": false
+  },
+  {
+    "pair": "JTO/USDT:USDT",
+    "trade_id": 49,
+    "time": "2026-05-08T05:15:00+00:00",
+    "budget": 51.60717389341801,
+    "planned_stop_loss": 51.539506094962746,
+    "stop": 0.4842305910648298,
+    "is_short": false
+  },
+  {
+    "pair": "SUI/USDT:USDT",
+    "trade_id": 50,
+    "time": "2026-05-10T01:25:00+00:00",
+    "budget": 51.6207915149355,
+    "planned_stop_loss": 51.57984506454045,
+    "stop": 1.0197049280751642,
+    "is_short": false
+  },
+  {
+    "pair": "LDO/USDT:USDT",
+    "trade_id": 51,
+    "time": "2026-05-11T15:20:00+00:00",
+    "budget": 51.9512784223455,
+    "planned_stop_loss": 51.929718462835694,
+    "stop": 0.3673434373452162,
+    "is_short": false
+  },
+  {
+    "pair": "INJ/USDT:USDT",
+    "trade_id": 52,
+    "time": "2026-05-19T04:25:00+00:00",
+    "budget": 51.989757859413004,
+    "planned_stop_loss": 51.98772504070632,
+    "stop": 4.713603692592135,
+    "is_short": false
+  },
+  {
+    "pair": "SAND/USDT:USDT",
+    "trade_id": 53,
+    "time": "2026-05-19T10:45:00+00:00",
+    "budget": 51.989757859413004,
+    "planned_stop_loss": 51.98743685303316,
+    "stop": 0.07342314892783695,
+    "is_short": true
+  },
+  {
+    "pair": "WLD/USDT:USDT",
+    "trade_id": 54,
+    "time": "2026-05-22T23:50:00+00:00",
+    "budget": 51.81348502187549,
+    "planned_stop_loss": 51.806449444908026,
+    "stop": 0.2435343654222221,
+    "is_short": false
+  },
+  {
+    "pair": "INJ/USDT:USDT",
+    "trade_id": 55,
+    "time": "2026-05-23T05:45:00+00:00",
+    "budget": 51.81348502187549,
+    "planned_stop_loss": 51.80207415728063,
+    "stop": 4.350455901105248,
+    "is_short": false
+  },
+  {
+    "pair": "WLD/USDT:USDT",
+    "trade_id": 56,
+    "time": "2026-05-24T14:20:00+00:00",
+    "budget": 51.8527618754805,
+    "planned_stop_loss": 51.84811519942116,
+    "stop": 0.269583397707295,
+    "is_short": false
+  },
+  {
+    "pair": "FIL/USDT:USDT",
+    "trade_id": 57,
+    "time": "2026-06-02T14:25:00+00:00",
+    "budget": 51.860575772230504,
+    "planned_stop_loss": 51.85550654277131,
+    "stop": 0.8473393428984826,
+    "is_short": false
+  },
+  {
+    "pair": "NEAR/USDT:USDT",
+    "trade_id": 58,
+    "time": "2026-06-02T15:35:00+00:00",
+    "budget": 51.860575772230504,
+    "planned_stop_loss": 51.698022962915616,
+    "stop": 2.205806890413907,
+    "is_short": false
+  },
+  {
+    "pair": "IOST/USDT:USDT",
+    "trade_id": 59,
+    "time": "2026-06-02T22:55:00+00:00",
+    "budget": 51.9835594330305,
+    "planned_stop_loss": 51.97791384168727,
+    "stop": 0.0009967565449991763,
+    "is_short": true
+  },
+  {
+    "pair": "MINA/USDT:USDT",
+    "trade_id": 60,
+    "time": "2026-06-02T22:55:00+00:00",
+    "budget": 51.9835594330305,
+    "planned_stop_loss": 51.982771057315176,
+    "stop": 0.054946884294551544,
+    "is_short": true
+  },
+  {
+    "pair": "STRK/USDT:USDT",
+    "trade_id": 61,
+    "time": "2026-06-02T23:00:00+00:00",
+    "budget": 51.98355943303049,
+    "planned_stop_loss": 51.98286800118137,
+    "stop": 0.03756177020459937,
+    "is_short": true
+  },
+  {
+    "pair": "RENDER/USDT:USDT",
+    "trade_id": 62,
+    "time": "2026-06-04T01:20:00+00:00",
+    "budget": 51.3435415670595,
+    "planned_stop_loss": 51.15967399296551,
+    "stop": 1.8734447496795417,
+    "is_short": false
+  },
+  {
+    "pair": "ONDO/USDT:USDT",
+    "trade_id": 63,
+    "time": "2026-06-04T01:25:00+00:00",
+    "budget": 51.3435415670595,
+    "planned_stop_loss": 51.16607317011295,
+    "stop": 0.35541668722138703,
+    "is_short": false
+  },
+  {
+    "pair": "PEPE/USDT:USDT",
+    "trade_id": 64,
+    "time": "2026-06-04T02:05:00+00:00",
+    "budget": 51.3435415670595,
+    "planned_stop_loss": 51.31373186504288,
+    "stop": 2.6685770268465955e-06,
+    "is_short": false
+  },
+  {
+    "pair": "WLD/USDT:USDT",
+    "trade_id": 65,
+    "time": "2026-06-04T04:35:00+00:00",
+    "budget": 51.7089756734595,
+    "planned_stop_loss": 51.62504066813557,
+    "stop": 0.4244209020726111,
+    "is_short": false
+  },
+  {
+    "pair": "TIA/USDT:USDT",
+    "trade_id": 66,
+    "time": "2026-06-05T06:20:00+00:00",
+    "budget": 51.458046867117,
+    "planned_stop_loss": 51.434087868244035,
+    "stop": 0.27590110608811447,
+    "is_short": false
+  },
+  {
+    "pair": "OP/USDT:USDT",
+    "trade_id": 67,
+    "time": "2026-06-05T06:20:00+00:00",
+    "budget": 51.458046867117,
+    "planned_stop_loss": 51.45142378919866,
+    "stop": 0.08915150283811918,
+    "is_short": false
+  },
+  {
+    "pair": "ETHFI/USDT:USDT",
+    "trade_id": 68,
+    "time": "2026-06-05T06:25:00+00:00",
+    "budget": 51.458046867117,
+    "planned_stop_loss": 51.427900318779166,
+    "stop": 0.25465233105303253,
+    "is_short": false
+  },
+  {
+    "pair": "WLD/USDT:USDT",
+    "trade_id": 69,
+    "time": "2026-06-05T07:40:00+00:00",
+    "budget": 51.481771418682,
+    "planned_stop_loss": 51.4734186180298,
+    "stop": 0.44061806430199657,
+    "is_short": false
+  },
+  {
+    "pair": "AAVE/USDT:USDT",
+    "trade_id": 70,
+    "time": "2026-06-05T14:00:00+00:00",
+    "budget": 51.551486994447004,
+    "planned_stop_loss": 51.5030464226877,
+    "stop": 56.725120898431484,
+    "is_short": false
+  },
+  {
+    "pair": "ONDO/USDT:USDT",
+    "trade_id": 71,
+    "time": "2026-06-05T15:15:00+00:00",
+    "budget": 51.56542786061699,
+    "planned_stop_loss": 51.48576148821968,
+    "stop": 0.2894489257890176,
+    "is_short": false
+  },
+  {
+    "pair": "FIL/USDT:USDT",
+    "trade_id": 72,
+    "time": "2026-06-05T15:50:00+00:00",
+    "budget": 51.56542786061699,
+    "planned_stop_loss": 51.558925644295584,
+    "stop": 0.6362522096655725,
+    "is_short": false
+  },
+  {
+    "pair": "OP/USDT:USDT",
+    "trade_id": 73,
+    "time": "2026-06-05T18:55:00+00:00",
+    "budget": 51.575385780567004,
+    "planned_stop_loss": 51.575074473577615,
+    "stop": 0.07912418066156991,
+    "is_short": false
+  },
+  {
+    "pair": "WLD/USDT:USDT",
+    "trade_id": 74,
+    "time": "2026-06-06T08:55:00+00:00",
+    "budget": 51.6658382435745,
+    "planned_stop_loss": 51.65197314879795,
+    "stop": 0.297294336880794,
+    "is_short": false
+  },
+  {
+    "pair": "JTO/USDT:USDT",
+    "trade_id": 75,
+    "time": "2026-06-08T01:55:00+00:00",
+    "budget": 51.697123049781005,
+    "planned_stop_loss": 51.61291724222218,
+    "stop": 0.5282807738701223,
+    "is_short": false
+  },
+  {
+    "pair": "WLD/USDT:USDT",
+    "trade_id": 76,
+    "time": "2026-06-08T21:20:00+00:00",
+    "budget": 51.715132797141,
+    "planned_stop_loss": 51.69078109946216,
+    "stop": 0.413708860557824,
+    "is_short": false
+  },
+  {
+    "pair": "WLD/USDT:USDT",
+    "trade_id": 77,
+    "time": "2026-06-09T15:55:00+00:00",
+    "budget": 51.798708750096004,
+    "planned_stop_loss": 51.73413908100417,
+    "stop": 0.4026904354017079,
+    "is_short": false
+  },
+  {
+    "pair": "WLD/USDT:USDT",
+    "trade_id": 78,
+    "time": "2026-06-10T16:35:00+00:00",
+    "budget": 51.88175952092101,
+    "planned_stop_loss": 51.84603476871243,
+    "stop": 0.35399962772266325,
+    "is_short": false
+  },
+  {
+    "pair": "XLM/USDT:USDT",
+    "trade_id": 79,
+    "time": "2026-06-16T01:55:00+00:00",
+    "budget": 51.885638600301,
+    "planned_stop_loss": 51.838524606491546,
+    "stop": 0.19629845665242734,
+    "is_short": false
+  },
+  {
+    "pair": "INJ/USDT:USDT",
+    "trade_id": 80,
+    "time": "2026-06-17T22:05:00+00:00",
+    "budget": 52.0316610918885,
+    "planned_stop_loss": 52.022482841158876,
+    "stop": 4.826541777737615,
+    "is_short": false
+  },
+  {
+    "pair": "ETHW/USDT:USDT",
+    "trade_id": 81,
+    "time": "2026-06-24T04:25:00+00:00",
+    "budget": 52.0709694943185,
+    "planned_stop_loss": 52.07062861112013,
+    "stop": 0.2341766756764845,
+    "is_short": true
+  },
+  {
+    "pair": "ETC/USDT:USDT",
+    "trade_id": 82,
+    "time": "2026-06-24T15:35:00+00:00",
+    "budget": 52.0709694943185,
+    "planned_stop_loss": 52.04889715367244,
+    "stop": 7.0974277763429,
+    "is_short": true
+  },
+  {
+    "pair": "JUP/USDT:USDT",
+    "trade_id": 83,
+    "time": "2026-06-25T13:45:00+00:00",
+    "budget": 52.242279726384,
+    "planned_stop_loss": 52.229591547064956,
+    "stop": 0.19624691317253112,
+    "is_short": false
+  },
+  {
+    "pair": "INJ/USDT:USDT",
+    "trade_id": 84,
+    "time": "2026-06-28T21:50:00+00:00",
+    "budget": 52.255083421134,
+    "planned_stop_loss": 52.246026334931685,
+    "stop": 4.848035949417485,
+    "is_short": true
+  },
+  {
+    "pair": "MINA/USDT:USDT",
+    "trade_id": 85,
+    "time": "2026-06-28T22:55:00+00:00",
+    "budget": 52.255083421134,
+    "planned_stop_loss": 52.253627947424775,
+    "stop": 0.03944069491554165,
+    "is_short": true
+  },
+  {
+    "pair": "PYTH/USDT:USDT",
+    "trade_id": 86,
+    "time": "2026-07-01T07:15:00+00:00",
+    "budget": 51.73794161449649,
+    "planned_stop_loss": 51.73651745341607,
+    "stop": 0.03483689702244937,
+    "is_short": false
+  },
+  {
+    "pair": "ETHFI/USDT:USDT",
+    "trade_id": 87,
+    "time": "2026-07-05T09:25:00+00:00",
+    "budget": 51.7482034575165,
+    "planned_stop_loss": 51.74096821625369,
+    "stop": 0.3829445247528187,
+    "is_short": false
+  },
+  {
+    "pair": "WLD/USDT:USDT",
+    "trade_id": 88,
+    "time": "2026-07-06T12:05:00+00:00",
+    "budget": 51.758749489193995,
+    "planned_stop_loss": 51.733287694107275,
+    "stop": 0.37327018113955357,
+    "is_short": false
+  },
+  {
+    "pair": "LDO/USDT:USDT",
+    "trade_id": 89,
+    "time": "2026-07-09T07:30:00+00:00",
+    "budget": 51.805513333628994,
+    "planned_stop_loss": 51.78718742668525,
+    "stop": 0.2916668605985116,
+    "is_short": false
+  },
+  {
+    "pair": "HBAR/USDT:USDT",
+    "trade_id": 90,
+    "time": "2026-07-12T06:30:00+00:00",
+    "budget": 51.864795829291495,
+    "planned_stop_loss": 51.838005157527505,
+    "stop": 0.07030530398319308,
+    "is_short": true
+  },
+  {
+    "pair": "ONDO/USDT:USDT",
+    "trade_id": 91,
+    "time": "2026-07-18T09:30:00+00:00",
+    "budget": 51.864115907686504,
+    "planned_stop_loss": 51.71556596043513,
+    "stop": 0.31837978356668933,
+    "is_short": false
+  },
+  {
+    "pair": "BONK/USDT:USDT",
+    "trade_id": 92,
+    "time": "2026-07-23T18:00:00+00:00",
+    "budget": 51.86855576563649,
+    "planned_stop_loss": 51.862861482224844,
+    "stop": 3.1170290819046345e-06,
+    "is_short": true
+  },
+  {
+    "pair": "ETHW/USDT:USDT",
+    "trade_id": 93,
+    "time": "2026-07-24T21:15:00+00:00",
+    "budget": 51.8138111644065,
+    "planned_stop_loss": 39.39757955963296,
+    "stop": 0.24077670634881784,
+    "is_short": true
+  },
+  {
+    "pair": "WLD/USDT:USDT",
+    "trade_id": 94,
+    "time": "2026-07-24T22:00:00+00:00",
+    "budget": 51.8138111644065,
+    "planned_stop_loss": 51.80274120289596,
+    "stop": 0.3219142377196769,
+    "is_short": false
+  },
+  {
+    "pair": "PEOPLE/USDT:USDT",
+    "trade_id": 95,
+    "time": "2026-07-26T08:25:00+00:00",
+    "budget": 51.9004342200465,
+    "planned_stop_loss": 51.8756547972481,
+    "stop": 0.006595677627237907,
+    "is_short": true
+  },
+  {
+    "pair": "INJ/USDT:USDT",
+    "trade_id": 96,
+    "time": "2026-07-27T21:40:00+00:00",
+    "budget": 52.09981053982651,
+    "planned_stop_loss": 52.0932378336654,
+    "stop": 5.010108847458279,
+    "is_short": true
+  },
+  {
+    "pair": "SOL/USDT:USDT",
+    "trade_id": 97,
+    "time": "2026-07-29T02:05:00+00:00",
+    "budget": 52.14686262028649,
+    "planned_stop_loss": 40.694632816720514,
+    "stop": 75.34940472618464,
+    "is_short": true
+  },
+  {
+    "pair": "XLM/USDT:USDT",
+    "trade_id": 98,
+    "time": "2026-08-04T09:20:00+00:00",
+    "budget": 52.0636308131115,
+    "planned_stop_loss": 34.28110454289322,
+    "stop": 0.17425908559352918,
+    "is_short": true
+  },
+  {
+    "pair": "RENDER/USDT:USDT",
+    "trade_id": 99,
+    "time": "2026-08-07T14:50:00+00:00",
+    "budget": 52.2193491679365,
+    "planned_stop_loss": 39.45460310004478,
+    "stop": 1.3472452004690179,
+    "is_short": true
+  },
+  {
+    "pair": "JUP/USDT:USDT",
+    "trade_id": 100,
+    "time": "2026-08-11T14:50:00+00:00",
+    "budget": 52.1338871753865,
+    "planned_stop_loss": 47.929931404486524,
+    "stop": 0.18488405200201088,
+    "is_short": true
+  },
+  {
+    "pair": "BOME/USDT:USDT",
+    "trade_id": 101,
+    "time": "2026-08-13T08:50:00+00:00",
+    "budget": 52.2178197466365,
+    "planned_stop_loss": 52.18649205623797,
+    "stop": 0.000690843710999749,
+    "is_short": false
+  },
+  {
+    "pair": "APT/USDT:USDT",
+    "trade_id": 102,
+    "time": "2026-08-14T01:10:00+00:00",
+    "budget": 52.2301340843865,
+    "planned_stop_loss": 37.74815919479761,
+    "stop": 0.5716128723520684,
+    "is_short": true
+  },
+  {
+    "pair": "OP/USDT:USDT",
+    "trade_id": 103,
+    "time": "2026-08-22T07:50:00+00:00",
+    "budget": 52.398096926026504,
+    "planned_stop_loss": 52.391046888792175,
+    "stop": 0.1031074044650994,
+    "is_short": false
+  },
+  {
+    "pair": "XRP/USDT:USDT",
+    "trade_id": 104,
+    "time": "2026-08-22T08:05:00+00:00",
+    "budget": 52.398096926026504,
+    "planned_stop_loss": 52.26789903561803,
+    "stop": 1.3669840842775198,
+    "is_short": false
+  },
+  {
+    "pair": "ARB/USDT:USDT",
+    "trade_id": 105,
+    "time": "2026-09-02T10:05:00+00:00",
+    "budget": 52.143088566789004,
+    "planned_stop_loss": 52.13355095898743,
+    "stop": 0.10187628157647625,
+    "is_short": false
+  },
+  {
+    "pair": "JTO/USDT:USDT",
+    "trade_id": 106,
+    "time": "2026-09-04T20:45:00+00:00",
+    "budget": 52.225484710509,
+    "planned_stop_loss": 52.206960651418285,
+    "stop": 0.4334699785519896,
+    "is_short": true
+  },
+  {
+    "pair": "ONDO/USDT:USDT",
+    "trade_id": 107,
+    "time": "2026-09-07T03:30:00+00:00",
+    "budget": 52.071917148504,
+    "planned_stop_loss": 51.944984110495625,
+    "stop": 0.36628747791313554,
+    "is_short": false
+  },
+  {
+    "pair": "RAY/USDT:USDT",
+    "trade_id": 108,
+    "time": "2026-09-09T19:45:00+00:00",
+    "budget": 52.11578733530399,
+    "planned_stop_loss": 51.942644800261576,
+    "stop": 1.0578818401672203,
+    "is_short": false
+  },
+  {
+    "pair": "APT/USDT:USDT",
+    "trade_id": 109,
+    "time": "2026-09-09T22:10:00+00:00",
+    "budget": 52.117823743524,
+    "planned_stop_loss": 52.102895611039344,
+    "stop": 0.5844830259670271,
+    "is_short": false
+  },
+  {
+    "pair": "BCH/USDT:USDT",
+    "trade_id": 110,
+    "time": "2026-09-10T13:20:00+00:00",
+    "budget": 52.117823743524,
+    "planned_stop_loss": 52.094952062373295,
+    "stop": 217.16739771119532,
+    "is_short": false
+  },
+  {
+    "pair": "RAY/USDT:USDT",
+    "trade_id": 111,
+    "time": "2026-09-11T17:50:00+00:00",
+    "budget": 52.209222117624,
+    "planned_stop_loss": 52.03934893444921,
+    "stop": 1.3353611145550204,
+    "is_short": false
+  },
+  {
+    "pair": "ETHW/USDT:USDT",
+    "trade_id": 112,
+    "time": "2026-09-14T12:55:00+00:00",
+    "budget": 52.29114104273401,
+    "planned_stop_loss": 52.291040563135994,
+    "stop": 0.2662979554315586,
+    "is_short": true
+  },
+  {
+    "pair": "OP/USDT:USDT",
+    "trade_id": 113,
+    "time": "2026-09-15T18:50:00+00:00",
+    "budget": 52.370751465054,
+    "planned_stop_loss": 52.370387593288115,
+    "stop": 0.08811623546772297,
+    "is_short": false
+  },
+  {
+    "pair": "ARB/USDT:USDT",
+    "trade_id": 114,
+    "time": "2026-09-17T21:45:00+00:00",
+    "budget": 52.403382280656,
+    "planned_stop_loss": 52.394340741443216,
+    "stop": 0.15718245490538796,
+    "is_short": false
+  },
+  {
+    "pair": "FIL/USDT:USDT",
+    "trade_id": 115,
+    "time": "2026-09-19T22:25:00+00:00",
+    "budget": 52.69481476444351,
+    "planned_stop_loss": 52.68948803776095,
+    "stop": 0.8646402501703874,
+    "is_short": false
+  },
+  {
+    "pair": "AR/USDT:USDT",
+    "trade_id": 116,
+    "time": "2026-09-21T09:10:00+00:00",
+    "budget": 52.673451159235505,
+    "planned_stop_loss": 52.61690302738498,
+    "stop": 4.221631034518743,
+    "is_short": false
+  },
+  {
+    "pair": "AR/USDT:USDT",
+    "trade_id": 116,
+    "time": "2026-09-21T17:50:00+00:00",
+    "budget": 52.673451159235505,
+    "planned_stop_loss": 52.66840531168458,
+    "stop": 4.221631034518743,
+    "is_short": false
+  },
+  {
+    "pair": "ETHW/USDT:USDT",
+    "trade_id": 117,
+    "time": "2026-09-21T18:30:00+00:00",
+    "budget": 52.477165787508,
+    "planned_stop_loss": 52.47588175797648,
+    "stop": 0.27909828413883736,
+    "is_short": false
+  },
+  {
+    "pair": "BOME/USDT:USDT",
+    "trade_id": 118,
+    "time": "2026-09-21T19:25:00+00:00",
+    "budget": 52.477165787508,
+    "planned_stop_loss": 52.419541709947225,
+    "stop": 0.0009646064593188553,
+    "is_short": false
+  },
+  {
+    "pair": "ICP/USDT:USDT",
+    "trade_id": 119,
+    "time": "2026-09-23T14:20:00+00:00",
+    "budget": 52.409650130739,
+    "planned_stop_loss": 52.40831886919409,
+    "stop": 2.750643011653345,
+    "is_short": false
+  },
+  {
+    "pair": "BOME/USDT:USDT",
+    "trade_id": 120,
+    "time": "2026-09-24T05:15:00+00:00",
+    "budget": 52.409650130739,
+    "planned_stop_loss": 52.3783631817754,
+    "stop": 0.0012773549881581708,
+    "is_short": true
+  },
+  {
+    "pair": "OP/USDT:USDT",
+    "trade_id": 121,
+    "time": "2026-09-25T14:05:00+00:00",
+    "budget": 52.778437772742,
+    "planned_stop_loss": 52.76898312490562,
+    "stop": 0.12303540192406846,
+    "is_short": false
+  },
+  {
+    "pair": "SUI/USDT:USDT",
+    "trade_id": 122,
+    "time": "2026-10-02T08:55:00+00:00",
+    "budget": 52.796387064514505,
+    "planned_stop_loss": 52.713177781385866,
+    "stop": 1.0938446781235187,
+    "is_short": false
+  },
+  {
+    "pair": "STRK/USDT:USDT",
+    "trade_id": 123,
+    "time": "2026-10-02T18:40:00+00:00",
+    "budget": 52.8104733988095,
+    "planned_stop_loss": 52.81010306769724,
+    "stop": 0.03824732603344016,
+    "is_short": false
+  },
+  {
+    "pair": "SAND/USDT:USDT",
+    "trade_id": 124,
+    "time": "2026-10-02T18:40:00+00:00",
+    "budget": 52.8104733988095,
+    "planned_stop_loss": 52.808878397513126,
+    "stop": 0.052892132391089704,
+    "is_short": false
+  },
+  {
+    "pair": "DOT/USDT:USDT",
+    "trade_id": 125,
+    "time": "2026-10-02T18:50:00+00:00",
+    "budget": 52.81047339880949,
+    "planned_stop_loss": 52.74152228163018,
+    "stop": 1.0588440828596208,
+    "is_short": false
+  },
+  {
+    "pair": "SAND/USDT:USDT",
+    "trade_id": 126,
+    "time": "2026-10-02T21:00:00+00:00",
+    "budget": 52.88994804906451,
+    "planned_stop_loss": 52.87694662233196,
+    "stop": 0.05357555150601186,
+    "is_short": false
+  },
+  {
+    "pair": "BAT/USDT:USDT",
+    "trade_id": 127,
+    "time": "2026-10-03T06:15:00+00:00",
+    "budget": 53.183097282447,
+    "planned_stop_loss": 53.168133060977425,
+    "stop": 0.0904448580208801,
+    "is_short": false
+  },
+  {
+    "pair": "RAY/USDT:USDT",
+    "trade_id": 128,
+    "time": "2026-10-06T14:45:00+00:00",
+    "budget": 53.22066796807201,
+    "planned_stop_loss": 53.080339189695565,
+    "stop": 2.0350993647410536,
+    "is_short": false
+  },
+  {
+    "pair": "SAND/USDT:USDT",
+    "trade_id": 129,
+    "time": "2026-10-07T05:25:00+00:00",
+    "budget": 53.410019284512,
+    "planned_stop_loss": 53.34195062895293,
+    "stop": 0.06639587843495968,
+    "is_short": false
+  },
+  {
+    "pair": "ALGO/USDT:USDT",
+    "trade_id": 130,
+    "time": "2026-10-08T13:25:00+00:00",
+    "budget": 53.449576684812,
+    "planned_stop_loss": 53.44131341199784,
+    "stop": 0.11357402054731752,
+    "is_short": false
+  },
+  {
+    "pair": "JUP/USDT:USDT",
+    "trade_id": 131,
+    "time": "2026-10-08T14:55:00+00:00",
+    "budget": 53.449576684812,
+    "planned_stop_loss": 53.364053281273414,
+    "stop": 0.32752110215477326,
+    "is_short": false
+  },
+  {
+    "pair": "WLD/USDT:USDT",
+    "trade_id": 132,
+    "time": "2026-10-08T15:25:00+00:00",
+    "budget": 53.449576684812,
+    "planned_stop_loss": 53.43561994609615,
+    "stop": 0.44806187703450573,
+    "is_short": false
+  },
+  {
+    "pair": "JUP/USDT:USDT",
+    "trade_id": 131,
+    "time": "2026-10-08T18:10:00+00:00",
+    "budget": 53.449576684812,
+    "planned_stop_loss": 53.43940370108851,
+    "stop": 0.32752110215477326,
+    "is_short": false
+  },
+  {
+    "pair": "LDO/USDT:USDT",
+    "trade_id": 133,
+    "time": "2026-10-08T18:10:00+00:00",
+    "budget": 52.688722574862,
+    "planned_stop_loss": 52.6841733549104,
+    "stop": 0.35466256263619655,
+    "is_short": false
+  },
+  {
+    "pair": "PYTH/USDT:USDT",
+    "trade_id": 134,
+    "time": "2026-10-13T15:50:00+00:00",
+    "budget": 53.21457350480701,
+    "planned_stop_loss": 53.151495313135,
+    "stop": 0.06885232734962612,
+    "is_short": false
+  },
+  {
+    "pair": "BAT/USDT:USDT",
+    "trade_id": 135,
+    "time": "2026-10-13T22:40:00+00:00",
+    "budget": 53.272511060472006,
+    "planned_stop_loss": 53.128775866104604,
+    "stop": 0.16334988176291365,
+    "is_short": false
+  },
+  {
+    "pair": "TIA/USDT:USDT",
+    "trade_id": 136,
+    "time": "2026-10-14T05:55:00+00:00",
+    "budget": 53.286942247902005,
+    "planned_stop_loss": 53.27790421798977,
+    "stop": 0.48683842023451934,
+    "is_short": false
+  },
+  {
+    "pair": "WLD/USDT:USDT",
+    "trade_id": 137,
+    "time": "2026-10-15T02:25:00+00:00",
+    "budget": 53.299941195402,
+    "planned_stop_loss": 53.29177366222223,
+    "stop": 0.42701259739615127,
+    "is_short": false
+  },
+  {
+    "pair": "OP/USDT:USDT",
+    "trade_id": 138,
+    "time": "2026-10-15T02:25:00+00:00",
+    "budget": 53.299941195402,
+    "planned_stop_loss": 53.29536880144798,
+    "stop": 0.11913085549185501,
+    "is_short": false
+  },
+  {
+    "pair": "ZK/USDT:USDT",
+    "trade_id": 139,
+    "time": "2026-10-15T04:20:00+00:00",
+    "budget": 53.33370629677201,
+    "planned_stop_loss": 53.314943361006556,
+    "stop": 0.015107783464694552,
+    "is_short": false
+  },
+  {
+    "pair": "ZK/USDT:USDT",
+    "trade_id": 140,
+    "time": "2026-10-15T15:10:00+00:00",
+    "budget": 53.4934320773985,
+    "planned_stop_loss": 53.483833066394936,
+    "stop": 0.015332012273129487,
+    "is_short": false
+  },
+  {
+    "pair": "CRV/USDT:USDT",
+    "trade_id": 141,
+    "time": "2026-10-17T13:10:00+00:00",
+    "budget": 53.6567807776275,
+    "planned_stop_loss": 53.65137493739587,
+    "stop": 0.3596214492824824,
+    "is_short": true
+  },
+  {
+    "pair": "LTC/USDT:USDT",
+    "trade_id": 142,
+    "time": "2026-10-17T13:15:00+00:00",
+    "budget": 53.6567807776275,
+    "planned_stop_loss": 49.84698044293464,
+    "stop": 61.24544588072932,
+    "is_short": true
+  },
+  {
+    "pair": "XLM/USDT:USDT",
+    "trade_id": 143,
+    "time": "2026-10-23T19:10:00+00:00",
+    "budget": 53.5483850856075,
+    "planned_stop_loss": 44.88896319302535,
+    "stop": 0.1810550167829618,
+    "is_short": true
+  },
+  {
+    "pair": "WLD/USDT:USDT",
+    "trade_id": 144,
+    "time": "2026-10-25T08:55:00+00:00",
+    "budget": 53.768864558475,
+    "planned_stop_loss": 53.75455185874739,
+    "stop": 0.40469974057557273,
+    "is_short": false
+  }
+]

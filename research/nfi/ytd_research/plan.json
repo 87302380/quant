@@ -1,0 +1,14 @@
+{
+  "scope": "2026-01-01 to frozen2026-10-29 snapshot;57 static pairs;24h;original3x;5bps fills;no funding",
+  "variants": [
+    "baseline",
+    "overheat",
+    "budget",
+    "direction"
+  ],
+  "budget": "Independent baseline signals.2xclosed4h ATR14 stop distance,minimum1% price;size by0.5% realized wallet equity risk incl0.1% roundtrip fees;fixed campaign risk from initial fill,positive adds share remaining budget; hardstop exit veto bypassed.",
+  "direction": "Same budget variant plus total planned stop-loss risk per direction<=1.5% realized equity;all same-direction pairs conservatively treated as one correlated bucket.",
+  "selection": "No threshold sweep or independentOOS claim.WholeYTD history retrospective. Do not merge overheat with budget to hide contributions. Forward paper plan only; no trading process or credentials.",
+  "risk_equity_base": "Freqtrade wallets.get_total_stake_amount: realized wallet equity including realized partial exits, multiplied by tradable_balance_ratio=0.99; excludes floating P&L. Thus 0.5%/1.5% correspond to approximately 0.495%/1.485% of total realized wallet.",
+  "direction_cap_semantics": "Entry admission cap only, using equity at admission. Existing frozen budgets are not forcibly reduced if realized equity later falls; partial exits do not release reserved budget."
+}

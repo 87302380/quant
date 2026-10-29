@@ -51,7 +51,7 @@ def groups(trades, key):
             for k, v in sorted(buckets.items(), key=lambda x: -sum(t['profit_abs'] for t in x[1]))}
 
 
-def equity_audit(s):
+def equity_audit(s, datadir=None):
     """Signed fill cashflows + remaining inventory value; margin changes do not count as P&L."""
     axis = np.arange(s['backtest_start_ts'], s['backtest_end_ts'] + 1, 300_000, dtype=np.int64)
     cash_delta = np.zeros(len(axis))
@@ -93,7 +93,7 @@ def equity_audit(s):
     for pair, delta in flows.items():
         qty = np.cumsum(delta)
         stem = pair.replace('/', '_').replace(':', '_')
-        folder = ROOT / 'data/nfi/freqtrade/futures'
+        folder = Path(datadir) if datadir else ROOT / 'data/nfi/freqtrade/futures'
         for tf, kind, target in [('5m', 'futures', equity), ('1h', 'mark', mark_equity)]:
             rows = json.loads(gzip.decompress((folder / f'{stem}-{tf}-{kind}.json.gz').read_bytes()))
             step = 300_000 if tf == '5m' else 3_600_000
@@ -140,10 +140,10 @@ def equity_audit(s):
     return metrics, frame
 
 
-def analyze(path):
+def analyze(path, datadir=None):
     s = load_result(path)
     ts = s['trades']
-    audit, frame = equity_audit(s)
+    audit, frame = equity_audit(s, datadir)
     entries = [sum(o['ft_is_entry'] for o in filled_orders(t)) for t in ts]
     exits = [sum(not o['ft_is_entry'] for o in filled_orders(t)) for t in ts]
     result = {'archive': str(path.relative_to(ROOT)), 'archive_sha256': __import__('hashlib').sha256(path.read_bytes()).hexdigest(),
@@ -168,7 +168,7 @@ def analyze(path):
         str(bps): {'profit_usdt': result['profit_usdt'] - audit['turnover_usdt'] * bps / 10000,
                    'return_pct': 100 * (result['profit_usdt'] - audit['turnover_usdt'] * bps / 10000) / s['starting_balance']}
         for bps in (2, 5, 10)}
-    if s['strategy_name'] == 'NFI24Hour' or s['strategy_name'].startswith('NFIRisk'):
+    if s['strategy_name'] == 'NFI24Hour' or s['strategy_name'].startswith(('NFIRisk', 'NFIYtd')):
         violations = [t for t in ts if t['close_timestamp'] > t['open_timestamp'] + 86_400_000]
         late_adds = [o for t in ts for o in filled_orders(t)
                      if o['ft_is_entry'] and o['order_filled_timestamp'] >= t['open_timestamp'] + 86_400_000]
