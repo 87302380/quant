@@ -1,0 +1,21 @@
+{
+  "warning": "One predetermined reverse-order paired test, not an exhaustive universe/priority robustness proof; no choice of best ordering.",
+  "pairs": {
+    "original": {
+      "control_return_pct": 239.25574026160007,
+      "climax_return_pct": 257.52528413770005,
+      "return_advantage_pp": 18.269543876099988,
+      "control_dd_pct": 13.316326662603073,
+      "climax_dd_pct": 10.774844420137143,
+      "dd_difference_pp": -2.5414822424659302
+    },
+    "reverse": {
+      "control_return_pct": 238.8696998817,
+      "climax_return_pct": 261.45727830529995,
+      "return_advantage_pp": 22.58757842359995,
+      "control_dd_pct": 13.317223510439224,
+      "climax_dd_pct": 11.345205061161174,
+      "dd_difference_pp": -1.9720184492780497
+    }
+  }
+}

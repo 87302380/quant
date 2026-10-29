@@ -1,0 +1,10 @@
+{
+  "recorded_utc": "2026-10-29T19:43:14.287509+00:00",
+  "reason": "Climax incremental sample only5newlongs allprofitable, two onOct8; max6slots makes entrypriority material. Prespecified fixed reverseorder pairedcontrol, no search for best ranking.",
+  "variants": [
+    "control_reverse",
+    "climax_reverse"
+  ],
+  "change": "Reverse original57 exchange.pair_whitelist, nothingelse; same10000wallet/fees/leverage/maxslots/source/exit/deadline",
+  "interpretation": "Compare climax against control under each common ordering. Do not choose whichever ordering performsbest. Samehistory, notOOS."
+}

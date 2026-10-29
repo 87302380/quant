@@ -1,0 +1,13 @@
+{
+  "primary": "both",
+  "return_eligible": [],
+  "risk_eligible": [
+    "long_cap"
+  ],
+  "secondary": "long_cap",
+  "selected": [
+    "both",
+    "long_cap"
+  ],
+  "warning": "Rules recorded in plan.json and risk_validation_plan.json; same inspected history, not OOS."
+}

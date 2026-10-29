@@ -1,0 +1,11 @@
+{
+  "recorded_utc": "2026-10-29T19:33:06.870753+00:00",
+  "source_sha256": "4e20cde120137bbfb9cb40ba049adfbac34f3f547381d16e55663b2b95ed045d",
+  "adaptive_basis": "Original dip-family cohort with prior1hshock49wins2losses11252.22USDT, withoutshock8wins4losses6.24USDT. This eventual-label analysis motivated added hypotheses; explicitly posthoc, not OOS. No threshold scan.",
+  "variants": {
+    "climax": "Pure dip-family entries require known breadth and prior1hshock; trend/mixed/short unchanged",
+    "climax_after": "Same, but current rawshock must be false. Rawfalse need not mean actual reversal; volatility normalization may change."
+  },
+  "constraints": "No stake increases, same native exits, shorts,3x/6slots/noadds/24h",
+  "validation": "At most one added variant if annualreturn>=control and DD<=control, or retained>=75%control return, DD<=80%control, Ulcer<=control, ES>=control. Selecthighestreturn among qualifiers; replayfee10 andfreshJuly. Preserve original selections and failures."
+}

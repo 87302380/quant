@@ -1,0 +1,7 @@
+{
+  "recorded_utc": "2026-10-29T19:24:08.846913+00:00",
+  "reason": "Supplement original return-dominance selection to test a legitimate drawdown tradeoff; recorded before all6 financial metrics completed and before long_cap result. No financial threshold changes.",
+  "secondary_eligibility": "Any noncontrol main variant return>=75%control return AND DD<=80%control DD AND Ulcer<=control AND dailyES95>=control; choosehighest return/DD. If different from primary, additionally replay10bps andfreshJuly.",
+  "maximum_candidates": 2,
+  "warning": "Researcher-chosen utility thresholds on already-seen history, not independent OOS; preserve primary fallbacknegative diagnostic."
+}

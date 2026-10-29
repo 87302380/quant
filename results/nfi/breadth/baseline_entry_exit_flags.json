@@ -1,0 +1,949 @@
+{
+  "warning": "Original path flags and eventual labels only; not a revised strategy PnL or causal profit attribution.",
+  "entry_blocks_original_winners": 55,
+  "entry_blocks_original_losers": 2,
+  "post_entry_shocks_original_winners": 52,
+  "post_entry_shocks_original_losers": 11,
+  "records": [
+    {
+      "pair": "ICP/USDT:USDT",
+      "open_date": "2026-01-13 20:25:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 17.87274546,
+      "signal_family": "trend",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.25
+    },
+    {
+      "pair": "ICP/USDT:USDT",
+      "open_date": "2026-01-15 08:30:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 27.6487722,
+      "signal_family": "dip",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "LTC/USDT:USDT",
+      "open_date": "2026-01-19 00:25:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 105.239112,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 1.4166666666666667
+    },
+    {
+      "pair": "MINA/USDT:USDT",
+      "open_date": "2026-01-19 08:35:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 126.86761253,
+      "signal_family": "trend",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "SAND/USDT:USDT",
+      "open_date": "2026-01-20 16:45:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 288.605975,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 5.833333333333333
+    },
+    {
+      "pair": "SUI/USDT:USDT",
+      "open_date": "2026-01-31 14:40:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 64.810407,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.08333333333333333
+    },
+    {
+      "pair": "ARB/USDT:USDT",
+      "open_date": "2026-01-31 14:45:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 83.30375485,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "ETC/USDT:USDT",
+      "open_date": "2026-01-31 17:35:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 261.131157,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 1.0833333333333333
+    },
+    {
+      "pair": "RAY/USDT:USDT",
+      "open_date": "2026-01-31 18:25:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 193.3468669,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.25
+    },
+    {
+      "pair": "NEAR/USDT:USDT",
+      "open_date": "2026-01-31 17:35:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 158.35316,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 1.0833333333333333
+    },
+    {
+      "pair": "SAND/USDT:USDT",
+      "open_date": "2026-02-05 15:35:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 75.0463785,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "BOME/USDT:USDT",
+      "open_date": "2026-02-05 15:35:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 26.72529375,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.5
+    },
+    {
+      "pair": "HBAR/USDT:USDT",
+      "open_date": "2026-02-05 15:35:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 36.1591092,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.5
+    },
+    {
+      "pair": "AAVE/USDT:USDT",
+      "open_date": "2026-02-05 20:55:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 66.5314125,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "SUI/USDT:USDT",
+      "open_date": "2026-02-05 20:30:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 52.1258913,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.4166666666666667
+    },
+    {
+      "pair": "UNI/USDT:USDT",
+      "open_date": "2026-02-05 17:55:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 104.3587635,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 2.4166666666666665
+    },
+    {
+      "pair": "ZRO/USDT:USDT",
+      "open_date": "2026-02-10 22:40:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 44.227053,
+      "signal_family": "trend",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "open_date": "2026-02-26 16:55:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 28.0871184,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.08333333333333333
+    },
+    {
+      "pair": "SUI/USDT:USDT",
+      "open_date": "2026-03-05 16:10:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 33.7512265,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.08333333333333333
+    },
+    {
+      "pair": "ETHFI/USDT:USDT",
+      "open_date": "2026-03-19 06:35:00+00:00",
+      "original_winner": false,
+      "original_profit_usdt": -106.8402289,
+      "signal_family": "trend",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.6666666666666666
+    },
+    {
+      "pair": "BOME/USDT:USDT",
+      "open_date": "2026-04-19 22:30:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 95.2674025,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "RAY/USDT:USDT",
+      "open_date": "2026-04-26 11:20:00+00:00",
+      "original_winner": false,
+      "original_profit_usdt": -152.96852025,
+      "signal_family": "trend",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 10.25
+    },
+    {
+      "pair": "LDO/USDT:USDT",
+      "open_date": "2026-04-27 06:05:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 66.3175105,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.5
+    },
+    {
+      "pair": "DOGE/USDT:USDT",
+      "open_date": "2026-04-29 18:10:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 384.8203722,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.08333333333333333
+    },
+    {
+      "pair": "ETC/USDT:USDT",
+      "open_date": "2026-05-04 15:55:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 59.9818882,
+      "signal_family": "trend",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 22.75
+    },
+    {
+      "pair": "FIL/USDT:USDT",
+      "open_date": "2026-05-06 09:40:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 16.0853118,
+      "signal_family": "trend",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "JTO/USDT:USDT",
+      "open_date": "2026-05-08 05:15:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 17.19027555,
+      "signal_family": "trend",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "SUI/USDT:USDT",
+      "open_date": "2026-05-10 01:25:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 130.8817638,
+      "signal_family": "trend",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 8.666666666666666
+    },
+    {
+      "pair": "LDO/USDT:USDT",
+      "open_date": "2026-05-11 15:20:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 88.29752375,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "INJ/USDT:USDT",
+      "open_date": "2026-05-19 04:25:00+00:00",
+      "original_winner": false,
+      "original_profit_usdt": -62.9483517,
+      "signal_family": "trend",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.9166666666666666
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_date": "2026-05-22 23:50:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 43.107715,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.08333333333333333
+    },
+    {
+      "pair": "INJ/USDT:USDT",
+      "open_date": "2026-05-23 05:45:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 76.5506111,
+      "signal_family": "dip",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 2.0833333333333335
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_date": "2026-05-24 14:20:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 22.4583825,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.08333333333333333
+    },
+    {
+      "pair": "NEAR/USDT:USDT",
+      "open_date": "2026-06-02 15:35:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 463.908224,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.08333333333333333
+    },
+    {
+      "pair": "TIA/USDT:USDT",
+      "open_date": "2026-06-05 06:20:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 35.5960794,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.08333333333333333
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "open_date": "2026-06-05 06:20:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 148.8438216,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.08333333333333333
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_date": "2026-06-05 07:40:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 69.1606818,
+      "signal_family": "trend",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "AAVE/USDT:USDT",
+      "open_date": "2026-06-05 14:00:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 49.4615394,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.08333333333333333
+    },
+    {
+      "pair": "ONDO/USDT:USDT",
+      "open_date": "2026-06-05 15:15:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 54.598271,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.4166666666666667
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "open_date": "2026-06-05 18:55:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 558.40726425,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.08333333333333333
+    },
+    {
+      "pair": "FIL/USDT:USDT",
+      "open_date": "2026-06-05 15:50:00+00:00",
+      "original_winner": false,
+      "original_profit_usdt": -159.0560034,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 1.5
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_date": "2026-06-06 08:55:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 779.30694765,
+      "signal_family": "dip",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.9166666666666666
+    },
+    {
+      "pair": "JTO/USDT:USDT",
+      "open_date": "2026-06-08 01:55:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 28.1910951,
+      "signal_family": "trend",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_date": "2026-06-08 21:20:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 748.26955125,
+      "signal_family": "dip",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 2.0833333333333335
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_date": "2026-06-09 15:55:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 746.36855475,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.75
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_date": "2026-06-10 16:35:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 98.6109327,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.25
+    },
+    {
+      "pair": "XLM/USDT:USDT",
+      "open_date": "2026-06-16 01:55:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 139.276296,
+      "signal_family": "trend",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.5833333333333334
+    },
+    {
+      "pair": "INJ/USDT:USDT",
+      "open_date": "2026-06-17 22:05:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 167.3076152,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "JUP/USDT:USDT",
+      "open_date": "2026-06-25 13:45:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 57.387225,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.08333333333333333
+    },
+    {
+      "pair": "PYTH/USDT:USDT",
+      "open_date": "2026-07-01 07:15:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 13.3986344,
+      "signal_family": "trend",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "ETHFI/USDT:USDT",
+      "open_date": "2026-07-05 09:25:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 11.2965965,
+      "signal_family": "trend",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.25
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_date": "2026-07-06 12:05:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 184.0966709,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.08333333333333333
+    },
+    {
+      "pair": "LDO/USDT:USDT",
+      "open_date": "2026-07-09 07:30:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 263.7145215,
+      "signal_family": "trend",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "ONDO/USDT:USDT",
+      "open_date": "2026-07-18 09:30:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 16.52739,
+      "signal_family": "dip",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 2.9166666666666665
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_date": "2026-07-24 22:00:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 141.6652194,
+      "signal_family": "dip",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "BOME/USDT:USDT",
+      "open_date": "2026-08-13 08:50:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 67.2380064,
+      "signal_family": "dip",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "open_date": "2026-08-22 07:50:00+00:00",
+      "original_winner": false,
+      "original_profit_usdt": -551.04804502,
+      "signal_family": "dip",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.6666666666666666
+    },
+    {
+      "pair": "XRP/USDT:USDT",
+      "open_date": "2026-08-22 08:05:00+00:00",
+      "original_winner": false,
+      "original_profit_usdt": -569.26616,
+      "signal_family": "dip",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.4166666666666667
+    },
+    {
+      "pair": "ARB/USDT:USDT",
+      "open_date": "2026-09-02 10:05:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 388.26397261,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "ONDO/USDT:USDT",
+      "open_date": "2026-09-07 03:30:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 25.07201,
+      "signal_family": "trend",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 4.166666666666667
+    },
+    {
+      "pair": "RAY/USDT:USDT",
+      "open_date": "2026-09-09 19:45:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 16.2980708,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "APT/USDT:USDT",
+      "open_date": "2026-09-09 22:10:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 343.6699887,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.08333333333333333
+    },
+    {
+      "pair": "BCH/USDT:USDT",
+      "open_date": "2026-09-10 13:20:00+00:00",
+      "original_winner": false,
+      "original_profit_usdt": -7.417322,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 3.0
+    },
+    {
+      "pair": "RAY/USDT:USDT",
+      "open_date": "2026-09-11 17:50:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 174.1416468,
+      "signal_family": "trend",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.25
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "open_date": "2026-09-15 18:50:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 116.04936728,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "ARB/USDT:USDT",
+      "open_date": "2026-09-17 21:45:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 400.37249887,
+      "signal_family": "trend",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "FIL/USDT:USDT",
+      "open_date": "2026-09-19 22:25:00+00:00",
+      "original_winner": false,
+      "original_profit_usdt": -107.01399918,
+      "signal_family": "dip",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 4.083333333333333
+    },
+    {
+      "pair": "BOME/USDT:USDT",
+      "open_date": "2026-09-21 19:25:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 31.0294946,
+      "signal_family": "trend",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 5.583333333333333
+    },
+    {
+      "pair": "AR/USDT:USDT",
+      "open_date": "2026-09-21 09:10:00+00:00",
+      "original_winner": false,
+      "original_profit_usdt": -411.8865322,
+      "signal_family": "trend",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.75
+    },
+    {
+      "pair": "ETHW/USDT:USDT",
+      "open_date": "2026-09-21 18:30:00+00:00",
+      "original_winner": false,
+      "original_profit_usdt": -69.35673939,
+      "signal_family": "trend",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 6.5
+    },
+    {
+      "pair": "ICP/USDT:USDT",
+      "open_date": "2026-09-23 14:20:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 912.82285171,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.08333333333333333
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "open_date": "2026-09-25 14:05:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 83.03210087,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.08333333333333333
+    },
+    {
+      "pair": "SUI/USDT:USDT",
+      "open_date": "2026-10-02 08:55:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 14.1852846,
+      "signal_family": "trend",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "DOT/USDT:USDT",
+      "open_date": "2026-10-02 18:50:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 151.3036161,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "SAND/USDT:USDT",
+      "open_date": "2026-10-02 18:40:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 254.6215938,
+      "signal_family": "mixed_or_unknown",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.08333333333333333
+    },
+    {
+      "pair": "SAND/USDT:USDT",
+      "open_date": "2026-10-02 21:00:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 249.5551156,
+      "signal_family": "trend",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "STRK/USDT:USDT",
+      "open_date": "2026-10-02 18:40:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 641.9800332,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.08333333333333333
+    },
+    {
+      "pair": "BAT/USDT:USDT",
+      "open_date": "2026-10-03 06:15:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 37.848987,
+      "signal_family": "trend",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "RAY/USDT:USDT",
+      "open_date": "2026-10-06 14:45:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 184.4094096,
+      "signal_family": "trend",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 1.25
+    },
+    {
+      "pair": "SAND/USDT:USDT",
+      "open_date": "2026-10-07 05:25:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 58.1726475,
+      "signal_family": "trend",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "ARB/USDT:USDT",
+      "open_date": "2026-10-08 15:25:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 751.3112589,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.08333333333333333
+    },
+    {
+      "pair": "SUI/USDT:USDT",
+      "open_date": "2026-10-08 15:25:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 530.403688,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.08333333333333333
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_date": "2026-10-08 15:25:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 154.8008318,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.08333333333333333
+    },
+    {
+      "pair": "AVAX/USDT:USDT",
+      "open_date": "2026-10-08 15:25:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 478.6938024,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.08333333333333333
+    },
+    {
+      "pair": "JUP/USDT:USDT",
+      "open_date": "2026-10-08 14:55:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 51.286229,
+      "signal_family": "dip",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.16666666666666666
+    },
+    {
+      "pair": "ALGO/USDT:USDT",
+      "open_date": "2026-10-08 13:25:00+00:00",
+      "original_winner": false,
+      "original_profit_usdt": -674.9238006,
+      "signal_family": "dip",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 1.6666666666666667
+    },
+    {
+      "pair": "PYTH/USDT:USDT",
+      "open_date": "2026-10-13 15:50:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 382.42611,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "BAT/USDT:USDT",
+      "open_date": "2026-10-13 22:40:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 33.9337999,
+      "signal_family": "trend",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "TIA/USDT:USDT",
+      "open_date": "2026-10-14 05:55:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 58.205493,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 2.5
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_date": "2026-10-15 02:25:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 165.327344,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.08333333333333333
+    },
+    {
+      "pair": "ZK/USDT:USDT",
+      "open_date": "2026-10-15 04:20:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 263.8255651,
+      "signal_family": "trend",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "open_date": "2026-10-15 02:25:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 762.23976576,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": true,
+      "first_shock_hours": 0.08333333333333333
+    },
+    {
+      "pair": "ZK/USDT:USDT",
+      "open_date": "2026-10-15 15:10:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 66.0212829,
+      "signal_family": "trend",
+      "entry_gate_blocks": false,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_date": "2026-10-25 08:55:00+00:00",
+      "original_winner": true,
+      "original_profit_usdt": 639.43875255,
+      "signal_family": "dip",
+      "entry_gate_blocks": true,
+      "post_entry_shock_before_original_exit": false,
+      "first_shock_hours": null
+    }
+  ]
+}

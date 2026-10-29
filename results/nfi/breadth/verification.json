@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "engine_replays": 16,
+  "unit_tests": 163,
+  "control_exact": true,
+  "independent_breadth_exit_audits": 135,
+  "independent_btc_exit_audits": 22,
+  "max_observed_long_cap_overlap": 2,
+  "sources_and_ledgers_verified": true,
+  "funding_excluded": true,
+  "independent_oos": false,
+  "climax_posthoc": true,
+  "reverse_pair_order_verified": true
+}

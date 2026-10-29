@@ -1,0 +1,19 @@
+{
+  "recorded_utc": "2026-10-29T19:20:34.477766+00:00",
+  "sources": {
+    "NFIShortBreadth.py": "b746c46fcafec02a0765721db72c73b85dafa8c34200458909eb081b71aca232",
+    "breadth.py": "06464fb00d42c9b7996c85f091be81f0126f0c7c46115e0530fdc6a3d7d814de"
+  },
+  "feature": "Exactclosed5m equalweight57static pool, causal maturity24h15m; prior288five-min logreturn std shifted3,15m logreturn divided bysqrt3std. Atleast20 valid coins and >=80%coverage of matured coins; unknown blocksnewentries only in gatingvariants.",
+  "shock": "15m decliners>=80% and median standardized15m return<=-1.5",
+  "variants": {
+    "control": "unchanged baseline",
+    "gate": "aftershock past1h blocknewlongs; unknown also blocks",
+    "exit": "raw breadth shock observed strictlyafterfirstentry exits existinglongs; nativeprofitexits/deadline remain",
+    "both": "gate+exit",
+    "btc_exit": "existinglong exit on BTC15m return< -1.5closed1hATR/BTCclose; postentryonly",
+    "long_cap": "max2 actualopen/pendinglongs; shorts still up to global6"
+  },
+  "constraints": "No allocation increases, no adds,3x/6slots,firstentry24h,fundingexcluded, allhistoryexamined, no calendarregimes or thresholdscan",
+  "validation": "Among gate/exit/both/btc_exit with annualreturn>=control and DD<=control selecthighestreturn; else selectboth as negative diagnostic. Exactlyone selected for10bps full-year andfreshJuly10000wallet; samehistorynotOOS."
+}

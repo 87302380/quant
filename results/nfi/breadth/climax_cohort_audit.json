@@ -1,0 +1,167 @@
+{
+  "warning": "Actual original and new paths. Missing/added campaigns reflect filtering and shared capital/slots, not isolated causal alpha. New-campaign profits under their own compounded wallet cannot be added to an original wallet as a new backtest. These hypotheses were chosen after seeing baseline labels.",
+  "variants": {
+    "climax": {
+      "matched_original_long_entry_times": 82,
+      "original_winning_times_not_repeated": 8,
+      "original_losing_times_not_repeated": 4,
+      "new_long_entry_times": 5,
+      "new_longs_wins": 5,
+      "new_longs_losses": 0,
+      "new_long_net_usdt_descriptive": 1814.47124045,
+      "max_abs_matched_entry_price_delta_bps": 0.0,
+      "short_entry_exit_and_normalized_profit_identical": false,
+      "new_campaigns": [
+        {
+          "pair": "APT/USDT:USDT",
+          "open_date": "2026-10-08 15:40:00+00:00",
+          "tag": "143 ",
+          "profit_usdt": 670.8920748,
+          "margin_return_pct": 13.745997217697308,
+          "hours": 4.666666666666667
+        },
+        {
+          "pair": "INJ/USDT:USDT",
+          "open_date": "2026-05-23 07:50:00+00:00",
+          "tag": "144 ",
+          "profit_usdt": 261.429435,
+          "margin_return_pct": 9.75509309719223,
+          "hours": 1.8333333333333333
+        },
+        {
+          "pair": "ONDO/USDT:USDT",
+          "open_date": "2026-10-08 15:45:00+00:00",
+          "tag": "142 ",
+          "profit_usdt": 551.033175,
+          "margin_return_pct": 11.29076345804998,
+          "hours": 2.6666666666666665
+        },
+        {
+          "pair": "WLD/USDT:USDT",
+          "open_date": "2026-06-06 09:55:00+00:00",
+          "tag": "144 ",
+          "profit_usdt": 100.4978016,
+          "margin_return_pct": 2.6586903981375554,
+          "hours": 2.5
+        },
+        {
+          "pair": "WLD/USDT:USDT",
+          "open_date": "2026-06-09 00:50:00+00:00",
+          "tag": "144 ",
+          "profit_usdt": 230.61875405,
+          "margin_return_pct": 6.110521842358511,
+          "hours": 6.0
+        }
+      ]
+    },
+    "climax_after": {
+      "matched_original_long_entry_times": 44,
+      "original_winning_times_not_repeated": 46,
+      "original_losing_times_not_repeated": 4,
+      "new_long_entry_times": 12,
+      "new_longs_wins": 12,
+      "new_longs_losses": 0,
+      "new_long_net_usdt_descriptive": 4334.13885318,
+      "max_abs_matched_entry_price_delta_bps": 0.0,
+      "short_entry_exit_and_normalized_profit_identical": false,
+      "new_campaigns": [
+        {
+          "pair": "APT/USDT:USDT",
+          "open_date": "2026-10-08 15:40:00+00:00",
+          "tag": "143 ",
+          "profit_usdt": 529.7838856,
+          "margin_return_pct": 13.745997217697306,
+          "hours": 4.666666666666667
+        },
+        {
+          "pair": "ARB/USDT:USDT",
+          "open_date": "2026-10-08 15:40:00+00:00",
+          "tag": "143 ",
+          "profit_usdt": 549.98901048,
+          "margin_return_pct": 14.269893120706348,
+          "hours": 12.416666666666666
+        },
+        {
+          "pair": "CRV/USDT:USDT",
+          "open_date": "2026-10-08 15:45:00+00:00",
+          "tag": "141 ",
+          "profit_usdt": 28.4925403,
+          "margin_return_pct": 0.7392720860026504,
+          "hours": 12.75
+        },
+        {
+          "pair": "INJ/USDT:USDT",
+          "open_date": "2026-10-08 17:35:00+00:00",
+          "tag": "144 ",
+          "profit_usdt": 398.7984169,
+          "margin_return_pct": 10.059928738597968,
+          "hours": 2.0833333333333335
+        },
+        {
+          "pair": "NEAR/USDT:USDT",
+          "open_date": "2026-06-02 15:45:00+00:00",
+          "tag": "143 ",
+          "profit_usdt": 425.609036,
+          "margin_return_pct": 16.424218137595172,
+          "hours": 1.8333333333333333
+        },
+        {
+          "pair": "ONDO/USDT:USDT",
+          "open_date": "2026-06-05 15:25:00+00:00",
+          "tag": "141 ",
+          "profit_usdt": 84.01662,
+          "margin_return_pct": 2.7693683278842505,
+          "hours": 3.0
+        },
+        {
+          "pair": "ONDO/USDT:USDT",
+          "open_date": "2026-10-08 15:45:00+00:00",
+          "tag": "142 ",
+          "profit_usdt": 434.9992875,
+          "margin_return_pct": 11.29076345804998,
+          "hours": 2.6666666666666665
+        },
+        {
+          "pair": "SAND/USDT:USDT",
+          "open_date": "2026-01-20 16:50:00+00:00",
+          "tag": "144 ",
+          "profit_usdt": 269.506822,
+          "margin_return_pct": 16.098430266508213,
+          "hours": 9.833333333333334
+        },
+        {
+          "pair": "TIA/USDT:USDT",
+          "open_date": "2026-10-08 15:45:00+00:00",
+          "tag": "143 ",
+          "profit_usdt": 666.6965879,
+          "margin_return_pct": 17.29808237207585,
+          "hours": 1.5
+        },
+        {
+          "pair": "WLD/USDT:USDT",
+          "open_date": "2026-06-06 10:15:00+00:00",
+          "tag": "45 ",
+          "profit_usdt": 485.3160816,
+          "margin_return_pct": 15.053949670067023,
+          "hours": 0.9166666666666666
+        },
+        {
+          "pair": "WLD/USDT:USDT",
+          "open_date": "2026-06-09 00:50:00+00:00",
+          "tag": "144 ",
+          "profit_usdt": 200.677231,
+          "margin_return_pct": 6.110521842358512,
+          "hours": 6.0
+        },
+        {
+          "pair": "WLD/USDT:USDT",
+          "open_date": "2026-10-08 15:45:00+00:00",
+          "tag": "141 142 ",
+          "profit_usdt": 260.2533339,
+          "margin_return_pct": 6.752652411819912,
+          "hours": 18.916666666666668
+        }
+      ]
+    }
+  }
+}

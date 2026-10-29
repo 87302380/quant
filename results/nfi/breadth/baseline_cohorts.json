@@ -1,0 +1,30 @@
+{
+  "warning": "Original-path descriptive PnL, shared sizing and wallet; not causal alpha. These labels motivated the explicitly adaptive climax experiments.",
+  "groups": {
+    "trend_False": {
+      "wins": 20,
+      "losses": 5,
+      "profit_usdt": 1226.48060547
+    },
+    "dip_False": {
+      "wins": 8,
+      "losses": 4,
+      "profit_usdt": 6.2407221999999365
+    },
+    "dip_True": {
+      "wins": 49,
+      "losses": 2,
+      "profit_usdt": 11252.224453329998
+    },
+    "trend_True": {
+      "wins": 5,
+      "losses": 0,
+      "profit_usdt": 446.2312402
+    },
+    "mixed_or_unknown_True": {
+      "wins": 1,
+      "losses": 0,
+      "profit_usdt": 254.6215938
+    }
+  }
+}

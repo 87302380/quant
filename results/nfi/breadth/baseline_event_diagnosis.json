@@ -1,0 +1,84 @@
+{
+  "warning": "Original worst-drawdown holdings selected ex post for explanation; feature decisions use only closed bars. UTC CSV date is bar OPEN, available5minuteslater. Baseline entry flags are not a new strategy return.",
+  "pairs": 57,
+  "evaluation_rows": 86727,
+  "raw_shock_bars": 2574,
+  "raw_shock_episodes": 1423,
+  "entry_gate_bars": 15332,
+  "unknown_bars": 0,
+  "trough_time_shanghai": "2026-10-09 01:50:00+08:00",
+  "baseline_trough_campaigns": [
+    {
+      "pair": "ARB/USDT:USDT",
+      "is_short": false,
+      "entry_time_shanghai": "2026-10-08 23:25:00+08:00",
+      "entry_signal_closed_at_shanghai": "2026-10-08 23:25:00+08:00",
+      "entry_breadth_known": true,
+      "entry_recent_shock": true,
+      "entry_decliners_pct": 100.0,
+      "entry_median_z": -8.942738071874823,
+      "first_post_entry_raw_shock_before_trough_shanghai": "2026-10-08 23:30:00+08:00",
+      "original_campaign_profit_usdt": 751.3112589
+    },
+    {
+      "pair": "SUI/USDT:USDT",
+      "is_short": false,
+      "entry_time_shanghai": "2026-10-08 23:25:00+08:00",
+      "entry_signal_closed_at_shanghai": "2026-10-08 23:25:00+08:00",
+      "entry_breadth_known": true,
+      "entry_recent_shock": true,
+      "entry_decliners_pct": 100.0,
+      "entry_median_z": -8.942738071874823,
+      "first_post_entry_raw_shock_before_trough_shanghai": "2026-10-08 23:30:00+08:00",
+      "original_campaign_profit_usdt": 530.403688
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "is_short": false,
+      "entry_time_shanghai": "2026-10-08 23:25:00+08:00",
+      "entry_signal_closed_at_shanghai": "2026-10-08 23:25:00+08:00",
+      "entry_breadth_known": true,
+      "entry_recent_shock": true,
+      "entry_decliners_pct": 100.0,
+      "entry_median_z": -8.942738071874823,
+      "first_post_entry_raw_shock_before_trough_shanghai": "2026-10-08 23:30:00+08:00",
+      "original_campaign_profit_usdt": 154.8008318
+    },
+    {
+      "pair": "AVAX/USDT:USDT",
+      "is_short": false,
+      "entry_time_shanghai": "2026-10-08 23:25:00+08:00",
+      "entry_signal_closed_at_shanghai": "2026-10-08 23:25:00+08:00",
+      "entry_breadth_known": true,
+      "entry_recent_shock": true,
+      "entry_decliners_pct": 100.0,
+      "entry_median_z": -8.942738071874823,
+      "first_post_entry_raw_shock_before_trough_shanghai": "2026-10-08 23:30:00+08:00",
+      "original_campaign_profit_usdt": 478.6938024
+    },
+    {
+      "pair": "JUP/USDT:USDT",
+      "is_short": false,
+      "entry_time_shanghai": "2026-10-08 22:55:00+08:00",
+      "entry_signal_closed_at_shanghai": "2026-10-08 22:55:00+08:00",
+      "entry_breadth_known": true,
+      "entry_recent_shock": false,
+      "entry_decliners_pct": 49.122807017543856,
+      "entry_median_z": 0.0,
+      "first_post_entry_raw_shock_before_trough_shanghai": "2026-10-08 23:05:00+08:00",
+      "original_campaign_profit_usdt": 51.286229
+    },
+    {
+      "pair": "ALGO/USDT:USDT",
+      "is_short": false,
+      "entry_time_shanghai": "2026-10-08 21:25:00+08:00",
+      "entry_signal_closed_at_shanghai": "2026-10-08 21:25:00+08:00",
+      "entry_breadth_known": true,
+      "entry_recent_shock": false,
+      "entry_decliners_pct": 12.280701754385964,
+      "entry_median_z": 0.6476739009566208,
+      "first_post_entry_raw_shock_before_trough_shanghai": "2026-10-08 23:05:00+08:00",
+      "original_campaign_profit_usdt": -674.9238006
+    }
+  ]
+}

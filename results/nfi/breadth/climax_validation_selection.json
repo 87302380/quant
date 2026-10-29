@@ -1,0 +1,8 @@
+{
+  "selected": "climax",
+  "eligible": [
+    "climax"
+  ],
+  "adaptive_posthoc": true,
+  "independent_oos": false
+}
