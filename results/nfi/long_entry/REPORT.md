@@ -64,4 +64,3 @@
 |gated_july|29.96%|13.32%|
 
 ![组合权益及回撤](comparison.png)
-

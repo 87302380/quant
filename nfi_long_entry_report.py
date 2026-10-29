@@ -60,7 +60,7 @@ def main():
     lines+=['','## 同口径旧基线参照','', '|基线|组合收益|持仓权益回撤|','|---|---:|---:|']
     for n,r in refs.items():lines.append(f"|{n}|{r['return_pct']:.2f}%|{r['equity_audit']['mtm_drawdown_pct']:.2f}%|")
     lines+=['','![组合权益及回撤](comparison.png)','']
-    (OUT/'REPORT.md').write_text('\n'.join(lines)+'\n')
+    (OUT/'REPORT.md').write_text('\n'.join(lines).rstrip()+'\n')
     (OUT/'verification.json').write_text(json.dumps({'status':'passed','replays':len(results),'control_exact':True,'ledger_and_deadline_verified':True,'source_sha256':digest,'funding_excluded':True,'independent_oos':False},indent=2)+'\n')
     print('\n'.join(lines[-(len(results)+5):]))
 if __name__=='__main__':main()
