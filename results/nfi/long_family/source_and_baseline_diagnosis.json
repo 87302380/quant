@@ -1,0 +1,2072 @@
+{
+  "warning": "Source-semantics hypothesis; not an official NFI taxonomy. Last trigger excludes extensive native protections, so expressions do not fully reproduce entry. Family profit attribution is descriptive, not causal return decomposition. Mixed/unknown unchanged.",
+  "upstream_sha256": "c0c6ee100533a2600c198b541f70deb70f106a5e1e60f50f73b1c602830249c4",
+  "baseline_archive_sha256": "364819cff5fe18af8c7720bb9a7671fbb6bd5aca48ad765df50420bf0567ac88",
+  "triggers": {
+    "1": {
+      "family": "dip",
+      "branch_line": 6587,
+      "last_trigger_expression": "(ema_26 > ema_12) & (ema_26 - ema_12 > open_rate * 0.034) & (ema_26_shift_1 - ema_12_shift_1 > open_rate / 100.0) & (close < bbl_20_2_0 * 0.999)"
+    },
+    "2": {
+      "family": "dip",
+      "branch_line": 7075,
+      "last_trigger_expression": "aroonu_14_lt_30 & stochrsi_k_lt_30 & aroonu_14_15m_lt_50 & (close < ema_20 * 0.948)"
+    },
+    "3": {
+      "family": "dip",
+      "branch_line": 7898,
+      "last_trigger_expression": "(rsi_20 < rsi_20_shift_1) & (rsi_4 < 45.0) & (rsi_14 > 30.0) & (aroonu_14 < 20.0) & stochrsi_k_lt_20 & (close < sma_16 * 0.965) & (close < sma_16_1h * 0.985)"
+    },
+    "4": {
+      "family": "dip",
+      "branch_line": 8648,
+      "last_trigger_expression": "aroonu_14_lt_25 & aroonu_14_15m_lt_25 & (close < ema_9 * 0.946) & (close < ema_20 * 0.96)"
+    },
+    "5": {
+      "family": "dip",
+      "branch_line": 9031,
+      "last_trigger_expression": "rsi_3_lt_50 & aroonu_14_lt_25 & stochrsi_k_lt_30 & (ema_26 > ema_12) & (ema_26 - ema_12 > open_rate * 0.02) & (ema_26_shift_1 - ema_12_shift_1 > open_rate / 100.0)"
+    },
+    "6": {
+      "family": "dip",
+      "branch_line": 9465,
+      "last_trigger_expression": "(rsi_20 < rsi_20_shift_1) & rsi_3_lt_46 & aroonu_14_lt_25 & stochrsi_k_lt_20 & aroonu_14_15m_lt_50 & (close < sma_16 * 0.96)"
+    },
+    "21": {
+      "family": "trend",
+      "branch_line": 10906,
+      "last_trigger_expression": "aroonu_14_lt_25 & stochrsi_k_lt_20 & aroonu_14_15m_lt_50 & (close < ema_16 * 0.96) & ((ema_50 - ema_200) / close * 100.0 > 6.0)"
+    },
+    "41": {
+      "family": "dip",
+      "branch_line": 11152,
+      "last_trigger_expression": "rsi_3_gt_5 & (rsi_14 < 36.0) & aroonu_14_lt_25 & aroond_14_gt_75 & (ema_9 < ema_26 * 0.96)"
+    },
+    "42": {
+      "family": "dip",
+      "branch_line": 11850,
+      "last_trigger_expression": "(willr_14 < -50.0) & stochrsi_k_lt_20 & (willr_84_1h < -70.0) & stochrsi_k_1h_lt_20 & (bbb_20_2_0_1h > 16.0) & (close_max_48 >= close * 1.1)"
+    },
+    "43": {
+      "family": "dip",
+      "branch_line": 12457,
+      "last_trigger_expression": "(rsi_14 < 40.0) & (mfi_14 < 40.0) & aroonu_14_lt_25 & (ema_26 > ema_12) & (ema_26 - ema_12 > open_rate * 0.024) & (ema_26_shift_1 - ema_12_shift_1 > open_rate / 100.0) & (close < ema_20 * 0.96) & (close < bbl_20_2_0 * 0.999)"
+    },
+    "44": {
+      "family": "dip",
+      "branch_line": 13046,
+      "last_trigger_expression": "rsi_3_lt_40 & rsi_3_15m_lt_50 & aroonu_14_15m_lt_25 & stochrsi_k_15m_lt_20 & (ema_26_15m > ema_12_15m) & (ema_26_15m - ema_12_15m > open_15m * 0.05) & (ema_26_15m_shift_1 - ema_12_15m_shift_1 > open_15m / 100.0)"
+    },
+    "45": {
+      "family": "dip",
+      "branch_line": 13438,
+      "last_trigger_expression": "rsi_3_lt_50 & aroonu_14_15m_lt_25 & stochrsi_k_15m_lt_20 & (close_15m < ema_20_15m * 0.924)"
+    },
+    "46": {
+      "family": "dip",
+      "branch_line": 13740,
+      "last_trigger_expression": "rsi_3_lt_40 & rsi_3_15m_lt_50 & (willr_14_15m < -50.0) & aroonu_14_15m_lt_25 & stochrsi_k_15m_lt_20 & (willr_84_1h < -70.0) & stochrsi_k_1h_lt_20 & (bbb_20_2_0_1h > 12.0) & (close_max_48 >= close * 1.1)"
+    },
+    "47": {
+      "family": "trend",
+      "branch_line": 14074,
+      "last_trigger_expression": "(rsi_14 > 40.0) & (rsi_14 < 65.0) & (rsi_14_15m > 35.0) & (rsi_14_1h > 35.0) & (rsi_14_1h < 60.0) & (aroonu_14 > 50.0) & (aroonu_14_15m > 25.0) & (stochrsi_k > 20.0) & (stochrsi_k < 80.0) & (roc_9_1d > -25.0) & (obv_change_pct > 0.0) & (ema_12 > ema_26) & (np_shift(ema_12, 3) < np_shift(ema_26, 3)) & (ema_12_4h < ema_200_4h) & (close > close_min_48) & (close < close_max_48 * 0.97)"
+    },
+    "61": {
+      "family": "dip",
+      "branch_line": 14567,
+      "last_trigger_expression": "rsi_3_lt_50 & aroonu_14_lt_25 & stochrsi_k_lt_30 & (ema_26 > ema_12) & (ema_26 - ema_12 > open_rate * 0.03) & (ema_26_shift_1 - ema_12_shift_1 > open_rate / 100.0)"
+    },
+    "62": {
+      "family": "dip",
+      "branch_line": 14990,
+      "last_trigger_expression": "rsi_3_lt_40 & aroonu_14_lt_30 & stochrsi_k_lt_20 & stochrsi_k_15m_lt_70 & (willr_84_1h < -70.0) & stochrsi_k_1h_lt_30 & (bbb_20_2_0_1h > 12.0) & (close_max_48 >= close * 1.1)"
+    },
+    "63": {
+      "family": "dip",
+      "branch_line": 15415,
+      "last_trigger_expression": "(rsi_3 > 0.0) & rsi_3_lt_50 & aroonu_14_lt_25 & (ema_26 > ema_12) & (ema_26 - ema_12 > open_rate * 0.022) & (ema_26_shift_1 - ema_12_shift_1 > open_rate / 100.0)"
+    },
+    "64": {
+      "family": "trend",
+      "branch_line": 16040,
+      "last_trigger_expression": "rsi_3_gt_10 & rsi_3_15m_gt_20 & (rsi_14 < 45.0) & (willr_14 < -70.0) & stochrsi_k_lt_30 & aroonu_14_15m_lt_90 & stochrsi_k_15m_lt_80 & (close < ema_12) & (close > ema_200) & (close > bbl_20_2_0 * 1.01)"
+    },
+    "65": {
+      "family": "trend",
+      "branch_line": 16454,
+      "last_trigger_expression": "(rsi_3 > 70.0) & (rsi_14 > 60.0) & (rsi_14 < 78.0) & (mfi_14 > 50.0) & (bbb_20_2_0 > 10.0) & (obv_change_pct_15m > 0.0) & (close > bbu_20_2_0) & (ema_12 > ema_26)"
+    },
+    "101": {
+      "family": "dip",
+      "branch_line": 16716,
+      "last_trigger_expression": "rsi_3_gt_3 & (rsi_14 < 36.0) & aroonu_14_lt_25 & stochrsi_k_lt_20 & (close < sma_16 * 0.946) & aroonu_14_15m_lt_50"
+    },
+    "102": {
+      "family": "dip",
+      "branch_line": 17060,
+      "last_trigger_expression": "(willr_14 < -95.0) & (stochrsi_k < 10.0) & (close < bbl_20_2_0 * 0.999) & (close < ema_20 * 0.96)"
+    },
+    "103": {
+      "family": "dip",
+      "branch_line": 17442,
+      "last_trigger_expression": "(rsi_4 < 45.0) & (rsi_14 > 35.0) & (rsi_20 < rsi_20_shift_1) & aroonu_14_lt_25 & (close < sma_16 * 0.96)"
+    },
+    "104": {
+      "family": "dip",
+      "branch_line": 17685,
+      "last_trigger_expression": "rsi_3_lt_40 & aroonu_14_lt_25 & stochrsi_k_lt_20 & aroonu_14_15m_lt_25 & stochrsi_k_15m_lt_30 & (close < ema_16 * 0.975) & ((ema_50 - ema_200) / close * 100.0 < -5.5)"
+    },
+    "120": {
+      "family": "dip",
+      "branch_line": 18217,
+      "last_trigger_expression": "stochrsi_k_lt_20 & (willr_14 < -80.0) & aroonu_14_lt_25 & (close < ema_20 * 0.978)"
+    },
+    "141": {
+      "family": "dip",
+      "branch_line": 18245,
+      "last_trigger_expression": "(rsi_20 < rsi_20_shift_1) & (rsi_3 < 30.0) & aroonu_14_lt_25 & (close < sma_16 * 0.96)"
+    },
+    "142": {
+      "family": "dip",
+      "branch_line": 18786,
+      "last_trigger_expression": "rsi_3_gt_5 & (rsi_4 < 46.0) & (rsi_20 < rsi_20_shift_1) & (close < sma_16 * 0.96)"
+    },
+    "143": {
+      "family": "dip",
+      "branch_line": 19315,
+      "last_trigger_expression": "rsi_3_lt_40 & stochrsi_k_lt_20 & (ema_26 > ema_12) & (ema_26 - ema_12 > open_rate * 0.02) & (ema_26_shift_1 - ema_12_shift_1 > open_rate / 100.0)"
+    },
+    "144": {
+      "family": "dip",
+      "branch_line": 19632,
+      "last_trigger_expression": "(willr_14 < -50.0) & stochrsi_k_lt_30 & stochrsi_k_1h_lt_40 & (bbb_20_2_0_1h > 12.0) & (close_max_48 >= close * 1.1)"
+    },
+    "145": {
+      "family": "dip",
+      "branch_line": 19982,
+      "last_trigger_expression": "(rsi_14 < 36.0) & (bbd_40_2_0 > close * 0.02) & (close_delta > close * 0.02) & (bbt_40_2_0 < bbd_40_2_0 * 0.3) & (close < bbl_40_2_0_shift_1) & (close <= close_shift_1)"
+    },
+    "161": {
+      "family": "trend",
+      "branch_line": 20276,
+      "last_trigger_expression": "(rsi_14 < 50.0) & aroonu_14_15m_lt_90 & (stochrsi_k_15m < 90.0) & (sma_21_shift_1 < sma_200_shift_1) & ~np.isnan(sma_200_shift_1) & (sma_21 > sma_200) & ~np.isnan(sma_200) & (close > ema_200_1h) & ~np.isnan(ema_200_1h) & (close > ema_200_4h) & ~np.isnan(ema_200_4h) & (bbb_20_2_0 > 1.5) & (bbb_20_2_0_1h > 6.0)"
+    },
+    "162": {
+      "family": "dip",
+      "branch_line": 20528,
+      "last_trigger_expression": "aroonu_14_lt_25 & aroond_14_gt_75 & stochrsi_k_lt_30 & (ema_26 > ema_12) & (ema_26 - ema_12 > open_rate * 0.03) & (ema_26_shift_1 - ema_12_shift_1 > open_rate / 100.0) & (close < sma_9)"
+    },
+    "163": {
+      "family": "dip",
+      "branch_line": 20756,
+      "last_trigger_expression": "(rsi_14 < 30.0) & aroonu_14_lt_25 & aroond_14_gt_75 & stochrsi_k_lt_20 & (ema_9 < ema_26 * 0.982) & (close < sma_9)"
+    }
+  },
+  "groups": {
+    "trend": {
+      "trades": 30,
+      "wins": 25,
+      "losses": 5,
+      "profit_usdt": 1672.71184567,
+      "profit_factor": 3.08048640648463
+    },
+    "dip": {
+      "trades": 63,
+      "wins": 57,
+      "losses": 6,
+      "profit_usdt": 11258.46517553,
+      "profit_factor": 6.442223291403096
+    },
+    "mixed_or_unknown": {
+      "trades": 1,
+      "wins": 1,
+      "losses": 0,
+      "profit_usdt": 254.6215938,
+      "profit_factor": null
+    }
+  },
+  "baseline_campaigns": [
+    {
+      "pair": "ICP/USDT:USDT",
+      "open_date": "2026-01-13 20:25:00+00:00",
+      "tag": "64 ",
+      "family": "trend",
+      "profit_usdt": 17.87274546,
+      "profit_ratio": 0.04330710181389991,
+      "at6h": {
+        "timestamp": 1768354800000,
+        "pnl_usdt": 17.87274545999978,
+        "pnl_initial_margin_pct": 4.332875536480633,
+        "hours": 5.25
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1768344600000,
+        "pnl_usdt": 48.66143341499987,
+        "pnl_initial_margin_pct": 11.79695278969954,
+        "hours": 2.4166666666666665
+      }
+    },
+    {
+      "pair": "ICP/USDT:USDT",
+      "open_date": "2026-01-15 08:30:00+00:00",
+      "tag": "145 ",
+      "family": "dip",
+      "profit_usdt": 27.6487722,
+      "profit_ratio": 0.016718614377022017,
+      "at6h": {
+        "timestamp": 1768484700000,
+        "pnl_usdt": 27.648772200000167,
+        "pnl_initial_margin_pct": 1.6726973684210626,
+        "hours": 5.25
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1768483500000,
+        "pnl_usdt": 165.06654894000056,
+        "pnl_initial_margin_pct": 9.986207706766951,
+        "hours": 4.916666666666667
+      }
+    },
+    {
+      "pair": "LTC/USDT:USDT",
+      "open_date": "2026-01-19 00:25:00+00:00",
+      "tag": "143 ",
+      "family": "dip",
+      "profit_usdt": 105.239112,
+      "profit_ratio": 0.06349598576306142,
+      "at6h": {
+        "timestamp": 1768803900000,
+        "pnl_usdt": 42.2626159999992,
+        "pnl_initial_margin_pct": 2.551188589540364,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1768810800000,
+        "pnl_usdt": 105.23911199999992,
+        "pnl_initial_margin_pct": 6.35277337559429,
+        "hours": 7.916666666666667
+      }
+    },
+    {
+      "pair": "MINA/USDT:USDT",
+      "open_date": "2026-01-19 08:35:00+00:00",
+      "tag": "47 ",
+      "family": "trend",
+      "profit_usdt": 126.86761253,
+      "profit_ratio": 0.07570990677515485,
+      "at6h": {
+        "timestamp": 1768833300000,
+        "pnl_usdt": 25.550406474998507,
+        "pnl_initial_margin_pct": 1.5255162946161216,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1768850400000,
+        "pnl_usdt": 126.86761252999895,
+        "pnl_initial_margin_pct": 7.57477617285418,
+        "hours": 10.75
+      }
+    },
+    {
+      "pair": "SAND/USDT:USDT",
+      "open_date": "2026-01-20 16:45:00+00:00",
+      "tag": "144 ",
+      "family": "dip",
+      "profit_usdt": 288.605975,
+      "profit_ratio": 0.17011349920707516,
+      "at6h": {
+        "timestamp": 1768949100000,
+        "pnl_usdt": -23.44292250000004,
+        "pnl_initial_margin_pct": -1.3824909747292442,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1768963200000,
+        "pnl_usdt": 288.605974999999,
+        "pnl_initial_margin_pct": 17.01985559566781,
+        "hours": 9.916666666666666
+      }
+    },
+    {
+      "pair": "SUI/USDT:USDT",
+      "open_date": "2026-01-31 14:40:00+00:00",
+      "tag": "141 ",
+      "family": "dip",
+      "profit_usdt": 64.810407,
+      "profit_ratio": 0.03289996352401006,
+      "at6h": {
+        "timestamp": 1769871300000,
+        "pnl_usdt": 64.81040700000047,
+        "pnl_initial_margin_pct": 3.291641350577231,
+        "hours": 0.25
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1769871300000,
+        "pnl_usdt": 64.81040700000047,
+        "pnl_initial_margin_pct": 3.291641350577231,
+        "hours": 0.25
+      }
+    },
+    {
+      "pair": "ARB/USDT:USDT",
+      "open_date": "2026-01-31 14:45:00+00:00",
+      "tag": "141 ",
+      "family": "dip",
+      "profit_usdt": 83.30375485,
+      "profit_ratio": 0.042279939167107095,
+      "at6h": {
+        "timestamp": 1769871300000,
+        "pnl_usdt": 83.30375484999978,
+        "pnl_initial_margin_pct": 4.230107913669053,
+        "hours": 0.16666666666666666
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1769871300000,
+        "pnl_usdt": 83.30375484999978,
+        "pnl_initial_margin_pct": 4.230107913669053,
+        "hours": 0.16666666666666666
+      }
+    },
+    {
+      "pair": "ETC/USDT:USDT",
+      "open_date": "2026-01-31 17:35:00+00:00",
+      "tag": "141 142 ",
+      "family": "dip",
+      "profit_usdt": 261.131157,
+      "profit_ratio": 0.1309100768764554,
+      "at6h": {
+        "timestamp": 1769901900000,
+        "pnl_usdt": 261.13115700000026,
+        "pnl_initial_margin_pct": 13.097553191489375,
+        "hours": 5.833333333333333
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1769901900000,
+        "pnl_usdt": 261.13115700000026,
+        "pnl_initial_margin_pct": 13.097553191489375,
+        "hours": 5.833333333333333
+      }
+    },
+    {
+      "pair": "RAY/USDT:USDT",
+      "open_date": "2026-01-31 18:25:00+00:00",
+      "tag": "43 ",
+      "family": "dip",
+      "profit_usdt": 193.3468669,
+      "profit_ratio": 0.09692852008121211,
+      "at6h": {
+        "timestamp": 1769901900000,
+        "pnl_usdt": 193.34686689999904,
+        "pnl_initial_margin_pct": 9.69769843412522,
+        "hours": 5.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1769901900000,
+        "pnl_usdt": 193.34686689999904,
+        "pnl_initial_margin_pct": 9.69769843412522,
+        "hours": 5.0
+      }
+    },
+    {
+      "pair": "NEAR/USDT:USDT",
+      "open_date": "2026-01-31 17:35:00+00:00",
+      "tag": "141 ",
+      "family": "dip",
+      "profit_usdt": 158.35316,
+      "profit_ratio": 0.07939329304419955,
+      "at6h": {
+        "timestamp": 1769902500000,
+        "pnl_usdt": 219.97833199999977,
+        "pnl_initial_margin_pct": 11.034536082474215,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1769904900000,
+        "pnl_usdt": 240.52005599999944,
+        "pnl_initial_margin_pct": 12.06494845360822,
+        "hours": 6.666666666666667
+      }
+    },
+    {
+      "pair": "SAND/USDT:USDT",
+      "open_date": "2026-02-05 15:35:00+00:00",
+      "tag": "141 ",
+      "family": "dip",
+      "profit_usdt": 75.0463785,
+      "profit_ratio": 0.03634161439566613,
+      "at6h": {
+        "timestamp": 1770306000000,
+        "pnl_usdt": 75.04637850000032,
+        "pnl_initial_margin_pct": 3.6359785202864114,
+        "hours": 0.08333333333333333
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1770306000000,
+        "pnl_usdt": 75.04637850000032,
+        "pnl_initial_margin_pct": 3.6359785202864114,
+        "hours": 0.08333333333333333
+      }
+    },
+    {
+      "pair": "BOME/USDT:USDT",
+      "open_date": "2026-02-05 15:35:00+00:00",
+      "tag": "62 ",
+      "family": "dip",
+      "profit_usdt": 26.72529375,
+      "profit_ratio": 0.051765231276727094,
+      "at6h": {
+        "timestamp": 1770310200000,
+        "pnl_usdt": 26.72529375000013,
+        "pnl_initial_margin_pct": 5.17911138923657,
+        "hours": 1.25
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1770308700000,
+        "pnl_usdt": 65.4559187499999,
+        "pnl_initial_margin_pct": 12.684743429286586,
+        "hours": 0.8333333333333334
+      }
+    },
+    {
+      "pair": "HBAR/USDT:USDT",
+      "open_date": "2026-02-05 15:35:00+00:00",
+      "tag": "141 ",
+      "family": "dip",
+      "profit_usdt": 36.1591092,
+      "profit_ratio": 0.0175110279873128,
+      "at6h": {
+        "timestamp": 1770311400000,
+        "pnl_usdt": 36.159109200000515,
+        "pnl_initial_margin_pct": 1.7519783501306707,
+        "hours": 1.5833333333333333
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1770306900000,
+        "pnl_usdt": 218.65261680000015,
+        "pnl_initial_margin_pct": 10.59413960432998,
+        "hours": 0.3333333333333333
+      }
+    },
+    {
+      "pair": "AAVE/USDT:USDT",
+      "open_date": "2026-02-05 20:55:00+00:00",
+      "tag": "142 ",
+      "family": "dip",
+      "profit_usdt": 66.5314125,
+      "profit_ratio": 0.03186724621208543,
+      "at6h": {
+        "timestamp": 1770326400000,
+        "pnl_usdt": 66.53141249999915,
+        "pnl_initial_margin_pct": 3.1883179835191067,
+        "hours": 0.4166666666666667
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1770325500000,
+        "pnl_usdt": 246.08399129999978,
+        "pnl_initial_margin_pct": 11.7928356761997,
+        "hours": 0.16666666666666666
+      }
+    },
+    {
+      "pair": "SUI/USDT:USDT",
+      "open_date": "2026-02-05 20:30:00+00:00",
+      "tag": "104 ",
+      "family": "dip",
+      "profit_usdt": 52.1258913,
+      "profit_ratio": 0.024966774622806637,
+      "at6h": {
+        "timestamp": 1770327900000,
+        "pnl_usdt": 52.125891299999736,
+        "pnl_initial_margin_pct": 2.4979258010117915,
+        "hours": 1.25
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1770325500000,
+        "pnl_usdt": 205.4775770999995,
+        "pnl_initial_margin_pct": 9.846694772343989,
+        "hours": 0.5833333333333334
+      }
+    },
+    {
+      "pair": "UNI/USDT:USDT",
+      "open_date": "2026-02-05 17:55:00+00:00",
+      "tag": "62 ",
+      "family": "dip",
+      "profit_usdt": 104.3587635,
+      "profit_ratio": 0.2001727367711143,
+      "at6h": {
+        "timestamp": 1770335700000,
+        "pnl_usdt": -76.88556900000003,
+        "pnl_initial_margin_pct": -14.754956312142218,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1770396600000,
+        "pnl_usdt": 104.3587635,
+        "pnl_initial_margin_pct": 20.027282313949982,
+        "hours": 22.916666666666668
+      }
+    },
+    {
+      "pair": "ZRO/USDT:USDT",
+      "open_date": "2026-02-10 22:40:00+00:00",
+      "tag": "65 ",
+      "family": "trend",
+      "profit_usdt": 44.227053,
+      "profit_ratio": 0.08047027458420028,
+      "at6h": {
+        "timestamp": 1770770100000,
+        "pnl_usdt": 44.227052999999955,
+        "pnl_initial_margin_pct": 8.05105097214923,
+        "hours": 1.9166666666666667
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1770770100000,
+        "pnl_usdt": 44.227052999999955,
+        "pnl_initial_margin_pct": 8.05105097214923,
+        "hours": 1.9166666666666667
+      }
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "open_date": "2026-02-26 16:55:00+00:00",
+      "tag": "120 ",
+      "family": "dip",
+      "profit_usdt": 28.0871184,
+      "profit_ratio": 0.060933964685775145,
+      "at6h": {
+        "timestamp": 1772146500000,
+        "pnl_usdt": 28.082120899999865,
+        "pnl_initial_margin_pct": 6.095358435573337,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1772184900000,
+        "pnl_usdt": 28.127598149999862,
+        "pnl_initial_margin_pct": 6.105229489843108,
+        "hours": 16.666666666666668
+      }
+    },
+    {
+      "pair": "SUI/USDT:USDT",
+      "open_date": "2026-03-05 16:10:00+00:00",
+      "tag": "120 ",
+      "family": "dip",
+      "profit_usdt": 33.7512265,
+      "profit_ratio": 0.06782398065133133,
+      "at6h": {
+        "timestamp": 1772748600000,
+        "pnl_usdt": 34.05207599999977,
+        "pnl_initial_margin_pct": 6.846275993654716,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1772784000000,
+        "pnl_usdt": 34.13503449999977,
+        "pnl_initial_margin_pct": 6.862955058596883,
+        "hours": 15.833333333333334
+      }
+    },
+    {
+      "pair": "ETHFI/USDT:USDT",
+      "open_date": "2026-03-19 06:35:00+00:00",
+      "tag": "64 ",
+      "family": "trend",
+      "profit_usdt": -106.8402289,
+      "profit_ratio": -0.17464447451496878,
+      "at6h": {
+        "timestamp": 1773923700000,
+        "pnl_usdt": -78.34778224999994,
+        "pnl_initial_margin_pct": -12.81338397066526,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1773902700000,
+        "pnl_usdt": 0.7267607000000663,
+        "pnl_initial_margin_pct": 0.11885804085909939,
+        "hours": 0.16666666666666666
+      }
+    },
+    {
+      "pair": "BOME/USDT:USDT",
+      "open_date": "2026-04-19 22:30:00+00:00",
+      "tag": "62 ",
+      "family": "dip",
+      "profit_usdt": 95.2674025,
+      "profit_ratio": 0.14619491306056,
+      "at6h": {
+        "timestamp": 1776646500000,
+        "pnl_usdt": 95.2674025000001,
+        "pnl_initial_margin_pct": 14.626801051709043,
+        "hours": 2.4166666666666665
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1776645000000,
+        "pnl_usdt": 163.3908237499999,
+        "pnl_initial_margin_pct": 25.086073619631886,
+        "hours": 2.0
+      }
+    },
+    {
+      "pair": "RAY/USDT:USDT",
+      "open_date": "2026-04-26 11:20:00+00:00",
+      "tag": "64 ",
+      "family": "trend",
+      "profit_usdt": -152.96852025,
+      "profit_ratio": -0.23335656979027125,
+      "at6h": {
+        "timestamp": 1777224000000,
+        "pnl_usdt": -43.75415475000026,
+        "pnl_initial_margin_pct": -6.678122145373913,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1777204200000,
+        "pnl_usdt": 8.2893104999998,
+        "pnl_initial_margin_pct": 1.2651833485579753,
+        "hours": 0.5
+      }
+    },
+    {
+      "pair": "LDO/USDT:USDT",
+      "open_date": "2026-04-27 06:05:00+00:00",
+      "tag": "141 ",
+      "family": "dip",
+      "profit_usdt": 66.3175105,
+      "profit_ratio": 0.025289143803657037,
+      "at6h": {
+        "timestamp": 1777291500000,
+        "pnl_usdt": -396.33574715000077,
+        "pnl_initial_margin_pct": -15.121199701937433,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1777338600000,
+        "pnl_usdt": 238.10437409999983,
+        "pnl_initial_margin_pct": 9.084277198211618,
+        "hours": 19.083333333333332
+      }
+    },
+    {
+      "pair": "DOGE/USDT:USDT",
+      "open_date": "2026-04-29 18:10:00+00:00",
+      "tag": "145 ",
+      "family": "dip",
+      "profit_usdt": 384.8203722,
+      "profit_ratio": 0.14756288785986754,
+      "at6h": {
+        "timestamp": 1777507800000,
+        "pnl_usdt": 228.6918755000001,
+        "pnl_initial_margin_pct": 8.773783623417724,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1777509300000,
+        "pnl_usdt": 384.8203722000005,
+        "pnl_initial_margin_pct": 14.763666930379765,
+        "hours": 6.416666666666667
+      }
+    },
+    {
+      "pair": "ETC/USDT:USDT",
+      "open_date": "2026-05-04 15:55:00+00:00",
+      "tag": "64 ",
+      "family": "trend",
+      "profit_usdt": 59.9818882,
+      "profit_ratio": 0.08982438169566552,
+      "at6h": {
+        "timestamp": 1777931700000,
+        "pnl_usdt": 15.806586899999907,
+        "pnl_initial_margin_pct": 2.3682595631572725,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1777981200000,
+        "pnl_usdt": 82.8790338999999,
+        "pnl_initial_margin_pct": 12.417548826996402,
+        "hours": 19.75
+      }
+    },
+    {
+      "pair": "FIL/USDT:USDT",
+      "open_date": "2026-05-06 09:40:00+00:00",
+      "tag": "64 ",
+      "family": "trend",
+      "profit_usdt": 16.0853118,
+      "profit_ratio": 0.023994068584676505,
+      "at6h": {
+        "timestamp": 1778069100000,
+        "pnl_usdt": 16.085311799999864,
+        "pnl_initial_margin_pct": 2.400606561896864,
+        "hours": 2.4166666666666665
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1778064900000,
+        "pnl_usdt": 75.17255339999942,
+        "pnl_initial_margin_pct": 11.218913702784581,
+        "hours": 1.25
+      }
+    },
+    {
+      "pair": "JTO/USDT:USDT",
+      "open_date": "2026-05-08 05:15:00+00:00",
+      "tag": "64 ",
+      "family": "trend",
+      "profit_usdt": 17.19027555,
+      "profit_ratio": 0.02562367019303336,
+      "at6h": {
+        "timestamp": 1778232300000,
+        "pnl_usdt": 17.190275549999953,
+        "pnl_initial_margin_pct": 2.5636482028129812,
+        "hours": 4.166666666666667
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1778232000000,
+        "pnl_usdt": 93.64872719999987,
+        "pnl_initial_margin_pct": 13.966174683104684,
+        "hours": 4.083333333333333
+      }
+    },
+    {
+      "pair": "SUI/USDT:USDT",
+      "open_date": "2026-05-10 01:25:00+00:00",
+      "tag": "64 ",
+      "family": "trend",
+      "profit_usdt": 130.8817638,
+      "profit_ratio": 0.19484551430578417,
+      "at6h": {
+        "timestamp": 1778397900000,
+        "pnl_usdt": 35.71477109999995,
+        "pnl_initial_margin_pct": 5.319566433566426,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1778408700000,
+        "pnl_usdt": 130.8817638000002,
+        "pnl_initial_margin_pct": 19.494293706293735,
+        "hours": 9.0
+      }
+    },
+    {
+      "pair": "LDO/USDT:USDT",
+      "open_date": "2026-05-11 15:20:00+00:00",
+      "tag": "143 ",
+      "family": "dip",
+      "profit_usdt": 88.29752375,
+      "profit_ratio": 0.032598939347612016,
+      "at6h": {
+        "timestamp": 1778514000000,
+        "pnl_usdt": 88.29752374999907,
+        "pnl_initial_margin_pct": 3.261523881728548,
+        "hours": 0.3333333333333333
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1778514000000,
+        "pnl_usdt": 88.29752374999907,
+        "pnl_initial_margin_pct": 3.261523881728548,
+        "hours": 0.3333333333333333
+      }
+    },
+    {
+      "pair": "INJ/USDT:USDT",
+      "open_date": "2026-05-19 04:25:00+00:00",
+      "tag": "64 ",
+      "family": "trend",
+      "profit_usdt": -62.9483517,
+      "profit_ratio": -0.0924785765318194,
+      "at6h": {
+        "timestamp": 1779186300000,
+        "pnl_usdt": -67.69437750000017,
+        "pnl_initial_margin_pct": -9.950077549437792,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1779164700000,
+        "pnl_usdt": -2.041020600000069,
+        "pnl_initial_margin_pct": -0.3000000000000101,
+        "hours": 0.0
+      }
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_date": "2026-05-22 23:50:00+00:00",
+      "tag": "142 ",
+      "family": "dip",
+      "profit_usdt": 43.107715,
+      "profit_ratio": 0.01608353126807383,
+      "at6h": {
+        "timestamp": 1779515400000,
+        "pnl_usdt": 151.41353499999855,
+        "pnl_initial_margin_pct": 5.652078651685339,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1779510900000,
+        "pnl_usdt": 226.62590999999856,
+        "pnl_initial_margin_pct": 8.45966292134826,
+        "hours": 4.75
+      }
+    },
+    {
+      "pair": "INJ/USDT:USDT",
+      "open_date": "2026-05-23 05:45:00+00:00",
+      "tag": "143 ",
+      "family": "dip",
+      "profit_usdt": 76.5506111,
+      "profit_ratio": 0.02856191148695733,
+      "at6h": {
+        "timestamp": 1779536700000,
+        "pnl_usdt": 96.45345469999887,
+        "pnl_initial_margin_pct": 3.60058847821594,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1779535500000,
+        "pnl_usdt": 239.0905004999993,
+        "pnl_initial_margin_pct": 8.925201321494916,
+        "hours": 5.666666666666667
+      }
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_date": "2026-05-24 14:20:00+00:00",
+      "tag": "145 ",
+      "family": "dip",
+      "profit_usdt": 22.4583825,
+      "profit_ratio": 0.008150304286476985,
+      "at6h": {
+        "timestamp": 1779641100000,
+        "pnl_usdt": 22.45838249999884,
+        "pnl_initial_margin_pct": 0.8154379438619801,
+        "hours": 2.4166666666666665
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1779634500000,
+        "pnl_usdt": 201.19776809999817,
+        "pnl_initial_margin_pct": 7.305258708150085,
+        "hours": 0.5833333333333334
+      }
+    },
+    {
+      "pair": "NEAR/USDT:USDT",
+      "open_date": "2026-06-02 15:35:00+00:00",
+      "tag": "142 ",
+      "family": "dip",
+      "profit_usdt": 463.908224,
+      "profit_ratio": 0.1591323837475691,
+      "at6h": {
+        "timestamp": 1780421700000,
+        "pnl_usdt": 463.9082240000014,
+        "pnl_initial_margin_pct": 15.921194993944335,
+        "hours": 2.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1780421700000,
+        "pnl_usdt": 463.9082240000014,
+        "pnl_initial_margin_pct": 15.921194993944335,
+        "hours": 2.0
+      }
+    },
+    {
+      "pair": "TIA/USDT:USDT",
+      "open_date": "2026-06-05 06:20:00+00:00",
+      "tag": "142 ",
+      "family": "dip",
+      "profit_usdt": 35.5960794,
+      "profit_ratio": 0.010471168909927058,
+      "at6h": {
+        "timestamp": 1780648800000,
+        "pnl_usdt": 35.596079400000725,
+        "pnl_initial_margin_pct": 1.0476404494382237,
+        "hours": 2.3333333333333335
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1780645500000,
+        "pnl_usdt": 261.27188504999987,
+        "pnl_initial_margin_pct": 7.6895826645264815,
+        "hours": 1.4166666666666667
+      }
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "open_date": "2026-06-05 06:20:00+00:00",
+      "tag": "102 142 ",
+      "family": "dip",
+      "profit_usdt": 148.8438216,
+      "profit_ratio": 0.043783961677697734,
+      "at6h": {
+        "timestamp": 1780648800000,
+        "pnl_usdt": 148.84382159999998,
+        "pnl_initial_margin_pct": 4.380585365853658,
+        "hours": 2.3333333333333335
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1780646400000,
+        "pnl_usdt": 397.3395116000008,
+        "pnl_initial_margin_pct": 11.694000000000022,
+        "hours": 1.6666666666666667
+      }
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_date": "2026-06-05 07:40:00+00:00",
+      "tag": "65 ",
+      "family": "trend",
+      "profit_usdt": 69.1606818,
+      "profit_ratio": 0.08139359922926623,
+      "at6h": {
+        "timestamp": 1780653900000,
+        "pnl_usdt": 69.16068179999985,
+        "pnl_initial_margin_pct": 8.143429602888068,
+        "hours": 2.4166666666666665
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1780653900000,
+        "pnl_usdt": 69.16068179999985,
+        "pnl_initial_margin_pct": 8.143429602888068,
+        "hours": 2.4166666666666665
+      }
+    },
+    {
+      "pair": "AAVE/USDT:USDT",
+      "open_date": "2026-06-05 14:00:00+00:00",
+      "tag": "144 ",
+      "family": "dip",
+      "profit_usdt": 49.4615394,
+      "profit_ratio": 0.0143726237026391,
+      "at6h": {
+        "timestamp": 1780670400000,
+        "pnl_usdt": 49.461539400001186,
+        "pnl_initial_margin_pct": 1.4379810014490766,
+        "hours": 0.6666666666666666
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1780669200000,
+        "pnl_usdt": 262.01440980000126,
+        "pnl_initial_margin_pct": 7.617469006601229,
+        "hours": 0.3333333333333333
+      }
+    },
+    {
+      "pair": "ONDO/USDT:USDT",
+      "open_date": "2026-06-05 15:15:00+00:00",
+      "tag": "141 ",
+      "family": "dip",
+      "profit_usdt": 54.598271,
+      "profit_ratio": 0.015828011809231487,
+      "at6h": {
+        "timestamp": 1780683600000,
+        "pnl_usdt": 54.59827099999702,
+        "pnl_initial_margin_pct": 1.5835925815135237,
+        "hours": 3.0833333333333335
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1780681200000,
+        "pnl_usdt": 258.70016899999854,
+        "pnl_initial_margin_pct": 7.503454980556342,
+        "hours": 2.4166666666666665
+      }
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "open_date": "2026-06-05 18:55:00+00:00",
+      "tag": "62 144 ",
+      "family": "dip",
+      "profit_usdt": 558.40726425,
+      "profit_ratio": 0.15559013150012468,
+      "at6h": {
+        "timestamp": 1780690500000,
+        "pnl_usdt": 558.4072642499997,
+        "pnl_initial_margin_pct": 15.566792656587465,
+        "hours": 1.3333333333333333
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1780690500000,
+        "pnl_usdt": 558.4072642499997,
+        "pnl_initial_margin_pct": 15.566792656587465,
+        "hours": 1.3333333333333333
+      }
+    },
+    {
+      "pair": "FIL/USDT:USDT",
+      "open_date": "2026-06-05 15:50:00+00:00",
+      "tag": "3 142 ",
+      "family": "dip",
+      "profit_usdt": -159.0560034,
+      "profit_ratio": -0.04610912076869694,
+      "at6h": {
+        "timestamp": 1780696200000,
+        "pnl_usdt": 108.9070980250002,
+        "pnl_initial_margin_pct": 3.1587121726150147,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1780700100000,
+        "pnl_usdt": 166.42797320000102,
+        "pnl_initial_margin_pct": 4.8270321617587495,
+        "hours": 7.083333333333333
+      }
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_date": "2026-06-06 08:55:00+00:00",
+      "tag": "144 ",
+      "family": "dip",
+      "profit_usdt": 779.30694765,
+      "profit_ratio": 0.20792790808387274,
+      "at6h": {
+        "timestamp": 1780757700000,
+        "pnl_usdt": -325.326959099998,
+        "pnl_initial_margin_pct": -8.684431279620801,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1780794600000,
+        "pnl_usdt": 779.3069476500018,
+        "pnl_initial_margin_pct": 20.80318720379152,
+        "hours": 16.25
+      }
+    },
+    {
+      "pair": "JTO/USDT:USDT",
+      "open_date": "2026-06-08 01:55:00+00:00",
+      "tag": "64 ",
+      "family": "trend",
+      "profit_usdt": 28.1910951,
+      "profit_ratio": 0.029290447822122243,
+      "at6h": {
+        "timestamp": 1780905300000,
+        "pnl_usdt": -39.142521249999874,
+        "pnl_initial_margin_pct": -4.068927522037205,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1780915200000,
+        "pnl_usdt": 87.99088025000025,
+        "pnl_initial_margin_pct": 9.146792360430975,
+        "hours": 8.75
+      }
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_date": "2026-06-08 21:20:00+00:00",
+      "tag": "142 ",
+      "family": "dip",
+      "profit_usdt": 748.26955125,
+      "profit_ratio": 0.19412674338034708,
+      "at6h": {
+        "timestamp": 1780975200000,
+        "pnl_usdt": -567.419774999999,
+        "pnl_initial_margin_pct": -14.728172293364354,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1781013300000,
+        "pnl_usdt": 748.2695512500007,
+        "pnl_initial_margin_pct": 19.422380675203748,
+        "hours": 16.583333333333332
+      }
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_date": "2026-06-09 15:55:00+00:00",
+      "tag": "142 ",
+      "family": "dip",
+      "profit_usdt": 746.36855475,
+      "profit_ratio": 0.187621377914574,
+      "at6h": {
+        "timestamp": 1781031900000,
+        "pnl_usdt": 746.3685547499994,
+        "pnl_initial_margin_pct": 18.771518860353112,
+        "hours": 3.1666666666666665
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1781031900000,
+        "pnl_usdt": 746.3685547499994,
+        "pnl_initial_margin_pct": 18.771518860353112,
+        "hours": 3.1666666666666665
+      }
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_date": "2026-06-10 16:35:00+00:00",
+      "tag": "162 ",
+      "family": "dip",
+      "profit_usdt": 98.6109327,
+      "profit_ratio": 0.02404414756303328,
+      "at6h": {
+        "timestamp": 1781112600000,
+        "pnl_usdt": 98.61093269999867,
+        "pnl_initial_margin_pct": 2.4056169636814473,
+        "hours": 0.9166666666666666
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1781111700000,
+        "pnl_usdt": 209.51945069999863,
+        "pnl_initial_margin_pct": 5.111233927362926,
+        "hours": 0.6666666666666666
+      }
+    },
+    {
+      "pair": "XLM/USDT:USDT",
+      "open_date": "2026-06-16 01:55:00+00:00",
+      "tag": "64 ",
+      "family": "trend",
+      "profit_usdt": 139.276296,
+      "profit_ratio": 0.13609927402904204,
+      "at6h": {
+        "timestamp": 1781596500000,
+        "pnl_usdt": 33.77707199999964,
+        "pnl_initial_margin_pct": 3.3023088835702867,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1781600100000,
+        "pnl_usdt": 139.27629599999977,
+        "pnl_initial_margin_pct": 13.616732366605635,
+        "hours": 7.0
+      }
+    },
+    {
+      "pair": "INJ/USDT:USDT",
+      "open_date": "2026-06-17 22:05:00+00:00",
+      "tag": "145 ",
+      "family": "dip",
+      "profit_usdt": 167.3076152,
+      "profit_ratio": 0.04061690568437195,
+      "at6h": {
+        "timestamp": 1781752500000,
+        "pnl_usdt": 167.30761519999876,
+        "pnl_initial_margin_pct": 4.063721413721383,
+        "hours": 5.166666666666667
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1781745300000,
+        "pnl_usdt": 491.62697439999613,
+        "pnl_initial_margin_pct": 11.941088641088545,
+        "hours": 3.1666666666666665
+      }
+    },
+    {
+      "pair": "JUP/USDT:USDT",
+      "open_date": "2026-06-25 13:45:00+00:00",
+      "tag": "142 ",
+      "family": "dip",
+      "profit_usdt": 57.387225,
+      "profit_ratio": 0.013659219487060545,
+      "at6h": {
+        "timestamp": 1782406200000,
+        "pnl_usdt": 57.38722499999931,
+        "pnl_initial_margin_pct": 1.3666049096803912,
+        "hours": 3.0833333333333335
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1782403800000,
+        "pnl_usdt": 436.47258749999895,
+        "pnl_initial_margin_pct": 10.394048170449256,
+        "hours": 2.4166666666666665
+      }
+    },
+    {
+      "pair": "PYTH/USDT:USDT",
+      "open_date": "2026-07-01 07:15:00+00:00",
+      "tag": "64 ",
+      "family": "trend",
+      "profit_usdt": 13.3986344,
+      "profit_ratio": 0.012442001564905339,
+      "at6h": {
+        "timestamp": 1782911700000,
+        "pnl_usdt": -3.229047599999915,
+        "pnl_initial_margin_pct": -0.2999999999999921,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1782916800000,
+        "pnl_usdt": 82.40351469999972,
+        "pnl_initial_margin_pct": 7.655834621329187,
+        "hours": 7.416666666666667
+      }
+    },
+    {
+      "pair": "ETHFI/USDT:USDT",
+      "open_date": "2026-07-05 09:25:00+00:00",
+      "tag": "64 ",
+      "family": "trend",
+      "profit_usdt": 11.2965965,
+      "profit_ratio": 0.010607957669910564,
+      "at6h": {
+        "timestamp": 1783265100000,
+        "pnl_usdt": 63.15465449999989,
+        "pnl_initial_margin_pct": 5.933440860215044,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1783254300000,
+        "pnl_usdt": 79.93226149999995,
+        "pnl_initial_margin_pct": 7.5097132616487405,
+        "hours": 3.0
+      }
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_date": "2026-07-06 12:05:00+00:00",
+      "tag": "145 ",
+      "family": "dip",
+      "profit_usdt": 184.0966709,
+      "profit_ratio": 0.04292688060319816,
+      "at6h": {
+        "timestamp": 1783359900000,
+        "pnl_usdt": 184.0966708999993,
+        "pnl_initial_margin_pct": 4.294834404349959,
+        "hours": 5.666666666666667
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1783354500000,
+        "pnl_usdt": 511.2978884499998,
+        "pnl_initial_margin_pct": 11.928188334157188,
+        "hours": 4.166666666666667
+      }
+    },
+    {
+      "pair": "LDO/USDT:USDT",
+      "open_date": "2026-07-09 07:30:00+00:00",
+      "tag": "161 ",
+      "family": "trend",
+      "profit_usdt": 263.7145215,
+      "profit_ratio": 0.061664758615063944,
+      "at6h": {
+        "timestamp": 1783589100000,
+        "pnl_usdt": 263.71452149999885,
+        "pnl_initial_margin_pct": 6.16955909943712,
+        "hours": 1.9166666666666667
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1783588500000,
+        "pnl_usdt": 387.95616959999853,
+        "pnl_initial_margin_pct": 9.07617260787989,
+        "hours": 1.75
+      }
+    },
+    {
+      "pair": "ONDO/USDT:USDT",
+      "open_date": "2026-07-18 09:30:00+00:00",
+      "tag": "142 ",
+      "family": "dip",
+      "profit_usdt": 16.52739,
+      "profit_ratio": 0.00396519718647792,
+      "at6h": {
+        "timestamp": 1784388600000,
+        "pnl_usdt": -164.88185999999962,
+        "pnl_initial_margin_pct": -3.9577693871623496,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1784406900000,
+        "pnl_usdt": 270.50034000000073,
+        "pnl_initial_margin_pct": 6.493000290444398,
+        "hours": 11.083333333333334
+      }
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_date": "2026-07-24 22:00:00+00:00",
+      "tag": "2 ",
+      "family": "dip",
+      "profit_usdt": 141.6652194,
+      "profit_ratio": 0.033839094500159934,
+      "at6h": {
+        "timestamp": 1784931000000,
+        "pnl_usdt": 141.6652193999994,
+        "pnl_initial_margin_pct": 3.3856014047409864,
+        "hours": 0.16666666666666666
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1784931000000,
+        "pnl_usdt": 141.6652193999994,
+        "pnl_initial_margin_pct": 3.3856014047409864,
+        "hours": 0.16666666666666666
+      }
+    },
+    {
+      "pair": "BOME/USDT:USDT",
+      "open_date": "2026-08-13 08:50:00+00:00",
+      "tag": "163 ",
+      "family": "dip",
+      "profit_usdt": 67.2380064,
+      "profit_ratio": 0.014896368015369263,
+      "at6h": {
+        "timestamp": 1786618200000,
+        "pnl_usdt": 67.2380063999991,
+        "pnl_initial_margin_pct": 1.4903816199376747,
+        "hours": 2.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1786617000000,
+        "pnl_usdt": 209.46765599999998,
+        "pnl_initial_margin_pct": 4.643010124610592,
+        "hours": 1.6666666666666667
+      }
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "open_date": "2026-08-22 07:50:00+00:00",
+      "tag": "144 ",
+      "family": "dip",
+      "profit_usdt": -551.04804502,
+      "profit_ratio": -0.12199152183518416,
+      "at6h": {
+        "timestamp": 1787406600000,
+        "pnl_usdt": -216.32994779000367,
+        "pnl_initial_margin_pct": -4.791526800216648,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1787423100000,
+        "pnl_usdt": 137.93373175999955,
+        "pnl_initial_margin_pct": 3.0551164049810393,
+        "hours": 10.583333333333334
+      }
+    },
+    {
+      "pair": "XRP/USDT:USDT",
+      "open_date": "2026-08-22 08:05:00+00:00",
+      "tag": "144 ",
+      "family": "dip",
+      "profit_usdt": -569.26616,
+      "profit_ratio": -0.12602811894545338,
+      "at6h": {
+        "timestamp": 1787407500000,
+        "pnl_usdt": -307.8545312000004,
+        "pnl_initial_margin_pct": -6.818906403940895,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1787386500000,
+        "pnl_usdt": 238.08676159999857,
+        "pnl_initial_margin_pct": 5.273566502463022,
+        "hours": 0.16666666666666666
+      }
+    },
+    {
+      "pair": "ARB/USDT:USDT",
+      "open_date": "2026-09-02 10:05:00+00:00",
+      "tag": "145 ",
+      "family": "dip",
+      "profit_usdt": 388.26397261,
+      "profit_ratio": 0.08962347291022865,
+      "at6h": {
+        "timestamp": 1788365100000,
+        "pnl_usdt": 731.7003784999998,
+        "pnl_initial_margin_pct": 16.89837905236907,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1788365100000,
+        "pnl_usdt": 731.7003784999998,
+        "pnl_initial_margin_pct": 16.89837905236907,
+        "hours": 6.0
+      }
+    },
+    {
+      "pair": "ONDO/USDT:USDT",
+      "open_date": "2026-09-07 03:30:00+00:00",
+      "tag": "64 ",
+      "family": "trend",
+      "profit_usdt": 25.07201,
+      "profit_ratio": 0.022824227572897624,
+      "at6h": {
+        "timestamp": 1788773400000,
+        "pnl_usdt": 74.92706999999957,
+        "pnl_initial_margin_pct": 6.824373368146175,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1788772800000,
+        "pnl_usdt": 96.41631999999957,
+        "pnl_initial_margin_pct": 8.781618798955575,
+        "hours": 5.833333333333333
+      }
+    },
+    {
+      "pair": "RAY/USDT:USDT",
+      "open_date": "2026-09-09 19:45:00+00:00",
+      "tag": "101 ",
+      "family": "dip",
+      "profit_usdt": 16.2980708,
+      "profit_ratio": 0.003704058513874053,
+      "at6h": {
+        "timestamp": 1788986700000,
+        "pnl_usdt": 16.298070799999472,
+        "pnl_initial_margin_pct": 0.3705910543130871,
+        "hours": 1.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1788985200000,
+        "pnl_usdt": 507.12333539999895,
+        "pnl_initial_margin_pct": 11.53114217252394,
+        "hours": 0.5833333333333334
+      }
+    },
+    {
+      "pair": "APT/USDT:USDT",
+      "open_date": "2026-09-09 22:10:00+00:00",
+      "tag": "145 ",
+      "family": "dip",
+      "profit_usdt": 343.6699887,
+      "profit_ratio": 0.07805308290811641,
+      "at6h": {
+        "timestamp": 1789013400000,
+        "pnl_usdt": -69.88223175000005,
+        "pnl_initial_margin_pct": -1.587933503022591,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1789073400000,
+        "pnl_usdt": 421.3422331499997,
+        "pnl_initial_margin_pct": 9.574156856506516,
+        "hours": 22.666666666666668
+      }
+    },
+    {
+      "pair": "BCH/USDT:USDT",
+      "open_date": "2026-09-10 13:20:00+00:00",
+      "tag": "141 ",
+      "family": "dip",
+      "profit_usdt": -7.417322,
+      "profit_ratio": -0.0016846026789323443,
+      "at6h": {
+        "timestamp": 1789068000000,
+        "pnl_usdt": -105.76412400000044,
+        "pnl_initial_margin_pct": -2.4032880315651126,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1789047000000,
+        "pnl_usdt": 108.28479800000044,
+        "pnl_initial_margin_pct": 2.460565541429207,
+        "hours": 0.16666666666666666
+      }
+    },
+    {
+      "pair": "RAY/USDT:USDT",
+      "open_date": "2026-09-11 17:50:00+00:00",
+      "tag": "64 ",
+      "family": "trend",
+      "profit_usdt": 174.1416468,
+      "profit_ratio": 0.15630056352042104,
+      "at6h": {
+        "timestamp": 1789162200000,
+        "pnl_usdt": 174.14164680000002,
+        "pnl_initial_margin_pct": 15.637871380218128,
+        "hours": 3.6666666666666665
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1789162200000,
+        "pnl_usdt": 174.14164680000002,
+        "pnl_initial_margin_pct": 15.637871380218128,
+        "hours": 3.6666666666666665
+      }
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "open_date": "2026-09-15 18:50:00+00:00",
+      "tag": "141 ",
+      "family": "dip",
+      "profit_usdt": 116.04936728,
+      "profit_ratio": 0.025861513687600646,
+      "at6h": {
+        "timestamp": 1789504200000,
+        "pnl_usdt": 116.04936727999879,
+        "pnl_initial_margin_pct": 2.5874444444444173,
+        "hours": 1.6666666666666667
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1789499100000,
+        "pnl_usdt": 431.9838010399981,
+        "pnl_initial_margin_pct": 9.63153968253964,
+        "hours": 0.25
+      }
+    },
+    {
+      "pair": "ARB/USDT:USDT",
+      "open_date": "2026-09-17 21:45:00+00:00",
+      "tag": "64 ",
+      "family": "trend",
+      "profit_usdt": 400.37249887,
+      "profit_ratio": 0.35538503180028835,
+      "at6h": {
+        "timestamp": 1789696200000,
+        "pnl_usdt": 400.3724988749994,
+        "pnl_initial_margin_pct": 35.55627243206283,
+        "hours": 4.083333333333333
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1789696200000,
+        "pnl_usdt": 400.3724988749994,
+        "pnl_initial_margin_pct": 35.55627243206283,
+        "hours": 4.083333333333333
+      }
+    },
+    {
+      "pair": "FIL/USDT:USDT",
+      "open_date": "2026-09-19 22:25:00+00:00",
+      "tag": "143 ",
+      "family": "dip",
+      "profit_usdt": -107.01399918,
+      "profit_ratio": -0.02340335017475494,
+      "at6h": {
+        "timestamp": 1789878300000,
+        "pnl_usdt": -15.146355974999267,
+        "pnl_initial_margin_pct": -0.33140777207498134,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1789870500000,
+        "pnl_usdt": 284.85891635000166,
+        "pnl_initial_margin_pct": 6.232816591599492,
+        "hours": 3.8333333333333335
+      }
+    },
+    {
+      "pair": "BOME/USDT:USDT",
+      "open_date": "2026-09-21 19:25:00+00:00",
+      "tag": "64 ",
+      "family": "trend",
+      "profit_usdt": 31.0294946,
+      "profit_ratio": 0.027254061760663327,
+      "at6h": {
+        "timestamp": 1790040300000,
+        "pnl_usdt": 79.77011210000019,
+        "pnl_initial_margin_pct": 7.009932387391695,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1790037900000,
+        "pnl_usdt": 110.3142324000003,
+        "pnl_initial_margin_pct": 9.694048185887086,
+        "hours": 5.333333333333333
+      }
+    },
+    {
+      "pair": "AR/USDT:USDT",
+      "open_date": "2026-09-21 09:10:00+00:00",
+      "tag": "64 ",
+      "family": "trend",
+      "profit_usdt": -411.8865322,
+      "profit_ratio": -0.36170823901774596,
+      "at6h": {
+        "timestamp": 1790003400000,
+        "pnl_usdt": -188.1330648999997,
+        "pnl_initial_margin_pct": -16.52962622549017,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1789983000000,
+        "pnl_usdt": 30.0439920000003,
+        "pnl_initial_margin_pct": 2.6397058823529678,
+        "hours": 0.3333333333333333
+      }
+    },
+    {
+      "pair": "ETHW/USDT:USDT",
+      "open_date": "2026-09-21 18:30:00+00:00",
+      "tag": "64 ",
+      "family": "trend",
+      "profit_usdt": -69.35673939,
+      "profit_ratio": -0.0609066653114121,
+      "at6h": {
+        "timestamp": 1790037000000,
+        "pnl_usdt": 23.19376220999979,
+        "pnl_initial_margin_pct": 2.0378135593220152,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1790038500000,
+        "pnl_usdt": 60.2139628499998,
+        "pnl_initial_margin_pct": 5.290423728813542,
+        "hours": 6.416666666666667
+      }
+    },
+    {
+      "pair": "ICP/USDT:USDT",
+      "open_date": "2026-09-23 14:20:00+00:00",
+      "tag": "142 ",
+      "family": "dip",
+      "profit_usdt": 912.82285171,
+      "profit_ratio": 0.20372637330560484,
+      "at6h": {
+        "timestamp": 1790194800000,
+        "pnl_usdt": -237.0147019050002,
+        "pnl_initial_margin_pct": -5.292405708460759,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1790259600000,
+        "pnl_usdt": 912.822851714999,
+        "pnl_initial_margin_pct": 20.38282364933739,
+        "hours": 24.0
+      }
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "open_date": "2026-09-25 14:05:00+00:00",
+      "tag": "145 ",
+      "family": "dip",
+      "profit_usdt": 83.03210087,
+      "profit_ratio": 0.017928415082311758,
+      "at6h": {
+        "timestamp": 1790351700000,
+        "pnl_usdt": 83.03210087000096,
+        "pnl_initial_margin_pct": 1.7937379289853124,
+        "hours": 1.8333333333333333
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1790348400000,
+        "pnl_usdt": 476.8948109999997,
+        "pnl_initial_margin_pct": 10.30233249145743,
+        "hours": 0.9166666666666666
+      }
+    },
+    {
+      "pair": "SUI/USDT:USDT",
+      "open_date": "2026-10-02 08:55:00+00:00",
+      "tag": "64 ",
+      "family": "trend",
+      "profit_usdt": 14.1852846,
+      "profit_ratio": 0.012215992012454723,
+      "at6h": {
+        "timestamp": 1790950200000,
+        "pnl_usdt": 14.185284600000143,
+        "pnl_initial_margin_pct": 1.2222100008461076,
+        "hours": 5.25
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1790948400000,
+        "pnl_usdt": 83.97057450000025,
+        "pnl_initial_margin_pct": 7.234939504188193,
+        "hours": 4.75
+      }
+    },
+    {
+      "pair": "DOT/USDT:USDT",
+      "open_date": "2026-10-02 18:50:00+00:00",
+      "tag": "141 142 ",
+      "family": "dip",
+      "profit_usdt": 151.3036161,
+      "profit_ratio": 0.03255780493618205,
+      "at6h": {
+        "timestamp": 1790967900000,
+        "pnl_usdt": 151.30361609999915,
+        "pnl_initial_margin_pct": 3.257408383864996,
+        "hours": 0.25
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1790967900000,
+        "pnl_usdt": 151.30361609999915,
+        "pnl_initial_margin_pct": 3.257408383864996,
+        "hours": 0.25
+      }
+    },
+    {
+      "pair": "SAND/USDT:USDT",
+      "open_date": "2026-10-02 18:40:00+00:00",
+      "tag": "21 141 142 ",
+      "family": "mixed_or_unknown",
+      "profit_usdt": 254.6215938,
+      "profit_ratio": 0.05478942709496315,
+      "at6h": {
+        "timestamp": 1790973600000,
+        "pnl_usdt": 254.62159380000028,
+        "pnl_initial_margin_pct": 5.48168218085107,
+        "hours": 2.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1790971800000,
+        "pnl_usdt": 685.2379779000003,
+        "pnl_initial_margin_pct": 14.752310505319155,
+        "hours": 1.5
+      }
+    },
+    {
+      "pair": "SAND/USDT:USDT",
+      "open_date": "2026-10-02 21:00:00+00:00",
+      "tag": "64 ",
+      "family": "trend",
+      "profit_usdt": 249.5551156,
+      "profit_ratio": 0.21177192990184635,
+      "at6h": {
+        "timestamp": 1790983800000,
+        "pnl_usdt": 249.55511559999997,
+        "pnl_initial_margin_pct": 21.187781586679723,
+        "hours": 2.5
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1790983800000,
+        "pnl_usdt": 249.55511559999997,
+        "pnl_initial_margin_pct": 21.187781586679723,
+        "hours": 2.5
+      }
+    },
+    {
+      "pair": "STRK/USDT:USDT",
+      "open_date": "2026-10-02 18:40:00+00:00",
+      "tag": "6 ",
+      "family": "dip",
+      "profit_usdt": 641.9800332,
+      "profit_ratio": 0.13813852324198306,
+      "at6h": {
+        "timestamp": 1790987700000,
+        "pnl_usdt": 641.9800331999996,
+        "pnl_initial_margin_pct": 13.820759250360396,
+        "hours": 5.916666666666667
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1790987700000,
+        "pnl_usdt": 641.9800331999996,
+        "pnl_initial_margin_pct": 13.820759250360396,
+        "hours": 5.916666666666667
+      }
+    },
+    {
+      "pair": "BAT/USDT:USDT",
+      "open_date": "2026-10-03 06:15:00+00:00",
+      "tag": "64 ",
+      "family": "trend",
+      "profit_usdt": 37.848987,
+      "profit_ratio": 0.031142218299717132,
+      "at6h": {
+        "timestamp": 1791029700000,
+        "pnl_usdt": -129.245424,
+        "pnl_initial_margin_pct": -10.639655172413793,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1791094200000,
+        "pnl_usdt": 41.21330400000031,
+        "pnl_initial_margin_pct": 3.392733990147809,
+        "hours": 23.916666666666668
+      }
+    },
+    {
+      "pair": "RAY/USDT:USDT",
+      "open_date": "2026-10-06 14:45:00+00:00",
+      "tag": "64 ",
+      "family": "trend",
+      "profit_usdt": 184.4094096,
+      "profit_ratio": 0.15162177418425804,
+      "at6h": {
+        "timestamp": 1791303300000,
+        "pnl_usdt": 184.4094096,
+        "pnl_initial_margin_pct": 15.169758507135017,
+        "hours": 1.5
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1791303300000,
+        "pnl_usdt": 184.4094096,
+        "pnl_initial_margin_pct": 15.169758507135017,
+        "hours": 1.5
+      }
+    },
+    {
+      "pair": "SAND/USDT:USDT",
+      "open_date": "2026-10-07 05:25:00+00:00",
+      "tag": "65 ",
+      "family": "trend",
+      "profit_usdt": 58.1726475,
+      "profit_ratio": 0.04751049040667747,
+      "at6h": {
+        "timestamp": 1791372300000,
+        "pnl_usdt": -111.52745999999975,
+        "pnl_initial_margin_pct": -9.113172441687993,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1791387900000,
+        "pnl_usdt": 58.1726475000001,
+        "pnl_initial_margin_pct": 4.75342456518809,
+        "hours": 10.333333333333334
+      }
+    },
+    {
+      "pair": "ARB/USDT:USDT",
+      "open_date": "2026-10-08 15:25:00+00:00",
+      "tag": "141 ",
+      "family": "dip",
+      "profit_usdt": 751.3112589,
+      "profit_ratio": 0.1530841658184136,
+      "at6h": {
+        "timestamp": 1791494700000,
+        "pnl_usdt": 382.3209463499987,
+        "pnl_initial_margin_pct": 7.79391312120126,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1791517200000,
+        "pnl_usdt": 752.187720449998,
+        "pnl_initial_margin_pct": 15.333938148015688,
+        "hours": 12.25
+      }
+    },
+    {
+      "pair": "SUI/USDT:USDT",
+      "open_date": "2026-10-08 15:25:00+00:00",
+      "tag": "141 ",
+      "family": "dip",
+      "profit_usdt": 530.403688,
+      "profit_ratio": 0.10807674351328303,
+      "at6h": {
+        "timestamp": 1791494700000,
+        "pnl_usdt": 191.6611439999989,
+        "pnl_initial_margin_pct": 3.907301141861792,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1791524100000,
+        "pnl_usdt": 530.4036879999992,
+        "pnl_initial_margin_pct": 10.81307818850395,
+        "hours": 14.166666666666666
+      }
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_date": "2026-10-08 15:25:00+00:00",
+      "tag": "141 ",
+      "family": "dip",
+      "profit_usdt": 154.8008318,
+      "profit_ratio": 0.03154195694908257,
+      "at6h": {
+        "timestamp": 1791494700000,
+        "pnl_usdt": -211.47653790000012,
+        "pnl_initial_margin_pct": -4.31116484873431,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1791532800000,
+        "pnl_usdt": 466.59065890000153,
+        "pnl_initial_margin_pct": 9.511926322288568,
+        "hours": 16.583333333333332
+      }
+    },
+    {
+      "pair": "AVAX/USDT:USDT",
+      "open_date": "2026-10-08 15:25:00+00:00",
+      "tag": "6 141 ",
+      "family": "dip",
+      "profit_usdt": 478.6938024,
+      "profit_ratio": 0.09754180590457825,
+      "at6h": {
+        "timestamp": 1791494700000,
+        "pnl_usdt": 159.08248799999865,
+        "pnl_initial_margin_pct": 3.243190466653287,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1791533400000,
+        "pnl_usdt": 664.2745655999979,
+        "pnl_initial_margin_pct": 13.542464450230279,
+        "hours": 16.75
+      }
+    },
+    {
+      "pair": "JUP/USDT:USDT",
+      "open_date": "2026-10-08 14:55:00+00:00",
+      "tag": "145 ",
+      "family": "dip",
+      "profit_usdt": 51.286229,
+      "profit_ratio": 0.010452277367627546,
+      "at6h": {
+        "timestamp": 1791492900000,
+        "pnl_usdt": -538.5796905000011,
+        "pnl_initial_margin_pct": -10.981893408134663,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1791532800000,
+        "pnl_usdt": 414.28064099999847,
+        "pnl_initial_margin_pct": 8.447377279102351,
+        "hours": 17.083333333333332
+      }
+    },
+    {
+      "pair": "ALGO/USDT:USDT",
+      "open_date": "2026-10-08 13:25:00+00:00",
+      "tag": "143 ",
+      "family": "dip",
+      "profit_usdt": -674.9238006,
+      "profit_ratio": -0.13752785521699437,
+      "at6h": {
+        "timestamp": 1791487500000,
+        "pnl_usdt": -492.79730940000246,
+        "pnl_initial_margin_pct": -10.046651731160944,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1791465900000,
+        "pnl_usdt": -12.31886880000188,
+        "pnl_initial_margin_pct": -0.2511446028513621,
+        "hours": 0.0
+      }
+    },
+    {
+      "pair": "PYTH/USDT:USDT",
+      "open_date": "2026-10-13 15:50:00+00:00",
+      "tag": "102 ",
+      "family": "dip",
+      "profit_usdt": 382.42611,
+      "profit_ratio": 0.07468006808974621,
+      "at6h": {
+        "timestamp": 1791911400000,
+        "pnl_usdt": 382.42611000000034,
+        "pnl_initial_margin_pct": 7.4717408123791165,
+        "hours": 1.3333333333333333
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1791911100000,
+        "pnl_usdt": 513.0407699999988,
+        "pnl_initial_margin_pct": 10.023655705996108,
+        "hours": 1.25
+      }
+    },
+    {
+      "pair": "BAT/USDT:USDT",
+      "open_date": "2026-10-13 22:40:00+00:00",
+      "tag": "64 ",
+      "family": "trend",
+      "profit_usdt": 33.9337999,
+      "profit_ratio": 0.026190063784968277,
+      "at6h": {
+        "timestamp": 1791939600000,
+        "pnl_usdt": 33.93379990000021,
+        "pnl_initial_margin_pct": 2.6203158816860923,
+        "hours": 2.3333333333333335
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1791938700000,
+        "pnl_usdt": 119.9767569,
+        "pnl_initial_margin_pct": 9.264420797691434,
+        "hours": 2.0833333333333335
+      }
+    },
+    {
+      "pair": "TIA/USDT:USDT",
+      "open_date": "2026-10-14 05:55:00+00:00",
+      "tag": "141 142 ",
+      "family": "dip",
+      "profit_usdt": 58.205493,
+      "profit_ratio": 0.011215661778742149,
+      "at6h": {
+        "timestamp": 1791967800000,
+        "pnl_usdt": 58.20549299999944,
+        "pnl_initial_margin_pct": 1.1221269609631415,
+        "hours": 2.9166666666666665
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1791965400000,
+        "pnl_usdt": 407.1787191000019,
+        "pnl_initial_margin_pct": 7.8498814301350235,
+        "hours": 2.25
+      }
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_date": "2026-10-15 02:25:00+00:00",
+      "tag": "141 142 ",
+      "family": "dip",
+      "profit_usdt": 165.327344,
+      "profit_ratio": 0.031797904530856486,
+      "at6h": {
+        "timestamp": 1792031700000,
+        "pnl_usdt": 165.32734399999947,
+        "pnl_initial_margin_pct": 3.1813803483121808,
+        "hours": 0.16666666666666666
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1792031700000,
+        "pnl_usdt": 165.32734399999947,
+        "pnl_initial_margin_pct": 3.1813803483121808,
+        "hours": 0.16666666666666666
+      }
+    },
+    {
+      "pair": "ZK/USDT:USDT",
+      "open_date": "2026-10-15 04:20:00+00:00",
+      "tag": "65 ",
+      "family": "trend",
+      "profit_usdt": 263.8255651,
+      "profit_ratio": 0.20190808546818922,
+      "at6h": {
+        "timestamp": 1792038900000,
+        "pnl_usdt": 263.8255651050003,
+        "pnl_initial_margin_pct": 20.2009039514752,
+        "hours": 0.25
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1792038900000,
+        "pnl_usdt": 263.8255651050003,
+        "pnl_initial_margin_pct": 20.2009039514752,
+        "hours": 0.25
+      }
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "open_date": "2026-10-15 02:25:00+00:00",
+      "tag": "2 ",
+      "family": "dip",
+      "profit_usdt": 762.23976576,
+      "profit_ratio": 0.14660223964556823,
+      "at6h": {
+        "timestamp": 1792052700000,
+        "pnl_usdt": -250.11788220000042,
+        "pnl_initial_margin_pct": -4.812944335198919,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1792078500000,
+        "pnl_usdt": 762.2397657599989,
+        "pnl_initial_margin_pct": 14.667554076539082,
+        "hours": 13.166666666666666
+      }
+    },
+    {
+      "pair": "ZK/USDT:USDT",
+      "open_date": "2026-10-15 15:10:00+00:00",
+      "tag": "65 ",
+      "family": "trend",
+      "profit_usdt": 66.0212829,
+      "profit_ratio": 0.050610555029129395,
+      "at6h": {
+        "timestamp": 1792087200000,
+        "pnl_usdt": 66.02128289999983,
+        "pnl_initial_margin_pct": 5.063586030664382,
+        "hours": 2.8333333333333335
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1792087200000,
+        "pnl_usdt": 66.02128289999983,
+        "pnl_initial_margin_pct": 5.063586030664382,
+        "hours": 2.8333333333333335
+      }
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_date": "2026-10-25 08:55:00+00:00",
+      "tag": "141 ",
+      "family": "dip",
+      "profit_usdt": 639.43875255,
+      "profit_ratio": 0.11446440350282494,
+      "at6h": {
+        "timestamp": 1792940100000,
+        "pnl_usdt": 419.4446046500001,
+        "pnl_initial_margin_pct": 7.512131853194383,
+        "hours": 6.0
+      },
+      "max_sampled_pnl": {
+        "timestamp": 1792942800000,
+        "pnl_usdt": 639.4387525500016,
+        "pnl_initial_margin_pct": 11.452163570457662,
+        "hours": 6.75
+      }
+    }
+  ]
+}

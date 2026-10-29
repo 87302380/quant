@@ -1,0 +1,14 @@
+{
+  "recorded_utc": "2026-10-29T18:20:03.202814+00:00",
+  "source_sha256": "b20244ed4813bba4fa5b7d398938950ace142a8dca03625f521c126238405902",
+  "classification": "Source semantics, not PnL: trend21/47/64/65/161; other27 enabled signals dip. Mixed/unknown preserve original.",
+  "variants": {
+    "control": "unchanged baseline",
+    "trend_gate": "trend-family only, lastclosed1h close>EMA50 and EMA50 rising6h",
+    "trend_exit": "trend-family only, age>=2h and two consecutive closed1h belowEMA50; native profits and24h retained",
+    "trend_both": "both trend changes",
+    "dip_recovery": "dip-family only, last15m BTC-relative logreturn improves versus prior15m; BTC exempt",
+    "dip_limit": "dip-family only, buy0.5closed1hATR lower than proposed price, offsetcapped1.9%; unchanged3minute entrytimeout and sizing"
+  },
+  "limits": "57staticcoins,3x,6slots,noadds,24h; no increased original stake ceiling; funding excluded; no independent OOS; no parameter scan"
+}

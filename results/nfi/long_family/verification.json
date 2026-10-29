@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "engine_replays": 8,
+  "unit_tests": 145,
+  "control_exact": true,
+  "sources_and_ledgers_verified": true,
+  "independently_audited_trend_exits": 19,
+  "implementation_failure_preserved": true,
+  "funding_excluded": true,
+  "independent_oos": false
+}

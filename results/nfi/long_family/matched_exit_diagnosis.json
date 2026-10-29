@@ -1,0 +1,133 @@
+{
+  "warning": "Matched entry diagnostics using actual normalized campaign returns. Shared wallet and sizing change; do not add these differences as causal portfolio contribution.",
+  "variants": {
+    "trend_exit": {
+      "exits": 6,
+      "matched_winners": 2,
+      "winners_turned_into_losses": 2,
+      "matched_losers_improved": 3,
+      "matched_losers_worsened": 1,
+      "records": [
+        {
+          "pair": "MINA/USDT:USDT",
+          "open_date": "2026-01-19 08:35:00+00:00",
+          "tag": "47 ",
+          "new_margin_return_pct": -2.839985045378801,
+          "old_margin_return_pct": 7.570990677515485,
+          "hours": 2.0,
+          "original_winner": true,
+          "new_winner": false
+        },
+        {
+          "pair": "ETHFI/USDT:USDT",
+          "open_date": "2026-03-19 06:35:00+00:00",
+          "tag": "64 ",
+          "new_margin_return_pct": -12.07434522654859,
+          "old_margin_return_pct": -17.464447451496877,
+          "hours": 2.4166666666666665,
+          "original_winner": false,
+          "new_winner": false
+        },
+        {
+          "pair": "RAY/USDT:USDT",
+          "open_date": "2026-04-26 11:20:00+00:00",
+          "tag": "64 ",
+          "new_margin_return_pct": -20.832615142252703,
+          "old_margin_return_pct": -23.335656979027124,
+          "hours": 19.666666666666668,
+          "original_winner": false,
+          "new_winner": false
+        },
+        {
+          "pair": "AR/USDT:USDT",
+          "open_date": "2026-09-21 09:10:00+00:00",
+          "tag": "64 ",
+          "new_margin_return_pct": -29.07008505551146,
+          "old_margin_return_pct": -36.1708239017746,
+          "hours": 9.833333333333334,
+          "original_winner": false,
+          "new_winner": false
+        },
+        {
+          "pair": "ETHW/USDT:USDT",
+          "open_date": "2026-09-21 18:30:00+00:00",
+          "tag": "64 ",
+          "new_margin_return_pct": -12.795822427769165,
+          "old_margin_return_pct": -6.090666531141211,
+          "hours": 17.5,
+          "original_winner": false,
+          "new_winner": false
+        },
+        {
+          "pair": "BAT/USDT:USDT",
+          "open_date": "2026-10-03 06:15:00+00:00",
+          "tag": "64 ",
+          "new_margin_return_pct": -12.449024871800551,
+          "old_margin_return_pct": 3.1142218299717133,
+          "hours": 19.75,
+          "original_winner": true,
+          "new_winner": false
+        }
+      ]
+    },
+    "trend_both": {
+      "exits": 5,
+      "matched_winners": 1,
+      "winners_turned_into_losses": 1,
+      "matched_losers_improved": 3,
+      "matched_losers_worsened": 1,
+      "records": [
+        {
+          "pair": "ETHFI/USDT:USDT",
+          "open_date": "2026-03-19 06:35:00+00:00",
+          "tag": "64 ",
+          "new_margin_return_pct": -12.07434522654859,
+          "old_margin_return_pct": -17.464447451496877,
+          "hours": 2.4166666666666665,
+          "original_winner": false,
+          "new_winner": false
+        },
+        {
+          "pair": "RAY/USDT:USDT",
+          "open_date": "2026-04-26 11:20:00+00:00",
+          "tag": "64 ",
+          "new_margin_return_pct": -20.832615142252703,
+          "old_margin_return_pct": -23.335656979027124,
+          "hours": 19.666666666666668,
+          "original_winner": false,
+          "new_winner": false
+        },
+        {
+          "pair": "AR/USDT:USDT",
+          "open_date": "2026-09-21 09:10:00+00:00",
+          "tag": "64 ",
+          "new_margin_return_pct": -29.07008505551146,
+          "old_margin_return_pct": -36.1708239017746,
+          "hours": 9.833333333333334,
+          "original_winner": false,
+          "new_winner": false
+        },
+        {
+          "pair": "ETHW/USDT:USDT",
+          "open_date": "2026-09-21 18:30:00+00:00",
+          "tag": "64 ",
+          "new_margin_return_pct": -12.795822427324596,
+          "old_margin_return_pct": -6.090666531141211,
+          "hours": 17.5,
+          "original_winner": false,
+          "new_winner": false
+        },
+        {
+          "pair": "BAT/USDT:USDT",
+          "open_date": "2026-10-03 06:15:00+00:00",
+          "tag": "64 ",
+          "new_margin_return_pct": -12.449024871800551,
+          "old_margin_return_pct": 3.1142218299717133,
+          "hours": 19.75,
+          "original_winner": true,
+          "new_winner": false
+        }
+      ]
+    }
+  }
+}

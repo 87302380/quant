@@ -1,0 +1,6 @@
+{
+  "selected": "trend_both",
+  "full_year_eligible": [],
+  "rule": "Highest return among return>=control and DD<=control; fallbacktrend_both. Predeclared in validation_plan.json.",
+  "independent_oos": false
+}

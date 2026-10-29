@@ -1,0 +1,1041 @@
+{
+  "warning": "Entry-time cohort comparisons only. Missing original entry times may reflect filters, unfilled orders, different holding periods or shared-wallet slot changes; not direct causal attribution. Eventual profit labels are diagnostic only. No revised profits computed by deleting original trades.",
+  "variants": {
+    "trend_gate": {
+      "target_family": "trend",
+      "original_target_entries": 30,
+      "matched_target_entry_times": 28,
+      "original_winning_entry_times_not_repeated": 2,
+      "original_losing_entry_times_not_repeated": 0,
+      "new_long_entry_times_without_any_baseline_match": 0,
+      "mean_matched_entry_price_change_bps": 0.0,
+      "records": [
+        {
+          "pair": "AR/USDT:USDT",
+          "open_date": "2026-09-21 09:10:00+00:00",
+          "original_winner": false,
+          "new_winner": false,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": -36.1708239017746,
+          "new_margin_return_pct": -36.170823901774604
+        },
+        {
+          "pair": "ARB/USDT:USDT",
+          "open_date": "2026-09-17 21:45:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 35.53850318002883,
+          "new_margin_return_pct": 35.53850318047265
+        },
+        {
+          "pair": "BAT/USDT:USDT",
+          "open_date": "2026-10-03 06:15:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 3.1142218299717133,
+          "new_margin_return_pct": 3.1142218299717137
+        },
+        {
+          "pair": "BAT/USDT:USDT",
+          "open_date": "2026-10-13 22:40:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 2.619006378496828,
+          "new_margin_return_pct": 2.6190063784968283
+        },
+        {
+          "pair": "BOME/USDT:USDT",
+          "open_date": "2026-09-21 19:25:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 2.7254061760663326,
+          "new_margin_return_pct": 2.7254061760663335
+        },
+        {
+          "pair": "ETC/USDT:USDT",
+          "open_date": "2026-05-04 15:55:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 8.982438169566551,
+          "new_margin_return_pct": 8.982438169566551
+        },
+        {
+          "pair": "ETHFI/USDT:USDT",
+          "open_date": "2026-03-19 06:35:00+00:00",
+          "original_winner": false,
+          "new_winner": false,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": -17.464447451496877,
+          "new_margin_return_pct": -17.464447451496877
+        },
+        {
+          "pair": "ETHFI/USDT:USDT",
+          "open_date": "2026-07-05 09:25:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 1.0607957669910564,
+          "new_margin_return_pct": 1.0607957669910562
+        },
+        {
+          "pair": "ETHW/USDT:USDT",
+          "open_date": "2026-09-21 18:30:00+00:00",
+          "original_winner": false,
+          "new_winner": false,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": -6.090666531141211,
+          "new_margin_return_pct": -6.090666530695178
+        },
+        {
+          "pair": "FIL/USDT:USDT",
+          "open_date": "2026-05-06 09:40:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 2.3994068584676507,
+          "new_margin_return_pct": 2.3994068584676507
+        },
+        {
+          "pair": "ICP/USDT:USDT",
+          "open_date": "2026-01-13 20:25:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 4.330710181389992,
+          "new_margin_return_pct": 4.330710181389992
+        },
+        {
+          "pair": "INJ/USDT:USDT",
+          "open_date": "2026-05-19 04:25:00+00:00",
+          "original_winner": false,
+          "new_winner": false,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": -9.24785765318194,
+          "new_margin_return_pct": -9.24785765318194
+        },
+        {
+          "pair": "JTO/USDT:USDT",
+          "open_date": "2026-05-08 05:15:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 2.5623670193033363,
+          "new_margin_return_pct": 2.5623670193033363
+        },
+        {
+          "pair": "JTO/USDT:USDT",
+          "open_date": "2026-06-08 01:55:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 2.929044782212224,
+          "new_margin_return_pct": 2.929044782212224
+        },
+        {
+          "pair": "LDO/USDT:USDT",
+          "open_date": "2026-07-09 07:30:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 6.166475861506394,
+          "new_margin_return_pct": 6.166475861506394
+        },
+        {
+          "pair": "ONDO/USDT:USDT",
+          "open_date": "2026-09-07 03:30:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 2.2824227572897624,
+          "new_margin_return_pct": 2.282422757289763
+        },
+        {
+          "pair": "PYTH/USDT:USDT",
+          "open_date": "2026-07-01 07:15:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 1.2442001564905338,
+          "new_margin_return_pct": 1.2442001564905336
+        },
+        {
+          "pair": "RAY/USDT:USDT",
+          "open_date": "2026-04-26 11:20:00+00:00",
+          "original_winner": false,
+          "new_winner": false,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": -23.335656979027124,
+          "new_margin_return_pct": -23.33565697902712
+        },
+        {
+          "pair": "RAY/USDT:USDT",
+          "open_date": "2026-09-11 17:50:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 15.630056352042104,
+          "new_margin_return_pct": 15.630056352042104
+        },
+        {
+          "pair": "RAY/USDT:USDT",
+          "open_date": "2026-10-06 14:45:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 15.162177418425804,
+          "new_margin_return_pct": 15.162177418425804
+        },
+        {
+          "pair": "SAND/USDT:USDT",
+          "open_date": "2026-10-02 21:00:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 21.177192990184636,
+          "new_margin_return_pct": 21.177192990184636
+        },
+        {
+          "pair": "SAND/USDT:USDT",
+          "open_date": "2026-10-07 05:25:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 4.7510490406677475,
+          "new_margin_return_pct": 4.7510490406677475
+        },
+        {
+          "pair": "SUI/USDT:USDT",
+          "open_date": "2026-05-10 01:25:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 19.484551430578417,
+          "new_margin_return_pct": 19.484551430578417
+        },
+        {
+          "pair": "SUI/USDT:USDT",
+          "open_date": "2026-10-02 08:55:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 1.2215992012454724,
+          "new_margin_return_pct": 1.2215992012454724
+        },
+        {
+          "pair": "WLD/USDT:USDT",
+          "open_date": "2026-06-05 07:40:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 8.139359922926623,
+          "new_margin_return_pct": 8.139359922926625
+        },
+        {
+          "pair": "XLM/USDT:USDT",
+          "open_date": "2026-06-16 01:55:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 13.609927402904203,
+          "new_margin_return_pct": 13.609927402904207
+        },
+        {
+          "pair": "ZK/USDT:USDT",
+          "open_date": "2026-10-15 04:20:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 20.19080854681892,
+          "new_margin_return_pct": 20.190808546812853
+        },
+        {
+          "pair": "ZK/USDT:USDT",
+          "open_date": "2026-10-15 15:10:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 5.061055502912939,
+          "new_margin_return_pct": 5.0610555029129385
+        }
+      ]
+    },
+    "trend_exit": {
+      "target_family": "trend",
+      "original_target_entries": 30,
+      "matched_target_entry_times": 30,
+      "original_winning_entry_times_not_repeated": 0,
+      "original_losing_entry_times_not_repeated": 0,
+      "new_long_entry_times_without_any_baseline_match": 0,
+      "mean_matched_entry_price_change_bps": 0.0,
+      "records": [
+        {
+          "pair": "AR/USDT:USDT",
+          "open_date": "2026-09-21 09:10:00+00:00",
+          "original_winner": false,
+          "new_winner": false,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": -36.1708239017746,
+          "new_margin_return_pct": -29.07008505551146
+        },
+        {
+          "pair": "ARB/USDT:USDT",
+          "open_date": "2026-09-17 21:45:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 35.53850318002883,
+          "new_margin_return_pct": 35.538503180022666
+        },
+        {
+          "pair": "BAT/USDT:USDT",
+          "open_date": "2026-10-03 06:15:00+00:00",
+          "original_winner": true,
+          "new_winner": false,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 3.1142218299717133,
+          "new_margin_return_pct": -12.449024871800551
+        },
+        {
+          "pair": "BAT/USDT:USDT",
+          "open_date": "2026-10-13 22:40:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 2.619006378496828,
+          "new_margin_return_pct": 2.6190063784968283
+        },
+        {
+          "pair": "BOME/USDT:USDT",
+          "open_date": "2026-09-21 19:25:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 2.7254061760663326,
+          "new_margin_return_pct": 2.7254061760663335
+        },
+        {
+          "pair": "ETC/USDT:USDT",
+          "open_date": "2026-05-04 15:55:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 8.982438169566551,
+          "new_margin_return_pct": 8.982438169566551
+        },
+        {
+          "pair": "ETHFI/USDT:USDT",
+          "open_date": "2026-03-19 06:35:00+00:00",
+          "original_winner": false,
+          "new_winner": false,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": -17.464447451496877,
+          "new_margin_return_pct": -12.07434522654859
+        },
+        {
+          "pair": "ETHFI/USDT:USDT",
+          "open_date": "2026-07-05 09:25:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 1.0607957669910564,
+          "new_margin_return_pct": 1.0607957669910562
+        },
+        {
+          "pair": "ETHW/USDT:USDT",
+          "open_date": "2026-09-21 18:30:00+00:00",
+          "original_winner": false,
+          "new_winner": false,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": -6.090666531141211,
+          "new_margin_return_pct": -12.795822427769165
+        },
+        {
+          "pair": "FIL/USDT:USDT",
+          "open_date": "2026-05-06 09:40:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 2.3994068584676507,
+          "new_margin_return_pct": 2.3994068584676507
+        },
+        {
+          "pair": "ICP/USDT:USDT",
+          "open_date": "2026-01-13 20:25:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 4.330710181389992,
+          "new_margin_return_pct": 4.330710181389992
+        },
+        {
+          "pair": "INJ/USDT:USDT",
+          "open_date": "2026-05-19 04:25:00+00:00",
+          "original_winner": false,
+          "new_winner": false,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": -9.24785765318194,
+          "new_margin_return_pct": -9.247857653181939
+        },
+        {
+          "pair": "JTO/USDT:USDT",
+          "open_date": "2026-05-08 05:15:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 2.5623670193033363,
+          "new_margin_return_pct": 2.5623670193033363
+        },
+        {
+          "pair": "JTO/USDT:USDT",
+          "open_date": "2026-06-08 01:55:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 2.929044782212224,
+          "new_margin_return_pct": 2.929044782212224
+        },
+        {
+          "pair": "LDO/USDT:USDT",
+          "open_date": "2026-07-09 07:30:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 6.166475861506394,
+          "new_margin_return_pct": 6.166475861506394
+        },
+        {
+          "pair": "MINA/USDT:USDT",
+          "open_date": "2026-01-19 08:35:00+00:00",
+          "original_winner": true,
+          "new_winner": false,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 7.570990677515485,
+          "new_margin_return_pct": -2.839985045378801
+        },
+        {
+          "pair": "ONDO/USDT:USDT",
+          "open_date": "2026-09-07 03:30:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 2.2824227572897624,
+          "new_margin_return_pct": 2.2824227572897624
+        },
+        {
+          "pair": "PYTH/USDT:USDT",
+          "open_date": "2026-07-01 07:15:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 1.2442001564905338,
+          "new_margin_return_pct": 1.2442001564905336
+        },
+        {
+          "pair": "RAY/USDT:USDT",
+          "open_date": "2026-04-26 11:20:00+00:00",
+          "original_winner": false,
+          "new_winner": false,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": -23.335656979027124,
+          "new_margin_return_pct": -20.832615142252703
+        },
+        {
+          "pair": "RAY/USDT:USDT",
+          "open_date": "2026-09-11 17:50:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 15.630056352042104,
+          "new_margin_return_pct": 15.630056352042104
+        },
+        {
+          "pair": "RAY/USDT:USDT",
+          "open_date": "2026-10-06 14:45:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 15.162177418425804,
+          "new_margin_return_pct": 15.162177418425804
+        },
+        {
+          "pair": "SAND/USDT:USDT",
+          "open_date": "2026-10-02 21:00:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 21.177192990184636,
+          "new_margin_return_pct": 21.177192990184636
+        },
+        {
+          "pair": "SAND/USDT:USDT",
+          "open_date": "2026-10-07 05:25:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 4.7510490406677475,
+          "new_margin_return_pct": 4.7510490406677475
+        },
+        {
+          "pair": "SUI/USDT:USDT",
+          "open_date": "2026-05-10 01:25:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 19.484551430578417,
+          "new_margin_return_pct": 19.484551430578417
+        },
+        {
+          "pair": "SUI/USDT:USDT",
+          "open_date": "2026-10-02 08:55:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 1.2215992012454724,
+          "new_margin_return_pct": 1.2215992012454724
+        },
+        {
+          "pair": "WLD/USDT:USDT",
+          "open_date": "2026-06-05 07:40:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 8.139359922926623,
+          "new_margin_return_pct": 8.139359922926623
+        },
+        {
+          "pair": "XLM/USDT:USDT",
+          "open_date": "2026-06-16 01:55:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 13.609927402904203,
+          "new_margin_return_pct": 13.609927402904207
+        },
+        {
+          "pair": "ZK/USDT:USDT",
+          "open_date": "2026-10-15 04:20:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 20.19080854681892,
+          "new_margin_return_pct": 20.190808546811137
+        },
+        {
+          "pair": "ZK/USDT:USDT",
+          "open_date": "2026-10-15 15:10:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 5.061055502912939,
+          "new_margin_return_pct": 5.0610555029129385
+        },
+        {
+          "pair": "ZRO/USDT:USDT",
+          "open_date": "2026-02-10 22:40:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 8.047027458420027,
+          "new_margin_return_pct": 8.047027458420027
+        }
+      ]
+    },
+    "trend_both": {
+      "target_family": "trend",
+      "original_target_entries": 30,
+      "matched_target_entry_times": 28,
+      "original_winning_entry_times_not_repeated": 2,
+      "original_losing_entry_times_not_repeated": 0,
+      "new_long_entry_times_without_any_baseline_match": 0,
+      "mean_matched_entry_price_change_bps": 0.0,
+      "records": [
+        {
+          "pair": "AR/USDT:USDT",
+          "open_date": "2026-09-21 09:10:00+00:00",
+          "original_winner": false,
+          "new_winner": false,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": -36.1708239017746,
+          "new_margin_return_pct": -29.07008505551146
+        },
+        {
+          "pair": "ARB/USDT:USDT",
+          "open_date": "2026-09-17 21:45:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 35.53850318002883,
+          "new_margin_return_pct": 35.53850318047265
+        },
+        {
+          "pair": "BAT/USDT:USDT",
+          "open_date": "2026-10-03 06:15:00+00:00",
+          "original_winner": true,
+          "new_winner": false,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 3.1142218299717133,
+          "new_margin_return_pct": -12.449024871800551
+        },
+        {
+          "pair": "BAT/USDT:USDT",
+          "open_date": "2026-10-13 22:40:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 2.619006378496828,
+          "new_margin_return_pct": 2.6190063784968283
+        },
+        {
+          "pair": "BOME/USDT:USDT",
+          "open_date": "2026-09-21 19:25:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 2.7254061760663326,
+          "new_margin_return_pct": 2.7254061760663335
+        },
+        {
+          "pair": "ETC/USDT:USDT",
+          "open_date": "2026-05-04 15:55:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 8.982438169566551,
+          "new_margin_return_pct": 8.982438169566551
+        },
+        {
+          "pair": "ETHFI/USDT:USDT",
+          "open_date": "2026-03-19 06:35:00+00:00",
+          "original_winner": false,
+          "new_winner": false,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": -17.464447451496877,
+          "new_margin_return_pct": -12.07434522654859
+        },
+        {
+          "pair": "ETHFI/USDT:USDT",
+          "open_date": "2026-07-05 09:25:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 1.0607957669910564,
+          "new_margin_return_pct": 1.0607957669910562
+        },
+        {
+          "pair": "ETHW/USDT:USDT",
+          "open_date": "2026-09-21 18:30:00+00:00",
+          "original_winner": false,
+          "new_winner": false,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": -6.090666531141211,
+          "new_margin_return_pct": -12.795822427324596
+        },
+        {
+          "pair": "FIL/USDT:USDT",
+          "open_date": "2026-05-06 09:40:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 2.3994068584676507,
+          "new_margin_return_pct": 2.3994068584676507
+        },
+        {
+          "pair": "ICP/USDT:USDT",
+          "open_date": "2026-01-13 20:25:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 4.330710181389992,
+          "new_margin_return_pct": 4.330710181389992
+        },
+        {
+          "pair": "INJ/USDT:USDT",
+          "open_date": "2026-05-19 04:25:00+00:00",
+          "original_winner": false,
+          "new_winner": false,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": -9.24785765318194,
+          "new_margin_return_pct": -9.24785765318194
+        },
+        {
+          "pair": "JTO/USDT:USDT",
+          "open_date": "2026-05-08 05:15:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 2.5623670193033363,
+          "new_margin_return_pct": 2.5623670193033368
+        },
+        {
+          "pair": "JTO/USDT:USDT",
+          "open_date": "2026-06-08 01:55:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 2.929044782212224,
+          "new_margin_return_pct": 2.929044782212224
+        },
+        {
+          "pair": "LDO/USDT:USDT",
+          "open_date": "2026-07-09 07:30:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 6.166475861506394,
+          "new_margin_return_pct": 6.166475861506395
+        },
+        {
+          "pair": "ONDO/USDT:USDT",
+          "open_date": "2026-09-07 03:30:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 2.2824227572897624,
+          "new_margin_return_pct": 2.2824227572897624
+        },
+        {
+          "pair": "PYTH/USDT:USDT",
+          "open_date": "2026-07-01 07:15:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 1.2442001564905338,
+          "new_margin_return_pct": 1.2442001564905338
+        },
+        {
+          "pair": "RAY/USDT:USDT",
+          "open_date": "2026-04-26 11:20:00+00:00",
+          "original_winner": false,
+          "new_winner": false,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": -23.335656979027124,
+          "new_margin_return_pct": -20.832615142252703
+        },
+        {
+          "pair": "RAY/USDT:USDT",
+          "open_date": "2026-09-11 17:50:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 15.630056352042104,
+          "new_margin_return_pct": 15.630056352042104
+        },
+        {
+          "pair": "RAY/USDT:USDT",
+          "open_date": "2026-10-06 14:45:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 15.162177418425804,
+          "new_margin_return_pct": 15.162177418425804
+        },
+        {
+          "pair": "SAND/USDT:USDT",
+          "open_date": "2026-10-02 21:00:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 21.177192990184636,
+          "new_margin_return_pct": 21.177192990184636
+        },
+        {
+          "pair": "SAND/USDT:USDT",
+          "open_date": "2026-10-07 05:25:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 4.7510490406677475,
+          "new_margin_return_pct": 4.7510490406677475
+        },
+        {
+          "pair": "SUI/USDT:USDT",
+          "open_date": "2026-05-10 01:25:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 19.484551430578417,
+          "new_margin_return_pct": 19.484551430578417
+        },
+        {
+          "pair": "SUI/USDT:USDT",
+          "open_date": "2026-10-02 08:55:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 1.2215992012454724,
+          "new_margin_return_pct": 1.2215992012454724
+        },
+        {
+          "pair": "WLD/USDT:USDT",
+          "open_date": "2026-06-05 07:40:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 8.139359922926623,
+          "new_margin_return_pct": 8.139359922926623
+        },
+        {
+          "pair": "XLM/USDT:USDT",
+          "open_date": "2026-06-16 01:55:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 13.609927402904203,
+          "new_margin_return_pct": 13.609927402904207
+        },
+        {
+          "pair": "ZK/USDT:USDT",
+          "open_date": "2026-10-15 04:20:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 20.19080854681892,
+          "new_margin_return_pct": 20.190808546811695
+        },
+        {
+          "pair": "ZK/USDT:USDT",
+          "open_date": "2026-10-15 15:10:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 5.061055502912939,
+          "new_margin_return_pct": 5.061055502522422
+        }
+      ]
+    },
+    "dip_recovery": {
+      "target_family": "dip",
+      "original_target_entries": 63,
+      "matched_target_entry_times": 17,
+      "original_winning_entry_times_not_repeated": 42,
+      "original_losing_entry_times_not_repeated": 4,
+      "new_long_entry_times_without_any_baseline_match": 14,
+      "mean_matched_entry_price_change_bps": 0.0,
+      "records": [
+        {
+          "pair": "ALGO/USDT:USDT",
+          "open_date": "2026-10-08 13:25:00+00:00",
+          "original_winner": false,
+          "new_winner": false,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": -13.752785521699437,
+          "new_margin_return_pct": -13.752785521699435
+        },
+        {
+          "pair": "ARB/USDT:USDT",
+          "open_date": "2026-01-31 14:45:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 4.22799391671071,
+          "new_margin_return_pct": 4.22799391671071
+        },
+        {
+          "pair": "BOME/USDT:USDT",
+          "open_date": "2026-08-13 08:50:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 1.4896368015369263,
+          "new_margin_return_pct": 1.4896368015369263
+        },
+        {
+          "pair": "ETC/USDT:USDT",
+          "open_date": "2026-01-31 17:35:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 13.09100768764554,
+          "new_margin_return_pct": 13.09100768764554
+        },
+        {
+          "pair": "FIL/USDT:USDT",
+          "open_date": "2026-09-19 22:25:00+00:00",
+          "original_winner": false,
+          "new_winner": false,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": -2.340335017475494,
+          "new_margin_return_pct": -2.340335017480266
+        },
+        {
+          "pair": "LDO/USDT:USDT",
+          "open_date": "2026-05-11 15:20:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 3.2598939347612017,
+          "new_margin_return_pct": 3.2598939347612017
+        },
+        {
+          "pair": "LTC/USDT:USDT",
+          "open_date": "2026-01-19 00:25:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 6.349598576306143,
+          "new_margin_return_pct": 6.349598576306143
+        },
+        {
+          "pair": "NEAR/USDT:USDT",
+          "open_date": "2026-01-31 17:35:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 7.939329304419955,
+          "new_margin_return_pct": 7.939329304419957
+        },
+        {
+          "pair": "NEAR/USDT:USDT",
+          "open_date": "2026-06-02 15:35:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 15.913238374756911,
+          "new_margin_return_pct": 15.913238374756911
+        },
+        {
+          "pair": "ONDO/USDT:USDT",
+          "open_date": "2026-07-18 09:30:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 0.396519718647792,
+          "new_margin_return_pct": 0.396519718647792
+        },
+        {
+          "pair": "OP/USDT:USDT",
+          "open_date": "2026-06-05 18:55:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 15.559013150012468,
+          "new_margin_return_pct": 15.559013150012468
+        },
+        {
+          "pair": "RAY/USDT:USDT",
+          "open_date": "2026-01-31 18:25:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 9.69285200812121,
+          "new_margin_return_pct": 9.692852008121209
+        },
+        {
+          "pair": "SAND/USDT:USDT",
+          "open_date": "2026-01-20 16:45:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 17.011349920707517,
+          "new_margin_return_pct": 17.011349920707517
+        },
+        {
+          "pair": "SUI/USDT:USDT",
+          "open_date": "2026-01-31 14:40:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 3.289996352401006,
+          "new_margin_return_pct": 3.289996352401006
+        },
+        {
+          "pair": "UNI/USDT:USDT",
+          "open_date": "2026-02-05 17:55:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 20.01727367711143,
+          "new_margin_return_pct": 20.01727367711143
+        },
+        {
+          "pair": "WLD/USDT:USDT",
+          "open_date": "2026-05-24 14:20:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 0.8150304286476985,
+          "new_margin_return_pct": 0.8150304286476985
+        },
+        {
+          "pair": "WLD/USDT:USDT",
+          "open_date": "2026-06-09 15:55:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": 0.0,
+          "original_margin_return_pct": 18.762137791457402,
+          "new_margin_return_pct": 18.762137791457402
+        }
+      ]
+    },
+    "dip_limit": {
+      "target_family": "dip",
+      "original_target_entries": 63,
+      "matched_target_entry_times": 6,
+      "original_winning_entry_times_not_repeated": 51,
+      "original_losing_entry_times_not_repeated": 6,
+      "new_long_entry_times_without_any_baseline_match": 12,
+      "mean_matched_entry_price_change_bps": -134.2897319262587,
+      "records": [
+        {
+          "pair": "JUP/USDT:USDT",
+          "open_date": "2026-06-25 13:45:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": -125.05789717461857,
+          "original_margin_return_pct": 1.3659219487060545,
+          "new_margin_return_pct": 3.4956021051388007
+        },
+        {
+          "pair": "LDO/USDT:USDT",
+          "open_date": "2026-04-27 06:05:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": -188.77297565822127,
+          "original_margin_return_pct": 2.5289143803657037,
+          "new_margin_return_pct": 5.466532556506556
+        },
+        {
+          "pair": "LTC/USDT:USDT",
+          "open_date": "2026-01-19 00:25:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": -50.425010805358326,
+          "original_margin_return_pct": 6.349598576306143,
+          "new_margin_return_pct": 7.164445579121821
+        },
+        {
+          "pair": "OP/USDT:USDT",
+          "open_date": "2026-06-05 06:20:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": -168.7804878048793,
+          "original_margin_return_pct": 4.378396167769774,
+          "new_margin_return_pct": 4.845344520356671
+        },
+        {
+          "pair": "RAY/USDT:USDT",
+          "open_date": "2026-01-31 18:25:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": -128.23974082073474,
+          "original_margin_return_pct": 9.69285200812121,
+          "new_margin_return_pct": 3.5934241275369425
+        },
+        {
+          "pair": "TIA/USDT:USDT",
+          "open_date": "2026-06-05 06:20:00+00:00",
+          "original_winner": true,
+          "new_winner": true,
+          "entry_price_change_bps": -144.46227929374,
+          "original_margin_return_pct": 1.0471168909927058,
+          "new_margin_return_pct": 4.09314886530676
+        }
+      ]
+    }
+  }
+}

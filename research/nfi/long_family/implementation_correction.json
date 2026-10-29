@@ -1,0 +1,4 @@
+{
+  "source_sha256": "180cffd9a1c9dd77f88324dd4bedf7479e818ef5a11706c2bb835591c444405c",
+  "reason": "Normalize merge keys to datetime64[ns, UTC]; unchanged financial hypotheses. Failed executions preserved, no backtest returns existed."
+}

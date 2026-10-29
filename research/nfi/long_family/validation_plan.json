@@ -1,0 +1,9 @@
+{
+  "recorded_utc": "2026-10-29T18:24:27.608971+00:00",
+  "selection_rule": "Among full-year variants with return>=control and MTMDD<=control+1e-6 select highest return; if none select trend_both as central negative diagnostic. At most one selection.",
+  "checks": [
+    "full_year_10bps",
+    "fresh_July_10000USDT"
+  ],
+  "warning": "Prespecified before full-year metrics completed; selection and same-history checks do not constitute independent OOS. No parameter scan."
+}
