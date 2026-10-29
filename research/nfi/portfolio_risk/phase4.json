@@ -1,0 +1,12 @@
+{
+  "trigger": "worst native long event six holdings median pre-entry correlation .502; half_long/shock remaining worst event six shorts median correlation .877; single controls target different tails",
+  "adaptive_seen_history": true,
+  "variants": {
+    "shock_corr": "unchanged BTC shock entry gate + unchanged .75 correlation neighborhood cap",
+    "atr_corr": "unchanged 2x1hATR/1% long risk + unchanged .75 correlation cap"
+  },
+  "no_threshold_grid": true,
+  "qualification": "both combinations full fee10 and freshJuly, preserve all negative outcomes",
+  "expected_total_replays": 29,
+  "selection_bias": "Chosen after inspecting known drawdown events; not independent OOS or future robustness proof"
+}

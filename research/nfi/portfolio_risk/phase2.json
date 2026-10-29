@@ -1,0 +1,8 @@
+{
+  "trigger": "half_long sample MTM9.61% vs control13.32%; long_atr114.06% return vs half_long152.50% at same9.61% DD; portfolio81.43% at7.63% needs both-side sizing control",
+  "variant": "half_all",
+  "rule": "constant .5 original output stake for BOTH directions, no changes to entries/exits/leverage/slots",
+  "adaptive_seen_history": true,
+  "validation_amendment": "Replace dominated long_atr fee/July qualification with half_all; retain complete long_atr full-period result. Validate half_long/half_all/portfolio/correlation on full fee10 and freshJuly. No claims of independent OOS.",
+  "expected_total_replays": 20
+}

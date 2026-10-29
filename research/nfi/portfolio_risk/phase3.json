@@ -1,0 +1,14 @@
+{
+  "trigger": "correlation cap189.45% with13.32% DD does not improve worst drawdown; sidecap111.34%/8.04% and shock184.39%/9.61% warrant practical checks; half_all86.45%/6.66% dominates portfolio81.43%/7.63% on sampled return/DD",
+  "adaptive_seen_history": true,
+  "extra_qualification": [
+    "side_cap fee10 + July",
+    "shock fee10 + July"
+  ],
+  "amendment": "Correlation full fee10 already scheduled and retained; no extra July qualification for unchanged worst DD and lower return. Half_all/half_long/portfolio July remain.",
+  "expected_total": 23,
+  "full_main_count": 12,
+  "fee10_count": 6,
+  "fresh_july_count": 5,
+  "not_oos": true
+}

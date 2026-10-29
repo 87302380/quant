@@ -1,0 +1,790 @@
+{
+  "control": {
+    "drawdown_holdings": {
+      "time_utc": "2026-10-08 17:50:00+00:00",
+      "time_shanghai": "2026-10-09 01:50:00+08:00",
+      "holdings": [
+        {
+          "pair": "ARB/USDT:USDT",
+          "side": "long",
+          "tag": "141 ",
+          "open_date": "2026-10-08 15:25:00+00:00",
+          "open_rate": 0.16782,
+          "closed_mark_price": 0.16305,
+          "campaign_mtm_pnl_usdt": -425.639367900003
+        },
+        {
+          "pair": "SUI/USDT:USDT",
+          "side": "long",
+          "tag": "141 ",
+          "open_date": "2026-10-08 15:25:00+00:00",
+          "open_rate": 1.0334,
+          "closed_mark_price": 1.0007,
+          "campaign_mtm_pnl_usdt": -473.0058080000035
+        },
+        {
+          "pair": "WLD/USDT:USDT",
+          "side": "long",
+          "tag": "141 ",
+          "open_date": "2026-10-08 15:25:00+00:00",
+          "open_rate": 0.4859,
+          "closed_mark_price": 0.4599,
+          "campaign_mtm_pnl_usdt": -794.7939836999994
+        },
+        {
+          "pair": "AVAX/USDT:USDT",
+          "side": "long",
+          "tag": "6 141 ",
+          "open_date": "2026-10-08 15:25:00+00:00",
+          "open_rate": 9.986,
+          "closed_mark_price": 9.786,
+          "campaign_mtm_pnl_usdt": -302.0776848000005
+        },
+        {
+          "pair": "JUP/USDT:USDT",
+          "side": "long",
+          "tag": "145 ",
+          "open_date": "2026-10-08 14:55:00+00:00",
+          "open_rate": 0.3565,
+          "closed_mark_price": 0.3304,
+          "campaign_mtm_pnl_usdt": -1084.5033774999993
+        },
+        {
+          "pair": "ALGO/USDT:USDT",
+          "side": "long",
+          "tag": "143 ",
+          "open_date": "2026-10-08 13:25:00+00:00",
+          "open_rate": 0.12275,
+          "closed_mark_price": 0.11548,
+          "campaign_mtm_pnl_usdt": -878.8852350000034
+        }
+      ],
+      "warning": "Open-campaign current PnL, not attribution of entire peak-to-trough equity change"
+    },
+    "correlations_at_last_entry_shanghai": "2026-10-08 23:25:00+08:00",
+    "pre_entry_correlation_matrix": {
+      "ARB/USDT:USDT": {
+        "SUI/USDT:USDT": 0.6757043166753578,
+        "WLD/USDT:USDT": 0.6125447104454822,
+        "AVAX/USDT:USDT": 0.6877195450603856,
+        "JUP/USDT:USDT": 0.610637045635366,
+        "ALGO/USDT:USDT": 0.4240583867514943
+      },
+      "SUI/USDT:USDT": {
+        "ARB/USDT:USDT": 0.6757043166753578,
+        "WLD/USDT:USDT": 0.5187645123870015,
+        "AVAX/USDT:USDT": 0.5430497222661839,
+        "JUP/USDT:USDT": 0.501957229068834,
+        "ALGO/USDT:USDT": 0.34633829403597133
+      },
+      "WLD/USDT:USDT": {
+        "ARB/USDT:USDT": 0.6125447104454822,
+        "SUI/USDT:USDT": 0.5187645123870015,
+        "AVAX/USDT:USDT": 0.5598996638637348,
+        "JUP/USDT:USDT": 0.4617702499724032,
+        "ALGO/USDT:USDT": 0.3442053329190383
+      },
+      "AVAX/USDT:USDT": {
+        "ARB/USDT:USDT": 0.6877195450603856,
+        "SUI/USDT:USDT": 0.5430497222661839,
+        "WLD/USDT:USDT": 0.5598996638637348,
+        "JUP/USDT:USDT": 0.49766441012511103,
+        "ALGO/USDT:USDT": 0.39235979526820325
+      },
+      "JUP/USDT:USDT": {
+        "ARB/USDT:USDT": 0.610637045635366,
+        "SUI/USDT:USDT": 0.501957229068834,
+        "WLD/USDT:USDT": 0.4617702499724032,
+        "AVAX/USDT:USDT": 0.49766441012511103,
+        "ALGO/USDT:USDT": 0.2840039210469249
+      },
+      "ALGO/USDT:USDT": {
+        "ARB/USDT:USDT": 0.4240583867514943,
+        "SUI/USDT:USDT": 0.34633829403597133,
+        "WLD/USDT:USDT": 0.3442053329190383,
+        "AVAX/USDT:USDT": 0.39235979526820325,
+        "JUP/USDT:USDT": 0.2840039210469249
+      }
+    },
+    "warning": "Holdings are selected ex post at worst drawdown for explanation. Correlations use only hours closed before last entry; not an entry rule fitted to this event."
+  },
+  "half_all": {
+    "drawdown_holdings": {
+      "time_utc": "2026-10-08 17:50:00+00:00",
+      "time_shanghai": "2026-10-09 01:50:00+08:00",
+      "holdings": [
+        {
+          "pair": "ARB/USDT:USDT",
+          "side": "long",
+          "tag": "141 ",
+          "open_date": "2026-10-08 15:25:00+00:00",
+          "open_rate": 0.16782,
+          "closed_mark_price": 0.16305,
+          "campaign_mtm_pnl_usdt": -124.85712693000096
+        },
+        {
+          "pair": "SUI/USDT:USDT",
+          "side": "long",
+          "tag": "141 ",
+          "open_date": "2026-10-08 15:25:00+00:00",
+          "open_rate": 1.0334,
+          "closed_mark_price": 1.0007,
+          "campaign_mtm_pnl_usdt": -138.7461559000003
+        },
+        {
+          "pair": "WLD/USDT:USDT",
+          "side": "long",
+          "tag": "141 ",
+          "open_date": "2026-10-08 15:25:00+00:00",
+          "open_rate": 0.4859,
+          "closed_mark_price": 0.4599,
+          "campaign_mtm_pnl_usdt": -233.1423678000001
+        },
+        {
+          "pair": "AVAX/USDT:USDT",
+          "side": "long",
+          "tag": "6 141 ",
+          "open_date": "2026-10-08 15:25:00+00:00",
+          "open_rate": 9.986,
+          "closed_mark_price": 9.786,
+          "campaign_mtm_pnl_usdt": -88.61847390000094
+        },
+        {
+          "pair": "JUP/USDT:USDT",
+          "side": "long",
+          "tag": "145 ",
+          "open_date": "2026-10-08 14:55:00+00:00",
+          "open_rate": 0.3565,
+          "closed_mark_price": 0.3304,
+          "campaign_mtm_pnl_usdt": -317.9668250000004
+        },
+        {
+          "pair": "ALGO/USDT:USDT",
+          "side": "long",
+          "tag": "143 ",
+          "open_date": "2026-10-08 13:25:00+00:00",
+          "open_rate": 0.12275,
+          "closed_mark_price": 0.11548,
+          "campaign_mtm_pnl_usdt": -257.77114500000016
+        }
+      ],
+      "warning": "Open-campaign current PnL, not attribution of entire peak-to-trough equity change"
+    },
+    "correlations_at_last_entry_shanghai": "2026-10-08 23:25:00+08:00",
+    "pre_entry_correlation_matrix": {
+      "ARB/USDT:USDT": {
+        "SUI/USDT:USDT": 0.6757043166753578,
+        "WLD/USDT:USDT": 0.6125447104454822,
+        "AVAX/USDT:USDT": 0.6877195450603856,
+        "JUP/USDT:USDT": 0.610637045635366,
+        "ALGO/USDT:USDT": 0.4240583867514943
+      },
+      "SUI/USDT:USDT": {
+        "ARB/USDT:USDT": 0.6757043166753578,
+        "WLD/USDT:USDT": 0.5187645123870015,
+        "AVAX/USDT:USDT": 0.5430497222661839,
+        "JUP/USDT:USDT": 0.501957229068834,
+        "ALGO/USDT:USDT": 0.34633829403597133
+      },
+      "WLD/USDT:USDT": {
+        "ARB/USDT:USDT": 0.6125447104454822,
+        "SUI/USDT:USDT": 0.5187645123870015,
+        "AVAX/USDT:USDT": 0.5598996638637348,
+        "JUP/USDT:USDT": 0.4617702499724032,
+        "ALGO/USDT:USDT": 0.3442053329190383
+      },
+      "AVAX/USDT:USDT": {
+        "ARB/USDT:USDT": 0.6877195450603856,
+        "SUI/USDT:USDT": 0.5430497222661839,
+        "WLD/USDT:USDT": 0.5598996638637348,
+        "JUP/USDT:USDT": 0.49766441012511103,
+        "ALGO/USDT:USDT": 0.39235979526820325
+      },
+      "JUP/USDT:USDT": {
+        "ARB/USDT:USDT": 0.610637045635366,
+        "SUI/USDT:USDT": 0.501957229068834,
+        "WLD/USDT:USDT": 0.4617702499724032,
+        "AVAX/USDT:USDT": 0.49766441012511103,
+        "ALGO/USDT:USDT": 0.2840039210469249
+      },
+      "ALGO/USDT:USDT": {
+        "ARB/USDT:USDT": 0.4240583867514943,
+        "SUI/USDT:USDT": 0.34633829403597133,
+        "WLD/USDT:USDT": 0.3442053329190383,
+        "AVAX/USDT:USDT": 0.39235979526820325,
+        "JUP/USDT:USDT": 0.2840039210469249
+      }
+    },
+    "warning": "Holdings are selected ex post at worst drawdown for explanation. Correlations use only hours closed before last entry; not an entry rule fitted to this event."
+  },
+  "half_long": {
+    "drawdown_holdings": {
+      "time_utc": "2026-06-04 04:15:00+00:00",
+      "time_shanghai": "2026-06-04 12:15:00+08:00",
+      "holdings": [
+        {
+          "pair": "PYTH/USDT:USDT",
+          "side": "short",
+          "tag": "506 ",
+          "open_date": "2026-06-04 00:25:00+00:00",
+          "open_rate": 0.03692,
+          "closed_mark_price": 0.03608,
+          "campaign_mtm_pnl_usdt": 80.51092000000017
+        },
+        {
+          "pair": "ADA/USDT:USDT",
+          "side": "short",
+          "tag": "506 ",
+          "open_date": "2026-06-03 23:05:00+00:00",
+          "open_rate": 0.2008,
+          "closed_mark_price": 0.2004,
+          "campaign_mtm_pnl_usdt": 7.409108000000742
+        },
+        {
+          "pair": "SOL/USDT:USDT",
+          "side": "short",
+          "tag": "506 ",
+          "open_date": "2026-06-04 00:30:00+00:00",
+          "open_rate": 70.46,
+          "closed_mark_price": 71.64,
+          "campaign_mtm_pnl_usdt": -87.1562956000007
+        },
+        {
+          "pair": "APT/USDT:USDT",
+          "side": "short",
+          "tag": "506 ",
+          "open_date": "2026-06-04 00:30:00+00:00",
+          "open_rate": 0.7971,
+          "closed_mark_price": 0.7938,
+          "campaign_mtm_pnl_usdt": 13.407600450000245
+        },
+        {
+          "pair": "LDO/USDT:USDT",
+          "side": "short",
+          "tag": "506 ",
+          "open_date": "2026-06-04 00:30:00+00:00",
+          "open_rate": 0.291,
+          "closed_mark_price": 0.2887,
+          "campaign_mtm_pnl_usdt": 29.704091499999777
+        },
+        {
+          "pair": "PEPE/USDT:USDT",
+          "side": "short",
+          "tag": "506 ",
+          "open_date": "2026-06-04 01:20:00+00:00",
+          "open_rate": 3.033e-06,
+          "closed_mark_price": 3.106e-06,
+          "campaign_mtm_pnl_usdt": -109.5392550000006
+        }
+      ],
+      "warning": "Open-campaign current PnL, not attribution of entire peak-to-trough equity change"
+    },
+    "correlations_at_last_entry_shanghai": "2026-06-04 09:20:00+08:00",
+    "pre_entry_correlation_matrix": {
+      "PYTH/USDT:USDT": {
+        "ADA/USDT:USDT": 0.8200881938876129,
+        "SOL/USDT:USDT": 0.8195768031843148,
+        "APT/USDT:USDT": 0.7983433004029982,
+        "LDO/USDT:USDT": 0.8209217915680889,
+        "PEPE/USDT:USDT": 0.8197537020535811
+      },
+      "ADA/USDT:USDT": {
+        "PYTH/USDT:USDT": 0.8200881938876129,
+        "SOL/USDT:USDT": 0.9075481805468816,
+        "APT/USDT:USDT": 0.8768351581083142,
+        "LDO/USDT:USDT": 0.8879194328005481,
+        "PEPE/USDT:USDT": 0.9268275103228523
+      },
+      "SOL/USDT:USDT": {
+        "PYTH/USDT:USDT": 0.8195768031843148,
+        "ADA/USDT:USDT": 0.9075481805468816,
+        "APT/USDT:USDT": 0.8681374078588725,
+        "LDO/USDT:USDT": 0.895855393763493,
+        "PEPE/USDT:USDT": 0.9385401914448452
+      },
+      "APT/USDT:USDT": {
+        "PYTH/USDT:USDT": 0.7983433004029982,
+        "ADA/USDT:USDT": 0.8768351581083142,
+        "SOL/USDT:USDT": 0.8681374078588725,
+        "LDO/USDT:USDT": 0.8611812017227549,
+        "PEPE/USDT:USDT": 0.9013820307181434
+      },
+      "LDO/USDT:USDT": {
+        "PYTH/USDT:USDT": 0.8209217915680889,
+        "ADA/USDT:USDT": 0.8879194328005481,
+        "SOL/USDT:USDT": 0.895855393763493,
+        "APT/USDT:USDT": 0.8611812017227549,
+        "PEPE/USDT:USDT": 0.9081323328263261
+      },
+      "PEPE/USDT:USDT": {
+        "PYTH/USDT:USDT": 0.8197537020535811,
+        "ADA/USDT:USDT": 0.9268275103228523,
+        "SOL/USDT:USDT": 0.9385401914448452,
+        "APT/USDT:USDT": 0.9013820307181434,
+        "LDO/USDT:USDT": 0.9081323328263261
+      }
+    },
+    "warning": "Holdings are selected ex post at worst drawdown for explanation. Correlations use only hours closed before last entry; not an entry rule fitted to this event."
+  },
+  "portfolio": {
+    "drawdown_holdings": {
+      "time_utc": "2026-04-27 08:40:00+00:00",
+      "time_shanghai": "2026-04-27 16:40:00+08:00",
+      "holdings": [
+        {
+          "pair": "RAY/USDT:USDT",
+          "side": "long",
+          "tag": "64 ",
+          "open_date": "2026-04-26 11:20:00+00:00",
+          "open_rate": 0.7663,
+          "closed_mark_price": 0.7041,
+          "campaign_mtm_pnl_usdt": -118.2821535000005
+        },
+        {
+          "pair": "LDO/USDT:USDT",
+          "side": "long",
+          "tag": "141 ",
+          "open_date": "2026-04-27 06:05:00+00:00",
+          "open_rate": 0.4026,
+          "closed_mark_price": 0.3806,
+          "campaign_mtm_pnl_usdt": -79.83587480000006
+        }
+      ],
+      "warning": "Open-campaign current PnL, not attribution of entire peak-to-trough equity change"
+    },
+    "correlations_at_last_entry_shanghai": "2026-04-27 14:05:00+08:00",
+    "pre_entry_correlation_matrix": {
+      "RAY/USDT:USDT": {
+        "LDO/USDT:USDT": 0.12575019308826355
+      },
+      "LDO/USDT:USDT": {
+        "RAY/USDT:USDT": 0.12575019308826355
+      }
+    },
+    "warning": "Holdings are selected ex post at worst drawdown for explanation. Correlations use only hours closed before last entry; not an entry rule fitted to this event."
+  },
+  "side_cap": {
+    "drawdown_holdings": {
+      "time_utc": "2026-09-02 11:55:00+00:00",
+      "time_shanghai": "2026-09-02 19:55:00+08:00",
+      "holdings": [
+        {
+          "pair": "ARB/USDT:USDT",
+          "side": "long",
+          "tag": "145 ",
+          "open_date": "2026-09-02 10:05:00+00:00",
+          "open_rate": 0.11228,
+          "closed_mark_price": 0.10654,
+          "campaign_mtm_pnl_usdt": -453.3682746600007
+        }
+      ],
+      "warning": "Open-campaign current PnL, not attribution of entire peak-to-trough equity change"
+    },
+    "correlations_at_last_entry_shanghai": "2026-09-02 18:05:00+08:00",
+    "pre_entry_correlation_matrix": {
+      "ARB/USDT:USDT": {}
+    },
+    "warning": "Holdings are selected ex post at worst drawdown for explanation. Correlations use only hours closed before last entry; not an entry rule fitted to this event."
+  },
+  "correlation": {
+    "drawdown_holdings": {
+      "time_utc": "2026-10-08 17:50:00+00:00",
+      "time_shanghai": "2026-10-09 01:50:00+08:00",
+      "holdings": [
+        {
+          "pair": "ARB/USDT:USDT",
+          "side": "long",
+          "tag": "141 ",
+          "open_date": "2026-10-08 15:25:00+00:00",
+          "open_rate": 0.16782,
+          "closed_mark_price": 0.16305,
+          "campaign_mtm_pnl_usdt": -368.0719953000025
+        },
+        {
+          "pair": "SUI/USDT:USDT",
+          "side": "long",
+          "tag": "141 ",
+          "open_date": "2026-10-08 15:25:00+00:00",
+          "open_rate": 1.0334,
+          "closed_mark_price": 1.0007,
+          "campaign_mtm_pnl_usdt": -409.0304438000021
+        },
+        {
+          "pair": "WLD/USDT:USDT",
+          "side": "long",
+          "tag": "141 ",
+          "open_date": "2026-10-08 15:25:00+00:00",
+          "open_rate": 0.4859,
+          "closed_mark_price": 0.4599,
+          "campaign_mtm_pnl_usdt": -687.3028605
+        },
+        {
+          "pair": "AVAX/USDT:USDT",
+          "side": "long",
+          "tag": "6 141 ",
+          "open_date": "2026-10-08 15:25:00+00:00",
+          "open_rate": 9.986,
+          "closed_mark_price": 9.786,
+          "campaign_mtm_pnl_usdt": -261.22257990000253
+        },
+        {
+          "pair": "JUP/USDT:USDT",
+          "side": "long",
+          "tag": "145 ",
+          "open_date": "2026-10-08 14:55:00+00:00",
+          "open_rate": 0.3565,
+          "closed_mark_price": 0.3304,
+          "campaign_mtm_pnl_usdt": -937.8707424999993
+        },
+        {
+          "pair": "ALGO/USDT:USDT",
+          "side": "long",
+          "tag": "143 ",
+          "open_date": "2026-10-08 13:25:00+00:00",
+          "open_rate": 0.12275,
+          "closed_mark_price": 0.11548,
+          "campaign_mtm_pnl_usdt": -760.0436462500038
+        }
+      ],
+      "warning": "Open-campaign current PnL, not attribution of entire peak-to-trough equity change"
+    },
+    "correlations_at_last_entry_shanghai": "2026-10-08 23:25:00+08:00",
+    "pre_entry_correlation_matrix": {
+      "ARB/USDT:USDT": {
+        "SUI/USDT:USDT": 0.6757043166753578,
+        "WLD/USDT:USDT": 0.6125447104454822,
+        "AVAX/USDT:USDT": 0.6877195450603856,
+        "JUP/USDT:USDT": 0.610637045635366,
+        "ALGO/USDT:USDT": 0.4240583867514943
+      },
+      "SUI/USDT:USDT": {
+        "ARB/USDT:USDT": 0.6757043166753578,
+        "WLD/USDT:USDT": 0.5187645123870015,
+        "AVAX/USDT:USDT": 0.5430497222661839,
+        "JUP/USDT:USDT": 0.501957229068834,
+        "ALGO/USDT:USDT": 0.34633829403597133
+      },
+      "WLD/USDT:USDT": {
+        "ARB/USDT:USDT": 0.6125447104454822,
+        "SUI/USDT:USDT": 0.5187645123870015,
+        "AVAX/USDT:USDT": 0.5598996638637348,
+        "JUP/USDT:USDT": 0.4617702499724032,
+        "ALGO/USDT:USDT": 0.3442053329190383
+      },
+      "AVAX/USDT:USDT": {
+        "ARB/USDT:USDT": 0.6877195450603856,
+        "SUI/USDT:USDT": 0.5430497222661839,
+        "WLD/USDT:USDT": 0.5598996638637348,
+        "JUP/USDT:USDT": 0.49766441012511103,
+        "ALGO/USDT:USDT": 0.39235979526820325
+      },
+      "JUP/USDT:USDT": {
+        "ARB/USDT:USDT": 0.610637045635366,
+        "SUI/USDT:USDT": 0.501957229068834,
+        "WLD/USDT:USDT": 0.4617702499724032,
+        "AVAX/USDT:USDT": 0.49766441012511103,
+        "ALGO/USDT:USDT": 0.2840039210469249
+      },
+      "ALGO/USDT:USDT": {
+        "ARB/USDT:USDT": 0.4240583867514943,
+        "SUI/USDT:USDT": 0.34633829403597133,
+        "WLD/USDT:USDT": 0.3442053329190383,
+        "AVAX/USDT:USDT": 0.39235979526820325,
+        "JUP/USDT:USDT": 0.2840039210469249
+      }
+    },
+    "warning": "Holdings are selected ex post at worst drawdown for explanation. Correlations use only hours closed before last entry; not an entry rule fitted to this event."
+  },
+  "shock": {
+    "drawdown_holdings": {
+      "time_utc": "2026-06-04 04:15:00+00:00",
+      "time_shanghai": "2026-06-04 12:15:00+08:00",
+      "holdings": [
+        {
+          "pair": "PYTH/USDT:USDT",
+          "side": "short",
+          "tag": "506 ",
+          "open_date": "2026-06-04 00:25:00+00:00",
+          "open_rate": 0.03692,
+          "closed_mark_price": 0.03608,
+          "campaign_mtm_pnl_usdt": 82.85230899999988
+        },
+        {
+          "pair": "ADA/USDT:USDT",
+          "side": "short",
+          "tag": "506 ",
+          "open_date": "2026-06-03 23:05:00+00:00",
+          "open_rate": 0.2008,
+          "closed_mark_price": 0.2004,
+          "campaign_mtm_pnl_usdt": 7.62482
+        },
+        {
+          "pair": "SOL/USDT:USDT",
+          "side": "short",
+          "tag": "506 ",
+          "open_date": "2026-06-04 00:30:00+00:00",
+          "open_rate": 70.46,
+          "closed_mark_price": 71.64,
+          "campaign_mtm_pnl_usdt": -89.68397400000049
+        },
+        {
+          "pair": "APT/USDT:USDT",
+          "side": "short",
+          "tag": "506 ",
+          "open_date": "2026-06-04 00:30:00+00:00",
+          "open_rate": 0.7971,
+          "closed_mark_price": 0.7938,
+          "campaign_mtm_pnl_usdt": 13.799296200000754
+        },
+        {
+          "pair": "LDO/USDT:USDT",
+          "side": "short",
+          "tag": "506 ",
+          "open_date": "2026-06-04 00:30:00+00:00",
+          "open_rate": 0.291,
+          "closed_mark_price": 0.2887,
+          "campaign_mtm_pnl_usdt": 30.568045999999413
+        },
+        {
+          "pair": "PEPE/USDT:USDT",
+          "side": "short",
+          "tag": "506 ",
+          "open_date": "2026-06-04 01:20:00+00:00",
+          "open_rate": 3.033e-06,
+          "closed_mark_price": 3.106e-06,
+          "campaign_mtm_pnl_usdt": -112.7434645000003
+        }
+      ],
+      "warning": "Open-campaign current PnL, not attribution of entire peak-to-trough equity change"
+    },
+    "correlations_at_last_entry_shanghai": "2026-06-04 09:20:00+08:00",
+    "pre_entry_correlation_matrix": {
+      "PYTH/USDT:USDT": {
+        "ADA/USDT:USDT": 0.8200881938876129,
+        "SOL/USDT:USDT": 0.8195768031843148,
+        "APT/USDT:USDT": 0.7983433004029982,
+        "LDO/USDT:USDT": 0.8209217915680889,
+        "PEPE/USDT:USDT": 0.8197537020535811
+      },
+      "ADA/USDT:USDT": {
+        "PYTH/USDT:USDT": 0.8200881938876129,
+        "SOL/USDT:USDT": 0.9075481805468816,
+        "APT/USDT:USDT": 0.8768351581083142,
+        "LDO/USDT:USDT": 0.8879194328005481,
+        "PEPE/USDT:USDT": 0.9268275103228523
+      },
+      "SOL/USDT:USDT": {
+        "PYTH/USDT:USDT": 0.8195768031843148,
+        "ADA/USDT:USDT": 0.9075481805468816,
+        "APT/USDT:USDT": 0.8681374078588725,
+        "LDO/USDT:USDT": 0.895855393763493,
+        "PEPE/USDT:USDT": 0.9385401914448452
+      },
+      "APT/USDT:USDT": {
+        "PYTH/USDT:USDT": 0.7983433004029982,
+        "ADA/USDT:USDT": 0.8768351581083142,
+        "SOL/USDT:USDT": 0.8681374078588725,
+        "LDO/USDT:USDT": 0.8611812017227549,
+        "PEPE/USDT:USDT": 0.9013820307181434
+      },
+      "LDO/USDT:USDT": {
+        "PYTH/USDT:USDT": 0.8209217915680889,
+        "ADA/USDT:USDT": 0.8879194328005481,
+        "SOL/USDT:USDT": 0.895855393763493,
+        "APT/USDT:USDT": 0.8611812017227549,
+        "PEPE/USDT:USDT": 0.9081323328263261
+      },
+      "PEPE/USDT:USDT": {
+        "PYTH/USDT:USDT": 0.8197537020535811,
+        "ADA/USDT:USDT": 0.9268275103228523,
+        "SOL/USDT:USDT": 0.9385401914448452,
+        "APT/USDT:USDT": 0.9013820307181434,
+        "LDO/USDT:USDT": 0.9081323328263261
+      }
+    },
+    "warning": "Holdings are selected ex post at worst drawdown for explanation. Correlations use only hours closed before last entry; not an entry rule fitted to this event."
+  },
+  "volatility": {
+    "drawdown_holdings": {
+      "time_utc": "2026-10-08 17:50:00+00:00",
+      "time_shanghai": "2026-10-09 01:50:00+08:00",
+      "holdings": [
+        {
+          "pair": "ARB/USDT:USDT",
+          "side": "long",
+          "tag": "141 ",
+          "open_date": "2026-10-08 15:25:00+00:00",
+          "open_rate": 0.16782,
+          "closed_mark_price": 0.16305,
+          "campaign_mtm_pnl_usdt": -183.24966423000023
+        },
+        {
+          "pair": "SUI/USDT:USDT",
+          "side": "long",
+          "tag": "141 ",
+          "open_date": "2026-10-08 15:25:00+00:00",
+          "open_rate": 1.0334,
+          "closed_mark_price": 1.0007,
+          "campaign_mtm_pnl_usdt": -203.61837100000048
+        },
+        {
+          "pair": "WLD/USDT:USDT",
+          "side": "long",
+          "tag": "141 ",
+          "open_date": "2026-10-08 15:25:00+00:00",
+          "open_rate": 0.4859,
+          "closed_mark_price": 0.4599,
+          "campaign_mtm_pnl_usdt": -342.18182505000004
+        },
+        {
+          "pair": "AVAX/USDT:USDT",
+          "side": "long",
+          "tag": "6 141 ",
+          "open_date": "2026-10-08 15:25:00+00:00",
+          "open_rate": 9.986,
+          "closed_mark_price": 9.786,
+          "campaign_mtm_pnl_usdt": -130.04755920000116
+        },
+        {
+          "pair": "JUP/USDT:USDT",
+          "side": "long",
+          "tag": "145 ",
+          "open_date": "2026-10-08 14:55:00+00:00",
+          "open_rate": 0.3565,
+          "closed_mark_price": 0.3304,
+          "campaign_mtm_pnl_usdt": -933.9290050000018
+        },
+        {
+          "pair": "ALGO/USDT:USDT",
+          "side": "long",
+          "tag": "143 ",
+          "open_date": "2026-10-08 13:25:00+00:00",
+          "open_rate": 0.12275,
+          "closed_mark_price": 0.11548,
+          "campaign_mtm_pnl_usdt": -756.817841250002
+        }
+      ],
+      "warning": "Open-campaign current PnL, not attribution of entire peak-to-trough equity change"
+    },
+    "correlations_at_last_entry_shanghai": "2026-10-08 23:25:00+08:00",
+    "pre_entry_correlation_matrix": {
+      "ARB/USDT:USDT": {
+        "SUI/USDT:USDT": 0.6757043166753578,
+        "WLD/USDT:USDT": 0.6125447104454822,
+        "AVAX/USDT:USDT": 0.6877195450603856,
+        "JUP/USDT:USDT": 0.610637045635366,
+        "ALGO/USDT:USDT": 0.4240583867514943
+      },
+      "SUI/USDT:USDT": {
+        "ARB/USDT:USDT": 0.6757043166753578,
+        "WLD/USDT:USDT": 0.5187645123870015,
+        "AVAX/USDT:USDT": 0.5430497222661839,
+        "JUP/USDT:USDT": 0.501957229068834,
+        "ALGO/USDT:USDT": 0.34633829403597133
+      },
+      "WLD/USDT:USDT": {
+        "ARB/USDT:USDT": 0.6125447104454822,
+        "SUI/USDT:USDT": 0.5187645123870015,
+        "AVAX/USDT:USDT": 0.5598996638637348,
+        "JUP/USDT:USDT": 0.4617702499724032,
+        "ALGO/USDT:USDT": 0.3442053329190383
+      },
+      "AVAX/USDT:USDT": {
+        "ARB/USDT:USDT": 0.6877195450603856,
+        "SUI/USDT:USDT": 0.5430497222661839,
+        "WLD/USDT:USDT": 0.5598996638637348,
+        "JUP/USDT:USDT": 0.49766441012511103,
+        "ALGO/USDT:USDT": 0.39235979526820325
+      },
+      "JUP/USDT:USDT": {
+        "ARB/USDT:USDT": 0.610637045635366,
+        "SUI/USDT:USDT": 0.501957229068834,
+        "WLD/USDT:USDT": 0.4617702499724032,
+        "AVAX/USDT:USDT": 0.49766441012511103,
+        "ALGO/USDT:USDT": 0.2840039210469249
+      },
+      "ALGO/USDT:USDT": {
+        "ARB/USDT:USDT": 0.4240583867514943,
+        "SUI/USDT:USDT": 0.34633829403597133,
+        "WLD/USDT:USDT": 0.3442053329190383,
+        "AVAX/USDT:USDT": 0.39235979526820325,
+        "JUP/USDT:USDT": 0.2840039210469249
+      }
+    },
+    "warning": "Holdings are selected ex post at worst drawdown for explanation. Correlations use only hours closed before last entry; not an entry rule fitted to this event."
+  },
+  "shock_corr": {
+    "drawdown_holdings": {
+      "time_utc": "2026-04-27 08:40:00+00:00",
+      "time_shanghai": "2026-04-27 16:40:00+08:00",
+      "holdings": [
+        {
+          "pair": "RAY/USDT:USDT",
+          "side": "long",
+          "tag": "64 ",
+          "open_date": "2026-04-26 11:20:00+00:00",
+          "open_rate": 0.7663,
+          "closed_mark_price": 0.7041,
+          "campaign_mtm_pnl_usdt": -139.31009190000032
+        },
+        {
+          "pair": "LDO/USDT:USDT",
+          "side": "long",
+          "tag": "142 143 ",
+          "open_date": "2026-04-27 06:25:00+00:00",
+          "open_rate": 0.3904,
+          "closed_mark_price": 0.3806,
+          "campaign_mtm_pnl_usdt": -174.7360864000002
+        }
+      ],
+      "warning": "Open-campaign current PnL, not attribution of entire peak-to-trough equity change"
+    },
+    "correlations_at_last_entry_shanghai": "2026-04-27 14:25:00+08:00",
+    "pre_entry_correlation_matrix": {
+      "RAY/USDT:USDT": {
+        "LDO/USDT:USDT": 0.12575019308826355
+      },
+      "LDO/USDT:USDT": {
+        "RAY/USDT:USDT": 0.12575019308826355
+      }
+    },
+    "warning": "Holdings are selected ex post at worst drawdown for explanation. Correlations use only hours closed before last entry; not an entry rule fitted to this event."
+  },
+  "atr_corr": {
+    "drawdown_holdings": {
+      "time_utc": "2026-04-27 08:40:00+00:00",
+      "time_shanghai": "2026-04-27 16:40:00+08:00",
+      "holdings": [
+        {
+          "pair": "RAY/USDT:USDT",
+          "side": "long",
+          "tag": "64 ",
+          "open_date": "2026-04-26 11:20:00+00:00",
+          "open_rate": 0.7663,
+          "closed_mark_price": 0.7041,
+          "campaign_mtm_pnl_usdt": -120.72289635000038
+        },
+        {
+          "pair": "LDO/USDT:USDT",
+          "side": "long",
+          "tag": "141 ",
+          "open_date": "2026-04-27 06:05:00+00:00",
+          "open_rate": 0.4026,
+          "closed_mark_price": 0.3806,
+          "campaign_mtm_pnl_usdt": -81.52317360000006
+        }
+      ],
+      "warning": "Open-campaign current PnL, not attribution of entire peak-to-trough equity change"
+    },
+    "correlations_at_last_entry_shanghai": "2026-04-27 14:05:00+08:00",
+    "pre_entry_correlation_matrix": {
+      "RAY/USDT:USDT": {
+        "LDO/USDT:USDT": 0.12575019308826355
+      },
+      "LDO/USDT:USDT": {
+        "RAY/USDT:USDT": 0.12575019308826355
+      }
+    },
+    "warning": "Holdings are selected ex post at worst drawdown for explanation. Correlations use only hours closed before last entry; not an entry rule fitted to this event."
+  }
+}

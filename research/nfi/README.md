@@ -118,3 +118,7 @@ python nfi_verify.py
 ## 小周期相对BTC强弱（2026-10-29）
 
 使用已收盘5m滚动计算15m/1h/4h强弱，测试多空分方向过滤和Beta残差，不增加初始仓位。方案见[fast_rs/plan.json](fast_rs/plan.json)，报告见[fast_rs研究](../../results/nfi/fast_rs/REPORT.md)，入口`python nfi_fast_rs.py`。
+
+## 组合稳健性与风险管理（2026-10-29）
+
+比较ATR多头风控、组合计划风险、BTC冲击/波动及相关性上限，并保留简单减仓/限仓对照。入口`python nfi_portfolio.py`，规则见[portfolio_risk/plan.json](portfolio_risk/plan.json)，报告见[组合风险研究](../../results/nfi/portfolio_risk/REPORT.md)。无实盘服务。

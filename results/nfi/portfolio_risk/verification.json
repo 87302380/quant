@@ -1,0 +1,214 @@
+{
+  "status": "passed",
+  "engine_replays": 29,
+  "unit_tests": 123,
+  "control_matches_prior_exactly": true,
+  "planned_risk_audit_verified": true,
+  "independent_oos": false,
+  "funding_excluded": true,
+  "records": {
+    "atr_corr": {
+      "archive_sha256": "639604ed9921d2d6f4c95f7d8fc0fdc8e6c5d942c8f61a3938b5f3e7f7fadf7f",
+      "campaigns": 274,
+      "qualified": true,
+      "fee": 0.0005,
+      "source_hash_matches_execution": true
+    },
+    "atr_corr_fee10": {
+      "archive_sha256": "d16de1b51d8ad4640da430a3974f867013f59a7a2ca8646ca995d516bc054e51",
+      "campaigns": 274,
+      "qualified": true,
+      "fee": 0.001,
+      "source_hash_matches_execution": true
+    },
+    "atr_corr_july": {
+      "archive_sha256": "09aad6dde39ade30a51af639e7460f2ebb4e0bbb3daf69f71e8edcad19dba3d5",
+      "campaigns": 81,
+      "qualified": true,
+      "fee": 0.0005,
+      "source_hash_matches_execution": true
+    },
+    "control": {
+      "archive_sha256": "537f391bd98346ba46927bfcae825ef1ff99c3ab10402e64a1bb075748c53168",
+      "campaigns": 302,
+      "qualified": true,
+      "fee": 0.0005,
+      "source_hash_matches_execution": true
+    },
+    "cooldown": {
+      "archive_sha256": "296676ae35fe500271d41e57eabbf03939ae3763a6109e93635dfe34dc5123f0",
+      "campaigns": 284,
+      "qualified": true,
+      "fee": 0.0005,
+      "source_hash_matches_execution": true
+    },
+    "correlation": {
+      "archive_sha256": "3c29c395a0b49af4aa60dccaa0cc6cac21f62a53165fe9b4cdcf2b59de4555db",
+      "campaigns": 268,
+      "qualified": true,
+      "fee": 0.0005,
+      "source_hash_matches_execution": true
+    },
+    "correlation_fee10": {
+      "archive_sha256": "54c90af3eba9d3027ef9f1291c07deaceb53282def71310773d05750c65eb4c0",
+      "campaigns": 268,
+      "qualified": true,
+      "fee": 0.001,
+      "source_hash_matches_execution": true
+    },
+    "half_all": {
+      "archive_sha256": "697d7eff0fa6568b7b88ad20903ab8fd6f7a3c5a3e283bc513ecbe44c8920da3",
+      "campaigns": 302,
+      "qualified": true,
+      "fee": 0.0005,
+      "source_hash_matches_execution": true
+    },
+    "half_all_fee10": {
+      "archive_sha256": "9d3f75451a91642cbfedc941738c712b61763bcef6db10b5eb26d1e0f41e18af",
+      "campaigns": 302,
+      "qualified": true,
+      "fee": 0.001,
+      "source_hash_matches_execution": true
+    },
+    "half_all_july": {
+      "archive_sha256": "25d2a51adb140cd21fb95c5143d0e87fdc653892febc70c74a23612083ab9410",
+      "campaigns": 80,
+      "qualified": true,
+      "fee": 0.0005,
+      "source_hash_matches_execution": true
+    },
+    "half_long": {
+      "archive_sha256": "84819bf8c3edb4dbc790b4594a219522c6b635e171a363c72c5600f0d68111b9",
+      "campaigns": 302,
+      "qualified": true,
+      "fee": 0.0005,
+      "source_hash_matches_execution": true
+    },
+    "half_long_fee10": {
+      "archive_sha256": "3af9121e7bc52972e9130e6ea5908e9aa281a877afcce82e2c0735c8b88fa497",
+      "campaigns": 302,
+      "qualified": true,
+      "fee": 0.001,
+      "source_hash_matches_execution": true
+    },
+    "half_long_july": {
+      "archive_sha256": "599bea691bc113d90557dd8314d3b88889056961ca6ab1f893d093c3fe77c7f6",
+      "campaigns": 80,
+      "qualified": true,
+      "fee": 0.0005,
+      "source_hash_matches_execution": true
+    },
+    "long_atr": {
+      "archive_sha256": "1c717ded0f52a7692489034b872c0714d89f0acacab73a52a598c42531b35eec",
+      "campaigns": 304,
+      "qualified": true,
+      "fee": 0.0005,
+      "source_hash_matches_execution": true
+    },
+    "long_budget": {
+      "archive_sha256": "afd1da94fd932c04b5f0f91466be74b614894125a188553377938ddf641d3bd3",
+      "campaigns": 302,
+      "qualified": true,
+      "fee": 0.0005,
+      "source_hash_matches_execution": true
+    },
+    "long_stop": {
+      "archive_sha256": "4a09563f64f7aeec317589b026fc883b332aeae459f0c99809c6ae8f7b09f6f8",
+      "campaigns": 304,
+      "qualified": true,
+      "fee": 0.0005,
+      "source_hash_matches_execution": true
+    },
+    "portfolio": {
+      "archive_sha256": "7b1399f8adf7066ee6c52c5f229d2c47e47a1707cd3bf9f6d48f777f2de5e5a7",
+      "campaigns": 286,
+      "qualified": true,
+      "fee": 0.0005,
+      "source_hash_matches_execution": true
+    },
+    "portfolio_fee10": {
+      "archive_sha256": "63c8ee1567a0dd828857b5b1bd0675188acf0cb3b629a118b73357ba9bfaaad6",
+      "campaigns": 283,
+      "qualified": true,
+      "fee": 0.001,
+      "source_hash_matches_execution": true
+    },
+    "portfolio_july": {
+      "archive_sha256": "9f05bd1512d4d7ffd4ac840b25070c3c7885127775221a26f41d8a8fca319483",
+      "campaigns": 81,
+      "qualified": true,
+      "fee": 0.0005,
+      "source_hash_matches_execution": true
+    },
+    "shock": {
+      "archive_sha256": "f59b0074429dea00279c391afbb4b5e56989fbff045391d1e8c7240f2a938129",
+      "campaigns": 286,
+      "qualified": true,
+      "fee": 0.0005,
+      "source_hash_matches_execution": true
+    },
+    "shock_corr": {
+      "archive_sha256": "17a9c1c59d9cea8954e8a8c0225b419e25a30881631df311a3408d5f4a7aa383",
+      "campaigns": 253,
+      "qualified": true,
+      "fee": 0.0005,
+      "source_hash_matches_execution": true
+    },
+    "shock_corr_fee10": {
+      "archive_sha256": "38f40b2e7f8323beb90a35c1c2108bf90199dc3918dd07f78de03fea4c6826f5",
+      "campaigns": 253,
+      "qualified": true,
+      "fee": 0.001,
+      "source_hash_matches_execution": true
+    },
+    "shock_corr_july": {
+      "archive_sha256": "e5cd4c9923c576b7d02fd1e362c4a8de70c6a4294fa709d5d0efead0dd9b7ef9",
+      "campaigns": 71,
+      "qualified": true,
+      "fee": 0.0005,
+      "source_hash_matches_execution": true
+    },
+    "shock_fee10": {
+      "archive_sha256": "225522d1c917cab6dbeba0e08a4ad16ce20529e02f61ec891f74d91f4c6416c8",
+      "campaigns": 286,
+      "qualified": true,
+      "fee": 0.001,
+      "source_hash_matches_execution": true
+    },
+    "shock_july": {
+      "archive_sha256": "2ee7d87b2fd821f36a057996f647287190f1182ec75bd16e3177cc3b8a8a7477",
+      "campaigns": 72,
+      "qualified": true,
+      "fee": 0.0005,
+      "source_hash_matches_execution": true
+    },
+    "side_cap": {
+      "archive_sha256": "06015f25ad5f8139e0747fad6eb4b5179cfedd50f237e4378b29309196b0a3c3",
+      "campaigns": 219,
+      "qualified": true,
+      "fee": 0.0005,
+      "source_hash_matches_execution": true
+    },
+    "side_cap_fee10": {
+      "archive_sha256": "ba965f1ddcf2d1b66cef8225a6e42dcecaf9540da9e7a611fb8c91fa2c482c7c",
+      "campaigns": 218,
+      "qualified": true,
+      "fee": 0.001,
+      "source_hash_matches_execution": true
+    },
+    "side_cap_july": {
+      "archive_sha256": "ff4c9d70547165aec500c27779722fb6b89feb04a588626e806def948a1e83c6",
+      "campaigns": 69,
+      "qualified": true,
+      "fee": 0.0005,
+      "source_hash_matches_execution": true
+    },
+    "volatility": {
+      "archive_sha256": "b5e5c0b1e014c1e2566c83f7228d7f33fdd21cede609be996b616addd696d7ec",
+      "campaigns": 302,
+      "qualified": true,
+      "fee": 0.0005,
+      "source_hash_matches_execution": true
+    }
+  }
+}

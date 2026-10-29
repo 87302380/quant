@@ -1,0 +1,45 @@
+{
+  "fixed": {
+    "universe": 57,
+    "wallet": 10000,
+    "leverage": 3,
+    "slots": 6,
+    "no_adds": true,
+    "deadline_hours": 24,
+    "fee": 0.0005,
+    "funding": 0,
+    "base": "NFIShortATRGated, old long native exits; short 2x1hATR/2R,1% cap and BTC4h bear gate"
+  },
+  "variants": {
+    "control": "feature pipeline only, must match239.2557402616% and exact prior trades",
+    "half_long": "uniform .5 long initial margin, shorts unchanged",
+    "long_budget": "1% fee-aware long sizing using hypothetical 2x1hATR stop but no actual long hard stop",
+    "long_stop": "2x closed1hATR long hard stop (min1% price), original stake ceilings and native profit exits",
+    "long_atr": "long_stop plus 1% planned risk cap",
+    "portfolio": "long_atr plus aggregate remaining-position entry-anchor planned stop loss <=3% wallet at new-entry checks; sum both sides without hedge offsets",
+    "cooldown": "portfolio plus same-pair long-stop cooldown1h and >=2 long stops anywhere in past1h block new longs for remainder of1h",
+    "shock": "block new longs if BTC last15m log return <-1.5x closed1hATR/price within past1h; existing trades unchanged",
+    "volatility": "half new long margin only when BTC1h return negative and BTC1h realized volatility >2x previous7d median excluding latest1h",
+    "correlation": "reject entry if >=2 existing same-side trades have >=.75 correlation over last7d closed1h returns; >=120 observations otherwise conservative correlation1",
+    "side_cap": "reject third same-side position independent of correlation"
+  },
+  "risk_definitions": [
+    "No initial margin increases",
+    "1% individual and3% aggregate are entry-time planned risks, not guaranteed realized loss limits",
+    "Partial reductions lower remaining exposure; realized partial profits do not offset remaining risk",
+    "Unknown open/pending risk blocks new portfolio allocations; only actual open pending Trades reserve budget",
+    "No forced mid-campaign reset of portfolio limit following wallet losses",
+    "Correlation is an entry neighborhood rule, not a transitive cluster guarantee",
+    "All data previously inspected; not OOS"
+  ],
+  "validation": [
+    "half_long",
+    "long_atr",
+    "portfolio",
+    "correlation"
+  ],
+  "validation_replays": [
+    "full-period fee10",
+    "fresh July same wallet"
+  ]
+}

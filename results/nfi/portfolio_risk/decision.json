@@ -1,0 +1,15 @@
+{
+  "strategy_auto_replaced": false,
+  "services_started": false,
+  "primary_finding": "No tested indicator combination is a universal robustness upgrade; uniform exposure reduction is the clearest broad risk reduction, with large return sacrifice.",
+  "fixed_risk_architecture": "Individual1% / aggregate3% are mechanically audited entry-time planned-loss limits, not guaranteed actual loss or drawdown caps.",
+  "profiles": [
+    "half_all: simplest lower-exposure reference",
+    "side_cap: hard same-direction concentration reference",
+    "shock: moderate peak-drawdown tradeoff, worse Ulcer; auxiliary risk-state research only",
+    "portfolio: explicit planned-stop-budget architecture with significant historical performance cost"
+  ],
+  "independent_oos": false,
+  "funding_excluded": true,
+  "next_research": "Explicit gross exposure and cumulative-loss limits, then entry logic compatible with strict stops; do not widen stops or tune thresholds to known loss events."
+}

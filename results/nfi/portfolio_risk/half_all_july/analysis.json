@@ -1,0 +1,741 @@
+{
+  "archive": "results/nfi/portfolio_risk/half_all_july/backtest-result-2026-10-29_13-39-07.zip",
+  "archive_sha256": "25d2a51adb140cd21fb95c5143d0e87fdc653892febc70c74a23612083ab9410",
+  "campaigns": 80,
+  "pairs_configured": 57,
+  "profit_usdt": 1423.36249022,
+  "return_pct": 14.233624902199999,
+  "win_rate_pct": 67.5,
+  "closed_trade_drawdown_pct": 2.5289176856133815,
+  "forced_end_campaigns": 0,
+  "forced_end_profit_usdt": 0,
+  "max_holding_hours": 24.0,
+  "campaigns_with_adds": 0,
+  "max_entries_in_campaign": 1,
+  "campaigns_with_partial_exits": 0,
+  "by_pair": {
+    "ARB/USDT:USDT": {
+      "campaigns": 3,
+      "profit_usdt": 284.36629895,
+      "win_rate_pct": 100.0,
+      "max_hours": 12.333333333333334
+    },
+    "WLD/USDT:USDT": {
+      "campaigns": 5,
+      "profit_usdt": 227.36375950000001,
+      "win_rate_pct": 100.0,
+      "max_hours": 19.25
+    },
+    "ICP/USDT:USDT": {
+      "campaigns": 1,
+      "profit_usdt": 171.66979497,
+      "win_rate_pct": 100.0,
+      "max_hours": 24.0
+    },
+    "SAND/USDT:USDT": {
+      "campaigns": 5,
+      "profit_usdt": 138.7939547,
+      "win_rate_pct": 80.0,
+      "max_hours": 14.5
+    },
+    "STRK/USDT:USDT": {
+      "campaigns": 1,
+      "profit_usdt": 118.5643464,
+      "win_rate_pct": 100.0,
+      "max_hours": 5.916666666666667
+    },
+    "BAT/USDT:USDT": {
+      "campaigns": 3,
+      "profit_usdt": 106.22305775,
+      "win_rate_pct": 100.0,
+      "max_hours": 24.0
+    },
+    "ORDI/USDT:USDT": {
+      "campaigns": 1,
+      "profit_usdt": 106.10605915,
+      "win_rate_pct": 100.0,
+      "max_hours": 13.333333333333334
+    },
+    "SUI/USDT:USDT": {
+      "campaigns": 2,
+      "profit_usdt": 97.93563895,
+      "win_rate_pct": 100.0,
+      "max_hours": 14.166666666666666
+    },
+    "W/USDT:USDT": {
+      "campaigns": 2,
+      "profit_usdt": 89.95777570000001,
+      "win_rate_pct": 50.0,
+      "max_hours": 24.0
+    },
+    "ETH/USDT:USDT": {
+      "campaigns": 1,
+      "profit_usdt": 78.0583284,
+      "win_rate_pct": 100.0,
+      "max_hours": 7.5
+    },
+    "RAY/USDT:USDT": {
+      "campaigns": 3,
+      "profit_usdt": 69.1352774,
+      "win_rate_pct": 100.0,
+      "max_hours": 3.6666666666666665
+    },
+    "OP/USDT:USDT": {
+      "campaigns": 4,
+      "profit_usdt": 67.14302175,
+      "win_rate_pct": 75.0,
+      "max_hours": 24.0
+    },
+    "ETHW/USDT:USDT": {
+      "campaigns": 2,
+      "profit_usdt": 65.24554858,
+      "win_rate_pct": 50.0,
+      "max_hours": 24.0
+    },
+    "ZK/USDT:USDT": {
+      "campaigns": 2,
+      "profit_usdt": 55.496094389999996,
+      "win_rate_pct": 100.0,
+      "max_hours": 14.333333333333334
+    },
+    "APT/USDT:USDT": {
+      "campaigns": 4,
+      "profit_usdt": 55.42856365,
+      "win_rate_pct": 75.0,
+      "max_hours": 24.0
+    },
+    "AVAX/USDT:USDT": {
+      "campaigns": 2,
+      "profit_usdt": 53.6294967,
+      "win_rate_pct": 50.0,
+      "max_hours": 19.333333333333332
+    },
+    "LDO/USDT:USDT": {
+      "campaigns": 1,
+      "profit_usdt": 50.71331925,
+      "win_rate_pct": 100.0,
+      "max_hours": 1.9166666666666667
+    },
+    "XLM/USDT:USDT": {
+      "campaigns": 2,
+      "profit_usdt": 37.0628811,
+      "win_rate_pct": 100.0,
+      "max_hours": 15.5
+    },
+    "JUP/USDT:USDT": {
+      "campaigns": 2,
+      "profit_usdt": 35.702466,
+      "win_rate_pct": 100.0,
+      "max_hours": 24.0
+    },
+    "JTO/USDT:USDT": {
+      "campaigns": 1,
+      "profit_usdt": 30.0600259,
+      "win_rate_pct": 100.0,
+      "max_hours": 24.0
+    },
+    "DOT/USDT:USDT": {
+      "campaigns": 1,
+      "profit_usdt": 27.93544635,
+      "win_rate_pct": 100.0,
+      "max_hours": 0.25
+    },
+    "PYTH/USDT:USDT": {
+      "campaigns": 3,
+      "profit_usdt": 20.532294299999993,
+      "win_rate_pct": 66.66666666666667,
+      "max_hours": 16.0
+    },
+    "BOME/USDT:USDT": {
+      "campaigns": 2,
+      "profit_usdt": 18.3758446,
+      "win_rate_pct": 100.0,
+      "max_hours": 7.583333333333333
+    },
+    "TIA/USDT:USDT": {
+      "campaigns": 1,
+      "profit_usdt": 10.1766315,
+      "win_rate_pct": 100.0,
+      "max_hours": 2.9166666666666665
+    },
+    "BCH/USDT:USDT": {
+      "campaigns": 1,
+      "profit_usdt": -1.4058055,
+      "win_rate_pct": 0.0,
+      "max_hours": 24.0
+    },
+    "ALGO/USDT:USDT": {
+      "campaigns": 2,
+      "profit_usdt": -3.667203349999994,
+      "win_rate_pct": 50.0,
+      "max_hours": 24.0
+    },
+    "BNB/USDT:USDT": {
+      "campaigns": 1,
+      "profit_usdt": -4.621552,
+      "win_rate_pct": 0.0,
+      "max_hours": 24.0
+    },
+    "LTC/USDT:USDT": {
+      "campaigns": 1,
+      "profit_usdt": -9.38991,
+      "win_rate_pct": 0.0,
+      "max_hours": 23.833333333333332
+    },
+    "SOL/USDT:USDT": {
+      "campaigns": 1,
+      "profit_usdt": -10.2768876,
+      "win_rate_pct": 0.0,
+      "max_hours": 15.916666666666666
+    },
+    "FIL/USDT:USDT": {
+      "campaigns": 1,
+      "profit_usdt": -19.92145157,
+      "win_rate_pct": 0.0,
+      "max_hours": 24.0
+    },
+    "ONDO/USDT:USDT": {
+      "campaigns": 3,
+      "profit_usdt": -39.62769350000001,
+      "win_rate_pct": 66.66666666666667,
+      "max_hours": 14.666666666666666
+    },
+    "DOGE/USDT:USDT": {
+      "campaigns": 1,
+      "profit_usdt": -40.9258599,
+      "win_rate_pct": 0.0,
+      "max_hours": 13.75
+    },
+    "AR/USDT:USDT": {
+      "campaigns": 5,
+      "profit_usdt": -42.637394349999994,
+      "win_rate_pct": 40.0,
+      "max_hours": 24.0
+    },
+    "ZRO/USDT:USDT": {
+      "campaigns": 1,
+      "profit_usdt": -48.7199141,
+      "win_rate_pct": 0.0,
+      "max_hours": 10.583333333333334
+    },
+    "ETHFI/USDT:USDT": {
+      "campaigns": 2,
+      "profit_usdt": -52.6309175,
+      "win_rate_pct": 50.0,
+      "max_hours": 7.083333333333333
+    },
+    "IOST/USDT:USDT": {
+      "campaigns": 1,
+      "profit_usdt": -56.660693,
+      "win_rate_pct": 0.0,
+      "max_hours": 0.5
+    },
+    "CRV/USDT:USDT": {
+      "campaigns": 2,
+      "profit_usdt": -65.61388695,
+      "win_rate_pct": 0.0,
+      "max_hours": 6.416666666666667
+    },
+    "MEW/USDT:USDT": {
+      "campaigns": 2,
+      "profit_usdt": -91.19509435,
+      "win_rate_pct": 0.0,
+      "max_hours": 11.416666666666666
+    },
+    "XRP/USDT:USDT": {
+      "campaigns": 2,
+      "profit_usdt": -105.01917205,
+      "win_rate_pct": 50.0,
+      "max_hours": 24.0
+    }
+  },
+  "by_direction": {
+    "long": {
+      "campaigns": 45,
+      "profit_usdt": 1216.41864972,
+      "win_rate_pct": 84.44444444444444,
+      "max_hours": 24.0
+    },
+    "short": {
+      "campaigns": 35,
+      "profit_usdt": 206.94384050000002,
+      "win_rate_pct": 45.714285714285715,
+      "max_hours": 24.0
+    }
+  },
+  "by_family": {
+    "long_top_coins": {
+      "campaigns": 20,
+      "profit_usdt": 476.64847056,
+      "win_rate_pct": 75.0,
+      "max_hours": 24.0
+    },
+    "long_normal": {
+      "campaigns": 3,
+      "profit_usdt": 279.25682964000003,
+      "win_rate_pct": 100.0,
+      "max_hours": 13.166666666666666
+    },
+    "long_rebuy": {
+      "campaigns": 16,
+      "profit_usdt": 193.73851357,
+      "win_rate_pct": 87.5,
+      "max_hours": 24.0
+    },
+    "short_normal": {
+      "campaigns": 16,
+      "profit_usdt": 114.94713835000002,
+      "win_rate_pct": 43.75,
+      "max_hours": 24.0
+    },
+    "long_normal+long_top_coins": {
+      "campaigns": 1,
+      "profit_usdt": 86.05183785,
+      "win_rate_pct": 100.0,
+      "max_hours": 19.333333333333332
+    },
+    "short_quick": {
+      "campaigns": 13,
+      "profit_usdt": 75.10245665,
+      "win_rate_pct": 46.15384615384615,
+      "max_hours": 24.0
+    },
+    "long_rapid": {
+      "campaigns": 2,
+      "profit_usdt": 70.40251165,
+      "win_rate_pct": 100.0,
+      "max_hours": 1.3333333333333333
+    },
+    "long_scalp": {
+      "campaigns": 2,
+      "profit_usdt": 63.30513625,
+      "win_rate_pct": 100.0,
+      "max_hours": 2.0
+    },
+    "long_pump+long_top_coins": {
+      "campaigns": 1,
+      "profit_usdt": 47.0153502,
+      "win_rate_pct": 100.0,
+      "max_hours": 2.0
+    },
+    "short_rebuy": {
+      "campaigns": 6,
+      "profit_usdt": 16.894245499999997,
+      "win_rate_pct": 50.0,
+      "max_hours": 23.833333333333332
+    }
+  },
+  "by_exact_tag": {
+    "141": {
+      "campaigns": 6,
+      "profit_usdt": 386.36953445,
+      "win_rate_pct": 83.33333333333333,
+      "max_hours": 24.0
+    },
+    "548": {
+      "campaigns": 7,
+      "profit_usdt": 212.5277432,
+      "win_rate_pct": 71.42857142857143,
+      "max_hours": 24.0
+    },
+    "145": {
+      "campaigns": 5,
+      "profit_usdt": 199.37310506,
+      "win_rate_pct": 100.0,
+      "max_hours": 24.0
+    },
+    "142": {
+      "campaigns": 2,
+      "profit_usdt": 174.88876597,
+      "win_rate_pct": 100.0,
+      "max_hours": 24.0
+    },
+    "2": {
+      "campaigns": 2,
+      "profit_usdt": 160.69248324,
+      "win_rate_pct": 100.0,
+      "max_hours": 13.166666666666666
+    },
+    "64": {
+      "campaigns": 13,
+      "profit_usdt": 127.78309468,
+      "win_rate_pct": 84.61538461538461,
+      "max_hours": 24.0
+    },
+    "6": {
+      "campaigns": 1,
+      "profit_usdt": 118.5643464,
+      "win_rate_pct": 100.0,
+      "max_hours": 5.916666666666667
+    },
+    "506": {
+      "campaigns": 11,
+      "profit_usdt": 90.9468846,
+      "win_rate_pct": 45.45454545454545,
+      "max_hours": 24.0
+    },
+    "6 141": {
+      "campaigns": 1,
+      "profit_usdt": 86.05183785,
+      "win_rate_pct": 100.0,
+      "max_hours": 19.333333333333332
+    },
+    "102": {
+      "campaigns": 1,
+      "profit_usdt": 67.31085825,
+      "win_rate_pct": 100.0,
+      "max_hours": 1.3333333333333333
+    },
+    "141 142": {
+      "campaigns": 3,
+      "profit_usdt": 66.99010885,
+      "win_rate_pct": 100.0,
+      "max_hours": 2.9166666666666665
+    },
+    "65": {
+      "campaigns": 3,
+      "profit_usdt": 65.95541889,
+      "win_rate_pct": 100.0,
+      "max_hours": 14.333333333333334
+    },
+    "161": {
+      "campaigns": 1,
+      "profit_usdt": 50.71331925,
+      "win_rate_pct": 100.0,
+      "max_hours": 1.9166666666666667
+    },
+    "21 141 142": {
+      "campaigns": 1,
+      "profit_usdt": 47.0153502,
+      "win_rate_pct": 100.0,
+      "max_hours": 2.0
+    },
+    "544": {
+      "campaigns": 2,
+      "profit_usdt": 26.656481149999998,
+      "win_rate_pct": 50.0,
+      "max_hours": 24.0
+    },
+    "505": {
+      "campaigns": 5,
+      "profit_usdt": 24.000253750000006,
+      "win_rate_pct": 40.0,
+      "max_hours": 14.5
+    },
+    "562": {
+      "campaigns": 6,
+      "profit_usdt": 16.894245499999997,
+      "win_rate_pct": 50.0,
+      "max_hours": 23.833333333333332
+    },
+    "163": {
+      "campaigns": 1,
+      "profit_usdt": 12.591817,
+      "win_rate_pct": 100.0,
+      "max_hours": 2.0
+    },
+    "101": {
+      "campaigns": 1,
+      "profit_usdt": 3.0916534,
+      "win_rate_pct": 100.0,
+      "max_hours": 1.0
+    },
+    "546": {
+      "campaigns": 1,
+      "profit_usdt": -56.660693,
+      "win_rate_pct": 0.0,
+      "max_hours": 0.5
+    },
+    "543": {
+      "campaigns": 3,
+      "profit_usdt": -107.42107469999999,
+      "win_rate_pct": 0.0,
+      "max_hours": 24.0
+    },
+    "143": {
+      "campaigns": 2,
+      "profit_usdt": -141.24784381999999,
+      "win_rate_pct": 0.0,
+      "max_hours": 24.0
+    },
+    "144": {
+      "campaigns": 2,
+      "profit_usdt": -209.72519995,
+      "win_rate_pct": 0.0,
+      "max_hours": 24.0
+    }
+  },
+  "by_exit": {
+    "research_short_target": {
+      "campaigns": 11,
+      "profit_usdt": 787.774862,
+      "win_rate_pct": 100.0,
+      "max_hours": 18.0
+    },
+    "exit_long_normal_d_4_1": {
+      "campaigns": 2,
+      "profit_usdt": 251.71970544,
+      "win_rate_pct": 100.0,
+      "max_hours": 13.166666666666666
+    },
+    "exit_long_tc_d_5_1": {
+      "campaigns": 1,
+      "profit_usdt": 135.05438903,
+      "win_rate_pct": 100.0,
+      "max_hours": 12.333333333333334
+    },
+    "exit_long_tc_d_3_2": {
+      "campaigns": 1,
+      "profit_usdt": 107.7722802,
+      "win_rate_pct": 100.0,
+      "max_hours": 6.75
+    },
+    "exit_long_tc_d_3_1": {
+      "campaigns": 1,
+      "profit_usdt": 95.31622455,
+      "win_rate_pct": 100.0,
+      "max_hours": 14.166666666666666
+    },
+    "exit_long_rebuy_d_6_1": {
+      "campaigns": 2,
+      "profit_usdt": 91.69780835,
+      "win_rate_pct": 100.0,
+      "max_hours": 2.5
+    },
+    "exit_long_normal_u_3": {
+      "campaigns": 1,
+      "profit_usdt": 86.05183785,
+      "win_rate_pct": 100.0,
+      "max_hours": 19.333333333333332
+    },
+    "exit_long_tc_u_1": {
+      "campaigns": 3,
+      "profit_usdt": 84.63939454999999,
+      "win_rate_pct": 100.0,
+      "max_hours": 19.25
+    },
+    "exit_long_rebuy_2_1_1": {
+      "campaigns": 1,
+      "profit_usdt": 75.0607418,
+      "win_rate_pct": 100.0,
+      "max_hours": 4.083333333333333
+    },
+    "exit_profit_long_tc_t_2_1_m": {
+      "campaigns": 1,
+      "profit_usdt": 74.25116812,
+      "win_rate_pct": 100.0,
+      "max_hours": 6.083333333333333
+    },
+    "exit_long_rapid_rpd_2": {
+      "campaigns": 1,
+      "profit_usdt": 67.31085825,
+      "win_rate_pct": 100.0,
+      "max_hours": 1.3333333333333333
+    },
+    "exit_long_rebuy_d_4_1": {
+      "campaigns": 2,
+      "profit_usdt": 66.043624,
+      "win_rate_pct": 100.0,
+      "max_hours": 3.6666666666666665
+    },
+    "exit_profit_long_tc_t_0_1_m": {
+      "campaigns": 5,
+      "profit_usdt": 59.78386791,
+      "win_rate_pct": 100.0,
+      "max_hours": 20.0
+    },
+    "exit_profit_long_scalp_t_2_1_m": {
+      "campaigns": 1,
+      "profit_usdt": 50.71331925,
+      "win_rate_pct": 100.0,
+      "max_hours": 1.9166666666666667
+    },
+    "exit_profit_long_pump_t_1_1_m": {
+      "campaigns": 1,
+      "profit_usdt": 47.0153502,
+      "win_rate_pct": 100.0,
+      "max_hours": 2.0
+    },
+    "exit_profit_long_tc_t_1_1_m": {
+      "campaigns": 1,
+      "profit_usdt": 35.3504069,
+      "win_rate_pct": 100.0,
+      "max_hours": 5.666666666666667
+    },
+    "exit_long_normal_u_1": {
+      "campaigns": 1,
+      "profit_usdt": 27.5371242,
+      "win_rate_pct": 100.0,
+      "max_hours": 0.16666666666666666
+    },
+    "exit_profit_long_rebuy_t_0_1_m": {
+      "campaigns": 6,
+      "profit_usdt": 23.8303579,
+      "win_rate_pct": 100.0,
+      "max_hours": 8.5
+    },
+    "exit_long_rebuy_e_r": {
+      "campaigns": 2,
+      "profit_usdt": 19.98919119,
+      "win_rate_pct": 100.0,
+      "max_hours": 14.333333333333334
+    },
+    "exit_profit_long_scalp_t_0_1_m": {
+      "campaigns": 1,
+      "profit_usdt": 12.591817,
+      "win_rate_pct": 100.0,
+      "max_hours": 2.0
+    },
+    "exit_profit_long_rapid_t_0_1_m": {
+      "campaigns": 1,
+      "profit_usdt": 3.0916534,
+      "win_rate_pct": 100.0,
+      "max_hours": 1.0
+    },
+    "research_time_limit_24h": {
+      "campaigns": 18,
+      "profit_usdt": -113.47354691999999,
+      "win_rate_pct": 44.44444444444444,
+      "max_hours": 24.0
+    },
+    "stop_loss": {
+      "campaigns": 16,
+      "profit_usdt": -665.75994495,
+      "win_rate_pct": 0.0,
+      "max_hours": 23.833333333333332
+    }
+  },
+  "by_close_month": {
+    "2026-10": {
+      "campaigns": 34,
+      "profit_usdt": 1027.43724156,
+      "win_rate_pct": 76.47058823529412,
+      "max_hours": 24.0
+    },
+    "2026-09": {
+      "campaigns": 14,
+      "profit_usdt": 358.69103771,
+      "win_rate_pct": 71.42857142857143,
+      "max_hours": 24.0
+    },
+    "2026-07": {
+      "campaigns": 22,
+      "profit_usdt": 146.69752380000003,
+      "win_rate_pct": 54.54545454545455,
+      "max_hours": 24.0
+    },
+    "2026-08": {
+      "campaigns": 10,
+      "profit_usdt": -109.46331284999998,
+      "win_rate_pct": 60.0,
+      "max_hours": 24.0
+    }
+  },
+  "with_adds_vs_single": {
+    "single_entry": {
+      "campaigns": 80,
+      "profit_usdt": 1423.36249022,
+      "win_rate_pct": 67.5,
+      "max_hours": 24.0
+    }
+  },
+  "worst_campaigns": [
+    {
+      "pair": "ALGO/USDT:USDT",
+      "enter_tag": "143 ",
+      "open_date": "2026-10-08 13:25:00+00:00",
+      "close_date": "2026-10-09 13:25:00+00:00",
+      "profit_abs": -121.32639225,
+      "exit_reason": "research_time_limit_24h"
+    },
+    {
+      "pair": "XRP/USDT:USDT",
+      "enter_tag": "144 ",
+      "open_date": "2026-08-22 08:05:00+00:00",
+      "close_date": "2026-08-23 08:05:00+00:00",
+      "profit_abs": -106.54543125,
+      "exit_reason": "research_time_limit_24h"
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "enter_tag": "144 ",
+      "open_date": "2026-08-22 07:50:00+00:00",
+      "close_date": "2026-08-23 07:50:00+00:00",
+      "profit_abs": -103.1797687,
+      "exit_reason": "research_time_limit_24h"
+    },
+    {
+      "pair": "AR/USDT:USDT",
+      "enter_tag": "64 ",
+      "open_date": "2026-09-21 09:10:00+00:00",
+      "close_date": "2026-09-22 09:10:00+00:00",
+      "profit_abs": -76.77839,
+      "exit_reason": "research_time_limit_24h"
+    },
+    {
+      "pair": "APT/USDT:USDT",
+      "enter_tag": "506 ",
+      "open_date": "2026-10-28 17:30:00+00:00",
+      "close_date": "2026-10-28 18:35:00+00:00",
+      "profit_abs": -56.7704643,
+      "exit_reason": "stop_loss"
+    }
+  ],
+  "equity_audit": {
+    "fees_usdt": 153.45364378300008,
+    "turnover_usdt": 306907.2875659998,
+    "max_campaign_ledger_error_usdt": 5.000220681949941e-09,
+    "final_equity_error_usdt": -3.004970494657755e-09,
+    "mtm_drawdown_pct": 6.658259697412096,
+    "hourly_mark_drawdown_pct": 6.244986265164592,
+    "minimum_equity_usdt": 9830.105014989,
+    "max_margin_basis_usdt": 5290.280253333334,
+    "average_margin_basis_usdt": 212.67673950649808,
+    "max_gross_notional_usdt": 16052.38272,
+    "exposed_time_pct": 21.298303419173966,
+    "drawdown_trough_time": "2026-10-08 17:50:00+00:00",
+    "sampling": "5m grid, most recently closed futures candle; mark sensitivity sampled only at synchronized whole hours (no stale-price intrahour marks); no intrabar extrema",
+    "monthly_mtm": {
+      "2026-07-31": {
+        "profit_usdt": 146.6975237919978,
+        "return_pct": 1.4669752379199874
+      },
+      "2026-08-31": {
+        "profit_usdt": -109.46331284999906,
+        "return_pct": -1.0788072926519066
+      },
+      "2026-09-30": {
+        "profit_usdt": 358.69103771499795,
+        "return_pct": 3.5736043433556075
+      },
+      "2026-10-31": {
+        "profit_usdt": 1027.4372415599973,
+        "return_pct": 9.883076464913287
+      }
+    }
+  },
+  "fixed_path_slippage_stress": {
+    "2": {
+      "profit_usdt": 1361.9810327068,
+      "return_pct": 13.619810327068
+    },
+    "5": {
+      "profit_usdt": 1269.908846437,
+      "return_pct": 12.69908846437
+    },
+    "10": {
+      "profit_usdt": 1116.4552026540002,
+      "return_pct": 11.164552026540001
+    }
+  },
+  "deadline_audit": {
+    "hours": 24,
+    "overdue_campaigns": 0,
+    "late_adds": 0,
+    "qualified": true,
+    "max_excess_minutes": 0,
+    "deadline_exits": 18,
+    "deadline_profit_usdt": -113.47354691999999,
+    "deadline_losing_exits": 10
+  }
+}
