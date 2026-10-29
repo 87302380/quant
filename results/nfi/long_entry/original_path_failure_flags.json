@@ -1,0 +1,853 @@
+{
+  "warning": "Entry-time closed bars, first-fill price; original-path flagging only, not actual engine exits or revised profits. No benefit attributed by deleting trades.",
+  "flagged_winners": 8,
+  "flagged_losers": 11,
+  "records": [
+    {
+      "pair": "ICP/USDT:USDT",
+      "open_timestamp": 1768335900000,
+      "original_winner": true,
+      "entry_floor": 3.481,
+      "entry_atr": 0.09186693838068302,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "ICP/USDT:USDT",
+      "open_timestamp": 1768465800000,
+      "original_winner": true,
+      "entry_floor": 4.241,
+      "entry_atr": 0.18555808122317996,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "LTC/USDT:USDT",
+      "open_timestamp": 1768782300000,
+      "original_winner": true,
+      "entry_floor": 65.04,
+      "entry_atr": 0.6948264832951844,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "MINA/USDT:USDT",
+      "open_timestamp": 1768811700000,
+      "original_winner": true,
+      "entry_floor": 0.08264,
+      "entry_atr": 0.0020730146528078084,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "SAND/USDT:USDT",
+      "open_timestamp": 1768927500000,
+      "original_winner": true,
+      "entry_floor": 0.1379,
+      "entry_atr": 0.004877148164142342,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "SUI/USDT:USDT",
+      "open_timestamp": 1769870400000,
+      "original_winner": true,
+      "entry_floor": 1.1424,
+      "entry_atr": 0.017402766974713376,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "ARB/USDT:USDT",
+      "open_timestamp": 1769870700000,
+      "original_winner": true,
+      "entry_floor": 0.1384,
+      "entry_atr": 0.001922326250210027,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "ETC/USDT:USDT",
+      "open_timestamp": 1769880900000,
+      "original_winner": true,
+      "entry_floor": 9.23,
+      "entry_atr": 0.1592506109894988,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "RAY/USDT:USDT",
+      "open_timestamp": 1769883900000,
+      "original_winner": true,
+      "entry_floor": 0.72,
+      "entry_atr": 0.019094112843035565,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "NEAR/USDT:USDT",
+      "open_timestamp": 1769880900000,
+      "original_winner": true,
+      "entry_floor": 1.139,
+      "entry_atr": 0.022020714468627998,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "SAND/USDT:USDT",
+      "open_timestamp": 1770305700000,
+      "original_winner": true,
+      "entry_floor": 0.0833,
+      "entry_atr": 0.001879757311628101,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "BOME/USDT:USDT",
+      "open_timestamp": 1770305700000,
+      "original_winner": true,
+      "entry_floor": 0.0003961,
+      "entry_atr": 1.0738983662628317e-05,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "HBAR/USDT:USDT",
+      "open_timestamp": 1770305700000,
+      "original_winner": true,
+      "entry_floor": 0.0801,
+      "entry_atr": 0.0016881665461271806,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "AAVE/USDT:USDT",
+      "open_timestamp": 1770324900000,
+      "original_winner": true,
+      "entry_floor": 103.11,
+      "entry_atr": 3.0695347616259663,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "SUI/USDT:USDT",
+      "open_timestamp": 1770323400000,
+      "original_winner": true,
+      "entry_floor": 0.8752,
+      "entry_atr": 0.027807966552931745,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "UNI/USDT:USDT",
+      "open_timestamp": 1770314100000,
+      "original_winner": true,
+      "entry_floor": 3.293,
+      "entry_atr": 0.09418332466451647,
+      "failure_detected": true,
+      "first_failure_closed_ms": 1770335700000
+    },
+    {
+      "pair": "ZRO/USDT:USDT",
+      "open_timestamp": 1770763200000,
+      "original_winner": true,
+      "entry_floor": 1.719,
+      "entry_atr": 0.07574503465731833,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "open_timestamp": 1772124900000,
+      "original_winner": true,
+      "entry_floor": 0.1171,
+      "entry_atr": 0.002334141501385188,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "SUI/USDT:USDT",
+      "open_timestamp": 1772727000000,
+      "original_winner": true,
+      "entry_floor": 0.9235,
+      "entry_atr": 0.016606053274910815,
+      "failure_detected": true,
+      "first_failure_closed_ms": 1772806200000
+    },
+    {
+      "pair": "ETHFI/USDT:USDT",
+      "open_timestamp": 1773902100000,
+      "original_winner": false,
+      "entry_floor": 0.5725,
+      "entry_atr": 0.014271961744564375,
+      "failure_detected": true,
+      "first_failure_closed_ms": 1773923700000
+    },
+    {
+      "pair": "BOME/USDT:USDT",
+      "open_timestamp": 1776637800000,
+      "original_winner": true,
+      "entry_floor": 0.0005578,
+      "entry_atr": 5.471629228557666e-05,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "RAY/USDT:USDT",
+      "open_timestamp": 1777202400000,
+      "original_winner": false,
+      "entry_floor": 0.7606,
+      "entry_atr": 0.03282842323565518,
+      "failure_detected": true,
+      "first_failure_closed_ms": 1777248300000
+    },
+    {
+      "pair": "LDO/USDT:USDT",
+      "open_timestamp": 1777269900000,
+      "original_winner": true,
+      "entry_floor": 0.4022,
+      "entry_atr": 0.017253800435289283,
+      "failure_detected": true,
+      "first_failure_closed_ms": 1777291500000
+    },
+    {
+      "pair": "DOGE/USDT:USDT",
+      "open_timestamp": 1777486200000,
+      "original_winner": true,
+      "entry_floor": 0.10094,
+      "entry_atr": 0.0018159582509577382,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "ETC/USDT:USDT",
+      "open_timestamp": 1777910100000,
+      "original_winner": true,
+      "entry_floor": 8.602,
+      "entry_atr": 0.0744588719465969,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "FIL/USDT:USDT",
+      "open_timestamp": 1778060400000,
+      "original_winner": true,
+      "entry_floor": 1.0835,
+      "entry_atr": 0.030295877415545704,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "JTO/USDT:USDT",
+      "open_timestamp": 1778217300000,
+      "original_winner": true,
+      "entry_floor": 0.5721,
+      "entry_atr": 0.03554529424538157,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "SUI/USDT:USDT",
+      "open_timestamp": 1778376300000,
+      "original_winner": true,
+      "entry_floor": 1.0673,
+      "entry_atr": 0.015027601440109926,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "LDO/USDT:USDT",
+      "open_timestamp": 1778512800000,
+      "original_winner": true,
+      "entry_floor": 0.395,
+      "entry_atr": 0.010639910225681596,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "INJ/USDT:USDT",
+      "open_timestamp": 1779164700000,
+      "original_winner": false,
+      "entry_floor": 5.13,
+      "entry_atr": 0.13307269804596888,
+      "failure_detected": true,
+      "first_failure_closed_ms": 1779186300000
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_timestamp": 1779493800000,
+      "original_winner": true,
+      "entry_floor": 0.2631,
+      "entry_atr": 0.008449463704367745,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "INJ/USDT:USDT",
+      "open_timestamp": 1779515100000,
+      "original_winner": true,
+      "entry_floor": 4.825,
+      "entry_atr": 0.1537208553097967,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_timestamp": 1779632400000,
+      "original_winner": true,
+      "entry_floor": 0.2887,
+      "entry_atr": 0.00706034751631753,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "NEAR/USDT:USDT",
+      "open_timestamp": 1780414500000,
+      "original_winner": true,
+      "entry_floor": 2.474,
+      "entry_atr": 0.08111520149284594,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "TIA/USDT:USDT",
+      "open_timestamp": 1780640400000,
+      "original_winner": true,
+      "entry_floor": 0.3102,
+      "entry_atr": 0.008935995283904924,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "open_timestamp": 1780640400000,
+      "original_winner": true,
+      "entry_floor": 0.1022,
+      "entry_atr": 0.0034697517287551128,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_timestamp": 1780645200000,
+      "original_winner": true,
+      "entry_floor": 0.5087,
+      "entry_atr": 0.03687493905278992,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "AAVE/USDT:USDT",
+      "open_timestamp": 1780668000000,
+      "original_winner": true,
+      "entry_floor": 62.09,
+      "entry_atr": 1.7901131789442961,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "ONDO/USDT:USDT",
+      "open_timestamp": 1780672500000,
+      "original_winner": true,
+      "entry_floor": 0.3325,
+      "entry_atr": 0.01179370975628609,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "open_timestamp": 1780685700000,
+      "original_winner": true,
+      "entry_floor": 0.0924,
+      "entry_atr": 0.0036365595239963547,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "FIL/USDT:USDT",
+      "open_timestamp": 1780674600000,
+      "original_winner": false,
+      "entry_floor": 0.7227,
+      "entry_atr": 0.029215204940124914,
+      "failure_detected": true,
+      "first_failure_closed_ms": 1780719000000
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_timestamp": 1780736100000,
+      "original_winner": true,
+      "entry_floor": 0.4189,
+      "entry_atr": 0.03341560187288937,
+      "failure_detected": true,
+      "first_failure_closed_ms": 1780763400000
+    },
+    {
+      "pair": "JTO/USDT:USDT",
+      "open_timestamp": 1780883700000,
+      "original_winner": true,
+      "entry_floor": 0.6067,
+      "entry_atr": 0.019681971274713786,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_timestamp": 1780953600000,
+      "original_winner": true,
+      "entry_floor": 0.5092,
+      "entry_atr": 0.024389212940146184,
+      "failure_detected": true,
+      "first_failure_closed_ms": 1780975200000
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_timestamp": 1781020500000,
+      "original_winner": true,
+      "entry_floor": 0.4933,
+      "entry_atr": 0.02291849909072808,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_timestamp": 1781109300000,
+      "original_winner": true,
+      "entry_floor": 0.4402,
+      "entry_atr": 0.02159609528330855,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "XLM/USDT:USDT",
+      "open_timestamp": 1781574900000,
+      "original_winner": true,
+      "entry_floor": 0.21223,
+      "entry_atr": 0.006141336001355121,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "INJ/USDT:USDT",
+      "open_timestamp": 1781733900000,
+      "original_winner": true,
+      "entry_floor": 5.265,
+      "entry_atr": 0.12155204516094273,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "JUP/USDT:USDT",
+      "open_timestamp": 1782395100000,
+      "original_winner": true,
+      "entry_floor": 0.2157,
+      "entry_atr": 0.005416930209681318,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "PYTH/USDT:USDT",
+      "open_timestamp": 1782890100000,
+      "original_winner": true,
+      "entry_floor": 0.03842,
+      "entry_atr": 0.0012900102379987417,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "ETHFI/USDT:USDT",
+      "open_timestamp": 1783243500000,
+      "original_winner": true,
+      "entry_floor": 0.4177,
+      "entry_atr": 0.011864728333226209,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_timestamp": 1783339500000,
+      "original_winner": true,
+      "entry_floor": 0.4037,
+      "entry_atr": 0.007667367672709063,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "LDO/USDT:USDT",
+      "open_timestamp": 1783582200000,
+      "original_winner": true,
+      "entry_floor": 0.3191,
+      "entry_atr": 0.008425034329161387,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "ONDO/USDT:USDT",
+      "open_timestamp": 1784367000000,
+      "original_winner": true,
+      "entry_floor": 0.3405,
+      "entry_atr": 0.006407473424204408,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_timestamp": 1784930400000,
+      "original_winner": true,
+      "entry_floor": 0.3379,
+      "entry_atr": 0.007041758964266713,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "BOME/USDT:USDT",
+      "open_timestamp": 1786611000000,
+      "original_winner": true,
+      "entry_floor": 0.0007636,
+      "entry_atr": 2.031549518567028e-05,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "open_timestamp": 1787385000000,
+      "original_winner": false,
+      "entry_floor": 0.11072,
+      "entry_atr": 0.004005016250354022,
+      "failure_detected": true,
+      "first_failure_closed_ms": 1787407500000
+    },
+    {
+      "pair": "XRP/USDT:USDT",
+      "open_timestamp": 1787385900000,
+      "original_winner": false,
+      "entry_floor": 1.5226,
+      "entry_atr": 0.06969523974234244,
+      "failure_detected": true,
+      "first_failure_closed_ms": 1787408100000
+    },
+    {
+      "pair": "ARB/USDT:USDT",
+      "open_timestamp": 1788343500000,
+      "original_winner": true,
+      "entry_floor": 0.11214,
+      "entry_atr": 0.0034133722271543856,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "ONDO/USDT:USDT",
+      "open_timestamp": 1788751800000,
+      "original_winner": true,
+      "entry_floor": 0.3826,
+      "entry_atr": 0.005692921223769404,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "RAY/USDT:USDT",
+      "open_timestamp": 1788983100000,
+      "original_winner": true,
+      "entry_floor": 1.248,
+      "entry_atr": 0.06664066289319835,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "APT/USDT:USDT",
+      "open_timestamp": 1788991800000,
+      "original_winner": true,
+      "entry_floor": 0.6175,
+      "entry_atr": 0.014835417351088526,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "BCH/USDT:USDT",
+      "open_timestamp": 1789046400000,
+      "original_winner": false,
+      "entry_floor": 226.4,
+      "entry_atr": 3.1214367723582996,
+      "failure_detected": true,
+      "first_failure_closed_ms": 1789080300000
+    },
+    {
+      "pair": "RAY/USDT:USDT",
+      "open_timestamp": 1789149000000,
+      "original_winner": true,
+      "entry_floor": 1.5733,
+      "entry_atr": 0.08631156336016386,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "open_timestamp": 1789498200000,
+      "original_winner": true,
+      "entry_floor": 0.09422,
+      "entry_atr": 0.001993307839361159,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "ARB/USDT:USDT",
+      "open_timestamp": 1789681500000,
+      "original_winner": true,
+      "entry_floor": 0.17516,
+      "entry_atr": 0.006026038389986244,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "FIL/USDT:USDT",
+      "open_timestamp": 1789856700000,
+      "original_winner": false,
+      "entry_floor": 0.9404,
+      "entry_atr": 0.034524192050021586,
+      "failure_detected": true,
+      "first_failure_closed_ms": 1789912500000
+    },
+    {
+      "pair": "BOME/USDT:USDT",
+      "open_timestamp": 1790018700000,
+      "original_winner": true,
+      "entry_floor": 0.0010485,
+      "entry_atr": 2.9761806442877905e-05,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "AR/USDT:USDT",
+      "open_timestamp": 1789981800000,
+      "original_winner": false,
+      "entry_floor": 4.812,
+      "entry_atr": 0.2187303629048144,
+      "failure_detected": true,
+      "first_failure_closed_ms": 1790003400000
+    },
+    {
+      "pair": "ETHW/USDT:USDT",
+      "open_timestamp": 1790015400000,
+      "original_winner": false,
+      "entry_floor": 0.293,
+      "entry_atr": 0.008430404374517317,
+      "failure_detected": true,
+      "first_failure_closed_ms": 1790054400000
+    },
+    {
+      "pair": "ICP/USDT:USDT",
+      "open_timestamp": 1790173200000,
+      "original_winner": true,
+      "entry_floor": 2.837,
+      "entry_atr": 0.06187120463700504,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "open_timestamp": 1790345100000,
+      "original_winner": true,
+      "entry_floor": 0.1342,
+      "entry_atr": 0.0030276431150174413,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "SUI/USDT:USDT",
+      "open_timestamp": 1790931300000,
+      "original_winner": true,
+      "entry_floor": 1.1795,
+      "entry_atr": 0.021771946885312723,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "DOT/USDT:USDT",
+      "open_timestamp": 1790967000000,
+      "original_winner": true,
+      "entry_floor": 1.1363,
+      "entry_atr": 0.018476545903925244,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "SAND/USDT:USDT",
+      "open_timestamp": 1790966400000,
+      "original_winner": true,
+      "entry_floor": 0.05864,
+      "entry_atr": 0.003279494325275704,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "SAND/USDT:USDT",
+      "open_timestamp": 1790974800000,
+      "original_winner": true,
+      "entry_floor": 0.06078,
+      "entry_atr": 0.00325806451626484,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "STRK/USDT:USDT",
+      "open_timestamp": 1790966400000,
+      "original_winner": true,
+      "entry_floor": 0.04144,
+      "entry_atr": 0.0008088830090902194,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "BAT/USDT:USDT",
+      "open_timestamp": 1791008100000,
+      "original_winner": true,
+      "entry_floor": 0.09687,
+      "entry_atr": 0.0024025940142940417,
+      "failure_detected": true,
+      "first_failure_closed_ms": 1791029700000
+    },
+    {
+      "pair": "RAY/USDT:USDT",
+      "open_timestamp": 1791297900000,
+      "original_winner": true,
+      "entry_floor": 2.1754,
+      "entry_atr": 0.03451892605543246,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "SAND/USDT:USDT",
+      "open_timestamp": 1791350700000,
+      "original_winner": true,
+      "entry_floor": 0.0686,
+      "entry_atr": 0.0018493628766017864,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "ARB/USDT:USDT",
+      "open_timestamp": 1791473100000,
+      "original_winner": true,
+      "entry_floor": 0.16142,
+      "entry_atr": 0.002810479365505852,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "SUI/USDT:USDT",
+      "open_timestamp": 1791473100000,
+      "original_winner": true,
+      "entry_floor": 1.0225,
+      "entry_atr": 0.015645344764557773,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_timestamp": 1791473100000,
+      "original_winner": true,
+      "entry_floor": 0.4764,
+      "entry_atr": 0.009423213888569482,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "AVAX/USDT:USDT",
+      "open_timestamp": 1791473100000,
+      "original_winner": true,
+      "entry_floor": 9.89,
+      "entry_atr": 0.16527509062291937,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "JUP/USDT:USDT",
+      "open_timestamp": 1791471300000,
+      "original_winner": true,
+      "entry_floor": 0.3554,
+      "entry_atr": 0.008701808704651296,
+      "failure_detected": true,
+      "first_failure_closed_ms": 1791492900000
+    },
+    {
+      "pair": "ALGO/USDT:USDT",
+      "open_timestamp": 1791465900000,
+      "original_winner": false,
+      "entry_floor": 0.12118,
+      "entry_atr": 0.003402949106291258,
+      "failure_detected": true,
+      "first_failure_closed_ms": 1791487500000
+    },
+    {
+      "pair": "PYTH/USDT:USDT",
+      "open_timestamp": 1791906600000,
+      "original_winner": true,
+      "entry_floor": 0.07737,
+      "entry_atr": 0.002467485285391831,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "BAT/USDT:USDT",
+      "open_timestamp": 1791931200000,
+      "original_winner": true,
+      "entry_floor": 0.19263,
+      "entry_atr": 0.010361051577261467,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "TIA/USDT:USDT",
+      "open_timestamp": 1791957300000,
+      "original_winner": true,
+      "entry_floor": 0.5429,
+      "entry_atr": 0.01288923176615657,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_timestamp": 1792031100000,
+      "original_winner": true,
+      "entry_floor": 0.4617,
+      "entry_atr": 0.008189309530790641,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "ZK/USDT:USDT",
+      "open_timestamp": 1792038000000,
+      "original_winner": true,
+      "entry_floor": 0.015204,
+      "entry_atr": 0.00046002654049093157,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "open_timestamp": 1792031100000,
+      "original_winner": true,
+      "entry_floor": 0.13083,
+      "entry_atr": 0.0030577642696573257,
+      "failure_detected": true,
+      "first_failure_closed_ms": 1792072200000
+    },
+    {
+      "pair": "ZK/USDT:USDT",
+      "open_timestamp": 1792077000000,
+      "original_winner": true,
+      "entry_floor": 0.016231,
+      "entry_atr": 0.0007739127499597178,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_timestamp": 1792918500000,
+      "original_winner": true,
+      "entry_floor": 0.4316,
+      "entry_atr": 0.006590510797646293,
+      "failure_detected": false,
+      "first_failure_closed_ms": null
+    }
+  ]
+}

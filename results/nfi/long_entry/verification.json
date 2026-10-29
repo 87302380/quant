@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "engine_replays": 8,
+  "unit_tests": 132,
+  "control_exact": true,
+  "independently_timed_failure_exits": 19,
+  "funding_excluded": true,
+  "independent_oos": false,
+  "sources_and_ledgers_verified": true
+}

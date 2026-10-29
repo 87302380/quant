@@ -1,0 +1,15 @@
+{
+  "promoted": null,
+  "reason": "No tested modification improves return and overall robustness; core unchanged.",
+  "trials": [
+    "control",
+    "turn",
+    "break",
+    "delay_turn",
+    "delay_break",
+    "failure",
+    "failure_fee10",
+    "failure_july"
+  ],
+  "independent_oos": false
+}

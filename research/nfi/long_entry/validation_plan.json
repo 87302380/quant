@@ -1,0 +1,8 @@
+{
+  "variant": "failure",
+  "checks": [
+    "fee10",
+    "fresh_july_wallet"
+  ],
+  "reason": "Validate the central structural-failure hypothesis even if full-year return worsens; do not choose validation only by best historical metric. No additional threshold tuning."
+}

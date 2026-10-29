@@ -1,0 +1,10 @@
+{
+  "source_sha256": "212b20b39f1525995f0c00660a26dbd46c17a13389f1cca783dffb950a05007a",
+  "hypotheses": {
+    "control": "unchanged signals and exits",
+    "turn": "original signal AND close rises and low not lower than previous closed5m",
+    "break": "original signal AND close above prior three closed5m highs",
+    "failure": "original entry; after6h losing price below entry-time1h low minus0.5closed1hATR"
+  },
+  "limits": "57coins,3x,6slots,noadds,24h,no allocation increase; funding excluded; previously examined history; no parameter scan"
+}

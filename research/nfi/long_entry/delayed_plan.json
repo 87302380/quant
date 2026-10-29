@@ -1,0 +1,9 @@
+{
+  "recorded_utc": "2026-10-29T17:41:42.995971+00:00",
+  "reason": "Same-candle original oversold signal and confirmation may conflict; signal may survive for30minutes with original tag. Added before initial four metrics completed. No threshold scan.",
+  "variants": [
+    "delay_turn",
+    "delay_break"
+  ],
+  "rule": "latest original long signal stored causally max6bars AND30wall-clock minutes; confirmation and no conflicting short required; inherits original sizing and exits"
+}

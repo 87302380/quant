@@ -122,3 +122,7 @@ python nfi_verify.py
 ## 组合稳健性与风险管理（2026-10-29）
 
 比较ATR多头风控、组合计划风险、BTC冲击/波动及相关性上限，并保留简单减仓/限仓对照。入口`python nfi_portfolio.py`，规则见[portfolio_risk/plan.json](portfolio_risk/plan.json)，报告见[组合风险研究](../../results/nfi/portfolio_risk/REPORT.md)。无实盘服务。
+
+## 多头入场与交易失效（2026-10-30）
+
+新增[long_entry研究边界](long_entry/FORWARD.md)及[结果报告](../../results/nfi/long_entry/REPORT.md)。原信号即时止跌/突破确认、30分钟延迟确认、6h后结构失效均在真实引擎比较，空头规则及原仓位上限保留。逐笔对照包含被误杀的原盈利单，不以删除亏损交易计算收益。

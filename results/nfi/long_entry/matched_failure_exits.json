@@ -1,0 +1,162 @@
+{
+  "warning": "Matched entries only, actual engine normalized campaign ratios. Wallet compounding changes absolute sizes. Not causal portfolio attribution. Price-below-entry can coexist with positive total PnL after partial exits.",
+  "matched_original_winners": 8,
+  "winners_turned_into_losses": 7,
+  "matched_original_losers": 11,
+  "original_losers_improved": 6,
+  "original_losers_worsened": 5,
+  "records": [
+    {
+      "pair": "UNI/USDT:USDT",
+      "open_date": "2026-02-05 17:55:00+00:00",
+      "original_profit_ratio": 0.2001727367711143,
+      "new_profit_ratio": -0.14747582520881772,
+      "original_winner": true,
+      "new_winner": false
+    },
+    {
+      "pair": "SUI/USDT:USDT",
+      "open_date": "2026-03-05 16:10:00+00:00",
+      "original_profit_ratio": 0.06782398065133133,
+      "new_profit_ratio": 0.06792097508811683,
+      "original_winner": true,
+      "new_winner": true
+    },
+    {
+      "pair": "ETHFI/USDT:USDT",
+      "open_date": "2026-03-19 06:35:00+00:00",
+      "original_profit_ratio": -0.17464447451496878,
+      "new_profit_ratio": -0.12806980480425056,
+      "original_winner": false,
+      "new_winner": false
+    },
+    {
+      "pair": "RAY/USDT:USDT",
+      "open_date": "2026-04-26 11:20:00+00:00",
+      "original_profit_ratio": -0.23335656979027125,
+      "new_profit_ratio": -0.14457680464217845,
+      "original_winner": false,
+      "new_winner": false
+    },
+    {
+      "pair": "LDO/USDT:USDT",
+      "open_date": "2026-04-27 06:05:00+00:00",
+      "original_profit_ratio": 0.025289143803657037,
+      "new_profit_ratio": -0.150392017106201,
+      "original_winner": true,
+      "new_winner": false
+    },
+    {
+      "pair": "INJ/USDT:USDT",
+      "open_date": "2026-05-19 04:25:00+00:00",
+      "original_profit_ratio": -0.0924785765318194,
+      "new_profit_ratio": -0.09945104996939294,
+      "original_winner": false,
+      "new_winner": false
+    },
+    {
+      "pair": "FIL/USDT:USDT",
+      "open_date": "2026-06-05 15:50:00+00:00",
+      "original_profit_ratio": -0.04610912076869694,
+      "new_profit_ratio": -0.13883762420594561,
+      "original_winner": false,
+      "new_winner": false
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_date": "2026-06-06 08:55:00+00:00",
+      "original_profit_ratio": 0.20792790808387274,
+      "new_profit_ratio": -0.14787724621101772,
+      "original_winner": true,
+      "new_winner": false
+    },
+    {
+      "pair": "WLD/USDT:USDT",
+      "open_date": "2026-06-08 21:20:00+00:00",
+      "original_profit_ratio": 0.19412674338034708,
+      "new_profit_ratio": -0.14662662847854302,
+      "original_winner": true,
+      "new_winner": false
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "open_date": "2026-08-22 07:50:00+00:00",
+      "original_profit_ratio": -0.12199152183518416,
+      "new_profit_ratio": -0.06222457260811932,
+      "original_winner": false,
+      "new_winner": false
+    },
+    {
+      "pair": "XRP/USDT:USDT",
+      "open_date": "2026-08-22 08:05:00+00:00",
+      "original_profit_ratio": -0.12602811894545338,
+      "new_profit_ratio": -0.07209193432840232,
+      "original_winner": false,
+      "new_winner": false
+    },
+    {
+      "pair": "BCH/USDT:USDT",
+      "open_date": "2026-09-10 13:20:00+00:00",
+      "original_profit_ratio": -0.0016846026789323443,
+      "new_profit_ratio": -0.04767103515318186,
+      "original_winner": false,
+      "new_winner": false
+    },
+    {
+      "pair": "FIL/USDT:USDT",
+      "open_date": "2026-09-19 22:25:00+00:00",
+      "original_profit_ratio": -0.02340335017475494,
+      "new_profit_ratio": -0.10345314406795764,
+      "original_winner": false,
+      "new_winner": false
+    },
+    {
+      "pair": "AR/USDT:USDT",
+      "open_date": "2026-09-21 09:10:00+00:00",
+      "original_profit_ratio": -0.36170823901774596,
+      "new_profit_ratio": -0.16521365542718838,
+      "original_winner": false,
+      "new_winner": false
+    },
+    {
+      "pair": "ETHW/USDT:USDT",
+      "open_date": "2026-09-21 18:30:00+00:00",
+      "original_profit_ratio": -0.0609066653114121,
+      "new_profit_ratio": -0.07614565598556655,
+      "original_winner": false,
+      "new_winner": false
+    },
+    {
+      "pair": "BAT/USDT:USDT",
+      "open_date": "2026-10-03 06:15:00+00:00",
+      "original_profit_ratio": 0.031142218299717132,
+      "new_profit_ratio": -0.10542065789765215,
+      "original_winner": true,
+      "new_winner": false
+    },
+    {
+      "pair": "ALGO/USDT:USDT",
+      "open_date": "2026-10-08 13:25:00+00:00",
+      "original_profit_ratio": -0.13752785521699437,
+      "new_profit_ratio": -0.09919553461558425,
+      "original_winner": false,
+      "new_winner": false
+    },
+    {
+      "pair": "JUP/USDT:USDT",
+      "open_date": "2026-10-08 14:55:00+00:00",
+      "original_profit_ratio": 0.010452277367627546,
+      "new_profit_ratio": -0.10892337842299045,
+      "original_winner": true,
+      "new_winner": false
+    },
+    {
+      "pair": "OP/USDT:USDT",
+      "open_date": "2026-10-15 02:25:00+00:00",
+      "original_profit_ratio": 0.14660223964556823,
+      "new_profit_ratio": -0.06963883056202952,
+      "original_winner": true,
+      "new_winner": false
+    }
+  ]
+}
