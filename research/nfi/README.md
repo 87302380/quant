@@ -110,3 +110,7 @@ python nfi_verify.py
 [Freqtrade 数据说明](https://www.freqtrade.io/en/stable/data-download/)、
 [Freqtrade 回测说明](https://www.freqtrade.io/en/stable/backtesting/)、
 [OKX API](https://www.okx.com/docs-v5/en/)。
+
+## 固定风险空头实验（2026-10-29）
+
+按用户最新要求取消增加仓位方向，研究ATR退出、BTC熊态门控及个币相对弱势。方案见[atr_short/plan.json](atr_short/plan.json)，报告见[固定风险空头实验](../../results/nfi/atr_short/REPORT.md)，入口`python nfi_atr_short.py`。所有变体沿用24h期限和实际引擎，未启动实盘。

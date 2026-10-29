@@ -1,0 +1,40 @@
+{
+  "files": {
+    "datasets/nfi_ytd2026/manifest.json": "5cf41fbcc5cd373b2d06fca7d77e8bd9023bb59dfeb639d43b000668f2aede5b",
+    "nfi_analyze.py": "807cea2db1c07805ac3a977dbabfa6740eaa17bc4bc87820fce78ab92bb61646",
+    "nfi_atr_report.py": "d80370752103f0955816af925a4c839568c9cc900b5388b63dc9285dff8b4533",
+    "nfi_atr_short.py": "015d62a83c3e1c74bd77b6ae921d83b9773e329603fa79f20b54a65f6dbbe744",
+    "nfi_atr_verify.py": "dd430099522683c29878fc2e08be4660e7b845a74b9ae15995582b2be29b2d56",
+    "nfi_precision.py": "596b7428bc51b33c6fd32a02acf46f70689ba3474cfec3371939480bdcb52931",
+    "nfi_rebound_report.py": "e25eb6e833782642c86493f8252c251ffa3b71e41e1fdfc6d53a38787c10382a",
+    "nfi_short_engine.py": "acbb078558ad880608fd633943801b6001a557188706d0303d0612cd30be73e8",
+    "research/nfi/atr_short/FORWARD.md": "1955f6137c74507c3f190b5e0739ee2834dccc5fe74da86d2f05c8f13c56361c",
+    "research/nfi/atr_short/NFIShortATR.py": "d2ebf133bbdb22a8ac6571ef62791be654f337bbc82d5717847d4117761f9ca4",
+    "research/nfi/atr_short/phase2.json": "3a94eba29b0a505b3cc4c5bda5e792bf9be4915081990e8a1e12c845c03969fc",
+    "research/nfi/atr_short/plan.json": "cbff6b73ea1638a37bc10251a0fe626887fc64bb6d523a8628e98e2b2e8e5078",
+    "research/nfi/atr_short/test_atr.py": "8336f26fbcdfa78634dc0e31e321b306b721f3150829d8758e16213c5e5bd617",
+    "research/nfi/atr_short/validation_protocol.json": "7c06a84c0db646c5b67794605ee6420c48d9edd9d3a31b70decc38b5ebf66639",
+    "research/nfi/return_search/NFIExtensions.py": "a6a49aa755152c5fed1252c6a06214968671f1acbf332274913f6d6f1b621624",
+    "research/nfi/return_search/NFIOptimize.py": "f76fffeb07f26961471dcc21ca4874f1687bb5b7db9b8076cf33be92b01189c9",
+    "research/nfi/return_search/test_optimize.py": "9b0ffe9d06a4129bbe65dd6f8a4d39ce097c99938ed61bbd5ba39d2801890f08",
+    "research/nfi/risk_study/NFIRiskControls.py": "dd6f0a6d567a81c172a1c67a1ba830b0bda56230cb36f85e69f7a17bee1772ef",
+    "research/nfi/risk_study/test_controls.py": "7484fa40fa6262cd6078c598da78cc3fae79de7f80197e005f94206a7b9251e7",
+    "research/nfi/short_search/NFIShortResearch.py": "fcba4081aa4954d6209280f5e5d35b6ed2bf2a80b8158b73b468a01dadac5a5f",
+    "research/nfi/short_search/precision_protocol.json": "703deeea95eb1ecedae492cd49553b71ebb0d743f6bcd26a1f969dc7f3b9b898",
+    "research/nfi/short_search/test_short.py": "58959e56c817c59915ff0e250c5028f30a4a9bc95b33c6efa264b6bb63e39c11",
+    "research/nfi/study/NFI24Hour.py": "e0acb12c80df4ea69b5067e1c2873e16de13c7a08bad53015772ebdac0b442b4",
+    "research/nfi/study/NFIHistoricalFilters.py": "1d6d697aba048b31b41a083f30eb38d955922b4d0ed23cd104b6a179783adc39",
+    "research/nfi/study/test_audit.py": "acfd0618f1b95868308972f996bbdcb7dcd9821ece5899692f90b4448b72b5ce",
+    "research/nfi/study/test_deadline.py": "4093be7109b080b250eb23dfb20cb927422c0d14ed6a7b19168db13607f0ccfa",
+    "research/nfi/upstream/NostalgiaForInfinityX8.py": "c0c6ee100533a2600c198b541f70deb70f106a5e1e60f50f73b1c602830249c4",
+    "research/nfi/ytd2026/config.backtest.json": "e39c0ea65319bbf559fa5def4608c2d08f79834e79fb5959f01345ce3039bb0c",
+    "research/nfi/ytd2026/universe.json": "0a246c48bfacceff127e0f0760e26ecd829b2d2d6f333a5338c0559ece69d7af",
+    "research/nfi/ytd_research/NFIYtdRisk.py": "f11f78ec122a211dad9b49f253341f7ef5a89f35fd095219df4e05c80e83859c",
+    "research/nfi/ytd_research/test_risk.py": "cf50bc21476f57d9d13a45577fefc12b37a80c05e75633f3a966742aedcaebf2"
+  },
+  "notes": [
+    "Each engine archive retains its strategy source and config. Early files gained additional unrelated classes; selected class AST is verified identical against frozen final source.",
+    "Initial restricted-network metadata attempts timed out or were cancelled before trades; retried using authorized proxy access, no dataset or market substitutions.",
+    "All 16 completed engine runs preserved, including failed financial hypotheses; no environment publishing or live services."
+  ]
+}

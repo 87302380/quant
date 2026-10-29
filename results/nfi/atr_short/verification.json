@@ -1,0 +1,137 @@
+{
+  "status": "passed",
+  "engine_replays": 16,
+  "unit_tests": 92,
+  "funding_excluded": true,
+  "independent_oos": false,
+  "records": {
+    "base_risk": {
+      "archive_sha256": "b62e23caa9460daf76ef0a64e2375a38791b9128507db72c9a80c08dbd1cd540",
+      "campaigns": 152,
+      "deadline_qualified": true,
+      "no_adds": true,
+      "selected_class_ast_matches_current": true,
+      "fee": 0.0005
+    },
+    "budget": {
+      "archive_sha256": "a9b4a4f08ee5242430c8e963a97fba164fe593c78e3866aa108c1028a68d4115",
+      "campaigns": 448,
+      "deadline_qualified": true,
+      "no_adds": true,
+      "selected_class_ast_matches_current": true,
+      "fee": 0.0005
+    },
+    "control": {
+      "archive_sha256": "9ae7f1b7e908094b1c4e2d1cd03ec942ac588259584bf0e46f71bdf0645a2d10",
+      "campaigns": 152,
+      "deadline_qualified": true,
+      "no_adds": true,
+      "selected_class_ast_matches_current": true,
+      "fee": 0.0005
+    },
+    "control_july": {
+      "archive_sha256": "6fca9292179fc3652a0ebf6821b0f3247031480bf3d864f7ce9881a4f2442d8e",
+      "campaigns": 61,
+      "deadline_qualified": true,
+      "no_adds": true,
+      "selected_class_ast_matches_current": true,
+      "fee": 0.0005
+    },
+    "gated": {
+      "archive_sha256": "3cf745ef8949217c83df44b170f684bb66fb24c1afd8efd36afe06055d338c0f",
+      "campaigns": 302,
+      "deadline_qualified": true,
+      "no_adds": true,
+      "selected_class_ast_matches_current": true,
+      "fee": 0.0005
+    },
+    "gated_fee10": {
+      "archive_sha256": "f73d8ac9edd1bcc46b128668baf306e364bc6733343131e89d848c284ec07716",
+      "campaigns": 302,
+      "deadline_qualified": true,
+      "no_adds": true,
+      "selected_class_ast_matches_current": true,
+      "fee": 0.001
+    },
+    "gated_july": {
+      "archive_sha256": "cba8f58f4903dd8d2aeccf5beae37c57f7336fa73e28bcbf4396e8673ca0c18c",
+      "campaigns": 80,
+      "deadline_qualified": true,
+      "no_adds": true,
+      "selected_class_ast_matches_current": true,
+      "fee": 0.0005
+    },
+    "gated_stop": {
+      "archive_sha256": "44e9ef4d7dbda51c437bebf311c824fa3a2cf492555a3d084eafb5c2bff3fb02",
+      "campaigns": 319,
+      "deadline_qualified": true,
+      "no_adds": true,
+      "selected_class_ast_matches_current": true,
+      "fee": 0.0005
+    },
+    "native": {
+      "archive_sha256": "ab30431235c26221ad446284d262bc48cac6495d4e41387a0c4532d501568de3",
+      "campaigns": 448,
+      "deadline_qualified": true,
+      "no_adds": true,
+      "selected_class_ast_matches_current": true,
+      "fee": 0.0005
+    },
+    "stop": {
+      "archive_sha256": "d6413fa92fa1e8407b3402a9d595555ff04c45276ef0d44b52e2f5a3a6b32896",
+      "campaigns": 456,
+      "deadline_qualified": true,
+      "no_adds": true,
+      "selected_class_ast_matches_current": true,
+      "fee": 0.0005
+    },
+    "target": {
+      "archive_sha256": "9ac40467c322acdd994cb38c61175781c9bdf4e563bbae2cac79d678f10c1246",
+      "campaigns": 438,
+      "deadline_qualified": true,
+      "no_adds": true,
+      "selected_class_ast_matches_current": true,
+      "fee": 0.0005
+    },
+    "target_july": {
+      "archive_sha256": "beeb429f0013b951a862c83a256dcd71d775af2717a3fdaeb37a7f256cac8301",
+      "campaigns": 171,
+      "deadline_qualified": true,
+      "no_adds": true,
+      "selected_class_ast_matches_current": true,
+      "fee": 0.0005
+    },
+    "weak": {
+      "archive_sha256": "d9446dc2c87bbe939c88c0d41faeed188726ab21c722d566154a24ab0875cf0b",
+      "campaigns": 225,
+      "deadline_qualified": true,
+      "no_adds": true,
+      "selected_class_ast_matches_current": true,
+      "fee": 0.0005
+    },
+    "weak_fee10": {
+      "archive_sha256": "02292e2d74e1b84782fef71b70064cd9695522fb45c4298cde1b69aa63c86b28",
+      "campaigns": 225,
+      "deadline_qualified": true,
+      "no_adds": true,
+      "selected_class_ast_matches_current": true,
+      "fee": 0.001
+    },
+    "weak_july": {
+      "archive_sha256": "4d52001573ed51b51b3287a085da7e2e24ec4853965ee1ec2b5a9da6c5229697",
+      "campaigns": 67,
+      "deadline_qualified": true,
+      "no_adds": true,
+      "selected_class_ast_matches_current": true,
+      "fee": 0.0005
+    },
+    "weak_stop": {
+      "archive_sha256": "2adea15b67d4b37130c8d4c17f40eed8b3d7b2d134cf98ee00b6ccb68cc80331",
+      "campaigns": 236,
+      "deadline_qualified": true,
+      "no_adds": true,
+      "selected_class_ast_matches_current": true,
+      "fee": 0.0005
+    }
+  }
+}

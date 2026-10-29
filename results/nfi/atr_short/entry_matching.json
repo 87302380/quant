@@ -1,0 +1,83 @@
+{
+  "native__budget": {
+    "matched_close_times": 448,
+    "matched_exit_reasons": 448,
+    "matched_entries": 448,
+    "only_left": 0,
+    "only_right": 0,
+    "matched_actual_profit_difference_usdt": -10550.2977095,
+    "warning": "Actual compounded sizes differ; not isolated causal dollar alpha"
+  },
+  "budget__stop": {
+    "matched_close_times": 329,
+    "matched_exit_reasons": 329,
+    "matched_entries": 447,
+    "only_left": 1,
+    "only_right": 9,
+    "matched_actual_profit_difference_usdt": 575.7108463,
+    "warning": "Actual compounded sizes differ; not isolated causal dollar alpha"
+  },
+  "stop__target": {
+    "matched_close_times": 245,
+    "matched_exit_reasons": 232,
+    "matched_entries": 431,
+    "only_left": 25,
+    "only_right": 7,
+    "matched_actual_profit_difference_usdt": 2892.9701605900004,
+    "warning": "Actual compounded sizes differ; not isolated causal dollar alpha"
+  },
+  "target__gated": {
+    "matched_close_times": 299,
+    "matched_exit_reasons": 299,
+    "matched_entries": 299,
+    "only_left": 139,
+    "only_right": 3,
+    "matched_actual_profit_difference_usdt": -4646.190995690001,
+    "warning": "Actual compounded sizes differ; not isolated causal dollar alpha"
+  },
+  "gated__weak": {
+    "matched_close_times": 206,
+    "matched_exit_reasons": 206,
+    "matched_entries": 206,
+    "only_left": 96,
+    "only_right": 19,
+    "matched_actual_profit_difference_usdt": -2514.92360883,
+    "warning": "Actual compounded sizes differ; not isolated causal dollar alpha"
+  },
+  "base_risk__target": {
+    "matched_close_times": 141,
+    "matched_exit_reasons": 141,
+    "matched_entries": 141,
+    "only_left": 11,
+    "only_right": 297,
+    "matched_actual_profit_difference_usdt": 6088.87663566,
+    "warning": "Actual compounded sizes differ; not isolated causal dollar alpha"
+  },
+  "gated__gated_stop": {
+    "matched_close_times": 174,
+    "matched_exit_reasons": 168,
+    "matched_entries": 296,
+    "only_left": 6,
+    "only_right": 23,
+    "matched_actual_profit_difference_usdt": -6202.16900483,
+    "warning": "Actual compounded sizes differ; not isolated causal dollar alpha"
+  },
+  "weak__weak_stop": {
+    "matched_close_times": 151,
+    "matched_exit_reasons": 145,
+    "matched_entries": 225,
+    "only_left": 0,
+    "only_right": 11,
+    "matched_actual_profit_difference_usdt": -3465.94882561,
+    "warning": "Actual compounded sizes differ; not isolated causal dollar alpha"
+  },
+  "gated_stop__weak_stop": {
+    "matched_close_times": 219,
+    "matched_exit_reasons": 219,
+    "matched_entries": 219,
+    "only_left": 100,
+    "only_right": 17,
+    "matched_actual_profit_difference_usdt": -1309.24053011,
+    "warning": "Actual compounded sizes differ; not isolated causal dollar alpha"
+  }
+}

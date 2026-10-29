@@ -1,0 +1,16 @@
+{
+  "full_ytd_fee10": [
+    "gated",
+    "weak"
+  ],
+  "fresh_july_wallet": [
+    "control",
+    "target",
+    "gated",
+    "weak"
+  ],
+  "wallet": 10000,
+  "history_status": "previously inspected, not independent OOS",
+  "selection": "2R gate/weak framework matches requested hypothesis; native-profit exit variants remain exploratory controls, not separately cost-qualified",
+  "count_expected_engine_replays": 16
+}

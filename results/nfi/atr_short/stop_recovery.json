@@ -1,0 +1,4116 @@
+{
+  "stop": {
+    "stopped_shorts": 120,
+    "later_breakeven_count": 58,
+    "trades": [
+      {
+        "pair": "MINA/USDT:USDT",
+        "open_date": "2026-01-12 13:10:00+00:00",
+        "close_date": "2026-01-12 15:35:00+00:00",
+        "profit_usdt": -28.7071618,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 259
+      },
+      {
+        "pair": "BOME/USDT:USDT",
+        "open_date": "2026-01-12 21:55:00+00:00",
+        "close_date": "2026-01-13 05:20:00+00:00",
+        "profit_usdt": -100.362791,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 199
+      },
+      {
+        "pair": "SHIB/USDT:USDT",
+        "open_date": "2026-01-20 16:30:00+00:00",
+        "close_date": "2026-01-21 02:10:00+00:00",
+        "profit_usdt": -119.0742172,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 172
+      },
+      {
+        "pair": "SOL/USDT:USDT",
+        "open_date": "2026-01-23 07:00:00+00:00",
+        "close_date": "2026-01-23 17:25:00+00:00",
+        "profit_usdt": -27.0315837,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 163
+      },
+      {
+        "pair": "PYTH/USDT:USDT",
+        "open_date": "2026-01-25 08:40:00+00:00",
+        "close_date": "2026-01-25 09:45:00+00:00",
+        "profit_usdt": -123.3122625,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 275
+      },
+      {
+        "pair": "XLM/USDT:USDT",
+        "open_date": "2026-01-25 20:15:00+00:00",
+        "close_date": "2026-01-26 00:55:00+00:00",
+        "profit_usdt": -109.8930972,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 232
+      },
+      {
+        "pair": "UNI/USDT:USDT",
+        "open_date": "2026-01-26 01:35:00+00:00",
+        "close_date": "2026-01-26 15:15:00+00:00",
+        "profit_usdt": -44.528816,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 124
+      },
+      {
+        "pair": "ARB/USDT:USDT",
+        "open_date": "2026-01-30 18:25:00+00:00",
+        "close_date": "2026-01-30 18:45:00+00:00",
+        "profit_usdt": -128.4456651,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 284
+      },
+      {
+        "pair": "AR/USDT:USDT",
+        "open_date": "2026-01-30 18:25:00+00:00",
+        "close_date": "2026-01-30 18:50:00+00:00",
+        "profit_usdt": -128.0216376,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 283
+      },
+      {
+        "pair": "CRV/USDT:USDT",
+        "open_date": "2026-01-30 18:25:00+00:00",
+        "close_date": "2026-01-30 18:55:00+00:00",
+        "profit_usdt": -128.6370542,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 282
+      },
+      {
+        "pair": "JUP/USDT:USDT",
+        "open_date": "2026-02-01 20:30:00+00:00",
+        "close_date": "2026-02-02 00:35:00+00:00",
+        "profit_usdt": -90.649377,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 239
+      },
+      {
+        "pair": "ARB/USDT:USDT",
+        "open_date": "2026-02-02 07:40:00+00:00",
+        "close_date": "2026-02-02 15:40:00+00:00",
+        "profit_usdt": -96.97918811,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 192
+      },
+      {
+        "pair": "PYTH/USDT:USDT",
+        "open_date": "2026-02-03 18:00:00+00:00",
+        "close_date": "2026-02-03 19:30:00+00:00",
+        "profit_usdt": -144.84569835,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 270
+      },
+      {
+        "pair": "ORDI/USDT:USDT",
+        "open_date": "2026-02-06 14:50:00+00:00",
+        "close_date": "2026-02-06 17:30:00+00:00",
+        "profit_usdt": -147.7344375,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 256
+      },
+      {
+        "pair": "BONK/USDT:USDT",
+        "open_date": "2026-02-06 14:55:00+00:00",
+        "close_date": "2026-02-06 17:30:00+00:00",
+        "profit_usdt": -148.2780705,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 257
+      },
+      {
+        "pair": "ETH/USDT:USDT",
+        "open_date": "2026-02-08 10:35:00+00:00",
+        "close_date": "2026-02-08 23:05:00+00:00",
+        "profit_usdt": -147.42514059,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 138
+      },
+      {
+        "pair": "BOME/USDT:USDT",
+        "open_date": "2026-02-08 20:55:00+00:00",
+        "close_date": "2026-02-08 23:05:00+00:00",
+        "profit_usdt": -60.318096,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 262
+      },
+      {
+        "pair": "JTO/USDT:USDT",
+        "open_date": "2026-02-08 21:35:00+00:00",
+        "close_date": "2026-02-09 05:55:00+00:00",
+        "profit_usdt": -69.1714075,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 188
+      },
+      {
+        "pair": "IOST/USDT:USDT",
+        "open_date": "2026-02-13 12:05:00+00:00",
+        "close_date": "2026-02-13 15:05:00+00:00",
+        "profit_usdt": -144.483315,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 252
+      },
+      {
+        "pair": "APT/USDT:USDT",
+        "open_date": "2026-02-12 19:55:00+00:00",
+        "close_date": "2026-02-13 15:30:00+00:00",
+        "profit_usdt": -71.836493,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 53
+      },
+      {
+        "pair": "LDO/USDT:USDT",
+        "open_date": "2026-02-23 08:00:00+00:00",
+        "close_date": "2026-02-23 09:50:00+00:00",
+        "profit_usdt": -52.48452295,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 266
+      },
+      {
+        "pair": "MEW/USDT:USDT",
+        "open_date": "2026-02-24 21:05:00+00:00",
+        "close_date": "2026-02-25 01:10:00+00:00",
+        "profit_usdt": -159.8819229,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 239
+      },
+      {
+        "pair": "JTO/USDT:USDT",
+        "open_date": "2026-02-24 18:40:00+00:00",
+        "close_date": "2026-02-25 08:40:00+00:00",
+        "profit_usdt": -159.329751,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 120
+      },
+      {
+        "pair": "SOL/USDT:USDT",
+        "open_date": "2026-02-25 01:35:00+00:00",
+        "close_date": "2026-02-25 12:45:00+00:00",
+        "profit_usdt": -157.9209,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 154
+      },
+      {
+        "pair": "LDO/USDT:USDT",
+        "open_date": "2026-03-01 01:50:00+00:00",
+        "close_date": "2026-03-01 02:05:00+00:00",
+        "profit_usdt": -156.42814165,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 285
+      },
+      {
+        "pair": "JTO/USDT:USDT",
+        "open_date": "2026-03-02 00:00:00+00:00",
+        "close_date": "2026-03-02 11:40:00+00:00",
+        "profit_usdt": -162.4045148,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 148
+      },
+      {
+        "pair": "BAT/USDT:USDT",
+        "open_date": "2026-03-01 17:20:00+00:00",
+        "close_date": "2026-03-02 15:00:00+00:00",
+        "profit_usdt": -162.31608525,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 28
+      },
+      {
+        "pair": "ADA/USDT:USDT",
+        "open_date": "2026-03-07 14:30:00+00:00",
+        "close_date": "2026-03-07 14:35:00+00:00",
+        "profit_usdt": -132.89012,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 287
+      },
+      {
+        "pair": "ADA/USDT:USDT",
+        "open_date": "2026-03-08 04:40:00+00:00",
+        "close_date": "2026-03-08 10:20:00+00:00",
+        "profit_usdt": -143.2621665,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 220
+      },
+      {
+        "pair": "ATOM/USDT:USDT",
+        "open_date": "2026-03-13 09:00:00+00:00",
+        "close_date": "2026-03-13 10:45:00+00:00",
+        "profit_usdt": -119.4086205,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 267
+      },
+      {
+        "pair": "OP/USDT:USDT",
+        "open_date": "2026-03-17 04:20:00+00:00",
+        "close_date": "2026-03-17 21:20:00+00:00",
+        "profit_usdt": -159.573102,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 84
+      },
+      {
+        "pair": "PEOPLE/USDT:USDT",
+        "open_date": "2026-03-27 10:55:00+00:00",
+        "close_date": "2026-03-27 15:35:00+00:00",
+        "profit_usdt": -46.9539125,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 232
+      },
+      {
+        "pair": "LDO/USDT:USDT",
+        "open_date": "2026-03-27 19:40:00+00:00",
+        "close_date": "2026-03-27 21:35:00+00:00",
+        "profit_usdt": -175.5028677,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 265
+      },
+      {
+        "pair": "ADA/USDT:USDT",
+        "open_date": "2026-03-27 18:25:00+00:00",
+        "close_date": "2026-03-28 13:40:00+00:00",
+        "profit_usdt": -175.189014,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 57
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-03-27 18:45:00+00:00",
+        "close_date": "2026-03-28 15:20:00+00:00",
+        "profit_usdt": -164.8354509,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 41
+      },
+      {
+        "pair": "W/USDT:USDT",
+        "open_date": "2026-03-29 12:05:00+00:00",
+        "close_date": "2026-03-30 00:15:00+00:00",
+        "profit_usdt": -148.64725309,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 142
+      },
+      {
+        "pair": "ORDI/USDT:USDT",
+        "open_date": "2026-03-31 04:20:00+00:00",
+        "close_date": "2026-03-31 16:55:00+00:00",
+        "profit_usdt": -180.6771003,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 137
+      },
+      {
+        "pair": "MINA/USDT:USDT",
+        "open_date": "2026-04-01 03:05:00+00:00",
+        "close_date": "2026-04-01 04:05:00+00:00",
+        "profit_usdt": -179.69225764,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 276
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-04-01 10:35:00+00:00",
+        "close_date": "2026-04-01 12:40:00+00:00",
+        "profit_usdt": -156.2858856,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 263
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-04-05 12:35:00+00:00",
+        "close_date": "2026-04-05 15:25:00+00:00",
+        "profit_usdt": -24.8360812,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 254
+      },
+      {
+        "pair": "W/USDT:USDT",
+        "open_date": "2026-04-05 13:25:00+00:00",
+        "close_date": "2026-04-05 17:35:00+00:00",
+        "profit_usdt": -174.73914837,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 238
+      },
+      {
+        "pair": "BCH/USDT:USDT",
+        "open_date": "2026-04-07 12:10:00+00:00",
+        "close_date": "2026-04-07 20:05:00+00:00",
+        "profit_usdt": -108.714053,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 193
+      },
+      {
+        "pair": "WIF/USDT:USDT",
+        "open_date": "2026-04-09 15:35:00+00:00",
+        "close_date": "2026-04-09 22:10:00+00:00",
+        "profit_usdt": -174.0206475,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 209
+      },
+      {
+        "pair": "BNB/USDT:USDT",
+        "open_date": "2026-04-15 13:45:00+00:00",
+        "close_date": "2026-04-15 19:05:00+00:00",
+        "profit_usdt": -101.728391,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 224
+      },
+      {
+        "pair": "ZRO/USDT:USDT",
+        "open_date": "2026-04-24 08:05:00+00:00",
+        "close_date": "2026-04-24 13:15:00+00:00",
+        "profit_usdt": -170.530697,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 226
+      },
+      {
+        "pair": "NEAR/USDT:USDT",
+        "open_date": "2026-04-28 09:55:00+00:00",
+        "close_date": "2026-04-29 04:30:00+00:00",
+        "profit_usdt": -129.1746825,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 65
+      },
+      {
+        "pair": "NEAR/USDT:USDT",
+        "open_date": "2026-05-02 11:50:00+00:00",
+        "close_date": "2026-05-02 18:30:00+00:00",
+        "profit_usdt": -111.972222,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 208
+      },
+      {
+        "pair": "IOST/USDT:USDT",
+        "open_date": "2026-05-03 08:35:00+00:00",
+        "close_date": "2026-05-03 13:30:00+00:00",
+        "profit_usdt": -99.828541,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 229
+      },
+      {
+        "pair": "SAND/USDT:USDT",
+        "open_date": "2026-05-03 21:30:00+00:00",
+        "close_date": "2026-05-04 01:55:00+00:00",
+        "profit_usdt": -108.38418725,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 235
+      },
+      {
+        "pair": "NEAR/USDT:USDT",
+        "open_date": "2026-05-05 23:20:00+00:00",
+        "close_date": "2026-05-06 04:05:00+00:00",
+        "profit_usdt": -168.708824,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 231
+      },
+      {
+        "pair": "JUP/USDT:USDT",
+        "open_date": "2026-05-10 19:20:00+00:00",
+        "close_date": "2026-05-10 20:05:00+00:00",
+        "profit_usdt": -173.0570805,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 279
+      },
+      {
+        "pair": "SAND/USDT:USDT",
+        "open_date": "2026-05-19 10:45:00+00:00",
+        "close_date": "2026-05-20 05:10:00+00:00",
+        "profit_usdt": -44.20808775,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 67
+      },
+      {
+        "pair": "LDO/USDT:USDT",
+        "open_date": "2026-05-22 09:35:00+00:00",
+        "close_date": "2026-05-22 12:40:00+00:00",
+        "profit_usdt": -167.21615625,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 251
+      },
+      {
+        "pair": "TIA/USDT:USDT",
+        "open_date": "2026-05-24 22:40:00+00:00",
+        "close_date": "2026-05-25 04:30:00+00:00",
+        "profit_usdt": -67.1524638,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 218
+      },
+      {
+        "pair": "BTC/USDT:USDT",
+        "open_date": "2026-05-28 15:20:00+00:00",
+        "close_date": "2026-05-28 17:45:00+00:00",
+        "profit_usdt": -123.74360093,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 259
+      },
+      {
+        "pair": "UNI/USDT:USDT",
+        "open_date": "2026-05-29 12:35:00+00:00",
+        "close_date": "2026-05-29 15:25:00+00:00",
+        "profit_usdt": -176.433075,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 254
+      },
+      {
+        "pair": "SUI/USDT:USDT",
+        "open_date": "2026-05-30 04:30:00+00:00",
+        "close_date": "2026-05-31 01:20:00+00:00",
+        "profit_usdt": -177.2089701,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 38
+      },
+      {
+        "pair": "UNI/USDT:USDT",
+        "open_date": "2026-06-01 13:55:00+00:00",
+        "close_date": "2026-06-01 17:25:00+00:00",
+        "profit_usdt": -176.973904,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 246
+      },
+      {
+        "pair": "STRK/USDT:USDT",
+        "open_date": "2026-06-02 23:00:00+00:00",
+        "close_date": "2026-06-03 05:00:00+00:00",
+        "profit_usdt": -126.18601271,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 216
+      },
+      {
+        "pair": "IOST/USDT:USDT",
+        "open_date": "2026-06-02 22:55:00+00:00",
+        "close_date": "2026-06-03 06:00:00+00:00",
+        "profit_usdt": -64.8513472,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 203
+      },
+      {
+        "pair": "TRX/USDT:USDT",
+        "open_date": "2026-06-12 10:15:00+00:00",
+        "close_date": "2026-06-12 21:05:00+00:00",
+        "profit_usdt": -142.419888,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 158
+      },
+      {
+        "pair": "AVAX/USDT:USDT",
+        "open_date": "2026-06-25 04:15:00+00:00",
+        "close_date": "2026-06-25 05:15:00+00:00",
+        "profit_usdt": -262.42816325,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 276
+      },
+      {
+        "pair": "BOME/USDT:USDT",
+        "open_date": "2026-06-26 02:55:00+00:00",
+        "close_date": "2026-06-26 07:10:00+00:00",
+        "profit_usdt": -268.24111875,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 237
+      },
+      {
+        "pair": "MINA/USDT:USDT",
+        "open_date": "2026-06-28 22:55:00+00:00",
+        "close_date": "2026-06-28 23:35:00+00:00",
+        "profit_usdt": -63.38914471,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 280
+      },
+      {
+        "pair": "TIA/USDT:USDT",
+        "open_date": "2026-06-28 21:15:00+00:00",
+        "close_date": "2026-06-29 03:05:00+00:00",
+        "profit_usdt": -268.69783565,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 218
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-06-28 21:50:00+00:00",
+        "close_date": "2026-06-29 04:05:00+00:00",
+        "profit_usdt": -88.9095249,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 213
+      },
+      {
+        "pair": "LDO/USDT:USDT",
+        "open_date": "2026-06-29 01:05:00+00:00",
+        "close_date": "2026-06-29 06:15:00+00:00",
+        "profit_usdt": -267.4384884,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 226
+      },
+      {
+        "pair": "CRV/USDT:USDT",
+        "open_date": "2026-07-06 15:55:00+00:00",
+        "close_date": "2026-07-06 17:45:00+00:00",
+        "profit_usdt": -271.0300905,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 266
+      },
+      {
+        "pair": "SAND/USDT:USDT",
+        "open_date": "2026-07-10 14:15:00+00:00",
+        "close_date": "2026-07-11 00:00:00+00:00",
+        "profit_usdt": -213.7033992,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 171
+      },
+      {
+        "pair": "RENDER/USDT:USDT",
+        "open_date": "2026-07-10 04:25:00+00:00",
+        "close_date": "2026-07-11 00:25:00+00:00",
+        "profit_usdt": -223.925247,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 48
+      },
+      {
+        "pair": "W/USDT:USDT",
+        "open_date": "2026-07-13 03:10:00+00:00",
+        "close_date": "2026-07-13 10:35:00+00:00",
+        "profit_usdt": -273.05587854,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 199
+      },
+      {
+        "pair": "DOGE/USDT:USDT",
+        "open_date": "2026-07-13 22:45:00+00:00",
+        "close_date": "2026-07-14 12:30:00+00:00",
+        "profit_usdt": -223.38994065,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 123
+      },
+      {
+        "pair": "SAND/USDT:USDT",
+        "open_date": "2026-07-13 22:15:00+00:00",
+        "close_date": "2026-07-14 12:45:00+00:00",
+        "profit_usdt": -247.74370715,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 114
+      },
+      {
+        "pair": "MEW/USDT:USDT",
+        "open_date": "2026-07-17 13:35:00+00:00",
+        "close_date": "2026-07-17 14:10:00+00:00",
+        "profit_usdt": -225.66291925,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 281
+      },
+      {
+        "pair": "ZRO/USDT:USDT",
+        "open_date": "2026-07-17 16:40:00+00:00",
+        "close_date": "2026-07-18 03:15:00+00:00",
+        "profit_usdt": -262.57839855,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 161
+      },
+      {
+        "pair": "WLD/USDT:USDT",
+        "open_date": "2026-07-18 16:20:00+00:00",
+        "close_date": "2026-07-19 02:05:00+00:00",
+        "profit_usdt": -264.7160766,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 171
+      },
+      {
+        "pair": "ZK/USDT:USDT",
+        "open_date": "2026-07-19 12:10:00+00:00",
+        "close_date": "2026-07-19 13:35:00+00:00",
+        "profit_usdt": -263.95754187,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 271
+      },
+      {
+        "pair": "SAND/USDT:USDT",
+        "open_date": "2026-07-19 18:10:00+00:00",
+        "close_date": "2026-07-20 00:10:00+00:00",
+        "profit_usdt": -156.682113,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 216
+      },
+      {
+        "pair": "BONK/USDT:USDT",
+        "open_date": "2026-07-20 09:20:00+00:00",
+        "close_date": "2026-07-20 12:05:00+00:00",
+        "profit_usdt": -259.86621005,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 255
+      },
+      {
+        "pair": "IOST/USDT:USDT",
+        "open_date": "2026-07-20 05:05:00+00:00",
+        "close_date": "2026-07-20 15:50:00+00:00",
+        "profit_usdt": -181.5758407,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 159
+      },
+      {
+        "pair": "ATOM/USDT:USDT",
+        "open_date": "2026-07-19 19:30:00+00:00",
+        "close_date": "2026-07-20 16:05:00+00:00",
+        "profit_usdt": -164.096513,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 41
+      },
+      {
+        "pair": "OP/USDT:USDT",
+        "open_date": "2026-07-20 11:25:00+00:00",
+        "close_date": "2026-07-20 21:55:00+00:00",
+        "profit_usdt": -261.921373,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 162
+      },
+      {
+        "pair": "NEAR/USDT:USDT",
+        "open_date": "2026-07-24 02:50:00+00:00",
+        "close_date": "2026-07-24 06:35:00+00:00",
+        "profit_usdt": -235.3003565,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 243
+      },
+      {
+        "pair": "AVAX/USDT:USDT",
+        "open_date": "2026-07-25 06:05:00+00:00",
+        "close_date": "2026-07-25 13:35:00+00:00",
+        "profit_usdt": -178.8843735,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 198
+      },
+      {
+        "pair": "ETHW/USDT:USDT",
+        "open_date": "2026-07-24 21:15:00+00:00",
+        "close_date": "2026-07-25 17:25:00+00:00",
+        "profit_usdt": -46.03854926,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 46
+      },
+      {
+        "pair": "SOL/USDT:USDT",
+        "open_date": "2026-07-29 02:05:00+00:00",
+        "close_date": "2026-07-29 18:00:00+00:00",
+        "profit_usdt": -56.3316552,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 97
+      },
+      {
+        "pair": "ARB/USDT:USDT",
+        "open_date": "2026-07-31 06:55:00+00:00",
+        "close_date": "2026-07-31 23:30:00+00:00",
+        "profit_usdt": -242.14170447,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 89
+      },
+      {
+        "pair": "BAT/USDT:USDT",
+        "open_date": "2026-08-04 19:35:00+00:00",
+        "close_date": "2026-08-05 04:00:00+00:00",
+        "profit_usdt": -215.1803478,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 187
+      },
+      {
+        "pair": "RENDER/USDT:USDT",
+        "open_date": "2026-08-07 14:50:00+00:00",
+        "close_date": "2026-08-08 09:00:00+00:00",
+        "profit_usdt": -225.192597,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 70
+      },
+      {
+        "pair": "BCH/USDT:USDT",
+        "open_date": "2026-08-08 07:05:00+00:00",
+        "close_date": "2026-08-08 14:55:00+00:00",
+        "profit_usdt": -154.78468,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 194
+      },
+      {
+        "pair": "ONDO/USDT:USDT",
+        "open_date": "2026-08-14 19:05:00+00:00",
+        "close_date": "2026-08-15 00:10:00+00:00",
+        "profit_usdt": -262.9977975,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 227
+      },
+      {
+        "pair": "SUI/USDT:USDT",
+        "open_date": "2026-08-19 15:20:00+00:00",
+        "close_date": "2026-08-19 15:25:00+00:00",
+        "profit_usdt": -228.7505874,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 287
+      },
+      {
+        "pair": "CRV/USDT:USDT",
+        "open_date": "2026-08-27 06:05:00+00:00",
+        "close_date": "2026-08-27 10:15:00+00:00",
+        "profit_usdt": -272.1237574,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 238
+      },
+      {
+        "pair": "ZK/USDT:USDT",
+        "open_date": "2026-08-30 09:50:00+00:00",
+        "close_date": "2026-08-30 09:55:00+00:00",
+        "profit_usdt": -274.82827924,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 287
+      },
+      {
+        "pair": "JTO/USDT:USDT",
+        "open_date": "2026-09-04 20:45:00+00:00",
+        "close_date": "2026-09-05 11:10:00+00:00",
+        "profit_usdt": -148.5093283,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 115
+      },
+      {
+        "pair": "ZK/USDT:USDT",
+        "open_date": "2026-09-06 00:10:00+00:00",
+        "close_date": "2026-09-06 08:55:00+00:00",
+        "profit_usdt": -280.80210708,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 183
+      },
+      {
+        "pair": "ALGO/USDT:USDT",
+        "open_date": "2026-09-07 15:15:00+00:00",
+        "close_date": "2026-09-08 00:45:00+00:00",
+        "profit_usdt": -280.31019245,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 174
+      },
+      {
+        "pair": "AVAX/USDT:USDT",
+        "open_date": "2026-09-13 22:05:00+00:00",
+        "close_date": "2026-09-14 12:00:00+00:00",
+        "profit_usdt": -191.805768,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 121
+      },
+      {
+        "pair": "ETHW/USDT:USDT",
+        "open_date": "2026-09-14 12:55:00+00:00",
+        "close_date": "2026-09-14 20:15:00+00:00",
+        "profit_usdt": -66.68197371,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 200
+      },
+      {
+        "pair": "OP/USDT:USDT",
+        "open_date": "2026-09-18 03:25:00+00:00",
+        "close_date": "2026-09-18 03:25:00+00:00",
+        "profit_usdt": -289.59183138,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 288
+      },
+      {
+        "pair": "BOME/USDT:USDT",
+        "open_date": "2026-09-24 05:15:00+00:00",
+        "close_date": "2026-09-24 06:05:00+00:00",
+        "profit_usdt": -284.10099325,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 278
+      },
+      {
+        "pair": "ICP/USDT:USDT",
+        "open_date": "2026-09-26 13:15:00+00:00",
+        "close_date": "2026-09-26 15:10:00+00:00",
+        "profit_usdt": -292.86865021,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 265
+      },
+      {
+        "pair": "WLD/USDT:USDT",
+        "open_date": "2026-10-02 06:40:00+00:00",
+        "close_date": "2026-10-02 12:35:00+00:00",
+        "profit_usdt": -306.19971,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 217
+      },
+      {
+        "pair": "ZRO/USDT:USDT",
+        "open_date": "2026-10-03 09:05:00+00:00",
+        "close_date": "2026-10-03 10:50:00+00:00",
+        "profit_usdt": -321.0652224,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 267
+      },
+      {
+        "pair": "WLD/USDT:USDT",
+        "open_date": "2026-10-03 10:15:00+00:00",
+        "close_date": "2026-10-03 14:35:00+00:00",
+        "profit_usdt": -320.3397737,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 236
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-10-10 00:25:00+00:00",
+        "close_date": "2026-10-10 09:35:00+00:00",
+        "profit_usdt": -343.4872462,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 178
+      },
+      {
+        "pair": "BCH/USDT:USDT",
+        "open_date": "2026-10-11 09:05:00+00:00",
+        "close_date": "2026-10-11 15:40:00+00:00",
+        "profit_usdt": -232.539192,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 209
+      },
+      {
+        "pair": "SUI/USDT:USDT",
+        "open_date": "2026-10-15 02:25:00+00:00",
+        "close_date": "2026-10-15 02:55:00+00:00",
+        "profit_usdt": -342.3969865,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 282
+      },
+      {
+        "pair": "ETHFI/USDT:USDT",
+        "open_date": "2026-10-15 11:05:00+00:00",
+        "close_date": "2026-10-15 14:40:00+00:00",
+        "profit_usdt": -344.3385505,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 245
+      },
+      {
+        "pair": "TIA/USDT:USDT",
+        "open_date": "2026-10-16 06:40:00+00:00",
+        "close_date": "2026-10-16 07:20:00+00:00",
+        "profit_usdt": -350.968937,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 280
+      },
+      {
+        "pair": "CRV/USDT:USDT",
+        "open_date": "2026-10-17 13:10:00+00:00",
+        "close_date": "2026-10-17 19:35:00+00:00",
+        "profit_usdt": -104.1805324,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 211
+      },
+      {
+        "pair": "LTC/USDT:USDT",
+        "open_date": "2026-10-17 13:15:00+00:00",
+        "close_date": "2026-10-18 13:05:00+00:00",
+        "profit_usdt": -60.710625,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 2
+      },
+      {
+        "pair": "PEOPLE/USDT:USDT",
+        "open_date": "2026-10-19 18:20:00+00:00",
+        "close_date": "2026-10-20 14:00:00+00:00",
+        "profit_usdt": -351.9327147,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 52
+      },
+      {
+        "pair": "ONDO/USDT:USDT",
+        "open_date": "2026-10-20 05:30:00+00:00",
+        "close_date": "2026-10-20 14:05:00+00:00",
+        "profit_usdt": -352.56474,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 185
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-10-19 18:15:00+00:00",
+        "close_date": "2026-10-20 14:25:00+00:00",
+        "profit_usdt": -352.3083937,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 46
+      },
+      {
+        "pair": "ZRO/USDT:USDT",
+        "open_date": "2026-10-22 21:00:00+00:00",
+        "close_date": "2026-10-23 12:30:00+00:00",
+        "profit_usdt": -342.2177434,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 102
+      },
+      {
+        "pair": "IOST/USDT:USDT",
+        "open_date": "2026-10-25 04:35:00+00:00",
+        "close_date": "2026-10-25 05:05:00+00:00",
+        "profit_usdt": -349.844226,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 282
+      },
+      {
+        "pair": "JTO/USDT:USDT",
+        "open_date": "2026-10-25 08:55:00+00:00",
+        "close_date": "2026-10-25 15:35:00+00:00",
+        "profit_usdt": -348.1913421,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 208
+      },
+      {
+        "pair": "AR/USDT:USDT",
+        "open_date": "2026-10-26 07:40:00+00:00",
+        "close_date": "2026-10-26 11:40:00+00:00",
+        "profit_usdt": -349.42772,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 240
+      },
+      {
+        "pair": "APT/USDT:USDT",
+        "open_date": "2026-10-28 17:30:00+00:00",
+        "close_date": "2026-10-28 18:35:00+00:00",
+        "profit_usdt": -348.2081262,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 104
+      }
+    ],
+    "warning": "Post-exit hypothetical original-price recovery only, excludes released-capital opportunity and intervening risk; does not prove holding is preferable"
+  },
+  "target": {
+    "stopped_shorts": 143,
+    "later_breakeven_count": 67,
+    "trades": [
+      {
+        "pair": "MINA/USDT:USDT",
+        "open_date": "2026-01-12 13:10:00+00:00",
+        "close_date": "2026-01-12 15:35:00+00:00",
+        "profit_usdt": -28.70157385,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 259
+      },
+      {
+        "pair": "BOME/USDT:USDT",
+        "open_date": "2026-01-12 21:55:00+00:00",
+        "close_date": "2026-01-13 05:20:00+00:00",
+        "profit_usdt": -100.3375107,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 199
+      },
+      {
+        "pair": "SHIB/USDT:USDT",
+        "open_date": "2026-01-20 16:30:00+00:00",
+        "close_date": "2026-01-21 02:10:00+00:00",
+        "profit_usdt": -119.8199088,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 172
+      },
+      {
+        "pair": "ONDO/USDT:USDT",
+        "open_date": "2026-01-20 17:45:00+00:00",
+        "close_date": "2026-01-21 06:10:00+00:00",
+        "profit_usdt": -121.3272045,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 139
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-01-20 16:35:00+00:00",
+        "close_date": "2026-01-21 14:30:00+00:00",
+        "profit_usdt": -119.30632005,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 25
+      },
+      {
+        "pair": "BONK/USDT:USDT",
+        "open_date": "2026-01-20 17:35:00+00:00",
+        "close_date": "2026-01-21 15:15:00+00:00",
+        "profit_usdt": -121.78412945,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 28
+      },
+      {
+        "pair": "SOL/USDT:USDT",
+        "open_date": "2026-01-23 07:00:00+00:00",
+        "close_date": "2026-01-23 17:25:00+00:00",
+        "profit_usdt": -26.4076065,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 163
+      },
+      {
+        "pair": "PYTH/USDT:USDT",
+        "open_date": "2026-01-25 08:40:00+00:00",
+        "close_date": "2026-01-25 09:45:00+00:00",
+        "profit_usdt": -120.482145,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 275
+      },
+      {
+        "pair": "XLM/USDT:USDT",
+        "open_date": "2026-01-25 20:15:00+00:00",
+        "close_date": "2026-01-26 00:55:00+00:00",
+        "profit_usdt": -114.3472597,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 232
+      },
+      {
+        "pair": "UNI/USDT:USDT",
+        "open_date": "2026-01-26 01:35:00+00:00",
+        "close_date": "2026-01-26 15:15:00+00:00",
+        "profit_usdt": -45.300992,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 124
+      },
+      {
+        "pair": "ARB/USDT:USDT",
+        "open_date": "2026-01-30 18:25:00+00:00",
+        "close_date": "2026-01-30 18:45:00+00:00",
+        "profit_usdt": -129.6464772,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 284
+      },
+      {
+        "pair": "AR/USDT:USDT",
+        "open_date": "2026-01-30 18:25:00+00:00",
+        "close_date": "2026-01-30 18:50:00+00:00",
+        "profit_usdt": -129.2231728,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 283
+      },
+      {
+        "pair": "CRV/USDT:USDT",
+        "open_date": "2026-01-30 18:25:00+00:00",
+        "close_date": "2026-01-30 18:55:00+00:00",
+        "profit_usdt": -129.8380452,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 282
+      },
+      {
+        "pair": "JUP/USDT:USDT",
+        "open_date": "2026-02-01 20:30:00+00:00",
+        "close_date": "2026-02-02 00:35:00+00:00",
+        "profit_usdt": -93.393729,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 239
+      },
+      {
+        "pair": "XRP/USDT:USDT",
+        "open_date": "2026-02-02 04:45:00+00:00",
+        "close_date": "2026-02-02 12:25:00+00:00",
+        "profit_usdt": -77.9613814,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 196
+      },
+      {
+        "pair": "DOGE/USDT:USDT",
+        "open_date": "2026-02-02 04:45:00+00:00",
+        "close_date": "2026-02-02 15:15:00+00:00",
+        "profit_usdt": -85.5723252,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 162
+      },
+      {
+        "pair": "CRV/USDT:USDT",
+        "open_date": "2026-02-02 04:45:00+00:00",
+        "close_date": "2026-02-02 15:40:00+00:00",
+        "profit_usdt": -90.94923175,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 157
+      },
+      {
+        "pair": "PYTH/USDT:USDT",
+        "open_date": "2026-02-03 18:00:00+00:00",
+        "close_date": "2026-02-03 19:30:00+00:00",
+        "profit_usdt": -144.106251,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 270
+      },
+      {
+        "pair": "BAT/USDT:USDT",
+        "open_date": "2026-02-03 17:40:00+00:00",
+        "close_date": "2026-02-03 20:30:00+00:00",
+        "profit_usdt": -142.413568,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 254
+      },
+      {
+        "pair": "ORDI/USDT:USDT",
+        "open_date": "2026-02-06 14:50:00+00:00",
+        "close_date": "2026-02-06 17:30:00+00:00",
+        "profit_usdt": -153.5083125,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 256
+      },
+      {
+        "pair": "BONK/USDT:USDT",
+        "open_date": "2026-02-06 14:55:00+00:00",
+        "close_date": "2026-02-06 17:30:00+00:00",
+        "profit_usdt": -154.0617105,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 257
+      },
+      {
+        "pair": "ETH/USDT:USDT",
+        "open_date": "2026-02-08 10:35:00+00:00",
+        "close_date": "2026-02-08 23:05:00+00:00",
+        "profit_usdt": -151.91145087,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 138
+      },
+      {
+        "pair": "BOME/USDT:USDT",
+        "open_date": "2026-02-08 20:55:00+00:00",
+        "close_date": "2026-02-08 23:05:00+00:00",
+        "profit_usdt": -61.501824,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 262
+      },
+      {
+        "pair": "JTO/USDT:USDT",
+        "open_date": "2026-02-08 21:35:00+00:00",
+        "close_date": "2026-02-09 05:55:00+00:00",
+        "profit_usdt": -70.5224477,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 188
+      },
+      {
+        "pair": "AAVE/USDT:USDT",
+        "open_date": "2026-02-12 19:25:00+00:00",
+        "close_date": "2026-02-13 15:05:00+00:00",
+        "profit_usdt": -164.0093994,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 52
+      },
+      {
+        "pair": "IOST/USDT:USDT",
+        "open_date": "2026-02-13 12:05:00+00:00",
+        "close_date": "2026-02-13 15:05:00+00:00",
+        "profit_usdt": -153.552765,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 252
+      },
+      {
+        "pair": "APT/USDT:USDT",
+        "open_date": "2026-02-12 19:55:00+00:00",
+        "close_date": "2026-02-13 15:30:00+00:00",
+        "profit_usdt": -76.9896096,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 53
+      },
+      {
+        "pair": "LDO/USDT:USDT",
+        "open_date": "2026-02-23 08:00:00+00:00",
+        "close_date": "2026-02-23 09:50:00+00:00",
+        "profit_usdt": -55.36608895,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 266
+      },
+      {
+        "pair": "MEW/USDT:USDT",
+        "open_date": "2026-02-24 21:05:00+00:00",
+        "close_date": "2026-02-25 01:10:00+00:00",
+        "profit_usdt": -169.9055568,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 239
+      },
+      {
+        "pair": "JTO/USDT:USDT",
+        "open_date": "2026-02-24 18:40:00+00:00",
+        "close_date": "2026-02-25 08:40:00+00:00",
+        "profit_usdt": -169.3212545,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 120
+      },
+      {
+        "pair": "SOL/USDT:USDT",
+        "open_date": "2026-02-25 01:35:00+00:00",
+        "close_date": "2026-02-25 12:45:00+00:00",
+        "profit_usdt": -167.8179975,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 154
+      },
+      {
+        "pair": "LDO/USDT:USDT",
+        "open_date": "2026-03-01 01:50:00+00:00",
+        "close_date": "2026-03-01 02:05:00+00:00",
+        "profit_usdt": -168.5828551,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 285
+      },
+      {
+        "pair": "JTO/USDT:USDT",
+        "open_date": "2026-03-02 00:00:00+00:00",
+        "close_date": "2026-03-02 11:40:00+00:00",
+        "profit_usdt": -178.11473465,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 148
+      },
+      {
+        "pair": "ADA/USDT:USDT",
+        "open_date": "2026-03-07 14:30:00+00:00",
+        "close_date": "2026-03-07 14:35:00+00:00",
+        "profit_usdt": -149.55206,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 287
+      },
+      {
+        "pair": "ADA/USDT:USDT",
+        "open_date": "2026-03-08 04:40:00+00:00",
+        "close_date": "2026-03-08 10:20:00+00:00",
+        "profit_usdt": -159.934731,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 220
+      },
+      {
+        "pair": "ATOM/USDT:USDT",
+        "open_date": "2026-03-13 09:00:00+00:00",
+        "close_date": "2026-03-13 10:45:00+00:00",
+        "profit_usdt": -133.18344,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 267
+      },
+      {
+        "pair": "OP/USDT:USDT",
+        "open_date": "2026-03-17 04:20:00+00:00",
+        "close_date": "2026-03-17 21:20:00+00:00",
+        "profit_usdt": -179.972754,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 84
+      },
+      {
+        "pair": "ZRO/USDT:USDT",
+        "open_date": "2026-03-23 19:15:00+00:00",
+        "close_date": "2026-03-24 14:55:00+00:00",
+        "profit_usdt": -193.02228,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 52
+      },
+      {
+        "pair": "PEOPLE/USDT:USDT",
+        "open_date": "2026-03-27 10:55:00+00:00",
+        "close_date": "2026-03-27 15:35:00+00:00",
+        "profit_usdt": -52.4634625,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 232
+      },
+      {
+        "pair": "LDO/USDT:USDT",
+        "open_date": "2026-03-27 19:40:00+00:00",
+        "close_date": "2026-03-27 21:35:00+00:00",
+        "profit_usdt": -198.8284657,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 265
+      },
+      {
+        "pair": "ADA/USDT:USDT",
+        "open_date": "2026-03-27 18:25:00+00:00",
+        "close_date": "2026-03-28 13:40:00+00:00",
+        "profit_usdt": -194.8148895,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 57
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-03-27 18:45:00+00:00",
+        "close_date": "2026-03-28 15:20:00+00:00",
+        "profit_usdt": -183.2798598,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 41
+      },
+      {
+        "pair": "RENDER/USDT:USDT",
+        "open_date": "2026-03-29 06:35:00+00:00",
+        "close_date": "2026-03-30 02:45:00+00:00",
+        "profit_usdt": -197.042769,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 46
+      },
+      {
+        "pair": "ORDI/USDT:USDT",
+        "open_date": "2026-03-31 04:20:00+00:00",
+        "close_date": "2026-03-31 16:55:00+00:00",
+        "profit_usdt": -208.8473383,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 137
+      },
+      {
+        "pair": "MINA/USDT:USDT",
+        "open_date": "2026-04-01 03:05:00+00:00",
+        "close_date": "2026-04-01 04:05:00+00:00",
+        "profit_usdt": -207.71138248,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 276
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-04-01 10:35:00+00:00",
+        "close_date": "2026-04-01 12:40:00+00:00",
+        "profit_usdt": -180.6527112,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 263
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-04-05 12:35:00+00:00",
+        "close_date": "2026-04-05 15:25:00+00:00",
+        "profit_usdt": -28.6856584,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 254
+      },
+      {
+        "pair": "W/USDT:USDT",
+        "open_date": "2026-04-05 13:25:00+00:00",
+        "close_date": "2026-04-05 17:35:00+00:00",
+        "profit_usdt": -201.8333097,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 238
+      },
+      {
+        "pair": "BCH/USDT:USDT",
+        "open_date": "2026-04-07 12:10:00+00:00",
+        "close_date": "2026-04-07 20:05:00+00:00",
+        "profit_usdt": -125.570599,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 193
+      },
+      {
+        "pair": "WIF/USDT:USDT",
+        "open_date": "2026-04-09 15:35:00+00:00",
+        "close_date": "2026-04-09 22:10:00+00:00",
+        "profit_usdt": -201.00415,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 209
+      },
+      {
+        "pair": "W/USDT:USDT",
+        "open_date": "2026-04-13 04:55:00+00:00",
+        "close_date": "2026-04-13 22:15:00+00:00",
+        "profit_usdt": -197.50206569,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 80
+      },
+      {
+        "pair": "BNB/USDT:USDT",
+        "open_date": "2026-04-15 13:45:00+00:00",
+        "close_date": "2026-04-15 19:05:00+00:00",
+        "profit_usdt": -116.023793,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 224
+      },
+      {
+        "pair": "ZRO/USDT:USDT",
+        "open_date": "2026-04-24 08:05:00+00:00",
+        "close_date": "2026-04-24 13:15:00+00:00",
+        "profit_usdt": -194.494025,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 226
+      },
+      {
+        "pair": "NEAR/USDT:USDT",
+        "open_date": "2026-04-28 09:55:00+00:00",
+        "close_date": "2026-04-29 04:30:00+00:00",
+        "profit_usdt": -147.3344645,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 65
+      },
+      {
+        "pair": "NEAR/USDT:USDT",
+        "open_date": "2026-05-02 11:50:00+00:00",
+        "close_date": "2026-05-02 18:30:00+00:00",
+        "profit_usdt": -128.0450235,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 208
+      },
+      {
+        "pair": "IOST/USDT:USDT",
+        "open_date": "2026-05-03 08:35:00+00:00",
+        "close_date": "2026-05-03 13:30:00+00:00",
+        "profit_usdt": -114.155227,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 229
+      },
+      {
+        "pair": "SAND/USDT:USDT",
+        "open_date": "2026-05-03 21:30:00+00:00",
+        "close_date": "2026-05-04 01:55:00+00:00",
+        "profit_usdt": -123.9372775,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 235
+      },
+      {
+        "pair": "NEAR/USDT:USDT",
+        "open_date": "2026-05-05 23:20:00+00:00",
+        "close_date": "2026-05-06 04:05:00+00:00",
+        "profit_usdt": -192.903712,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 231
+      },
+      {
+        "pair": "JUP/USDT:USDT",
+        "open_date": "2026-05-10 19:20:00+00:00",
+        "close_date": "2026-05-10 20:05:00+00:00",
+        "profit_usdt": -197.06887,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 279
+      },
+      {
+        "pair": "SAND/USDT:USDT",
+        "open_date": "2026-05-19 10:45:00+00:00",
+        "close_date": "2026-05-20 05:10:00+00:00",
+        "profit_usdt": -51.08584875,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 67
+      },
+      {
+        "pair": "LDO/USDT:USDT",
+        "open_date": "2026-05-22 09:35:00+00:00",
+        "close_date": "2026-05-22 12:40:00+00:00",
+        "profit_usdt": -193.2367052,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 251
+      },
+      {
+        "pair": "TIA/USDT:USDT",
+        "open_date": "2026-05-24 22:40:00+00:00",
+        "close_date": "2026-05-25 04:30:00+00:00",
+        "profit_usdt": -78.5211917,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 218
+      },
+      {
+        "pair": "UNI/USDT:USDT",
+        "open_date": "2026-05-29 12:35:00+00:00",
+        "close_date": "2026-05-29 15:25:00+00:00",
+        "profit_usdt": -205.814583,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 254
+      },
+      {
+        "pair": "FIL/USDT:USDT",
+        "open_date": "2026-05-29 15:30:00+00:00",
+        "close_date": "2026-05-30 03:30:00+00:00",
+        "profit_usdt": -205.73563296,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 144
+      },
+      {
+        "pair": "SUI/USDT:USDT",
+        "open_date": "2026-05-30 04:30:00+00:00",
+        "close_date": "2026-05-31 01:20:00+00:00",
+        "profit_usdt": -203.49504735,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 38
+      },
+      {
+        "pair": "UNI/USDT:USDT",
+        "open_date": "2026-06-01 13:55:00+00:00",
+        "close_date": "2026-06-01 17:25:00+00:00",
+        "profit_usdt": -200.200992,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 246
+      },
+      {
+        "pair": "MEW/USDT:USDT",
+        "open_date": "2026-06-01 01:30:00+00:00",
+        "close_date": "2026-06-01 20:35:00+00:00",
+        "profit_usdt": -201.8218686,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 59
+      },
+      {
+        "pair": "STRK/USDT:USDT",
+        "open_date": "2026-06-02 23:00:00+00:00",
+        "close_date": "2026-06-03 05:00:00+00:00",
+        "profit_usdt": -154.67927515,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 216
+      },
+      {
+        "pair": "MINA/USDT:USDT",
+        "open_date": "2026-06-02 22:55:00+00:00",
+        "close_date": "2026-06-03 05:10:00+00:00",
+        "profit_usdt": -101.27148996,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 213
+      },
+      {
+        "pair": "IOST/USDT:USDT",
+        "open_date": "2026-06-02 22:55:00+00:00",
+        "close_date": "2026-06-03 06:00:00+00:00",
+        "profit_usdt": -82.15748385,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 203
+      },
+      {
+        "pair": "JUP/USDT:USDT",
+        "open_date": "2026-06-02 16:55:00+00:00",
+        "close_date": "2026-06-03 13:20:00+00:00",
+        "profit_usdt": -140.4756,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 43
+      },
+      {
+        "pair": "XRP/USDT:USDT",
+        "open_date": "2026-06-04 11:15:00+00:00",
+        "close_date": "2026-06-04 13:35:00+00:00",
+        "profit_usdt": -246.2864832,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 260
+      },
+      {
+        "pair": "TRX/USDT:USDT",
+        "open_date": "2026-06-12 10:15:00+00:00",
+        "close_date": "2026-06-12 21:05:00+00:00",
+        "profit_usdt": -167.8911372,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 158
+      },
+      {
+        "pair": "ETC/USDT:USDT",
+        "open_date": "2026-06-24 15:35:00+00:00",
+        "close_date": "2026-06-24 22:00:00+00:00",
+        "profit_usdt": -78.3228905,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 211
+      },
+      {
+        "pair": "AVAX/USDT:USDT",
+        "open_date": "2026-06-25 04:15:00+00:00",
+        "close_date": "2026-06-25 05:15:00+00:00",
+        "profit_usdt": -313.74273225,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 276
+      },
+      {
+        "pair": "BOME/USDT:USDT",
+        "open_date": "2026-06-26 02:55:00+00:00",
+        "close_date": "2026-06-26 07:10:00+00:00",
+        "profit_usdt": -323.9074575,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 237
+      },
+      {
+        "pair": "MINA/USDT:USDT",
+        "open_date": "2026-06-28 22:55:00+00:00",
+        "close_date": "2026-06-28 23:35:00+00:00",
+        "profit_usdt": -77.06928216,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 280
+      },
+      {
+        "pair": "TIA/USDT:USDT",
+        "open_date": "2026-06-28 21:15:00+00:00",
+        "close_date": "2026-06-29 03:05:00+00:00",
+        "profit_usdt": -326.6787925,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 218
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-06-28 21:50:00+00:00",
+        "close_date": "2026-06-29 04:05:00+00:00",
+        "profit_usdt": -108.10508415,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 213
+      },
+      {
+        "pair": "LDO/USDT:USDT",
+        "open_date": "2026-06-29 01:05:00+00:00",
+        "close_date": "2026-06-29 06:15:00+00:00",
+        "profit_usdt": -325.1568699,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 226
+      },
+      {
+        "pair": "MEW/USDT:USDT",
+        "open_date": "2026-07-01 03:55:00+00:00",
+        "close_date": "2026-07-01 15:20:00+00:00",
+        "profit_usdt": -320.08305615,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 151
+      },
+      {
+        "pair": "CRV/USDT:USDT",
+        "open_date": "2026-07-06 15:55:00+00:00",
+        "close_date": "2026-07-06 17:45:00+00:00",
+        "profit_usdt": -318.6315015,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 266
+      },
+      {
+        "pair": "SAND/USDT:USDT",
+        "open_date": "2026-07-10 14:15:00+00:00",
+        "close_date": "2026-07-11 00:00:00+00:00",
+        "profit_usdt": -251.2405848,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 171
+      },
+      {
+        "pair": "RENDER/USDT:USDT",
+        "open_date": "2026-07-10 04:25:00+00:00",
+        "close_date": "2026-07-11 00:25:00+00:00",
+        "profit_usdt": -263.253445,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 48
+      },
+      {
+        "pair": "W/USDT:USDT",
+        "open_date": "2026-07-13 03:10:00+00:00",
+        "close_date": "2026-07-13 10:35:00+00:00",
+        "profit_usdt": -321.85480042,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 199
+      },
+      {
+        "pair": "DOGE/USDT:USDT",
+        "open_date": "2026-07-13 22:45:00+00:00",
+        "close_date": "2026-07-14 12:30:00+00:00",
+        "profit_usdt": -263.3109773,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 123
+      },
+      {
+        "pair": "SAND/USDT:USDT",
+        "open_date": "2026-07-13 22:15:00+00:00",
+        "close_date": "2026-07-14 12:45:00+00:00",
+        "profit_usdt": -292.0188619,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 114
+      },
+      {
+        "pair": "MEW/USDT:USDT",
+        "open_date": "2026-07-17 13:35:00+00:00",
+        "close_date": "2026-07-17 14:10:00+00:00",
+        "profit_usdt": -265.9914025,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 281
+      },
+      {
+        "pair": "ZRO/USDT:USDT",
+        "open_date": "2026-07-17 16:40:00+00:00",
+        "close_date": "2026-07-18 03:15:00+00:00",
+        "profit_usdt": -309.4977041,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 161
+      },
+      {
+        "pair": "WLD/USDT:USDT",
+        "open_date": "2026-07-18 16:20:00+00:00",
+        "close_date": "2026-07-19 02:05:00+00:00",
+        "profit_usdt": -305.1112644,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 171
+      },
+      {
+        "pair": "ZK/USDT:USDT",
+        "open_date": "2026-07-19 12:10:00+00:00",
+        "close_date": "2026-07-19 13:35:00+00:00",
+        "profit_usdt": -306.00688969,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 271
+      },
+      {
+        "pair": "SAND/USDT:USDT",
+        "open_date": "2026-07-19 18:10:00+00:00",
+        "close_date": "2026-07-20 00:10:00+00:00",
+        "profit_usdt": -181.6376649,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 216
+      },
+      {
+        "pair": "W/USDT:USDT",
+        "open_date": "2026-07-19 12:10:00+00:00",
+        "close_date": "2026-07-20 10:25:00+00:00",
+        "profit_usdt": -277.66000601,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 21
+      },
+      {
+        "pair": "BONK/USDT:USDT",
+        "open_date": "2026-07-20 09:20:00+00:00",
+        "close_date": "2026-07-20 12:05:00+00:00",
+        "profit_usdt": -300.4173949,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 255
+      },
+      {
+        "pair": "IOST/USDT:USDT",
+        "open_date": "2026-07-20 05:05:00+00:00",
+        "close_date": "2026-07-20 15:50:00+00:00",
+        "profit_usdt": -210.4997465,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 159
+      },
+      {
+        "pair": "ATOM/USDT:USDT",
+        "open_date": "2026-07-19 19:30:00+00:00",
+        "close_date": "2026-07-20 16:05:00+00:00",
+        "profit_usdt": -190.2506655,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 41
+      },
+      {
+        "pair": "OP/USDT:USDT",
+        "open_date": "2026-07-20 11:25:00+00:00",
+        "close_date": "2026-07-20 21:55:00+00:00",
+        "profit_usdt": -300.0439255,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 162
+      },
+      {
+        "pair": "NEAR/USDT:USDT",
+        "open_date": "2026-07-24 02:50:00+00:00",
+        "close_date": "2026-07-24 06:35:00+00:00",
+        "profit_usdt": -269.463051,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 243
+      },
+      {
+        "pair": "AVAX/USDT:USDT",
+        "open_date": "2026-07-25 06:05:00+00:00",
+        "close_date": "2026-07-25 13:35:00+00:00",
+        "profit_usdt": -201.1510635,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 198
+      },
+      {
+        "pair": "ETHW/USDT:USDT",
+        "open_date": "2026-07-24 21:15:00+00:00",
+        "close_date": "2026-07-25 17:25:00+00:00",
+        "profit_usdt": -51.76818527,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 46
+      },
+      {
+        "pair": "PEOPLE/USDT:USDT",
+        "open_date": "2026-07-26 08:25:00+00:00",
+        "close_date": "2026-07-27 01:00:00+00:00",
+        "profit_usdt": -288.9532503,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 89
+      },
+      {
+        "pair": "SOL/USDT:USDT",
+        "open_date": "2026-07-29 02:05:00+00:00",
+        "close_date": "2026-07-29 18:00:00+00:00",
+        "profit_usdt": -62.3768832,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 97
+      },
+      {
+        "pair": "PYTH/USDT:USDT",
+        "open_date": "2026-07-29 16:50:00+00:00",
+        "close_date": "2026-07-30 08:50:00+00:00",
+        "profit_usdt": -304.7029722,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 96
+      },
+      {
+        "pair": "ARB/USDT:USDT",
+        "open_date": "2026-07-31 06:55:00+00:00",
+        "close_date": "2026-07-31 23:30:00+00:00",
+        "profit_usdt": -274.9232073,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 89
+      },
+      {
+        "pair": "BAT/USDT:USDT",
+        "open_date": "2026-08-04 19:35:00+00:00",
+        "close_date": "2026-08-05 04:00:00+00:00",
+        "profit_usdt": -242.2344066,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 187
+      },
+      {
+        "pair": "RENDER/USDT:USDT",
+        "open_date": "2026-08-07 14:50:00+00:00",
+        "close_date": "2026-08-08 09:00:00+00:00",
+        "profit_usdt": -253.333677,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 70
+      },
+      {
+        "pair": "BCH/USDT:USDT",
+        "open_date": "2026-08-08 07:05:00+00:00",
+        "close_date": "2026-08-08 14:55:00+00:00",
+        "profit_usdt": -175.69173,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 194
+      },
+      {
+        "pair": "ONDO/USDT:USDT",
+        "open_date": "2026-08-14 19:05:00+00:00",
+        "close_date": "2026-08-15 00:10:00+00:00",
+        "profit_usdt": -301.378003,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 227
+      },
+      {
+        "pair": "TIA/USDT:USDT",
+        "open_date": "2026-08-18 02:50:00+00:00",
+        "close_date": "2026-08-18 14:20:00+00:00",
+        "profit_usdt": -284.8586482,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 150
+      },
+      {
+        "pair": "SUI/USDT:USDT",
+        "open_date": "2026-08-19 15:20:00+00:00",
+        "close_date": "2026-08-19 15:25:00+00:00",
+        "profit_usdt": -257.6187918,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 287
+      },
+      {
+        "pair": "JUP/USDT:USDT",
+        "open_date": "2026-08-23 01:00:00+00:00",
+        "close_date": "2026-08-23 18:55:00+00:00",
+        "profit_usdt": -310.860704,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 73
+      },
+      {
+        "pair": "BONK/USDT:USDT",
+        "open_date": "2026-08-24 11:40:00+00:00",
+        "close_date": "2026-08-25 02:30:00+00:00",
+        "profit_usdt": -296.9374,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 110
+      },
+      {
+        "pair": "WIF/USDT:USDT",
+        "open_date": "2026-08-26 12:30:00+00:00",
+        "close_date": "2026-08-26 23:45:00+00:00",
+        "profit_usdt": -293.2667422,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 153
+      },
+      {
+        "pair": "CRV/USDT:USDT",
+        "open_date": "2026-08-27 06:05:00+00:00",
+        "close_date": "2026-08-27 10:15:00+00:00",
+        "profit_usdt": -290.63192255,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 238
+      },
+      {
+        "pair": "ZK/USDT:USDT",
+        "open_date": "2026-08-30 09:50:00+00:00",
+        "close_date": "2026-08-30 09:55:00+00:00",
+        "profit_usdt": -291.2459726,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 287
+      },
+      {
+        "pair": "JTO/USDT:USDT",
+        "open_date": "2026-09-04 20:45:00+00:00",
+        "close_date": "2026-09-05 11:10:00+00:00",
+        "profit_usdt": -154.6986262,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 115
+      },
+      {
+        "pair": "ZK/USDT:USDT",
+        "open_date": "2026-09-06 00:10:00+00:00",
+        "close_date": "2026-09-06 08:55:00+00:00",
+        "profit_usdt": -292.49894214,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 183
+      },
+      {
+        "pair": "ALGO/USDT:USDT",
+        "open_date": "2026-09-07 15:15:00+00:00",
+        "close_date": "2026-09-08 00:45:00+00:00",
+        "profit_usdt": -290.30495825,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 174
+      },
+      {
+        "pair": "AVAX/USDT:USDT",
+        "open_date": "2026-09-13 22:05:00+00:00",
+        "close_date": "2026-09-14 12:00:00+00:00",
+        "profit_usdt": -204.1085805,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 121
+      },
+      {
+        "pair": "ETHW/USDT:USDT",
+        "open_date": "2026-09-14 12:55:00+00:00",
+        "close_date": "2026-09-14 20:15:00+00:00",
+        "profit_usdt": -70.96227732,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 200
+      },
+      {
+        "pair": "OP/USDT:USDT",
+        "open_date": "2026-09-18 03:25:00+00:00",
+        "close_date": "2026-09-18 03:25:00+00:00",
+        "profit_usdt": -308.179718,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 288
+      },
+      {
+        "pair": "WIF/USDT:USDT",
+        "open_date": "2026-09-21 00:25:00+00:00",
+        "close_date": "2026-09-21 09:35:00+00:00",
+        "profit_usdt": -303.3106321,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 178
+      },
+      {
+        "pair": "BOME/USDT:USDT",
+        "open_date": "2026-09-24 05:15:00+00:00",
+        "close_date": "2026-09-24 06:05:00+00:00",
+        "profit_usdt": -296.65293875,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 278
+      },
+      {
+        "pair": "JUP/USDT:USDT",
+        "open_date": "2026-09-24 05:15:00+00:00",
+        "close_date": "2026-09-24 16:15:00+00:00",
+        "profit_usdt": -294.9519455,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 156
+      },
+      {
+        "pair": "ICP/USDT:USDT",
+        "open_date": "2026-09-26 13:15:00+00:00",
+        "close_date": "2026-09-26 15:10:00+00:00",
+        "profit_usdt": -299.85446106,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 265
+      },
+      {
+        "pair": "JTO/USDT:USDT",
+        "open_date": "2026-10-01 17:30:00+00:00",
+        "close_date": "2026-10-02 06:55:00+00:00",
+        "profit_usdt": -321.51002175,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 127
+      },
+      {
+        "pair": "WLD/USDT:USDT",
+        "open_date": "2026-10-02 06:40:00+00:00",
+        "close_date": "2026-10-02 12:35:00+00:00",
+        "profit_usdt": -320.796327,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 217
+      },
+      {
+        "pair": "ZRO/USDT:USDT",
+        "open_date": "2026-10-03 09:05:00+00:00",
+        "close_date": "2026-10-03 10:50:00+00:00",
+        "profit_usdt": -336.338568,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 267
+      },
+      {
+        "pair": "WLD/USDT:USDT",
+        "open_date": "2026-10-03 10:15:00+00:00",
+        "close_date": "2026-10-03 14:35:00+00:00",
+        "profit_usdt": -335.6221464,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 236
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-10-10 00:25:00+00:00",
+        "close_date": "2026-10-10 09:35:00+00:00",
+        "profit_usdt": -360.8695258,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 178
+      },
+      {
+        "pair": "BCH/USDT:USDT",
+        "open_date": "2026-10-11 09:05:00+00:00",
+        "close_date": "2026-10-11 15:40:00+00:00",
+        "profit_usdt": -244.6221108,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 209
+      },
+      {
+        "pair": "SUI/USDT:USDT",
+        "open_date": "2026-10-15 02:25:00+00:00",
+        "close_date": "2026-10-15 02:55:00+00:00",
+        "profit_usdt": -359.5870567,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 282
+      },
+      {
+        "pair": "ETHFI/USDT:USDT",
+        "open_date": "2026-10-15 11:05:00+00:00",
+        "close_date": "2026-10-15 14:40:00+00:00",
+        "profit_usdt": -361.625908,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 245
+      },
+      {
+        "pair": "TIA/USDT:USDT",
+        "open_date": "2026-10-16 06:40:00+00:00",
+        "close_date": "2026-10-16 07:20:00+00:00",
+        "profit_usdt": -366.9381038,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 280
+      },
+      {
+        "pair": "CRV/USDT:USDT",
+        "open_date": "2026-10-17 13:10:00+00:00",
+        "close_date": "2026-10-17 19:35:00+00:00",
+        "profit_usdt": -108.6279404,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 211
+      },
+      {
+        "pair": "LTC/USDT:USDT",
+        "open_date": "2026-10-17 13:15:00+00:00",
+        "close_date": "2026-10-18 13:05:00+00:00",
+        "profit_usdt": -63.300945,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 2
+      },
+      {
+        "pair": "PEOPLE/USDT:USDT",
+        "open_date": "2026-10-19 18:20:00+00:00",
+        "close_date": "2026-10-20 14:00:00+00:00",
+        "profit_usdt": -366.9555315,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 52
+      },
+      {
+        "pair": "ONDO/USDT:USDT",
+        "open_date": "2026-10-20 05:30:00+00:00",
+        "close_date": "2026-10-20 14:05:00+00:00",
+        "profit_usdt": -367.613235,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 185
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-10-19 18:15:00+00:00",
+        "close_date": "2026-10-20 14:25:00+00:00",
+        "profit_usdt": -367.366795,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 46
+      },
+      {
+        "pair": "ZRO/USDT:USDT",
+        "open_date": "2026-10-22 21:00:00+00:00",
+        "close_date": "2026-10-23 12:30:00+00:00",
+        "profit_usdt": -356.8508142,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 102
+      },
+      {
+        "pair": "IOST/USDT:USDT",
+        "open_date": "2026-10-25 04:35:00+00:00",
+        "close_date": "2026-10-25 05:05:00+00:00",
+        "profit_usdt": -367.0220715,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 282
+      },
+      {
+        "pair": "AR/USDT:USDT",
+        "open_date": "2026-10-26 07:40:00+00:00",
+        "close_date": "2026-10-26 11:40:00+00:00",
+        "profit_usdt": -369.283265,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 240
+      },
+      {
+        "pair": "APT/USDT:USDT",
+        "open_date": "2026-10-28 17:30:00+00:00",
+        "close_date": "2026-10-28 18:35:00+00:00",
+        "profit_usdt": -367.991514,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 104
+      }
+    ],
+    "warning": "Post-exit hypothetical original-price recovery only, excludes released-capital opportunity and intervening risk; does not prove holding is preferable"
+  },
+  "gated": {
+    "stopped_shorts": 82,
+    "later_breakeven_count": 39,
+    "trades": [
+      {
+        "pair": "SHIB/USDT:USDT",
+        "open_date": "2026-01-20 16:30:00+00:00",
+        "close_date": "2026-01-21 02:10:00+00:00",
+        "profit_usdt": -101.7414344,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 172
+      },
+      {
+        "pair": "ONDO/USDT:USDT",
+        "open_date": "2026-01-20 17:45:00+00:00",
+        "close_date": "2026-01-21 06:10:00+00:00",
+        "profit_usdt": -101.091276,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 139
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-01-20 16:35:00+00:00",
+        "close_date": "2026-01-21 14:30:00+00:00",
+        "profit_usdt": -101.3034312,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 25
+      },
+      {
+        "pair": "BONK/USDT:USDT",
+        "open_date": "2026-01-20 17:35:00+00:00",
+        "close_date": "2026-01-21 15:15:00+00:00",
+        "profit_usdt": -101.45573205,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 28
+      },
+      {
+        "pair": "SOL/USDT:USDT",
+        "open_date": "2026-01-23 07:00:00+00:00",
+        "close_date": "2026-01-23 17:25:00+00:00",
+        "profit_usdt": -22.1289057,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 163
+      },
+      {
+        "pair": "PYTH/USDT:USDT",
+        "open_date": "2026-01-25 08:40:00+00:00",
+        "close_date": "2026-01-25 09:45:00+00:00",
+        "profit_usdt": -100.9567125,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 275
+      },
+      {
+        "pair": "XLM/USDT:USDT",
+        "open_date": "2026-01-25 20:15:00+00:00",
+        "close_date": "2026-01-26 00:55:00+00:00",
+        "profit_usdt": -95.8179437,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 232
+      },
+      {
+        "pair": "UNI/USDT:USDT",
+        "open_date": "2026-01-26 01:35:00+00:00",
+        "close_date": "2026-01-26 15:15:00+00:00",
+        "profit_usdt": -37.96532,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 124
+      },
+      {
+        "pair": "ARB/USDT:USDT",
+        "open_date": "2026-01-30 18:25:00+00:00",
+        "close_date": "2026-01-30 18:45:00+00:00",
+        "profit_usdt": -108.6296886,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 284
+      },
+      {
+        "pair": "AR/USDT:USDT",
+        "open_date": "2026-01-30 18:25:00+00:00",
+        "close_date": "2026-01-30 18:50:00+00:00",
+        "profit_usdt": -108.2738252,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 283
+      },
+      {
+        "pair": "CRV/USDT:USDT",
+        "open_date": "2026-01-30 18:25:00+00:00",
+        "close_date": "2026-01-30 18:55:00+00:00",
+        "profit_usdt": -108.7879484,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 282
+      },
+      {
+        "pair": "JUP/USDT:USDT",
+        "open_date": "2026-02-01 20:30:00+00:00",
+        "close_date": "2026-02-02 00:35:00+00:00",
+        "profit_usdt": -78.214032,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 239
+      },
+      {
+        "pair": "XRP/USDT:USDT",
+        "open_date": "2026-02-02 04:45:00+00:00",
+        "close_date": "2026-02-02 12:25:00+00:00",
+        "profit_usdt": -65.3225909,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 196
+      },
+      {
+        "pair": "DOGE/USDT:USDT",
+        "open_date": "2026-02-02 04:45:00+00:00",
+        "close_date": "2026-02-02 15:15:00+00:00",
+        "profit_usdt": -71.70999225,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 162
+      },
+      {
+        "pair": "CRV/USDT:USDT",
+        "open_date": "2026-02-02 04:45:00+00:00",
+        "close_date": "2026-02-02 15:40:00+00:00",
+        "profit_usdt": -76.2098865,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 157
+      },
+      {
+        "pair": "PYTH/USDT:USDT",
+        "open_date": "2026-02-03 18:00:00+00:00",
+        "close_date": "2026-02-03 19:30:00+00:00",
+        "profit_usdt": -120.73627545,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 270
+      },
+      {
+        "pair": "BAT/USDT:USDT",
+        "open_date": "2026-02-03 17:40:00+00:00",
+        "close_date": "2026-02-03 20:30:00+00:00",
+        "profit_usdt": -119.340496,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 254
+      },
+      {
+        "pair": "ORDI/USDT:USDT",
+        "open_date": "2026-02-06 14:50:00+00:00",
+        "close_date": "2026-02-06 17:30:00+00:00",
+        "profit_usdt": -128.62725,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 256
+      },
+      {
+        "pair": "BONK/USDT:USDT",
+        "open_date": "2026-02-06 14:55:00+00:00",
+        "close_date": "2026-02-06 17:30:00+00:00",
+        "profit_usdt": -129.08361525,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 257
+      },
+      {
+        "pair": "ETH/USDT:USDT",
+        "open_date": "2026-02-08 10:35:00+00:00",
+        "close_date": "2026-02-08 23:05:00+00:00",
+        "profit_usdt": -127.2990542,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 138
+      },
+      {
+        "pair": "BOME/USDT:USDT",
+        "open_date": "2026-02-08 20:55:00+00:00",
+        "close_date": "2026-02-08 23:05:00+00:00",
+        "profit_usdt": -51.524688,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 262
+      },
+      {
+        "pair": "JTO/USDT:USDT",
+        "open_date": "2026-02-08 21:35:00+00:00",
+        "close_date": "2026-02-09 05:55:00+00:00",
+        "profit_usdt": -59.0941282,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 188
+      },
+      {
+        "pair": "AAVE/USDT:USDT",
+        "open_date": "2026-02-12 19:25:00+00:00",
+        "close_date": "2026-02-13 15:05:00+00:00",
+        "profit_usdt": -137.4297848,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 52
+      },
+      {
+        "pair": "IOST/USDT:USDT",
+        "open_date": "2026-02-13 12:05:00+00:00",
+        "close_date": "2026-02-13 15:05:00+00:00",
+        "profit_usdt": -128.64666,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 252
+      },
+      {
+        "pair": "APT/USDT:USDT",
+        "open_date": "2026-02-12 19:55:00+00:00",
+        "close_date": "2026-02-13 15:30:00+00:00",
+        "profit_usdt": -64.499274,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 53
+      },
+      {
+        "pair": "LDO/USDT:USDT",
+        "open_date": "2026-02-23 08:00:00+00:00",
+        "close_date": "2026-02-23 09:50:00+00:00",
+        "profit_usdt": -46.38520825,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 266
+      },
+      {
+        "pair": "MEW/USDT:USDT",
+        "open_date": "2026-02-24 21:05:00+00:00",
+        "close_date": "2026-02-25 01:10:00+00:00",
+        "profit_usdt": -142.3582857,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 239
+      },
+      {
+        "pair": "JTO/USDT:USDT",
+        "open_date": "2026-02-24 18:40:00+00:00",
+        "close_date": "2026-02-25 08:40:00+00:00",
+        "profit_usdt": -141.8686636,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 120
+      },
+      {
+        "pair": "SOL/USDT:USDT",
+        "open_date": "2026-02-25 01:35:00+00:00",
+        "close_date": "2026-02-25 12:45:00+00:00",
+        "profit_usdt": -140.6145,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 154
+      },
+      {
+        "pair": "LDO/USDT:USDT",
+        "open_date": "2026-03-01 01:50:00+00:00",
+        "close_date": "2026-03-01 02:05:00+00:00",
+        "profit_usdt": -141.2529767,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 285
+      },
+      {
+        "pair": "JTO/USDT:USDT",
+        "open_date": "2026-03-02 00:00:00+00:00",
+        "close_date": "2026-03-02 11:40:00+00:00",
+        "profit_usdt": -149.24240455,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 148
+      },
+      {
+        "pair": "ADA/USDT:USDT",
+        "open_date": "2026-03-07 14:30:00+00:00",
+        "close_date": "2026-03-07 14:35:00+00:00",
+        "profit_usdt": -120.28218,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 287
+      },
+      {
+        "pair": "ADA/USDT:USDT",
+        "open_date": "2026-03-08 04:40:00+00:00",
+        "close_date": "2026-03-08 10:20:00+00:00",
+        "profit_usdt": -128.6355825,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 220
+      },
+      {
+        "pair": "ZRO/USDT:USDT",
+        "open_date": "2026-03-23 19:15:00+00:00",
+        "close_date": "2026-03-24 14:55:00+00:00",
+        "profit_usdt": -150.71067,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 52
+      },
+      {
+        "pair": "PEOPLE/USDT:USDT",
+        "open_date": "2026-03-27 10:55:00+00:00",
+        "close_date": "2026-03-27 15:35:00+00:00",
+        "profit_usdt": -40.5715625,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 232
+      },
+      {
+        "pair": "LDO/USDT:USDT",
+        "open_date": "2026-03-27 19:40:00+00:00",
+        "close_date": "2026-03-27 21:35:00+00:00",
+        "profit_usdt": -153.7352772,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 265
+      },
+      {
+        "pair": "ADA/USDT:USDT",
+        "open_date": "2026-03-27 18:25:00+00:00",
+        "close_date": "2026-03-28 13:40:00+00:00",
+        "profit_usdt": -150.6433005,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 57
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-03-27 18:45:00+00:00",
+        "close_date": "2026-03-28 15:20:00+00:00",
+        "profit_usdt": -141.7125654,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 41
+      },
+      {
+        "pair": "RENDER/USDT:USDT",
+        "open_date": "2026-03-29 06:35:00+00:00",
+        "close_date": "2026-03-30 02:45:00+00:00",
+        "profit_usdt": -152.360208,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 46
+      },
+      {
+        "pair": "ORDI/USDT:USDT",
+        "open_date": "2026-03-31 04:20:00+00:00",
+        "close_date": "2026-03-31 16:55:00+00:00",
+        "profit_usdt": -161.4873073,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 137
+      },
+      {
+        "pair": "MINA/USDT:USDT",
+        "open_date": "2026-04-01 03:05:00+00:00",
+        "close_date": "2026-04-01 04:05:00+00:00",
+        "profit_usdt": -160.6087938,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 276
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-04-01 10:35:00+00:00",
+        "close_date": "2026-04-01 12:40:00+00:00",
+        "profit_usdt": -139.686495,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 263
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-04-05 12:35:00+00:00",
+        "close_date": "2026-04-05 15:25:00+00:00",
+        "profit_usdt": -22.1804576,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 254
+      },
+      {
+        "pair": "W/USDT:USDT",
+        "open_date": "2026-04-05 13:25:00+00:00",
+        "close_date": "2026-04-05 17:35:00+00:00",
+        "profit_usdt": -156.06276702,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 238
+      },
+      {
+        "pair": "BCH/USDT:USDT",
+        "open_date": "2026-04-07 12:10:00+00:00",
+        "close_date": "2026-04-07 20:05:00+00:00",
+        "profit_usdt": -97.08517,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 193
+      },
+      {
+        "pair": "SAND/USDT:USDT",
+        "open_date": "2026-05-19 10:45:00+00:00",
+        "close_date": "2026-05-20 05:10:00+00:00",
+        "profit_usdt": -41.22393525,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 67
+      },
+      {
+        "pair": "LDO/USDT:USDT",
+        "open_date": "2026-05-22 09:35:00+00:00",
+        "close_date": "2026-05-22 12:40:00+00:00",
+        "profit_usdt": -155.9586501,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 251
+      },
+      {
+        "pair": "TIA/USDT:USDT",
+        "open_date": "2026-05-24 22:40:00+00:00",
+        "close_date": "2026-05-25 04:30:00+00:00",
+        "profit_usdt": -63.3670938,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 218
+      },
+      {
+        "pair": "UNI/USDT:USDT",
+        "open_date": "2026-05-29 12:35:00+00:00",
+        "close_date": "2026-05-29 15:25:00+00:00",
+        "profit_usdt": -166.1351445,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 254
+      },
+      {
+        "pair": "FIL/USDT:USDT",
+        "open_date": "2026-05-29 15:30:00+00:00",
+        "close_date": "2026-05-30 03:30:00+00:00",
+        "profit_usdt": -166.04768268,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 144
+      },
+      {
+        "pair": "SUI/USDT:USDT",
+        "open_date": "2026-05-30 04:30:00+00:00",
+        "close_date": "2026-05-31 01:20:00+00:00",
+        "profit_usdt": -164.22196755,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 38
+      },
+      {
+        "pair": "UNI/USDT:USDT",
+        "open_date": "2026-06-01 13:55:00+00:00",
+        "close_date": "2026-06-01 17:25:00+00:00",
+        "profit_usdt": -161.587432,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 246
+      },
+      {
+        "pair": "MEW/USDT:USDT",
+        "open_date": "2026-06-01 01:30:00+00:00",
+        "close_date": "2026-06-01 20:35:00+00:00",
+        "profit_usdt": -162.89221905,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 59
+      },
+      {
+        "pair": "STRK/USDT:USDT",
+        "open_date": "2026-06-02 23:00:00+00:00",
+        "close_date": "2026-06-03 05:00:00+00:00",
+        "profit_usdt": -124.84057867,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 216
+      },
+      {
+        "pair": "MINA/USDT:USDT",
+        "open_date": "2026-06-02 22:55:00+00:00",
+        "close_date": "2026-06-03 05:10:00+00:00",
+        "profit_usdt": -81.7364874,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 213
+      },
+      {
+        "pair": "IOST/USDT:USDT",
+        "open_date": "2026-06-02 22:55:00+00:00",
+        "close_date": "2026-06-03 06:00:00+00:00",
+        "profit_usdt": -66.31796895,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 203
+      },
+      {
+        "pair": "JUP/USDT:USDT",
+        "open_date": "2026-06-02 16:55:00+00:00",
+        "close_date": "2026-06-03 13:20:00+00:00",
+        "profit_usdt": -113.316984,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 43
+      },
+      {
+        "pair": "XRP/USDT:USDT",
+        "open_date": "2026-06-04 11:15:00+00:00",
+        "close_date": "2026-06-04 13:35:00+00:00",
+        "profit_usdt": -198.78088,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 260
+      },
+      {
+        "pair": "TRX/USDT:USDT",
+        "open_date": "2026-06-12 10:15:00+00:00",
+        "close_date": "2026-06-12 21:05:00+00:00",
+        "profit_usdt": -135.5043069,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 158
+      },
+      {
+        "pair": "ETC/USDT:USDT",
+        "open_date": "2026-06-24 15:35:00+00:00",
+        "close_date": "2026-06-24 22:00:00+00:00",
+        "profit_usdt": -63.2111145,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 211
+      },
+      {
+        "pair": "AVAX/USDT:USDT",
+        "open_date": "2026-06-25 04:15:00+00:00",
+        "close_date": "2026-06-25 05:15:00+00:00",
+        "profit_usdt": -253.21882775,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 276
+      },
+      {
+        "pair": "BOME/USDT:USDT",
+        "open_date": "2026-06-26 02:55:00+00:00",
+        "close_date": "2026-06-26 07:10:00+00:00",
+        "profit_usdt": -261.42233625,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 237
+      },
+      {
+        "pair": "MINA/USDT:USDT",
+        "open_date": "2026-06-28 22:55:00+00:00",
+        "close_date": "2026-06-28 23:35:00+00:00",
+        "profit_usdt": -62.20246129,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 280
+      },
+      {
+        "pair": "TIA/USDT:USDT",
+        "open_date": "2026-06-28 21:15:00+00:00",
+        "close_date": "2026-06-29 03:05:00+00:00",
+        "profit_usdt": -263.6617892,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 218
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-06-28 21:50:00+00:00",
+        "close_date": "2026-06-29 04:05:00+00:00",
+        "profit_usdt": -87.24710575,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 213
+      },
+      {
+        "pair": "LDO/USDT:USDT",
+        "open_date": "2026-06-29 01:05:00+00:00",
+        "close_date": "2026-06-29 06:15:00+00:00",
+        "profit_usdt": -262.4320521,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 226
+      },
+      {
+        "pair": "MEW/USDT:USDT",
+        "open_date": "2026-07-01 03:55:00+00:00",
+        "close_date": "2026-07-01 15:20:00+00:00",
+        "profit_usdt": -258.33301065,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 151
+      },
+      {
+        "pair": "CRV/USDT:USDT",
+        "open_date": "2026-07-06 15:55:00+00:00",
+        "close_date": "2026-07-06 17:45:00+00:00",
+        "profit_usdt": -257.161125,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 266
+      },
+      {
+        "pair": "DOGE/USDT:USDT",
+        "open_date": "2026-07-13 22:45:00+00:00",
+        "close_date": "2026-07-14 12:30:00+00:00",
+        "profit_usdt": -213.8973163,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 123
+      },
+      {
+        "pair": "SAND/USDT:USDT",
+        "open_date": "2026-07-13 22:15:00+00:00",
+        "close_date": "2026-07-14 12:45:00+00:00",
+        "profit_usdt": -237.21710695,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 114
+      },
+      {
+        "pair": "MEW/USDT:USDT",
+        "open_date": "2026-07-17 13:35:00+00:00",
+        "close_date": "2026-07-17 14:10:00+00:00",
+        "profit_usdt": -216.0792765,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 281
+      },
+      {
+        "pair": "ZRO/USDT:USDT",
+        "open_date": "2026-07-17 16:40:00+00:00",
+        "close_date": "2026-07-18 03:15:00+00:00",
+        "profit_usdt": -251.4229042,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 161
+      },
+      {
+        "pair": "AVAX/USDT:USDT",
+        "open_date": "2026-07-25 11:55:00+00:00",
+        "close_date": "2026-07-25 13:40:00+00:00",
+        "profit_usdt": -167.27794875,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 267
+      },
+      {
+        "pair": "SOL/USDT:USDT",
+        "open_date": "2026-07-29 02:05:00+00:00",
+        "close_date": "2026-07-29 18:00:00+00:00",
+        "profit_usdt": -52.8772392,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 97
+      },
+      {
+        "pair": "PYTH/USDT:USDT",
+        "open_date": "2026-07-29 16:50:00+00:00",
+        "close_date": "2026-07-30 08:50:00+00:00",
+        "profit_usdt": -258.32096895,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 96
+      },
+      {
+        "pair": "ONDO/USDT:USDT",
+        "open_date": "2026-08-14 19:05:00+00:00",
+        "close_date": "2026-08-15 00:10:00+00:00",
+        "profit_usdt": -255.707366,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 227
+      },
+      {
+        "pair": "ETHFI/USDT:USDT",
+        "open_date": "2026-10-15 11:05:00+00:00",
+        "close_date": "2026-10-15 14:40:00+00:00",
+        "profit_usdt": -315.9872842,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 245
+      },
+      {
+        "pair": "CRV/USDT:USDT",
+        "open_date": "2026-10-17 13:10:00+00:00",
+        "close_date": "2026-10-17 19:35:00+00:00",
+        "profit_usdt": -94.3168168,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 211
+      },
+      {
+        "pair": "LTC/USDT:USDT",
+        "open_date": "2026-10-17 13:15:00+00:00",
+        "close_date": "2026-10-18 13:05:00+00:00",
+        "profit_usdt": -54.9633525,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 2
+      },
+      {
+        "pair": "IOST/USDT:USDT",
+        "open_date": "2026-10-25 04:35:00+00:00",
+        "close_date": "2026-10-25 05:05:00+00:00",
+        "profit_usdt": -337.9806595,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 282
+      },
+      {
+        "pair": "AR/USDT:USDT",
+        "open_date": "2026-10-26 07:40:00+00:00",
+        "close_date": "2026-10-26 11:40:00+00:00",
+        "profit_usdt": -340.09272,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 240
+      },
+      {
+        "pair": "APT/USDT:USDT",
+        "open_date": "2026-10-28 17:30:00+00:00",
+        "close_date": "2026-10-28 18:35:00+00:00",
+        "profit_usdt": -338.9143758,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 104
+      }
+    ],
+    "warning": "Post-exit hypothetical original-price recovery only, excludes released-capital opportunity and intervening risk; does not prove holding is preferable"
+  },
+  "weak": {
+    "stopped_shorts": 50,
+    "later_breakeven_count": 27,
+    "trades": [
+      {
+        "pair": "BONK/USDT:USDT",
+        "open_date": "2026-01-20 22:25:00+00:00",
+        "close_date": "2026-01-21 05:45:00+00:00",
+        "profit_usdt": -101.6582196,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 200
+      },
+      {
+        "pair": "TIA/USDT:USDT",
+        "open_date": "2026-01-20 18:30:00+00:00",
+        "close_date": "2026-01-21 15:00:00+00:00",
+        "profit_usdt": -101.703424,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 42
+      },
+      {
+        "pair": "SOL/USDT:USDT",
+        "open_date": "2026-01-23 07:00:00+00:00",
+        "close_date": "2026-01-23 17:25:00+00:00",
+        "profit_usdt": -22.5746037,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 163
+      },
+      {
+        "pair": "XLM/USDT:USDT",
+        "open_date": "2026-01-25 20:15:00+00:00",
+        "close_date": "2026-01-26 00:55:00+00:00",
+        "profit_usdt": -96.7087762,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 232
+      },
+      {
+        "pair": "UNI/USDT:USDT",
+        "open_date": "2026-01-26 01:35:00+00:00",
+        "close_date": "2026-01-26 15:15:00+00:00",
+        "profit_usdt": -37.579232,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 124
+      },
+      {
+        "pair": "AR/USDT:USDT",
+        "open_date": "2026-01-30 18:25:00+00:00",
+        "close_date": "2026-01-30 18:50:00+00:00",
+        "profit_usdt": -107.4211228,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 283
+      },
+      {
+        "pair": "XRP/USDT:USDT",
+        "open_date": "2026-02-02 04:45:00+00:00",
+        "close_date": "2026-02-02 12:25:00+00:00",
+        "profit_usdt": -66.3869101,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 196
+      },
+      {
+        "pair": "JTO/USDT:USDT",
+        "open_date": "2026-02-02 04:50:00+00:00",
+        "close_date": "2026-02-02 15:25:00+00:00",
+        "profit_usdt": -88.4184252,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 161
+      },
+      {
+        "pair": "CRV/USDT:USDT",
+        "open_date": "2026-02-02 04:45:00+00:00",
+        "close_date": "2026-02-02 15:40:00+00:00",
+        "profit_usdt": -77.47325895,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 157
+      },
+      {
+        "pair": "ARB/USDT:USDT",
+        "open_date": "2026-02-02 07:40:00+00:00",
+        "close_date": "2026-02-02 15:40:00+00:00",
+        "profit_usdt": -84.53520757,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 192
+      },
+      {
+        "pair": "PYTH/USDT:USDT",
+        "open_date": "2026-02-03 18:00:00+00:00",
+        "close_date": "2026-02-03 19:30:00+00:00",
+        "profit_usdt": -122.3355453,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 270
+      },
+      {
+        "pair": "BAT/USDT:USDT",
+        "open_date": "2026-02-03 17:40:00+00:00",
+        "close_date": "2026-02-03 20:30:00+00:00",
+        "profit_usdt": -120.895984,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 254
+      },
+      {
+        "pair": "ORDI/USDT:USDT",
+        "open_date": "2026-02-06 14:50:00+00:00",
+        "close_date": "2026-02-06 17:30:00+00:00",
+        "profit_usdt": -124.922625,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 256
+      },
+      {
+        "pair": "BONK/USDT:USDT",
+        "open_date": "2026-02-06 14:55:00+00:00",
+        "close_date": "2026-02-06 17:30:00+00:00",
+        "profit_usdt": -125.360397,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 257
+      },
+      {
+        "pair": "BOME/USDT:USDT",
+        "open_date": "2026-02-08 20:55:00+00:00",
+        "close_date": "2026-02-08 23:05:00+00:00",
+        "profit_usdt": -50.054784,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 262
+      },
+      {
+        "pair": "JTO/USDT:USDT",
+        "open_date": "2026-02-08 21:35:00+00:00",
+        "close_date": "2026-02-09 05:55:00+00:00",
+        "profit_usdt": -57.4007011,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 188
+      },
+      {
+        "pair": "APT/USDT:USDT",
+        "open_date": "2026-02-12 19:55:00+00:00",
+        "close_date": "2026-02-13 15:30:00+00:00",
+        "profit_usdt": -61.769146,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 53
+      },
+      {
+        "pair": "LDO/USDT:USDT",
+        "open_date": "2026-02-23 08:00:00+00:00",
+        "close_date": "2026-02-23 09:50:00+00:00",
+        "profit_usdt": -44.52819905,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 266
+      },
+      {
+        "pair": "BOME/USDT:USDT",
+        "open_date": "2026-03-01 01:50:00+00:00",
+        "close_date": "2026-03-01 02:15:00+00:00",
+        "profit_usdt": -138.60514675,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 283
+      },
+      {
+        "pair": "JTO/USDT:USDT",
+        "open_date": "2026-03-02 00:00:00+00:00",
+        "close_date": "2026-03-02 11:40:00+00:00",
+        "profit_usdt": -142.1320546,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 148
+      },
+      {
+        "pair": "ADA/USDT:USDT",
+        "open_date": "2026-03-08 04:40:00+00:00",
+        "close_date": "2026-03-08 10:20:00+00:00",
+        "profit_usdt": -124.064775,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 220
+      },
+      {
+        "pair": "ZRO/USDT:USDT",
+        "open_date": "2026-03-23 19:15:00+00:00",
+        "close_date": "2026-03-24 14:55:00+00:00",
+        "profit_usdt": -143.04609,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 52
+      },
+      {
+        "pair": "PEOPLE/USDT:USDT",
+        "open_date": "2026-03-27 10:45:00+00:00",
+        "close_date": "2026-03-27 18:05:00+00:00",
+        "profit_usdt": -37.8932758,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 200
+      },
+      {
+        "pair": "W/USDT:USDT",
+        "open_date": "2026-03-29 12:05:00+00:00",
+        "close_date": "2026-03-30 00:15:00+00:00",
+        "profit_usdt": -121.83373687,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 142
+      },
+      {
+        "pair": "MINA/USDT:USDT",
+        "open_date": "2026-04-01 03:05:00+00:00",
+        "close_date": "2026-04-01 04:05:00+00:00",
+        "profit_usdt": -155.236297,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 276
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-04-01 10:35:00+00:00",
+        "close_date": "2026-04-01 12:40:00+00:00",
+        "profit_usdt": -135.0107538,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 263
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-04-05 12:35:00+00:00",
+        "close_date": "2026-04-05 15:25:00+00:00",
+        "profit_usdt": -21.3280732,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 254
+      },
+      {
+        "pair": "W/USDT:USDT",
+        "open_date": "2026-04-05 13:25:00+00:00",
+        "close_date": "2026-04-05 17:35:00+00:00",
+        "profit_usdt": -150.0653517,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 238
+      },
+      {
+        "pair": "LDO/USDT:USDT",
+        "open_date": "2026-05-22 09:35:00+00:00",
+        "close_date": "2026-05-22 12:40:00+00:00",
+        "profit_usdt": -151.27316765,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 251
+      },
+      {
+        "pair": "TIA/USDT:USDT",
+        "open_date": "2026-05-24 22:40:00+00:00",
+        "close_date": "2026-05-25 04:30:00+00:00",
+        "profit_usdt": -61.4617909,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 218
+      },
+      {
+        "pair": "UNI/USDT:USDT",
+        "open_date": "2026-05-29 12:35:00+00:00",
+        "close_date": "2026-05-29 15:25:00+00:00",
+        "profit_usdt": -157.853592,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 254
+      },
+      {
+        "pair": "SUI/USDT:USDT",
+        "open_date": "2026-05-30 04:30:00+00:00",
+        "close_date": "2026-05-31 01:20:00+00:00",
+        "profit_usdt": -157.64444685,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 38
+      },
+      {
+        "pair": "UNI/USDT:USDT",
+        "open_date": "2026-06-01 13:55:00+00:00",
+        "close_date": "2026-06-01 17:25:00+00:00",
+        "profit_usdt": -154.218432,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 246
+      },
+      {
+        "pair": "STRK/USDT:USDT",
+        "open_date": "2026-06-02 23:00:00+00:00",
+        "close_date": "2026-06-03 05:00:00+00:00",
+        "profit_usdt": -105.81464446,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 216
+      },
+      {
+        "pair": "MINA/USDT:USDT",
+        "open_date": "2026-06-02 22:55:00+00:00",
+        "close_date": "2026-06-03 05:10:00+00:00",
+        "profit_usdt": -69.27969612,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 213
+      },
+      {
+        "pair": "IOST/USDT:USDT",
+        "open_date": "2026-06-02 22:55:00+00:00",
+        "close_date": "2026-06-03 06:00:00+00:00",
+        "profit_usdt": -56.2116118,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 203
+      },
+      {
+        "pair": "XRP/USDT:USDT",
+        "open_date": "2026-06-04 11:15:00+00:00",
+        "close_date": "2026-06-04 13:35:00+00:00",
+        "profit_usdt": -171.4157152,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 260
+      },
+      {
+        "pair": "TRX/USDT:USDT",
+        "open_date": "2026-06-12 10:15:00+00:00",
+        "close_date": "2026-06-12 21:05:00+00:00",
+        "profit_usdt": -111.0601242,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 158
+      },
+      {
+        "pair": "ETC/USDT:USDT",
+        "open_date": "2026-06-24 15:35:00+00:00",
+        "close_date": "2026-06-24 22:00:00+00:00",
+        "profit_usdt": -51.807835,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 211
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-06-28 21:50:00+00:00",
+        "close_date": "2026-06-29 04:05:00+00:00",
+        "profit_usdt": -70.0608013,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 213
+      },
+      {
+        "pair": "MEW/USDT:USDT",
+        "open_date": "2026-07-01 03:55:00+00:00",
+        "close_date": "2026-07-01 15:20:00+00:00",
+        "profit_usdt": -212.11808475,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 151
+      },
+      {
+        "pair": "CRV/USDT:USDT",
+        "open_date": "2026-07-06 15:55:00+00:00",
+        "close_date": "2026-07-06 17:45:00+00:00",
+        "profit_usdt": -209.8316545,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 266
+      },
+      {
+        "pair": "ZRO/USDT:USDT",
+        "open_date": "2026-07-17 16:40:00+00:00",
+        "close_date": "2026-07-18 03:15:00+00:00",
+        "profit_usdt": -210.50562715,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 161
+      },
+      {
+        "pair": "SOL/USDT:USDT",
+        "open_date": "2026-07-29 02:05:00+00:00",
+        "close_date": "2026-07-29 18:00:00+00:00",
+        "profit_usdt": -44.5619664,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 97
+      },
+      {
+        "pair": "PYTH/USDT:USDT",
+        "open_date": "2026-07-29 16:50:00+00:00",
+        "close_date": "2026-07-30 08:50:00+00:00",
+        "profit_usdt": -213.52530375,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 96
+      },
+      {
+        "pair": "ONDO/USDT:USDT",
+        "open_date": "2026-08-14 19:05:00+00:00",
+        "close_date": "2026-08-15 00:10:00+00:00",
+        "profit_usdt": -210.8199985,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 227
+      },
+      {
+        "pair": "ETHFI/USDT:USDT",
+        "open_date": "2026-10-15 11:05:00+00:00",
+        "close_date": "2026-10-15 14:40:00+00:00",
+        "profit_usdt": -260.7957947,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 245
+      },
+      {
+        "pair": "CRV/USDT:USDT",
+        "open_date": "2026-10-17 13:10:00+00:00",
+        "close_date": "2026-10-17 19:35:00+00:00",
+        "profit_usdt": -77.8375818,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 211
+      },
+      {
+        "pair": "LTC/USDT:USDT",
+        "open_date": "2026-10-17 13:15:00+00:00",
+        "close_date": "2026-10-18 13:05:00+00:00",
+        "profit_usdt": -45.3306,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 2
+      },
+      {
+        "pair": "AR/USDT:USDT",
+        "open_date": "2026-10-26 07:40:00+00:00",
+        "close_date": "2026-10-26 11:40:00+00:00",
+        "profit_usdt": -277.109475,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 240
+      }
+    ],
+    "warning": "Post-exit hypothetical original-price recovery only, excludes released-capital opportunity and intervening risk; does not prove holding is preferable"
+  },
+  "gated_stop": {
+    "stopped_shorts": 70,
+    "later_breakeven_count": 33,
+    "trades": [
+      {
+        "pair": "SHIB/USDT:USDT",
+        "open_date": "2026-01-20 16:30:00+00:00",
+        "close_date": "2026-01-21 02:10:00+00:00",
+        "profit_usdt": -101.7414344,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 172
+      },
+      {
+        "pair": "ONDO/USDT:USDT",
+        "open_date": "2026-01-20 17:45:00+00:00",
+        "close_date": "2026-01-21 06:10:00+00:00",
+        "profit_usdt": -101.091276,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 139
+      },
+      {
+        "pair": "SOL/USDT:USDT",
+        "open_date": "2026-01-23 07:00:00+00:00",
+        "close_date": "2026-01-23 17:25:00+00:00",
+        "profit_usdt": -22.4631792,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 163
+      },
+      {
+        "pair": "PYTH/USDT:USDT",
+        "open_date": "2026-01-25 08:40:00+00:00",
+        "close_date": "2026-01-25 09:45:00+00:00",
+        "profit_usdt": -102.45501,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 275
+      },
+      {
+        "pair": "XLM/USDT:USDT",
+        "open_date": "2026-01-25 20:15:00+00:00",
+        "close_date": "2026-01-26 00:55:00+00:00",
+        "profit_usdt": -91.2925146,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 232
+      },
+      {
+        "pair": "UNI/USDT:USDT",
+        "open_date": "2026-01-26 01:35:00+00:00",
+        "close_date": "2026-01-26 15:15:00+00:00",
+        "profit_usdt": -36.935752,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 124
+      },
+      {
+        "pair": "ARB/USDT:USDT",
+        "open_date": "2026-01-30 18:25:00+00:00",
+        "close_date": "2026-01-30 18:45:00+00:00",
+        "profit_usdt": -106.733127,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 284
+      },
+      {
+        "pair": "AR/USDT:USDT",
+        "open_date": "2026-01-30 18:25:00+00:00",
+        "close_date": "2026-01-30 18:50:00+00:00",
+        "profit_usdt": -106.3843142,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 283
+      },
+      {
+        "pair": "CRV/USDT:USDT",
+        "open_date": "2026-01-30 18:25:00+00:00",
+        "close_date": "2026-01-30 18:55:00+00:00",
+        "profit_usdt": -106.888199,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 282
+      },
+      {
+        "pair": "JUP/USDT:USDT",
+        "open_date": "2026-02-01 20:30:00+00:00",
+        "close_date": "2026-02-02 00:35:00+00:00",
+        "profit_usdt": -75.298158,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 239
+      },
+      {
+        "pair": "ARB/USDT:USDT",
+        "open_date": "2026-02-02 07:40:00+00:00",
+        "close_date": "2026-02-02 15:40:00+00:00",
+        "profit_usdt": -80.58383512,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 192
+      },
+      {
+        "pair": "PYTH/USDT:USDT",
+        "open_date": "2026-02-03 18:00:00+00:00",
+        "close_date": "2026-02-03 19:30:00+00:00",
+        "profit_usdt": -120.35795355,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 270
+      },
+      {
+        "pair": "ORDI/USDT:USDT",
+        "open_date": "2026-02-06 14:50:00+00:00",
+        "close_date": "2026-02-06 17:30:00+00:00",
+        "profit_usdt": -122.75325,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 256
+      },
+      {
+        "pair": "BONK/USDT:USDT",
+        "open_date": "2026-02-06 14:55:00+00:00",
+        "close_date": "2026-02-06 17:30:00+00:00",
+        "profit_usdt": -123.191532,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 257
+      },
+      {
+        "pair": "ETH/USDT:USDT",
+        "open_date": "2026-02-08 10:35:00+00:00",
+        "close_date": "2026-02-08 23:05:00+00:00",
+        "profit_usdt": -122.50119459,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 138
+      },
+      {
+        "pair": "BOME/USDT:USDT",
+        "open_date": "2026-02-08 20:55:00+00:00",
+        "close_date": "2026-02-08 23:05:00+00:00",
+        "profit_usdt": -50.119824,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 262
+      },
+      {
+        "pair": "JTO/USDT:USDT",
+        "open_date": "2026-02-08 21:35:00+00:00",
+        "close_date": "2026-02-09 05:55:00+00:00",
+        "profit_usdt": -57.4747307,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 188
+      },
+      {
+        "pair": "IOST/USDT:USDT",
+        "open_date": "2026-02-13 12:05:00+00:00",
+        "close_date": "2026-02-13 15:05:00+00:00",
+        "profit_usdt": -120.065565,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 252
+      },
+      {
+        "pair": "APT/USDT:USDT",
+        "open_date": "2026-02-12 19:55:00+00:00",
+        "close_date": "2026-02-13 15:30:00+00:00",
+        "profit_usdt": -59.6874234,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 53
+      },
+      {
+        "pair": "LDO/USDT:USDT",
+        "open_date": "2026-02-23 08:00:00+00:00",
+        "close_date": "2026-02-23 09:50:00+00:00",
+        "profit_usdt": -43.61570315,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 266
+      },
+      {
+        "pair": "MEW/USDT:USDT",
+        "open_date": "2026-02-24 21:05:00+00:00",
+        "close_date": "2026-02-25 01:10:00+00:00",
+        "profit_usdt": -132.845049,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 239
+      },
+      {
+        "pair": "JTO/USDT:USDT",
+        "open_date": "2026-02-24 18:40:00+00:00",
+        "close_date": "2026-02-25 08:40:00+00:00",
+        "profit_usdt": -132.3900929,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 120
+      },
+      {
+        "pair": "SOL/USDT:USDT",
+        "open_date": "2026-02-25 01:35:00+00:00",
+        "close_date": "2026-02-25 12:45:00+00:00",
+        "profit_usdt": -131.2221725,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 154
+      },
+      {
+        "pair": "LDO/USDT:USDT",
+        "open_date": "2026-03-01 01:50:00+00:00",
+        "close_date": "2026-03-01 02:05:00+00:00",
+        "profit_usdt": -129.97315265,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 285
+      },
+      {
+        "pair": "JTO/USDT:USDT",
+        "open_date": "2026-03-02 00:00:00+00:00",
+        "close_date": "2026-03-02 11:40:00+00:00",
+        "profit_usdt": -134.94676025,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 148
+      },
+      {
+        "pair": "BAT/USDT:USDT",
+        "open_date": "2026-03-01 17:20:00+00:00",
+        "close_date": "2026-03-02 15:00:00+00:00",
+        "profit_usdt": -134.8667375,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 28
+      },
+      {
+        "pair": "ADA/USDT:USDT",
+        "open_date": "2026-03-07 14:30:00+00:00",
+        "close_date": "2026-03-07 14:35:00+00:00",
+        "profit_usdt": -107.39046,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 287
+      },
+      {
+        "pair": "ADA/USDT:USDT",
+        "open_date": "2026-03-08 04:40:00+00:00",
+        "close_date": "2026-03-08 10:20:00+00:00",
+        "profit_usdt": -115.7502585,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 220
+      },
+      {
+        "pair": "PEOPLE/USDT:USDT",
+        "open_date": "2026-03-27 10:55:00+00:00",
+        "close_date": "2026-03-27 15:35:00+00:00",
+        "profit_usdt": -36.630325,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 232
+      },
+      {
+        "pair": "LDO/USDT:USDT",
+        "open_date": "2026-03-27 19:40:00+00:00",
+        "close_date": "2026-03-27 21:35:00+00:00",
+        "profit_usdt": -136.9444078,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 265
+      },
+      {
+        "pair": "ADA/USDT:USDT",
+        "open_date": "2026-03-27 18:25:00+00:00",
+        "close_date": "2026-03-28 13:40:00+00:00",
+        "profit_usdt": -136.685934,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 57
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-03-27 18:45:00+00:00",
+        "close_date": "2026-03-28 15:20:00+00:00",
+        "profit_usdt": -128.62037685,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 41
+      },
+      {
+        "pair": "W/USDT:USDT",
+        "open_date": "2026-03-29 12:05:00+00:00",
+        "close_date": "2026-03-30 00:15:00+00:00",
+        "profit_usdt": -115.98825914,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 142
+      },
+      {
+        "pair": "ORDI/USDT:USDT",
+        "open_date": "2026-03-31 04:20:00+00:00",
+        "close_date": "2026-03-31 16:55:00+00:00",
+        "profit_usdt": -140.97880685,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 137
+      },
+      {
+        "pair": "MINA/USDT:USDT",
+        "open_date": "2026-04-01 03:05:00+00:00",
+        "close_date": "2026-04-01 04:05:00+00:00",
+        "profit_usdt": -140.21328632,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 276
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-04-01 10:35:00+00:00",
+        "close_date": "2026-04-01 12:40:00+00:00",
+        "profit_usdt": -121.9461828,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 263
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-04-05 12:35:00+00:00",
+        "close_date": "2026-04-05 15:25:00+00:00",
+        "profit_usdt": -19.3771284,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 254
+      },
+      {
+        "pair": "W/USDT:USDT",
+        "open_date": "2026-04-05 13:25:00+00:00",
+        "close_date": "2026-04-05 17:35:00+00:00",
+        "profit_usdt": -136.34732293,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 238
+      },
+      {
+        "pair": "BCH/USDT:USDT",
+        "open_date": "2026-04-07 12:10:00+00:00",
+        "close_date": "2026-04-07 20:05:00+00:00",
+        "profit_usdt": -84.816165,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 193
+      },
+      {
+        "pair": "SAND/USDT:USDT",
+        "open_date": "2026-05-19 10:45:00+00:00",
+        "close_date": "2026-05-20 05:10:00+00:00",
+        "profit_usdt": -36.02298375,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 67
+      },
+      {
+        "pair": "LDO/USDT:USDT",
+        "open_date": "2026-05-22 09:35:00+00:00",
+        "close_date": "2026-05-22 12:40:00+00:00",
+        "profit_usdt": -136.2562993,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 251
+      },
+      {
+        "pair": "TIA/USDT:USDT",
+        "open_date": "2026-05-24 22:40:00+00:00",
+        "close_date": "2026-05-25 04:30:00+00:00",
+        "profit_usdt": -54.7238323,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 218
+      },
+      {
+        "pair": "BTC/USDT:USDT",
+        "open_date": "2026-05-28 15:20:00+00:00",
+        "close_date": "2026-05-28 17:45:00+00:00",
+        "profit_usdt": -100.84333287,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 259
+      },
+      {
+        "pair": "UNI/USDT:USDT",
+        "open_date": "2026-05-29 12:35:00+00:00",
+        "close_date": "2026-05-29 15:25:00+00:00",
+        "profit_usdt": -143.8109595,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 254
+      },
+      {
+        "pair": "SUI/USDT:USDT",
+        "open_date": "2026-05-30 04:30:00+00:00",
+        "close_date": "2026-05-31 01:20:00+00:00",
+        "profit_usdt": -144.39338325,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 38
+      },
+      {
+        "pair": "UNI/USDT:USDT",
+        "open_date": "2026-06-01 13:55:00+00:00",
+        "close_date": "2026-06-01 17:25:00+00:00",
+        "profit_usdt": -144.196592,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 246
+      },
+      {
+        "pair": "STRK/USDT:USDT",
+        "open_date": "2026-06-02 23:00:00+00:00",
+        "close_date": "2026-06-03 05:00:00+00:00",
+        "profit_usdt": -102.82621093,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 216
+      },
+      {
+        "pair": "IOST/USDT:USDT",
+        "open_date": "2026-06-02 22:55:00+00:00",
+        "close_date": "2026-06-03 06:00:00+00:00",
+        "profit_usdt": -52.82504885,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 203
+      },
+      {
+        "pair": "TRX/USDT:USDT",
+        "open_date": "2026-06-12 10:15:00+00:00",
+        "close_date": "2026-06-12 21:05:00+00:00",
+        "profit_usdt": -116.02427895,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 158
+      },
+      {
+        "pair": "AVAX/USDT:USDT",
+        "open_date": "2026-06-25 04:15:00+00:00",
+        "close_date": "2026-06-25 05:15:00+00:00",
+        "profit_usdt": -213.84228625,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 276
+      },
+      {
+        "pair": "BOME/USDT:USDT",
+        "open_date": "2026-06-26 02:55:00+00:00",
+        "close_date": "2026-06-26 07:10:00+00:00",
+        "profit_usdt": -218.58325875,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 237
+      },
+      {
+        "pair": "MINA/USDT:USDT",
+        "open_date": "2026-06-28 22:55:00+00:00",
+        "close_date": "2026-06-28 23:35:00+00:00",
+        "profit_usdt": -51.65400688,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 280
+      },
+      {
+        "pair": "TIA/USDT:USDT",
+        "open_date": "2026-06-28 21:15:00+00:00",
+        "close_date": "2026-06-29 03:05:00+00:00",
+        "profit_usdt": -218.9532905,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 218
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-06-28 21:50:00+00:00",
+        "close_date": "2026-06-29 04:05:00+00:00",
+        "profit_usdt": -72.4527713,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 213
+      },
+      {
+        "pair": "LDO/USDT:USDT",
+        "open_date": "2026-06-29 01:05:00+00:00",
+        "close_date": "2026-06-29 06:15:00+00:00",
+        "profit_usdt": -217.9297908,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 226
+      },
+      {
+        "pair": "CRV/USDT:USDT",
+        "open_date": "2026-07-06 15:55:00+00:00",
+        "close_date": "2026-07-06 17:45:00+00:00",
+        "profit_usdt": -220.8511565,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 266
+      },
+      {
+        "pair": "DOGE/USDT:USDT",
+        "open_date": "2026-07-13 22:45:00+00:00",
+        "close_date": "2026-07-14 12:30:00+00:00",
+        "profit_usdt": -183.69351155,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 123
+      },
+      {
+        "pair": "SAND/USDT:USDT",
+        "open_date": "2026-07-13 22:15:00+00:00",
+        "close_date": "2026-07-14 12:45:00+00:00",
+        "profit_usdt": -203.7257169,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 114
+      },
+      {
+        "pair": "MEW/USDT:USDT",
+        "open_date": "2026-07-17 13:35:00+00:00",
+        "close_date": "2026-07-17 14:10:00+00:00",
+        "profit_usdt": -185.568326,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 281
+      },
+      {
+        "pair": "ZRO/USDT:USDT",
+        "open_date": "2026-07-17 16:40:00+00:00",
+        "close_date": "2026-07-18 03:15:00+00:00",
+        "profit_usdt": -215.92814945,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 161
+      },
+      {
+        "pair": "AVAX/USDT:USDT",
+        "open_date": "2026-07-25 11:55:00+00:00",
+        "close_date": "2026-07-25 13:40:00+00:00",
+        "profit_usdt": -144.5881428,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 267
+      },
+      {
+        "pair": "SOL/USDT:USDT",
+        "open_date": "2026-07-29 02:05:00+00:00",
+        "close_date": "2026-07-29 18:00:00+00:00",
+        "profit_usdt": -45.709326,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 97
+      },
+      {
+        "pair": "ONDO/USDT:USDT",
+        "open_date": "2026-08-14 19:05:00+00:00",
+        "close_date": "2026-08-15 00:10:00+00:00",
+        "profit_usdt": -214.5555915,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 227
+      },
+      {
+        "pair": "ETHFI/USDT:USDT",
+        "open_date": "2026-10-15 11:05:00+00:00",
+        "close_date": "2026-10-15 14:40:00+00:00",
+        "profit_usdt": -266.0204183,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 245
+      },
+      {
+        "pair": "CRV/USDT:USDT",
+        "open_date": "2026-10-17 13:10:00+00:00",
+        "close_date": "2026-10-17 19:35:00+00:00",
+        "profit_usdt": -80.2201218,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 211
+      },
+      {
+        "pair": "LTC/USDT:USDT",
+        "open_date": "2026-10-17 13:15:00+00:00",
+        "close_date": "2026-10-18 13:05:00+00:00",
+        "profit_usdt": -46.7067075,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 2
+      },
+      {
+        "pair": "IOST/USDT:USDT",
+        "open_date": "2026-10-25 04:35:00+00:00",
+        "close_date": "2026-10-25 05:05:00+00:00",
+        "profit_usdt": -280.384354,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 282
+      },
+      {
+        "pair": "JTO/USDT:USDT",
+        "open_date": "2026-10-25 08:55:00+00:00",
+        "close_date": "2026-10-25 15:35:00+00:00",
+        "profit_usdt": -279.064968,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 208
+      },
+      {
+        "pair": "AR/USDT:USDT",
+        "open_date": "2026-10-26 07:40:00+00:00",
+        "close_date": "2026-10-26 11:40:00+00:00",
+        "profit_usdt": -280.059335,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 240
+      },
+      {
+        "pair": "APT/USDT:USDT",
+        "open_date": "2026-10-28 17:30:00+00:00",
+        "close_date": "2026-10-28 18:35:00+00:00",
+        "profit_usdt": -279.0858576,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 104
+      }
+    ],
+    "warning": "Post-exit hypothetical original-price recovery only, excludes released-capital opportunity and intervening risk; does not prove holding is preferable"
+  },
+  "weak_stop": {
+    "stopped_shorts": 44,
+    "later_breakeven_count": 25,
+    "trades": [
+      {
+        "pair": "BONK/USDT:USDT",
+        "open_date": "2026-01-20 22:25:00+00:00",
+        "close_date": "2026-01-21 05:45:00+00:00",
+        "profit_usdt": -101.6582196,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 200
+      },
+      {
+        "pair": "TIA/USDT:USDT",
+        "open_date": "2026-01-20 18:30:00+00:00",
+        "close_date": "2026-01-21 15:00:00+00:00",
+        "profit_usdt": -101.703424,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 42
+      },
+      {
+        "pair": "SOL/USDT:USDT",
+        "open_date": "2026-01-23 07:00:00+00:00",
+        "close_date": "2026-01-23 17:25:00+00:00",
+        "profit_usdt": -22.4408943,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 163
+      },
+      {
+        "pair": "XLM/USDT:USDT",
+        "open_date": "2026-01-25 20:15:00+00:00",
+        "close_date": "2026-01-26 00:55:00+00:00",
+        "profit_usdt": -91.8982807,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 232
+      },
+      {
+        "pair": "UNI/USDT:USDT",
+        "open_date": "2026-01-26 01:35:00+00:00",
+        "close_date": "2026-01-26 15:15:00+00:00",
+        "profit_usdt": -36.807056,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 124
+      },
+      {
+        "pair": "AR/USDT:USDT",
+        "open_date": "2026-01-30 18:25:00+00:00",
+        "close_date": "2026-01-30 18:50:00+00:00",
+        "profit_usdt": -105.7447874,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 283
+      },
+      {
+        "pair": "ARB/USDT:USDT",
+        "open_date": "2026-02-02 07:40:00+00:00",
+        "close_date": "2026-02-02 15:40:00+00:00",
+        "profit_usdt": -81.48639681,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 192
+      },
+      {
+        "pair": "PYTH/USDT:USDT",
+        "open_date": "2026-02-03 18:00:00+00:00",
+        "close_date": "2026-02-03 19:30:00+00:00",
+        "profit_usdt": -121.69927665,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 270
+      },
+      {
+        "pair": "ORDI/USDT:USDT",
+        "open_date": "2026-02-06 14:50:00+00:00",
+        "close_date": "2026-02-06 17:30:00+00:00",
+        "profit_usdt": -123.9046875,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 256
+      },
+      {
+        "pair": "BONK/USDT:USDT",
+        "open_date": "2026-02-06 14:55:00+00:00",
+        "close_date": "2026-02-06 17:30:00+00:00",
+        "profit_usdt": -124.34826,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 257
+      },
+      {
+        "pair": "BOME/USDT:USDT",
+        "open_date": "2026-02-08 20:55:00+00:00",
+        "close_date": "2026-02-08 23:05:00+00:00",
+        "profit_usdt": -50.588112,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 262
+      },
+      {
+        "pair": "JTO/USDT:USDT",
+        "open_date": "2026-02-08 21:35:00+00:00",
+        "close_date": "2026-02-09 05:55:00+00:00",
+        "profit_usdt": -58.0114453,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 188
+      },
+      {
+        "pair": "APT/USDT:USDT",
+        "open_date": "2026-02-12 19:55:00+00:00",
+        "close_date": "2026-02-13 15:30:00+00:00",
+        "profit_usdt": -60.3699554,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 53
+      },
+      {
+        "pair": "LDO/USDT:USDT",
+        "open_date": "2026-02-23 08:00:00+00:00",
+        "close_date": "2026-02-23 09:50:00+00:00",
+        "profit_usdt": -43.56767705,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 266
+      },
+      {
+        "pair": "BOME/USDT:USDT",
+        "open_date": "2026-03-01 01:50:00+00:00",
+        "close_date": "2026-03-01 02:15:00+00:00",
+        "profit_usdt": -133.157388,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 283
+      },
+      {
+        "pair": "JTO/USDT:USDT",
+        "open_date": "2026-03-02 00:00:00+00:00",
+        "close_date": "2026-03-02 11:40:00+00:00",
+        "profit_usdt": -137.0920437,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 148
+      },
+      {
+        "pair": "BAT/USDT:USDT",
+        "open_date": "2026-03-01 17:20:00+00:00",
+        "close_date": "2026-03-02 15:00:00+00:00",
+        "profit_usdt": -136.99287195,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 28
+      },
+      {
+        "pair": "ADA/USDT:USDT",
+        "open_date": "2026-03-08 04:40:00+00:00",
+        "close_date": "2026-03-08 10:20:00+00:00",
+        "profit_usdt": -118.231554,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 220
+      },
+      {
+        "pair": "PEOPLE/USDT:USDT",
+        "open_date": "2026-03-27 10:45:00+00:00",
+        "close_date": "2026-03-27 18:05:00+00:00",
+        "profit_usdt": -36.637899,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 200
+      },
+      {
+        "pair": "W/USDT:USDT",
+        "open_date": "2026-03-29 12:05:00+00:00",
+        "close_date": "2026-03-30 00:15:00+00:00",
+        "profit_usdt": -119.80855126,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 142
+      },
+      {
+        "pair": "MINA/USDT:USDT",
+        "open_date": "2026-04-01 03:05:00+00:00",
+        "close_date": "2026-04-01 04:05:00+00:00",
+        "profit_usdt": -146.54706044,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 276
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-04-01 10:35:00+00:00",
+        "close_date": "2026-04-01 12:40:00+00:00",
+        "profit_usdt": -127.4521482,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 263
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-04-05 12:35:00+00:00",
+        "close_date": "2026-04-05 15:25:00+00:00",
+        "profit_usdt": -20.1341196,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 254
+      },
+      {
+        "pair": "W/USDT:USDT",
+        "open_date": "2026-04-05 13:25:00+00:00",
+        "close_date": "2026-04-05 17:35:00+00:00",
+        "profit_usdt": -141.6650609,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 238
+      },
+      {
+        "pair": "LDO/USDT:USDT",
+        "open_date": "2026-05-22 09:35:00+00:00",
+        "close_date": "2026-05-22 12:40:00+00:00",
+        "profit_usdt": -142.8008824,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 251
+      },
+      {
+        "pair": "TIA/USDT:USDT",
+        "open_date": "2026-05-24 22:40:00+00:00",
+        "close_date": "2026-05-25 04:30:00+00:00",
+        "profit_usdt": -57.3483555,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 218
+      },
+      {
+        "pair": "UNI/USDT:USDT",
+        "open_date": "2026-05-29 12:35:00+00:00",
+        "close_date": "2026-05-29 15:25:00+00:00",
+        "profit_usdt": -147.8437155,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 254
+      },
+      {
+        "pair": "SUI/USDT:USDT",
+        "open_date": "2026-05-30 04:30:00+00:00",
+        "close_date": "2026-05-31 01:20:00+00:00",
+        "profit_usdt": -147.6341325,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 38
+      },
+      {
+        "pair": "UNI/USDT:USDT",
+        "open_date": "2026-06-01 13:55:00+00:00",
+        "close_date": "2026-06-01 17:25:00+00:00",
+        "profit_usdt": -144.4324,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 246
+      },
+      {
+        "pair": "STRK/USDT:USDT",
+        "open_date": "2026-06-02 23:00:00+00:00",
+        "close_date": "2026-06-03 05:00:00+00:00",
+        "profit_usdt": -99.10755539,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 216
+      },
+      {
+        "pair": "MINA/USDT:USDT",
+        "open_date": "2026-06-02 22:55:00+00:00",
+        "close_date": "2026-06-03 05:10:00+00:00",
+        "profit_usdt": -64.88898198,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 213
+      },
+      {
+        "pair": "IOST/USDT:USDT",
+        "open_date": "2026-06-02 22:55:00+00:00",
+        "close_date": "2026-06-03 06:00:00+00:00",
+        "profit_usdt": -52.6383879,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 203
+      },
+      {
+        "pair": "XRP/USDT:USDT",
+        "open_date": "2026-06-04 11:15:00+00:00",
+        "close_date": "2026-06-04 13:35:00+00:00",
+        "profit_usdt": -159.024704,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 260
+      },
+      {
+        "pair": "TRX/USDT:USDT",
+        "open_date": "2026-06-12 10:15:00+00:00",
+        "close_date": "2026-06-12 21:05:00+00:00",
+        "profit_usdt": -99.1461528,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 158
+      },
+      {
+        "pair": "INJ/USDT:USDT",
+        "open_date": "2026-06-28 21:50:00+00:00",
+        "close_date": "2026-06-29 04:05:00+00:00",
+        "profit_usdt": -62.29885865,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 213
+      },
+      {
+        "pair": "CRV/USDT:USDT",
+        "open_date": "2026-07-06 15:55:00+00:00",
+        "close_date": "2026-07-06 17:45:00+00:00",
+        "profit_usdt": -191.848111,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 266
+      },
+      {
+        "pair": "ZRO/USDT:USDT",
+        "open_date": "2026-07-17 16:40:00+00:00",
+        "close_date": "2026-07-18 03:15:00+00:00",
+        "profit_usdt": -192.478845,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 161
+      },
+      {
+        "pair": "SOL/USDT:USDT",
+        "open_date": "2026-07-29 02:05:00+00:00",
+        "close_date": "2026-07-29 18:00:00+00:00",
+        "profit_usdt": -41.0088528,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 97
+      },
+      {
+        "pair": "ONDO/USDT:USDT",
+        "open_date": "2026-08-14 19:05:00+00:00",
+        "close_date": "2026-08-15 00:10:00+00:00",
+        "profit_usdt": -190.997255,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 227
+      },
+      {
+        "pair": "ETHFI/USDT:USDT",
+        "open_date": "2026-10-15 11:05:00+00:00",
+        "close_date": "2026-10-15 14:40:00+00:00",
+        "profit_usdt": -236.2349416,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 245
+      },
+      {
+        "pair": "CRV/USDT:USDT",
+        "open_date": "2026-10-17 13:10:00+00:00",
+        "close_date": "2026-10-17 19:35:00+00:00",
+        "profit_usdt": -70.5073004,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 211
+      },
+      {
+        "pair": "LTC/USDT:USDT",
+        "open_date": "2026-10-17 13:15:00+00:00",
+        "close_date": "2026-10-18 13:05:00+00:00",
+        "profit_usdt": -41.0403825,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 2
+      },
+      {
+        "pair": "JTO/USDT:USDT",
+        "open_date": "2026-10-25 08:55:00+00:00",
+        "close_date": "2026-10-25 15:35:00+00:00",
+        "profit_usdt": -246.7206777,
+        "later_closed_price_breakeven_before_24h": true,
+        "observed_future_bars": 208
+      },
+      {
+        "pair": "AR/USDT:USDT",
+        "open_date": "2026-10-26 07:40:00+00:00",
+        "close_date": "2026-10-26 11:40:00+00:00",
+        "profit_usdt": -247.60154,
+        "later_closed_price_breakeven_before_24h": false,
+        "observed_future_bars": 240
+      }
+    ],
+    "warning": "Post-exit hypothetical original-price recovery only, excludes released-capital opportunity and intervening risk; does not prove holding is preferable"
+  }
+}

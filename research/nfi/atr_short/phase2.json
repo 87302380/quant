@@ -1,0 +1,22 @@
+{
+  "reason": "stop native profit exits show lower sampled DD and higher PF than 2R; complete exit x filter control before gate/weak results inspected",
+  "variants": [
+    "gated_stop",
+    "weak_stop"
+  ],
+  "unchanged": [
+    "2x closed1h ATR14",
+    "1% risk cap",
+    "original initial stake ceiling",
+    "closed BTC4h EMA200 gate",
+    "closed24h relative weakness",
+    "3x",
+    "6 slots",
+    "no adds",
+    "24h deadline"
+  ],
+  "validation": [
+    "target gated weak July fresh wallets",
+    "gated weak full YTD fee10"
+  ]
+}

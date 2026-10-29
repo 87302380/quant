@@ -1,0 +1,29 @@
+{
+  "hypotheses": [
+    "control: original unweighted entries, no positive adds",
+    "native: extra nine shorts, unchanged native exits",
+    "stop: ATR stop plus fee-aware 1% risk cap; native profit exits",
+    "target: replace short native profit exits with close-triggered 2R target",
+    "gated: gate ALL shorts using closed BTC4h below declining EMA200",
+    "weak: gated plus closed coin24h return below BTC24h",
+    "base_risk: original four shorts with identical ATR/2R budget",
+    "budget: same ATR-derived stake cap as stop, but no actual ATR stop; separates sizing effect"
+  ],
+  "fixed": {
+    "leverage": 3,
+    "slots": 6,
+    "deadline_hours": 24,
+    "fee": 0.0005,
+    "funding": 0,
+    "universe": 57,
+    "short_stop": "max(2x closed1h ATR14,1% entry price)",
+    "allocation": "original NFI initial stake capped by 1% realized wallet risk; no weighting boost",
+    "no_adds": true
+  },
+  "limits": [
+    "not exact replication of unavailable user source",
+    "stop variant combines cap and stop, not pure isolated stop attribution",
+    "all history previously inspected; not independent OOS",
+    "native reference uses original unweighted sizes unlike old expanded_precision"
+  ]
+}
