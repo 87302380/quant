@@ -1,0 +1,12 @@
+{
+  "started_at": "2026-10-31T01:25:25.857140+00:00",
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "stages": [
+    "datasets_verified",
+    "tests_passed",
+    "bear_backtest_completed"
+  ],
+  "dataset_manifest_sha256": "4db36cdbabbedebebf768ef5241d2b03b1898a75ec263b84c03f262b701483df",
+  "status": "success",
+  "finished_at": "2026-10-31T01:25:52.555127+00:00"
+}

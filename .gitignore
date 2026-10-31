@@ -28,6 +28,7 @@ results/synthetic/
 tests/*.csv
 upload_payload.json
 .cloud-check/
+/work/
 .upload-state/
 datasets/nfi/*.json.gz
 datasets/nfi/*.manifest.json

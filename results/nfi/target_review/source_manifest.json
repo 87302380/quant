@@ -1,0 +1,35 @@
+{
+  "base_git_commit": "0528f47459d23fc57969653c49979b391c76e53c",
+  "sources": {
+    "RESEARCH_SCOPE.md": "1203bc5b7a0cfcb9b8270b5f68f2c73a1055f0403462c752fcba170b26bcd3b7",
+    "nfi_target_engine.py": "07d258d0d9c6c9d4be9497f8552350787cefb2b106182618bc0ca96482c8e015",
+    "nfi_target_freeze.py": "d120ab50ed46f10d53da7a1b7b29e83fdd24d2f3d44d66b84115c6b6f19b2653",
+    "nfi_target_memory.py": "2afd29d001824093e43a3833d9e6d2e6ae684339abf68364ec3e73c711a54baf",
+    "nfi_target_package.py": "b0076a29d81218e80d4ce9147f250d5363adcb07611c837b4217cc99887550b1",
+    "nfi_target_report.py": "22b0185c2276745e5207c07a7a92d0d0eed9fc0cf716da735b87b713ae67c01d",
+    "nfi_target_review.py": "da07c7422660c12ec893073b6bc96cda0264fc0b0ae03ed6b86bac7d2cfba3e1",
+    "research/nfi/ablation/FORWARD.md": "b952dd3e47b5db81ea3148e86539c389f69300cb78c6d2c9185f074537329af1",
+    "research/nfi/ablation/NFIAblation.py": "c619df2b5c46848ca832be884862b1d2096c865428e8817c2479914253d0f47c",
+    "research/nfi/ablation/NFIShortTargetOnly.py": "401a86179cb438565e8969797e15d0662417f67e26f28643910d33cc3105c5e4",
+    "research/nfi/ablation/NFITargetReview.py": "05e853d1e0738f383986940d4bf769f03aeec76f76fa1c975de4f60a09c285d0",
+    "research/nfi/ablation/requirements-plot.txt": "6a4857ba5fd690881447625add110c8a0431ea9ad01dfc6e0ba8f42c76e43e5f",
+    "research/nfi/ablation/test_ablation.py": "d908462be63f3cbc3d6e18f15fc4a0512b67917b08a930fa1fab3315c9b93dad"
+  },
+  "artifacts": {
+    "canonical/backtest-result-2026-10-31_01-57-10.zip": "91f60e1ca457b2b650835c352a3321c094a3465e55352f3e4f271d87627a139a",
+    "canonical/nfi_target_memory.executed.py": "4e1b7765494e19cae18bcf83c350afaf2d2eaca61cd7048171898f4f10b2acbf",
+    "canonical_fee12/backtest-result-2026-10-31_02-22-19.zip": "4c4a18fb748256372d596d8738368ddc78ccfbc22c71a8d1c3f47ef5693442b7",
+    "canonical_fee8/backtest-result-2026-10-31_02-16-35.zip": "cd304ef76338f2e27f42049a0d7ba1ce5cfaa6bf4f8252110e9d3623261dfe77",
+    "canonical_r10/backtest-result-2026-10-31_02-12-37.zip": "663f47a96f3501566774d5e90dd4ff8bf62696f086929b7abcbbb499dc3b428c",
+    "canonical_r15/backtest-result-2026-10-31_02-02-21.zip": "7f414d06976b8806e4c6f8f0170effaee74386ac8a64f89d8a0d5cf1359eda7f",
+    "canonical_r15/nfi_target_memory.executed.py": "fef1babac1d117c9729133903677c6f3e41d0aa62eb6504a4598bb7867c174f8",
+    "canonical_r15_fee12/backtest-result-2026-10-31_02-24-05.zip": "46882484818c93ba297f45a8c4aa4652848c06747e7c11a1f66060b528f93b31",
+    "canonical_r15_fee8/backtest-result-2026-10-31_02-18-20.zip": "99fe523fee128418e17f7e9ed2f3ad3ba4f73a0f4f11ed161c03e992a222fd10",
+    "cp/backtest-result-2026-10-31_02-06-54.zip": "2b7ba0a248df879634e937f3e78efcce061de381e7fb27673fe5b863fcd26f88",
+    "cp/nfi_target_memory.executed.py": "fef1babac1d117c9729133903677c6f3e41d0aa62eb6504a4598bb7867c174f8",
+    "equity_drawdown.png": "d4abac7e47786831c03021db9638c51568984570218381d9f0f4ec6fc50daf14",
+    "execution_evidence.zip": "28ded85cc8b5c35f3e66f2ee5507c9b85ec4c53212aa5171fad793d068931a75",
+    "r15/backtest-result-2026-10-31_02-08-39.zip": "86b97fdc61692f30e916a4fbff7d6d79225baaed87f8d920141dd9b28708a2dd"
+  },
+  "notes": "Existing financial sources remain frozen; exact reference replay. All history examined; funding excluded."
+}

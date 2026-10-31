@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "valid_engine_replays": 9,
+  "canonical_exact_vs_archive": true,
+  "cp_equal_to_canonical": true,
+  "cp_r15_equal_to_primary_r15": true,
+  "financial_sources_config_dataset_verified": true,
+  "all_trade_deadlines_and_single_entries_checked": true,
+  "all_target_exit_prices_checked": true,
+  "funding_excluded": true,
+  "independent_oos": false
+}

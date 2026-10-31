@@ -1,0 +1,2 @@
+# Optional plotting only; keep the research engine's numerical versions pinned.
+matplotlib==3.10.8

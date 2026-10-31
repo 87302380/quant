@@ -138,3 +138,9 @@ python nfi_verify.py
 ## 新增多头机会（2026-10-30）
 
 新增[opportunities研究边界](opportunities/FORWARD.md)及[结果报告](../../results/nfi/opportunities/REPORT.md)。以climax候选为成对对照，检验默认关闭的原生信号与独立突破回踩；新增仓最多2笔、普通额度1/4、含费计划风险0.5%、固定ATR/2R、首次入场24h。保留全部失败，追加明确事后选择的166/169压缩突破，并核对固定预算、成本、7月重启与币池逆序。研究候选不自动替换核心。
+
+## 空头止盈倍数复核（2026-10-31）
+
+入口`python nfi_target_review.py`，边界见[ablation/FORWARD.md](ablation/FORWARD.md)，结果见[独立复核报告](../../results/nfi/target_review/REPORT.md)。直接继承冻结compression，仅改变空头reward_multiple，完成2R/1.5R/1R及5/8/12bps成对回放；辅助重建CP的两组结果逐笔一致。1.5R改善历史收益及平均回撤，最大含浮亏回撤基本不变，收益优势集中6月。没有替换核心或启用实盘。
+
+新环境按继承的代理与CA运行，仅请求57币真实杠杆规格；8GiB下保持float64，生成信号后保留回调所需列，并经原版381笔逐笔复现核对。先恢复并校验数据，再运行`PYTHONPATH=. .venv/bin/python research/nfi/ablation/test_ablation.py`。复核结果运行`.venv/bin/python nfi_target_report.py`，可直接读取随仓库保存的`execution_evidence.zip`日志；大型权益CSV可从原始回测ZIP重建。成功目录拒绝覆盖，重跑前将本轮结果完整移至另一归档位置。

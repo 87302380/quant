@@ -1,5 +1,5 @@
 {
-  "started_at": "2026-10-29T03:56:02.181359+00:00",
+  "started_at": "2026-10-31T01:26:51.427156+00:00",
   "status": "success",
   "funding": "Not downloaded by user request",
   "upstream_source": {
@@ -16,6 +16,6 @@
   "end_exclusive": "2026-10-29T03:15:00+00:00",
   "universe_sha256": "0a246c48bfacceff127e0f0760e26ecd829b2d2d6f333a5338c0559ece69d7af",
   "data_manifest_sha256": "5cf41fbcc5cd373b2d06fca7d77e8bd9023bb59dfeb639d43b000668f2aede5b",
-  "elapsed_seconds": 244.89,
-  "finished_at": "2026-10-29T04:00:07.074159+00:00"
+  "elapsed_seconds": 234.27,
+  "finished_at": "2026-10-31T01:30:45.698085+00:00"
 }
